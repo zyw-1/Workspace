@@ -1,0 +1,2913 @@
+junction_lights {
+  junction_light_id: 5
+  junction_has_light: true
+  junction_position {
+    point_x: 499576.9423228178
+    point_y: 4391046.06328354
+  }
+  junction_position {
+    point_x: 499550.70719452796
+    point_y: 4391004.036591754
+  }
+  junction_position {
+    point_x: 499500.92711840617
+    point_y: 4391035.111763956
+  }
+  junction_position {
+    point_x: 499527.16224669595
+    point_y: 4391077.138455742
+  }
+  light_is_virtual: false
+  related_lane_id: 1031
+  related_lane_id: 1101
+  related_lane_id: 53
+  related_lane_id: 563
+  related_stop_line_id: 106
+}
+junction_lights {
+  junction_light_id: 23
+  junction_has_light: true
+  junction_position {
+    point_x: 499636.4545333188
+    point_y: 4393307.980989453
+  }
+  junction_position {
+    point_x: 499686.63292800594
+    point_y: 4393304.24026088
+  }
+  junction_position {
+    point_x: 499682.92179547733
+    point_y: 4393254.458869359
+  }
+  junction_position {
+    point_x: 499632.74340079026
+    point_y: 4393258.199597932
+  }
+  light_is_virtual: false
+  related_lane_id: 30
+  related_lane_id: 880
+  related_lane_id: 31
+  related_stop_line_id: 64
+}
+junction_lights {
+  junction_light_id: 28
+  junction_has_light: true
+  junction_position {
+    point_x: 499744.87668477366
+    point_y: 4394054.503835457
+  }
+  junction_position {
+    point_x: 499686.97203734587
+    point_y: 4394058.05866143
+  }
+  junction_position {
+    point_x: 499689.4841766822
+    point_y: 4394098.9789608475
+  }
+  junction_position {
+    point_x: 499747.38882411004
+    point_y: 4394095.424134875
+  }
+  light_is_virtual: false
+  related_lane_id: 877
+  related_lane_id: 19
+  related_lane_id: 561
+  related_lane_id: 582
+  related_stop_line_id: 42
+}
+junction_lights {
+  junction_light_id: 31
+  junction_has_light: true
+  junction_position {
+    point_x: 499744.87668477366
+    point_y: 4394054.503835457
+  }
+  junction_position {
+    point_x: 499686.97203734587
+    point_y: 4394058.05866143
+  }
+  junction_position {
+    point_x: 499689.4841766822
+    point_y: 4394098.9789608475
+  }
+  junction_position {
+    point_x: 499747.38882411004
+    point_y: 4394095.424134875
+  }
+  light_is_virtual: false
+  related_lane_id: 16
+  related_lane_id: 1162
+  related_lane_id: 1143
+  related_lane_id: 17
+  related_stop_line_id: 51
+}
+junction_lights {
+  junction_light_id: 38
+  junction_has_light: true
+  junction_position {
+    point_x: 499873.1556063577
+    point_y: 4395109.327370959
+  }
+  junction_position {
+    point_x: 499867.47698000097
+    point_y: 4395064.143408222
+  }
+  junction_position {
+    point_x: 499813.5219592751
+    point_y: 4395070.924362897
+  }
+  junction_position {
+    point_x: 499819.2005856319
+    point_y: 4395116.108325634
+  }
+  light_is_virtual: false
+  related_lane_id: 1024
+  related_lane_id: 960
+  related_lane_id: 331
+  related_lane_id: 743
+  related_lane_id: 9
+  related_stop_line_id: 37
+}
+junction_lights {
+  junction_light_id: 5
+  junction_has_light: true
+  junction_position {
+    point_x: 499576.9423228178
+    point_y: 4391046.06328354
+  }
+  junction_position {
+    point_x: 499550.70719452796
+    point_y: 4391004.036591754
+  }
+  junction_position {
+    point_x: 499500.92711840617
+    point_y: 4391035.111763956
+  }
+  junction_position {
+    point_x: 499527.16224669595
+    point_y: 4391077.138455742
+  }
+  light_is_virtual: false
+  related_lane_id: 1031
+  related_lane_id: 1101
+  related_lane_id: 53
+  related_lane_id: 563
+  related_stop_line_id: 106
+}
+junction_lights {
+  junction_light_id: 6
+  junction_has_light: true
+  junction_position {
+    point_x: 499576.9423228178
+    point_y: 4391046.06328354
+  }
+  junction_position {
+    point_x: 499550.70719452796
+    point_y: 4391004.036591754
+  }
+  junction_position {
+    point_x: 499500.92711840617
+    point_y: 4391035.111763956
+  }
+  junction_position {
+    point_x: 499527.16224669595
+    point_y: 4391077.138455742
+  }
+  light_is_virtual: false
+  related_lane_id: 619
+  related_lane_id: 897
+  related_lane_id: 44
+  related_stop_line_id: 92
+}
+junction_lights {
+  junction_light_id: 1
+  junction_has_light: true
+  junction_position {
+    point_x: 499252.3793067689
+    point_y: 4390650.832945057
+  }
+  junction_position {
+    point_x: 499281.8669975489
+    point_y: 4390698.097449455
+  }
+  junction_position {
+    point_x: 499322.26607875864
+    point_y: 4390672.893004181
+  }
+  junction_position {
+    point_x: 499292.7783879786
+    point_y: 4390625.628499783
+  }
+  light_is_virtual: false
+  related_lane_id: 600
+  related_lane_id: 56
+  related_lane_id: 1106
+  related_lane_id: 600
+  related_lane_id: 56
+  related_lane_id: 1106
+  related_stop_line_id: 108
+  related_stop_line_id: 10012
+  related_stop_line_id: 10013
+  related_stop_line_id: 10014
+}
+junction_lights {
+  junction_light_id: 2
+  junction_has_light: true
+  junction_position {
+    point_x: 499252.3793067689
+    point_y: 4390650.832945057
+  }
+  junction_position {
+    point_x: 499281.8669975489
+    point_y: 4390698.097449455
+  }
+  junction_position {
+    point_x: 499322.26607875864
+    point_y: 4390672.893004181
+  }
+  junction_position {
+    point_x: 499292.7783879786
+    point_y: 4390625.628499783
+  }
+  light_is_virtual: false
+  related_lane_id: 183
+  related_lane_id: 868
+  related_lane_id: 668
+  related_stop_line_id: 93
+}
+junction_lights {
+  junction_light_id: 7
+  junction_has_light: true
+  junction_position {
+    point_x: 499576.9423228178
+    point_y: 4391046.06328354
+  }
+  junction_position {
+    point_x: 499550.70719452796
+    point_y: 4391004.036591754
+  }
+  junction_position {
+    point_x: 499500.92711840617
+    point_y: 4391035.111763956
+  }
+  junction_position {
+    point_x: 499527.16224669595
+    point_y: 4391077.138455742
+  }
+  light_is_virtual: false
+  related_lane_id: 664
+  related_lane_id: 179
+  related_lane_id: 596
+  related_stop_line_id: 94
+}
+junction_lights {
+  junction_light_id: 2
+  junction_has_light: true
+  junction_position {
+    point_x: 499252.3793067689
+    point_y: 4390650.832945057
+  }
+  junction_position {
+    point_x: 499281.8669975489
+    point_y: 4390698.097449455
+  }
+  junction_position {
+    point_x: 499322.26607875864
+    point_y: 4390672.893004181
+  }
+  junction_position {
+    point_x: 499292.7783879786
+    point_y: 4390625.628499783
+  }
+  light_is_virtual: false
+  related_lane_id: 183
+  related_lane_id: 868
+  related_lane_id: 668
+  related_stop_line_id: 93
+}
+junction_lights {
+  junction_light_id: 3
+  junction_has_light: true
+  junction_position {
+    point_x: 499252.3793067689
+    point_y: 4390650.832945057
+  }
+  junction_position {
+    point_x: 499281.8669975489
+    point_y: 4390698.097449455
+  }
+  junction_position {
+    point_x: 499322.26607875864
+    point_y: 4390672.893004181
+  }
+  junction_position {
+    point_x: 499292.7783879786
+    point_y: 4390625.628499783
+  }
+  light_is_virtual: false
+  related_lane_id: 595
+  related_lane_id: 1018
+  related_lane_id: 46
+  related_stop_line_id: 98
+}
+junction_lights {
+  junction_light_id: 3
+  junction_has_light: true
+  junction_position {
+    point_x: 499252.3793067689
+    point_y: 4390650.832945057
+  }
+  junction_position {
+    point_x: 499281.8669975489
+    point_y: 4390698.097449455
+  }
+  junction_position {
+    point_x: 499322.26607875864
+    point_y: 4390672.893004181
+  }
+  junction_position {
+    point_x: 499292.7783879786
+    point_y: 4390625.628499783
+  }
+  light_is_virtual: false
+  related_lane_id: 595
+  related_lane_id: 1018
+  related_lane_id: 46
+  related_stop_line_id: 98
+}
+junction_lights {
+  junction_light_id: 4
+  junction_has_light: true
+  junction_position {
+    point_x: 499252.3793067689
+    point_y: 4390650.832945057
+  }
+  junction_position {
+    point_x: 499281.8669975489
+    point_y: 4390698.097449455
+  }
+  junction_position {
+    point_x: 499322.26607875864
+    point_y: 4390672.893004181
+  }
+  junction_position {
+    point_x: 499292.7783879786
+    point_y: 4390625.628499783
+  }
+  light_is_virtual: false
+  related_lane_id: 599
+  related_lane_id: 54
+  related_lane_id: 886
+  related_stop_line_id: 107
+}
+junction_lights {
+  junction_light_id: 8
+  junction_has_light: true
+  junction_position {
+    point_x: 499576.9423228178
+    point_y: 4391046.06328354
+  }
+  junction_position {
+    point_x: 499550.70719452796
+    point_y: 4391004.036591754
+  }
+  junction_position {
+    point_x: 499500.92711840617
+    point_y: 4391035.111763956
+  }
+  junction_position {
+    point_x: 499527.16224669595
+    point_y: 4391077.138455742
+  }
+  light_is_virtual: false
+  related_lane_id: 50
+  related_lane_id: 562
+  related_lane_id: 1015
+  related_lane_id: 51
+  related_stop_line_id: 104
+}
+junction_lights {
+  junction_light_id: 8
+  junction_has_light: true
+  junction_position {
+    point_x: 499576.9423228178
+    point_y: 4391046.06328354
+  }
+  junction_position {
+    point_x: 499550.70719452796
+    point_y: 4391004.036591754
+  }
+  junction_position {
+    point_x: 499500.92711840617
+    point_y: 4391035.111763956
+  }
+  junction_position {
+    point_x: 499527.16224669595
+    point_y: 4391077.138455742
+  }
+  light_is_virtual: false
+  related_lane_id: 50
+  related_lane_id: 562
+  related_lane_id: 1015
+  related_lane_id: 51
+  related_stop_line_id: 104
+}
+junction_lights {
+  junction_light_id: 9
+  junction_has_light: true
+  junction_position {
+    point_x: 500498.78546902776
+    point_y: 4393243.5639639115
+  }
+  junction_position {
+    point_x: 500495.59122046764
+    point_y: 4393194.155452984
+  }
+  junction_position {
+    point_x: 500429.6869503734
+    point_y: 4393198.4161484605
+  }
+  junction_position {
+    point_x: 500432.8811989335
+    point_y: 4393247.824659388
+  }
+  light_is_virtual: false
+  related_lane_id: 34
+  related_lane_id: 881
+  related_lane_id: 590
+  related_stop_line_id: 82
+}
+junction_lights {
+  junction_light_id: 10
+  junction_has_light: true
+  junction_position {
+    point_x: 500498.78546902776
+    point_y: 4393243.5639639115
+  }
+  junction_position {
+    point_x: 500495.59122046764
+    point_y: 4393194.155452984
+  }
+  junction_position {
+    point_x: 500429.6869503734
+    point_y: 4393198.4161484605
+  }
+  junction_position {
+    point_x: 500432.8811989335
+    point_y: 4393247.824659388
+  }
+  light_is_virtual: false
+  related_lane_id: 35
+  related_lane_id: 36
+  related_stop_line_id: 84
+}
+junction_lights {
+  junction_light_id: 11
+  junction_has_light: true
+  junction_position {
+    point_x: 500498.78546902776
+    point_y: 4393243.5639639115
+  }
+  junction_position {
+    point_x: 500495.59122046764
+    point_y: 4393194.155452984
+  }
+  junction_position {
+    point_x: 500429.6869503734
+    point_y: 4393198.4161484605
+  }
+  junction_position {
+    point_x: 500432.8811989335
+    point_y: 4393247.824659388
+  }
+  light_is_virtual: false
+  related_lane_id: 1164
+  related_lane_id: 1171
+  related_lane_id: 39
+  related_stop_line_id: 87
+}
+junction_lights {
+  junction_light_id: 12
+  junction_has_light: true
+  junction_position {
+    point_x: 500498.78546902776
+    point_y: 4393243.5639639115
+  }
+  junction_position {
+    point_x: 500495.59122046764
+    point_y: 4393194.155452984
+  }
+  junction_position {
+    point_x: 500429.6869503734
+    point_y: 4393198.4161484605
+  }
+  junction_position {
+    point_x: 500432.8811989335
+    point_y: 4393247.824659388
+  }
+  light_is_virtual: false
+  related_lane_id: 228
+  related_lane_id: 932
+  related_lane_id: 231
+  related_stop_line_id: 79
+}
+junction_lights {
+  junction_light_id: 13
+  junction_has_light: true
+  junction_position {
+    point_x: 500247.850976983
+    point_y: 4393263.321130972
+  }
+  junction_position {
+    point_x: 500244.54214301886
+    point_y: 4393221.520241731
+  }
+  junction_position {
+    point_x: 500214.7414793018
+    point_y: 4393223.879365886
+  }
+  junction_position {
+    point_x: 500218.0503248059
+    point_y: 4393265.680061903
+  }
+  light_is_virtual: false
+  related_lane_id: 217
+  related_lane_id: 929
+  related_lane_id: 221
+  related_stop_line_id: 80
+}
+junction_lights {
+  junction_light_id: 14
+  junction_has_light: true
+  junction_position {
+    point_x: 500247.850976983
+    point_y: 4393263.321130972
+  }
+  junction_position {
+    point_x: 500244.54214301886
+    point_y: 4393221.520241731
+  }
+  junction_position {
+    point_x: 500214.7414793018
+    point_y: 4393223.879365886
+  }
+  junction_position {
+    point_x: 500218.0503248059
+    point_y: 4393265.680061903
+  }
+  light_is_virtual: false
+  related_lane_id: 1029
+  related_lane_id: 37
+  related_stop_line_id: 85
+}
+junction_lights {
+  junction_light_id: 15
+  junction_has_light: true
+  junction_position {
+    point_x: 500247.850976983
+    point_y: 4393263.321130972
+  }
+  junction_position {
+    point_x: 500244.54214301886
+    point_y: 4393221.520241731
+  }
+  junction_position {
+    point_x: 500214.7414793018
+    point_y: 4393223.879365886
+  }
+  junction_position {
+    point_x: 500218.0503248059
+    point_y: 4393265.680061903
+  }
+  light_is_virtual: false
+  related_lane_id: 693
+  related_lane_id: 239
+  related_lane_id: 936
+  related_stop_line_id: 75
+}
+junction_lights {
+  junction_light_id: 16
+  junction_has_light: true
+  junction_position {
+    point_x: 499921.8500913502
+    point_y: 4393288.660739983
+  }
+  junction_position {
+    point_x: 499962.2206885311
+    point_y: 4393286.032361063
+  }
+  junction_position {
+    point_x: 499958.70160369884
+    point_y: 4393231.980962397
+  }
+  junction_position {
+    point_x: 499918.331006518
+    point_y: 4393234.609341317
+  }
+  light_is_virtual: false
+  related_lane_id: 1056
+  related_lane_id: 225
+  related_lane_id: 688
+  related_stop_line_id: 76
+}
+junction_lights {
+  junction_light_id: 17
+  junction_has_light: true
+  junction_position {
+    point_x: 499921.8500913502
+    point_y: 4393288.660739983
+  }
+  junction_position {
+    point_x: 499962.2206885311
+    point_y: 4393286.032361063
+  }
+  junction_position {
+    point_x: 499958.70160369884
+    point_y: 4393231.980962397
+  }
+  junction_position {
+    point_x: 499918.331006518
+    point_y: 4393234.609341317
+  }
+  light_is_virtual: false
+  related_lane_id: 120
+  related_lane_id: 636
+  related_stop_line_id: 71
+}
+junction_lights {
+  junction_light_id: 18
+  junction_has_light: true
+  junction_position {
+    point_x: 499921.8500913502
+    point_y: 4393288.660739983
+  }
+  junction_position {
+    point_x: 499962.2206885311
+    point_y: 4393286.032361063
+  }
+  junction_position {
+    point_x: 499958.70160369884
+    point_y: 4393231.980962397
+  }
+  junction_position {
+    point_x: 499918.331006518
+    point_y: 4393234.609341317
+  }
+  light_is_virtual: false
+  related_lane_id: 591
+  related_lane_id: 38
+  related_stop_line_id: 72
+}
+junction_lights {
+  junction_light_id: 19
+  junction_has_light: true
+  junction_position {
+    point_x: 499921.8500913502
+    point_y: 4393288.660739983
+  }
+  junction_position {
+    point_x: 499962.2206885311
+    point_y: 4393286.032361063
+  }
+  junction_position {
+    point_x: 499958.70160369884
+    point_y: 4393231.980962397
+  }
+  junction_position {
+    point_x: 499918.331006518
+    point_y: 4393234.609341317
+  }
+  light_is_virtual: false
+  related_lane_id: 944
+  related_lane_id: 268
+  related_lane_id: 272
+  related_stop_line_id: 67
+}
+junction_lights {
+  junction_light_id: 20
+  junction_has_light: true
+  junction_position {
+    point_x: 499636.4545333188
+    point_y: 4393307.980989453
+  }
+  junction_position {
+    point_x: 499686.63292800594
+    point_y: 4393304.24026088
+  }
+  junction_position {
+    point_x: 499682.92179547733
+    point_y: 4393254.458869359
+  }
+  junction_position {
+    point_x: 499632.74340079026
+    point_y: 4393258.199597932
+  }
+  light_is_virtual: false
+  related_lane_id: 243
+  related_lane_id: 697
+  related_lane_id: 247
+  related_stop_line_id: 68
+}
+junction_lights {
+  junction_light_id: 21
+  junction_has_light: true
+  junction_position {
+    point_x: 499636.4545333188
+    point_y: 4393307.980989453
+  }
+  junction_position {
+    point_x: 499686.63292800594
+    point_y: 4393304.24026088
+  }
+  junction_position {
+    point_x: 499682.92179547733
+    point_y: 4393254.458869359
+  }
+  junction_position {
+    point_x: 499632.74340079026
+    point_y: 4393258.199597932
+  }
+  light_is_virtual: false
+  related_lane_id: 948
+  related_lane_id: 1100
+  related_lane_id: 282
+  related_lane_id: 719
+  related_lane_id: 28
+  related_stop_line_id: 56
+}
+junction_lights {
+  junction_light_id: 22
+  junction_has_light: true
+  junction_position {
+    point_x: 499636.4545333188
+    point_y: 4393307.980989453
+  }
+  junction_position {
+    point_x: 499686.63292800594
+    point_y: 4393304.24026088
+  }
+  junction_position {
+    point_x: 499682.92179547733
+    point_y: 4393254.458869359
+  }
+  junction_position {
+    point_x: 499632.74340079026
+    point_y: 4393258.199597932
+  }
+  light_is_virtual: false
+  related_lane_id: 588
+  related_lane_id: 32
+  related_stop_line_id: 59
+}
+junction_lights {
+  junction_light_id: 24
+  junction_has_light: true
+  junction_position {
+    point_x: 499715.6336310817
+    point_y: 4393693.884250835
+  }
+  junction_position {
+    point_x: 499660.44450144883
+    point_y: 4393697.7918580575
+  }
+  junction_position {
+    point_x: 499662.89605104737
+    point_y: 4393732.416343323
+  }
+  junction_position {
+    point_x: 499718.08518068027
+    point_y: 4393728.5087361
+  }
+  light_is_virtual: false
+  related_lane_id: 879
+  related_lane_id: 27
+  related_lane_id: 586
+  related_stop_line_id: 55
+}
+junction_lights {
+  junction_light_id: 25
+  junction_has_light: true
+  junction_position {
+    point_x: 499715.6336310817
+    point_y: 4393693.884250835
+  }
+  junction_position {
+    point_x: 499660.44450144883
+    point_y: 4393697.7918580575
+  }
+  junction_position {
+    point_x: 499662.89605104737
+    point_y: 4393732.416343323
+  }
+  junction_position {
+    point_x: 499718.08518068027
+    point_y: 4393728.5087361
+  }
+  light_is_virtual: false
+  related_lane_id: 1139
+  related_lane_id: 307
+  related_lane_id: 731
+  related_lane_id: 311
+  related_lane_id: 21
+  related_stop_line_id: 45
+}
+junction_lights {
+  junction_light_id: 28
+  junction_has_light: true
+  junction_position {
+    point_x: 499744.87668477366
+    point_y: 4394054.503835457
+  }
+  junction_position {
+    point_x: 499686.97203734587
+    point_y: 4394058.05866143
+  }
+  junction_position {
+    point_x: 499689.4841766822
+    point_y: 4394098.9789608475
+  }
+  junction_position {
+    point_x: 499747.38882411004
+    point_y: 4394095.424134875
+  }
+  light_is_virtual: false
+  related_lane_id: 877
+  related_lane_id: 19
+  related_lane_id: 561
+  related_lane_id: 582
+  related_stop_line_id: 42
+}
+junction_lights {
+  junction_light_id: 25
+  junction_has_light: true
+  junction_position {
+    point_x: 499715.6336310817
+    point_y: 4393693.884250835
+  }
+  junction_position {
+    point_x: 499660.44450144883
+    point_y: 4393697.7918580575
+  }
+  junction_position {
+    point_x: 499662.89605104737
+    point_y: 4393732.416343323
+  }
+  junction_position {
+    point_x: 499718.08518068027
+    point_y: 4393728.5087361
+  }
+  light_is_virtual: false
+  related_lane_id: 1139
+  related_lane_id: 307
+  related_lane_id: 731
+  related_lane_id: 311
+  related_lane_id: 21
+  related_stop_line_id: 45
+}
+junction_lights {
+  junction_light_id: 26
+  junction_has_light: true
+  junction_position {
+    point_x: 499715.6336310817
+    point_y: 4393693.884250835
+  }
+  junction_position {
+    point_x: 499660.44450144883
+    point_y: 4393697.7918580575
+  }
+  junction_position {
+    point_x: 499662.89605104737
+    point_y: 4393732.416343323
+  }
+  junction_position {
+    point_x: 499718.08518068027
+    point_y: 4393728.5087361
+  }
+  light_is_virtual: false
+  related_lane_id: 566
+  related_lane_id: 132
+  related_lane_id: 1112
+  related_lane_id: 136
+  related_lane_id: 29
+  related_stop_line_id: 58
+}
+junction_lights {
+  junction_light_id: 26
+  junction_has_light: true
+  junction_position {
+    point_x: 499715.6336310817
+    point_y: 4393693.884250835
+  }
+  junction_position {
+    point_x: 499660.44450144883
+    point_y: 4393697.7918580575
+  }
+  junction_position {
+    point_x: 499662.89605104737
+    point_y: 4393732.416343323
+  }
+  junction_position {
+    point_x: 499718.08518068027
+    point_y: 4393728.5087361
+  }
+  light_is_virtual: false
+  related_lane_id: 566
+  related_lane_id: 132
+  related_lane_id: 1112
+  related_lane_id: 136
+  related_lane_id: 29
+  related_stop_line_id: 58
+}
+junction_lights {
+  junction_light_id: 27
+  junction_has_light: true
+  junction_position {
+    point_x: 499715.6336310817
+    point_y: 4393693.884250835
+  }
+  junction_position {
+    point_x: 499660.44450144883
+    point_y: 4393697.7918580575
+  }
+  junction_position {
+    point_x: 499662.89605104737
+    point_y: 4393732.416343323
+  }
+  junction_position {
+    point_x: 499718.08518068027
+    point_y: 4393728.5087361
+  }
+  light_is_virtual: false
+  related_lane_id: 25
+  related_lane_id: 585
+  related_stop_line_id: 54
+}
+junction_lights {
+  junction_light_id: 29
+  junction_has_light: true
+  junction_position {
+    point_x: 499744.87668477366
+    point_y: 4394054.503835457
+  }
+  junction_position {
+    point_x: 499686.97203734587
+    point_y: 4394058.05866143
+  }
+  junction_position {
+    point_x: 499689.4841766822
+    point_y: 4394098.9789608475
+  }
+  junction_position {
+    point_x: 499747.38882411004
+    point_y: 4394095.424134875
+  }
+  light_is_virtual: false
+  related_lane_id: 867
+  related_lane_id: 646
+  related_lane_id: 144
+  related_lane_id: 1046
+  related_lane_id: 1027
+  related_stop_line_id: 44
+}
+junction_lights {
+  junction_light_id: 29
+  junction_has_light: true
+  junction_position {
+    point_x: 499744.87668477366
+    point_y: 4394054.503835457
+  }
+  junction_position {
+    point_x: 499686.97203734587
+    point_y: 4394058.05866143
+  }
+  junction_position {
+    point_x: 499689.4841766822
+    point_y: 4394098.9789608475
+  }
+  junction_position {
+    point_x: 499747.38882411004
+    point_y: 4394095.424134875
+  }
+  light_is_virtual: false
+  related_lane_id: 867
+  related_lane_id: 646
+  related_lane_id: 144
+  related_lane_id: 1046
+  related_lane_id: 1027
+  related_stop_line_id: 44
+}
+junction_lights {
+  junction_light_id: 30
+  junction_has_light: true
+  junction_position {
+    point_x: 499744.87668477366
+    point_y: 4394054.503835457
+  }
+  junction_position {
+    point_x: 499686.97203734587
+    point_y: 4394058.05866143
+  }
+  junction_position {
+    point_x: 499689.4841766822
+    point_y: 4394098.9789608475
+  }
+  junction_position {
+    point_x: 499747.38882411004
+    point_y: 4394095.424134875
+  }
+  light_is_virtual: false
+  related_lane_id: 568
+  related_lane_id: 286
+  related_lane_id: 1122
+  related_lane_id: 291
+  related_lane_id: 22
+  related_stop_line_id: 46
+}
+junction_lights {
+  junction_light_id: 30
+  junction_has_light: true
+  junction_position {
+    point_x: 499744.87668477366
+    point_y: 4394054.503835457
+  }
+  junction_position {
+    point_x: 499686.97203734587
+    point_y: 4394058.05866143
+  }
+  junction_position {
+    point_x: 499689.4841766822
+    point_y: 4394098.9789608475
+  }
+  junction_position {
+    point_x: 499747.38882411004
+    point_y: 4394095.424134875
+  }
+  light_is_virtual: false
+  related_lane_id: 568
+  related_lane_id: 286
+  related_lane_id: 1122
+  related_lane_id: 291
+  related_lane_id: 22
+  related_stop_line_id: 46
+}
+junction_lights {
+  junction_light_id: 31
+  junction_has_light: true
+  junction_position {
+    point_x: 499744.87668477366
+    point_y: 4394054.503835457
+  }
+  junction_position {
+    point_x: 499686.97203734587
+    point_y: 4394058.05866143
+  }
+  junction_position {
+    point_x: 499689.4841766822
+    point_y: 4394098.9789608475
+  }
+  junction_position {
+    point_x: 499747.38882411004
+    point_y: 4394095.424134875
+  }
+  light_is_virtual: false
+  related_lane_id: 16
+  related_lane_id: 1162
+  related_lane_id: 1143
+  related_lane_id: 17
+  related_stop_line_id: 51
+}
+junction_lights {
+  junction_light_id: 32
+  junction_has_light: true
+  junction_position {
+    point_x: 499805.74132018426
+    point_y: 4394521.616561115
+  }
+  junction_position {
+    point_x: 499746.0650630479
+    point_y: 4394529.070598275
+  }
+  junction_position {
+    point_x: 499749.9687872977
+    point_y: 4394560.323414395
+  }
+  junction_position {
+    point_x: 499809.6450444341
+    point_y: 4394552.869377234
+  }
+  light_is_virtual: false
+  related_lane_id: 579
+  related_lane_id: 876
+  related_stop_line_id: 39
+}
+junction_lights {
+  junction_light_id: 39
+  junction_has_light: true
+  junction_position {
+    point_x: 499873.1556063577
+    point_y: 4395109.327370959
+  }
+  junction_position {
+    point_x: 499867.47698000097
+    point_y: 4395064.143408222
+  }
+  junction_position {
+    point_x: 499813.5219592751
+    point_y: 4395070.924362897
+  }
+  junction_position {
+    point_x: 499819.2005856319
+    point_y: 4395116.108325634
+  }
+  light_is_virtual: false
+  related_lane_id: 873
+  related_lane_id: 3
+  related_lane_id: 865
+  related_lane_id: 574
+  related_lane_id: 4
+  related_stop_line_id: 33
+}
+junction_lights {
+  junction_light_id: 33
+  junction_has_light: true
+  junction_position {
+    point_x: 499805.74132018426
+    point_y: 4394521.616561115
+  }
+  junction_position {
+    point_x: 499746.0650630479
+    point_y: 4394529.070598275
+  }
+  junction_position {
+    point_x: 499749.9687872977
+    point_y: 4394560.323414395
+  }
+  junction_position {
+    point_x: 499809.6450444341
+    point_y: 4394552.869377234
+  }
+  light_is_virtual: false
+  related_lane_id: 1019
+  related_lane_id: 652
+  related_lane_id: 155
+  related_lane_id: 1148
+  related_lane_id: 1103
+  related_stop_line_id: 36
+}
+junction_lights {
+  junction_light_id: 33
+  junction_has_light: true
+  junction_position {
+    point_x: 499805.74132018426
+    point_y: 4394521.616561115
+  }
+  junction_position {
+    point_x: 499746.0650630479
+    point_y: 4394529.070598275
+  }
+  junction_position {
+    point_x: 499749.9687872977
+    point_y: 4394560.323414395
+  }
+  junction_position {
+    point_x: 499809.6450444341
+    point_y: 4394552.869377234
+  }
+  light_is_virtual: false
+  related_lane_id: 1019
+  related_lane_id: 652
+  related_lane_id: 155
+  related_lane_id: 1148
+  related_lane_id: 1103
+  related_stop_line_id: 36
+}
+junction_lights {
+  junction_light_id: 34
+  junction_has_light: true
+  junction_position {
+    point_x: 499805.74132018426
+    point_y: 4394521.616561115
+  }
+  junction_position {
+    point_x: 499746.0650630479
+    point_y: 4394529.070598275
+  }
+  junction_position {
+    point_x: 499749.9687872977
+    point_y: 4394560.323414395
+  }
+  junction_position {
+    point_x: 499809.6450444341
+    point_y: 4394552.869377234
+  }
+  light_is_virtual: false
+  related_lane_id: 1016
+  related_lane_id: 147
+  related_lane_id: 649
+  related_lane_id: 150
+  related_lane_id: 23
+  related_stop_line_id: 49
+}
+junction_lights {
+  junction_light_id: 34
+  junction_has_light: true
+  junction_position {
+    point_x: 499805.74132018426
+    point_y: 4394521.616561115
+  }
+  junction_position {
+    point_x: 499746.0650630479
+    point_y: 4394529.070598275
+  }
+  junction_position {
+    point_x: 499749.9687872977
+    point_y: 4394560.323414395
+  }
+  junction_position {
+    point_x: 499809.6450444341
+    point_y: 4394552.869377234
+  }
+  light_is_virtual: false
+  related_lane_id: 1016
+  related_lane_id: 147
+  related_lane_id: 649
+  related_lane_id: 150
+  related_lane_id: 23
+  related_stop_line_id: 49
+}
+junction_lights {
+  junction_light_id: 35
+  junction_has_light: true
+  junction_position {
+    point_x: 499805.74132018426
+    point_y: 4394521.616561115
+  }
+  junction_position {
+    point_x: 499746.0650630479
+    point_y: 4394529.070598275
+  }
+  junction_position {
+    point_x: 499749.9687872977
+    point_y: 4394560.323414395
+  }
+  junction_position {
+    point_x: 499809.6450444341
+    point_y: 4394552.869377234
+  }
+  light_is_virtual: false
+  related_lane_id: 578
+  related_lane_id: 12
+  related_lane_id: 1026
+  related_stop_line_id: 38
+}
+junction_lights {
+  junction_light_id: 36
+  junction_has_light: true
+  junction_position {
+    point_x: 499873.1556063577
+    point_y: 4395109.327370959
+  }
+  junction_position {
+    point_x: 499867.47698000097
+    point_y: 4395064.143408222
+  }
+  junction_position {
+    point_x: 499813.5219592751
+    point_y: 4395070.924362897
+  }
+  junction_position {
+    point_x: 499819.2005856319
+    point_y: 4395116.108325634
+  }
+  light_is_virtual: false
+  related_lane_id: 577
+  related_lane_id: 10
+  related_lane_id: 1169
+  related_lane_id: 875
+  related_lane_id: 11
+  related_stop_line_id: 34
+}
+junction_lights {
+  junction_light_id: 36
+  junction_has_light: true
+  junction_position {
+    point_x: 499873.1556063577
+    point_y: 4395109.327370959
+  }
+  junction_position {
+    point_x: 499867.47698000097
+    point_y: 4395064.143408222
+  }
+  junction_position {
+    point_x: 499813.5219592751
+    point_y: 4395070.924362897
+  }
+  junction_position {
+    point_x: 499819.2005856319
+    point_y: 4395116.108325634
+  }
+  light_is_virtual: false
+  related_lane_id: 577
+  related_lane_id: 10
+  related_lane_id: 1169
+  related_lane_id: 875
+  related_lane_id: 11
+  related_stop_line_id: 34
+}
+junction_lights {
+  junction_light_id: 37
+  junction_has_light: true
+  junction_position {
+    point_x: 499873.1556063577
+    point_y: 4395109.327370959
+  }
+  junction_position {
+    point_x: 499867.47698000097
+    point_y: 4395064.143408222
+  }
+  junction_position {
+    point_x: 499813.5219592751
+    point_y: 4395070.924362897
+  }
+  junction_position {
+    point_x: 499819.2005856319
+    point_y: 4395116.108325634
+  }
+  light_is_virtual: false
+  related_lane_id: 570
+  related_lane_id: 367
+  related_lane_id: 371
+  related_lane_id: 1073
+  related_lane_id: 573
+  related_stop_line_id: 31
+}
+junction_lights {
+  junction_light_id: 37
+  junction_has_light: true
+  junction_position {
+    point_x: 499873.1556063577
+    point_y: 4395109.327370959
+  }
+  junction_position {
+    point_x: 499867.47698000097
+    point_y: 4395064.143408222
+  }
+  junction_position {
+    point_x: 499813.5219592751
+    point_y: 4395070.924362897
+  }
+  junction_position {
+    point_x: 499819.2005856319
+    point_y: 4395116.108325634
+  }
+  light_is_virtual: false
+  related_lane_id: 570
+  related_lane_id: 367
+  related_lane_id: 371
+  related_lane_id: 1073
+  related_lane_id: 573
+  related_stop_line_id: 31
+}
+junction_lights {
+  junction_light_id: 38
+  junction_has_light: true
+  junction_position {
+    point_x: 499873.1556063577
+    point_y: 4395109.327370959
+  }
+  junction_position {
+    point_x: 499867.47698000097
+    point_y: 4395064.143408222
+  }
+  junction_position {
+    point_x: 499813.5219592751
+    point_y: 4395070.924362897
+  }
+  junction_position {
+    point_x: 499819.2005856319
+    point_y: 4395116.108325634
+  }
+  light_is_virtual: false
+  related_lane_id: 1024
+  related_lane_id: 960
+  related_lane_id: 331
+  related_lane_id: 743
+  related_lane_id: 9
+  related_stop_line_id: 37
+}
+junction_lights {
+  junction_light_id: 39
+  junction_has_light: true
+  junction_position {
+    point_x: 499873.1556063577
+    point_y: 4395109.327370959
+  }
+  junction_position {
+    point_x: 499867.47698000097
+    point_y: 4395064.143408222
+  }
+  junction_position {
+    point_x: 499813.5219592751
+    point_y: 4395070.924362897
+  }
+  junction_position {
+    point_x: 499819.2005856319
+    point_y: 4395116.108325634
+  }
+  light_is_virtual: false
+  related_lane_id: 873
+  related_lane_id: 3
+  related_lane_id: 865
+  related_lane_id: 574
+  related_lane_id: 4
+  related_stop_line_id: 33
+}
+junction_lights {
+  junction_light_id: 40
+  junction_has_light: true
+  junction_position {
+    point_x: 499939.6855023958
+    point_y: 4395576.918900608
+  }
+  junction_position {
+    point_x: 499884.43774744007
+    point_y: 4395581.022828328
+  }
+  junction_position {
+    point_x: 499886.7811335899
+    point_y: 4395612.569880994
+  }
+  junction_position {
+    point_x: 499942.0288885456
+    point_y: 4395608.465953274
+  }
+  light_is_virtual: false
+  related_lane_id: 1
+  related_stop_line_id: 29
+}
+junction_lights {
+  junction_light_id: 41
+  junction_has_light: true
+  junction_position {
+    point_x: 499939.6855023958
+    point_y: 4395576.918900608
+  }
+  junction_position {
+    point_x: 499884.43774744007
+    point_y: 4395581.022828328
+  }
+  junction_position {
+    point_x: 499886.7811335899
+    point_y: 4395612.569880994
+  }
+  junction_position {
+    point_x: 499942.0288885456
+    point_y: 4395608.465953274
+  }
+  light_is_virtual: false
+  related_lane_id: 1102
+  related_lane_id: 1093
+  related_lane_id: 525
+  related_lane_id: 842
+  related_lane_id: 616
+  related_stop_line_id: 25
+}
+junction_lights {
+  junction_light_id: 41
+  junction_has_light: true
+  junction_position {
+    point_x: 499939.6855023958
+    point_y: 4395576.918900608
+  }
+  junction_position {
+    point_x: 499884.43774744007
+    point_y: 4395581.022828328
+  }
+  junction_position {
+    point_x: 499886.7811335899
+    point_y: 4395612.569880994
+  }
+  junction_position {
+    point_x: 499942.0288885456
+    point_y: 4395608.465953274
+  }
+  light_is_virtual: false
+  related_lane_id: 1102
+  related_lane_id: 1093
+  related_lane_id: 525
+  related_lane_id: 842
+  related_lane_id: 616
+  related_stop_line_id: 25
+}
+junction_lights {
+  junction_light_id: 42
+  junction_has_light: true
+  junction_position {
+    point_x: 499939.6855023958
+    point_y: 4395576.918900608
+  }
+  junction_position {
+    point_x: 499884.43774744007
+    point_y: 4395581.022828328
+  }
+  junction_position {
+    point_x: 499886.7811335899
+    point_y: 4395612.569880994
+  }
+  junction_position {
+    point_x: 499942.0288885456
+    point_y: 4395608.465953274
+  }
+  light_is_virtual: false
+  related_lane_id: 863
+  related_lane_id: 343
+  related_lane_id: 964
+  related_lane_id: 347
+  related_lane_id: 2
+  related_stop_line_id: 32
+}
+junction_lights {
+  junction_light_id: 42
+  junction_has_light: true
+  junction_position {
+    point_x: 499939.6855023958
+    point_y: 4395576.918900608
+  }
+  junction_position {
+    point_x: 499884.43774744007
+    point_y: 4395581.022828328
+  }
+  junction_position {
+    point_x: 499886.7811335899
+    point_y: 4395612.569880994
+  }
+  junction_position {
+    point_x: 499942.0288885456
+    point_y: 4395608.465953274
+  }
+  light_is_virtual: false
+  related_lane_id: 863
+  related_lane_id: 343
+  related_lane_id: 964
+  related_lane_id: 347
+  related_lane_id: 2
+  related_stop_line_id: 32
+}
+junction_lights {
+  junction_light_id: 43
+  junction_has_light: true
+  junction_position {
+    point_x: 499939.6855023958
+    point_y: 4395576.918900608
+  }
+  junction_position {
+    point_x: 499884.43774744007
+    point_y: 4395581.022828328
+  }
+  junction_position {
+    point_x: 499886.7811335899
+    point_y: 4395612.569880994
+  }
+  junction_position {
+    point_x: 499942.0288885456
+    point_y: 4395608.465953274
+  }
+  light_is_virtual: false
+  related_lane_id: 1108
+  related_stop_line_id: 27
+}
+junction_lights {
+  junction_light_id: 44
+  junction_has_light: true
+  junction_position {
+    point_x: 499977.0636457894
+    point_y: 4395844.451793888
+  }
+  junction_position {
+    point_x: 499921.6807634646
+    point_y: 4395848.230304551
+  }
+  junction_position {
+    point_x: 499923.7576442311
+    point_y: 4395878.671833688
+  }
+  junction_position {
+    point_x: 499979.1405265559
+    point_y: 4395874.893323026
+  }
+  light_is_virtual: false
+  related_lane_id: 894
+  related_lane_id: 87
+  related_stop_line_id: 24
+}
+junction_lights {
+  junction_light_id: 45
+  junction_has_light: true
+  junction_position {
+    point_x: 499977.0636457894
+    point_y: 4395844.451793888
+  }
+  junction_position {
+    point_x: 499921.6807634646
+    point_y: 4395848.230304551
+  }
+  junction_position {
+    point_x: 499923.7576442311
+    point_y: 4395878.671833688
+  }
+  junction_position {
+    point_x: 499979.1405265559
+    point_y: 4395874.893323026
+  }
+  light_is_virtual: false
+  related_lane_id: 383
+  related_lane_id: 1163
+  related_lane_id: 1156
+  related_lane_id: 387
+  related_lane_id: 611
+  related_stop_line_id: 18
+}
+junction_lights {
+  junction_light_id: 48
+  junction_has_light: true
+  junction_position {
+    point_x: 499991.0628800831
+    point_y: 4396392.222964151
+  }
+  junction_position {
+    point_x: 499995.56431712426
+    point_y: 4396438.852637088
+  }
+  junction_position {
+    point_x: 500068.18882710877
+    point_y: 4396431.841765286
+  }
+  junction_position {
+    point_x: 500063.6873900676
+    point_y: 4396385.212092349
+  }
+  light_is_virtual: false
+  related_lane_id: 1177
+  related_lane_id: 1145
+  related_lane_id: 81
+  related_lane_id: 78
+  related_lane_id: 613
+  related_stop_line_id: 20
+}
+junction_lights {
+  junction_light_id: 45
+  junction_has_light: true
+  junction_position {
+    point_x: 499977.0636457894
+    point_y: 4395844.451793888
+  }
+  junction_position {
+    point_x: 499921.6807634646
+    point_y: 4395848.230304551
+  }
+  junction_position {
+    point_x: 499923.7576442311
+    point_y: 4395878.671833688
+  }
+  junction_position {
+    point_x: 499979.1405265559
+    point_y: 4395874.893323026
+  }
+  light_is_virtual: false
+  related_lane_id: 383
+  related_lane_id: 1163
+  related_lane_id: 1156
+  related_lane_id: 387
+  related_lane_id: 611
+  related_stop_line_id: 18
+}
+junction_lights {
+  junction_light_id: 46
+  junction_has_light: true
+  junction_position {
+    point_x: 499977.0636457894
+    point_y: 4395844.451793888
+  }
+  junction_position {
+    point_x: 499921.6807634646
+    point_y: 4395848.230304551
+  }
+  junction_position {
+    point_x: 499923.7576442311
+    point_y: 4395878.671833688
+  }
+  junction_position {
+    point_x: 499979.1405265559
+    point_y: 4395874.893323026
+  }
+  light_is_virtual: false
+  related_lane_id: 1020
+  related_lane_id: 763
+  related_lane_id: 375
+  related_lane_id: 972
+  related_lane_id: 88
+  related_stop_line_id: 26
+}
+junction_lights {
+  junction_light_id: 46
+  junction_has_light: true
+  junction_position {
+    point_x: 499977.0636457894
+    point_y: 4395844.451793888
+  }
+  junction_position {
+    point_x: 499921.6807634646
+    point_y: 4395848.230304551
+  }
+  junction_position {
+    point_x: 499923.7576442311
+    point_y: 4395878.671833688
+  }
+  junction_position {
+    point_x: 499979.1405265559
+    point_y: 4395874.893323026
+  }
+  light_is_virtual: false
+  related_lane_id: 1020
+  related_lane_id: 763
+  related_lane_id: 375
+  related_lane_id: 972
+  related_lane_id: 88
+  related_stop_line_id: 26
+}
+junction_lights {
+  junction_light_id: 47
+  junction_has_light: true
+  junction_position {
+    point_x: 499977.0636457894
+    point_y: 4395844.451793888
+  }
+  junction_position {
+    point_x: 499921.6807634646
+    point_y: 4395848.230304551
+  }
+  junction_position {
+    point_x: 499923.7576442311
+    point_y: 4395878.671833688
+  }
+  junction_position {
+    point_x: 499979.1405265559
+    point_y: 4395874.893323026
+  }
+  light_is_virtual: false
+  related_lane_id: 615
+  related_lane_id: 86
+  related_stop_line_id: 23
+}
+junction_lights {
+  junction_light_id: 48
+  junction_has_light: true
+  junction_position {
+    point_x: 499991.0628800831
+    point_y: 4396392.222964151
+  }
+  junction_position {
+    point_x: 499995.56431712426
+    point_y: 4396438.852637088
+  }
+  junction_position {
+    point_x: 500068.18882710877
+    point_y: 4396431.841765286
+  }
+  junction_position {
+    point_x: 500063.6873900676
+    point_y: 4396385.212092349
+  }
+  light_is_virtual: false
+  related_lane_id: 1177
+  related_lane_id: 1145
+  related_lane_id: 81
+  related_lane_id: 78
+  related_lane_id: 613
+  related_stop_line_id: 20
+}
+junction_lights {
+  junction_light_id: 49
+  junction_has_light: true
+  junction_position {
+    point_x: 499991.0628800831
+    point_y: 4396392.222964151
+  }
+  junction_position {
+    point_x: 499995.56431712426
+    point_y: 4396438.852637088
+  }
+  junction_position {
+    point_x: 500068.18882710877
+    point_y: 4396431.841765286
+  }
+  junction_position {
+    point_x: 500063.6873900676
+    point_y: 4396385.212092349
+  }
+  light_is_virtual: false
+  related_lane_id: 1017
+  related_lane_id: 407
+  related_lane_id: 980
+  related_lane_id: 411
+  related_lane_id: 76
+  related_stop_line_id: 15
+}
+junction_lights {
+  junction_light_id: 49
+  junction_has_light: true
+  junction_position {
+    point_x: 499991.0628800831
+    point_y: 4396392.222964151
+  }
+  junction_position {
+    point_x: 499995.56431712426
+    point_y: 4396438.852637088
+  }
+  junction_position {
+    point_x: 500068.18882710877
+    point_y: 4396431.841765286
+  }
+  junction_position {
+    point_x: 500063.6873900676
+    point_y: 4396385.212092349
+  }
+  light_is_virtual: false
+  related_lane_id: 1017
+  related_lane_id: 407
+  related_lane_id: 980
+  related_lane_id: 411
+  related_lane_id: 76
+  related_stop_line_id: 15
+}
+junction_lights {
+  junction_light_id: 50
+  junction_has_light: true
+  junction_position {
+    point_x: 499991.0628800831
+    point_y: 4396392.222964151
+  }
+  junction_position {
+    point_x: 499995.56431712426
+    point_y: 4396438.852637088
+  }
+  junction_position {
+    point_x: 500068.18882710877
+    point_y: 4396431.841765286
+  }
+  junction_position {
+    point_x: 500063.6873900676
+    point_y: 4396385.212092349
+  }
+  light_is_virtual: false
+  related_lane_id: 567
+  related_lane_id: 158
+  related_lane_id: 655
+  related_lane_id: 161
+  related_lane_id: 79
+  related_stop_line_id: 22
+}
+junction_lights {
+  junction_light_id: 50
+  junction_has_light: true
+  junction_position {
+    point_x: 499991.0628800831
+    point_y: 4396392.222964151
+  }
+  junction_position {
+    point_x: 499995.56431712426
+    point_y: 4396438.852637088
+  }
+  junction_position {
+    point_x: 500068.18882710877
+    point_y: 4396431.841765286
+  }
+  junction_position {
+    point_x: 500063.6873900676
+    point_y: 4396385.212092349
+  }
+  light_is_virtual: false
+  related_lane_id: 567
+  related_lane_id: 158
+  related_lane_id: 655
+  related_lane_id: 161
+  related_lane_id: 79
+  related_stop_line_id: 22
+}
+junction_lights {
+  junction_light_id: 51
+  junction_has_light: true
+  junction_position {
+    point_x: 499991.0628800831
+    point_y: 4396392.222964151
+  }
+  junction_position {
+    point_x: 499995.56431712426
+    point_y: 4396438.852637088
+  }
+  junction_position {
+    point_x: 500068.18882710877
+    point_y: 4396431.841765286
+  }
+  junction_position {
+    point_x: 500063.6873900676
+    point_y: 4396385.212092349
+  }
+  light_is_virtual: false
+  related_lane_id: 565
+  related_lane_id: 82
+  related_lane_id: 893
+  related_lane_id: 83
+  related_lane_id: 614
+  related_stop_line_id: 21
+}
+junction_lights {
+  junction_light_id: 51
+  junction_has_light: true
+  junction_position {
+    point_x: 499991.0628800831
+    point_y: 4396392.222964151
+  }
+  junction_position {
+    point_x: 499995.56431712426
+    point_y: 4396438.852637088
+  }
+  junction_position {
+    point_x: 500068.18882710877
+    point_y: 4396431.841765286
+  }
+  junction_position {
+    point_x: 500063.6873900676
+    point_y: 4396385.212092349
+  }
+  light_is_virtual: false
+  related_lane_id: 565
+  related_lane_id: 82
+  related_lane_id: 893
+  related_lane_id: 83
+  related_lane_id: 614
+  related_stop_line_id: 21
+}
+junction_lights {
+  junction_light_id: 52
+  junction_has_light: true
+  junction_position {
+    point_x: 500128.62835555593
+    point_y: 4397169.818363874
+  }
+  junction_position {
+    point_x: 500193.5900043844
+    point_y: 4397154.612012382
+  }
+  junction_position {
+    point_x: 500184.0926466758
+    point_y: 4397114.039228268
+  }
+  junction_position {
+    point_x: 500119.13099784736
+    point_y: 4397129.2455797605
+  }
+  light_is_virtual: false
+  related_lane_id: 891
+  related_lane_id: 75
+  related_lane_id: 1096
+  related_lane_id: 610
+  related_stop_line_id: 14
+}
+junction_lights {
+  junction_light_id: 52
+  junction_has_light: true
+  junction_position {
+    point_x: 500128.62835555593
+    point_y: 4397169.818363874
+  }
+  junction_position {
+    point_x: 500193.5900043844
+    point_y: 4397154.612012382
+  }
+  junction_position {
+    point_x: 500184.0926466758
+    point_y: 4397114.039228268
+  }
+  junction_position {
+    point_x: 500119.13099784736
+    point_y: 4397129.2455797605
+  }
+  light_is_virtual: false
+  related_lane_id: 891
+  related_lane_id: 75
+  related_lane_id: 1096
+  related_lane_id: 610
+  related_stop_line_id: 14
+}
+junction_lights {
+  junction_light_id: 53
+  junction_has_light: true
+  junction_position {
+    point_x: 500128.62835555593
+    point_y: 4397169.818363874
+  }
+  junction_position {
+    point_x: 500193.5900043844
+    point_y: 4397154.612012382
+  }
+  junction_position {
+    point_x: 500184.0926466758
+    point_y: 4397114.039228268
+  }
+  junction_position {
+    point_x: 500119.13099784736
+    point_y: 4397129.2455797605
+  }
+  light_is_virtual: false
+  related_lane_id: 871
+  related_lane_id: 795
+  related_lane_id: 439
+  related_lane_id: 988
+  related_lane_id: 73
+  related_stop_line_id: 11
+}
+junction_lights {
+  junction_light_id: 53
+  junction_has_light: true
+  junction_position {
+    point_x: 500128.62835555593
+    point_y: 4397169.818363874
+  }
+  junction_position {
+    point_x: 500193.5900043844
+    point_y: 4397154.612012382
+  }
+  junction_position {
+    point_x: 500184.0926466758
+    point_y: 4397114.039228268
+  }
+  junction_position {
+    point_x: 500119.13099784736
+    point_y: 4397129.2455797605
+  }
+  light_is_virtual: false
+  related_lane_id: 871
+  related_lane_id: 795
+  related_lane_id: 439
+  related_lane_id: 988
+  related_lane_id: 73
+  related_stop_line_id: 11
+}
+junction_lights {
+  junction_light_id: 54
+  junction_has_light: true
+  junction_position {
+    point_x: 500128.62835555593
+    point_y: 4397169.818363874
+  }
+  junction_position {
+    point_x: 500193.5900043844
+    point_y: 4397154.612012382
+  }
+  junction_position {
+    point_x: 500184.0926466758
+    point_y: 4397114.039228268
+  }
+  junction_position {
+    point_x: 500119.13099784736
+    point_y: 4397129.2455797605
+  }
+  light_is_virtual: false
+  related_lane_id: 771
+  related_lane_id: 870
+  related_lane_id: 391
+  related_lane_id: 976
+  related_lane_id: 77
+  related_stop_line_id: 16
+}
+junction_lights {
+  junction_light_id: 54
+  junction_has_light: true
+  junction_position {
+    point_x: 500128.62835555593
+    point_y: 4397169.818363874
+  }
+  junction_position {
+    point_x: 500193.5900043844
+    point_y: 4397154.612012382
+  }
+  junction_position {
+    point_x: 500184.0926466758
+    point_y: 4397114.039228268
+  }
+  junction_position {
+    point_x: 500119.13099784736
+    point_y: 4397129.2455797605
+  }
+  light_is_virtual: false
+  related_lane_id: 771
+  related_lane_id: 870
+  related_lane_id: 391
+  related_lane_id: 976
+  related_lane_id: 77
+  related_stop_line_id: 16
+}
+junction_lights {
+  junction_light_id: 55
+  junction_has_light: true
+  junction_position {
+    point_x: 500128.62835555593
+    point_y: 4397169.818363874
+  }
+  junction_position {
+    point_x: 500193.5900043844
+    point_y: 4397154.612012382
+  }
+  junction_position {
+    point_x: 500184.0926466758
+    point_y: 4397114.039228268
+  }
+  junction_position {
+    point_x: 500119.13099784736
+    point_y: 4397129.2455797605
+  }
+  light_is_virtual: false
+  related_lane_id: 601
+  related_lane_id: 58
+  related_lane_id: 887
+  related_lane_id: 59
+  related_stop_line_id: 13
+}
+junction_lights {
+  junction_light_id: 55
+  junction_has_light: true
+  junction_position {
+    point_x: 500128.62835555593
+    point_y: 4397169.818363874
+  }
+  junction_position {
+    point_x: 500193.5900043844
+    point_y: 4397154.612012382
+  }
+  junction_position {
+    point_x: 500184.0926466758
+    point_y: 4397114.039228268
+  }
+  junction_position {
+    point_x: 500119.13099784736
+    point_y: 4397129.2455797605
+  }
+  light_is_virtual: false
+  related_lane_id: 601
+  related_lane_id: 58
+  related_lane_id: 887
+  related_lane_id: 59
+  related_stop_line_id: 13
+}
+junction_lights {
+  junction_light_id: 56
+  junction_has_light: true
+  junction_position {
+    point_x: 500223.8792523025
+    point_y: 4397737.617952551
+  }
+  junction_position {
+    point_x: 500282.2291754064
+    point_y: 4397730.101125626
+  }
+  junction_position {
+    point_x: 500277.14592811925
+    point_y: 4397690.642043903
+  }
+  junction_position {
+    point_x: 500218.79600501544
+    point_y: 4397698.158870828
+  }
+  light_is_virtual: false
+  related_lane_id: 608
+  related_lane_id: 72
+  related_lane_id: 564
+  related_lane_id: 1107
+  related_stop_line_id: 10
+}
+junction_lights {
+  junction_light_id: 57
+  junction_has_light: true
+  junction_position {
+    point_x: 500223.8792523025
+    point_y: 4397737.617952551
+  }
+  junction_position {
+    point_x: 500282.2291754064
+    point_y: 4397730.101125626
+  }
+  junction_position {
+    point_x: 500277.14592811925
+    point_y: 4397690.642043903
+  }
+  junction_position {
+    point_x: 500218.79600501544
+    point_y: 4397698.158870828
+  }
+  light_is_virtual: false
+  related_lane_id: 571
+  related_lane_id: 451
+  related_lane_id: 803
+  related_lane_id: 455
+  related_lane_id: 607
+  related_stop_line_id: 6
+}
+junction_lights {
+  junction_light_id: 57
+  junction_has_light: true
+  junction_position {
+    point_x: 500223.8792523025
+    point_y: 4397737.617952551
+  }
+  junction_position {
+    point_x: 500282.2291754064
+    point_y: 4397730.101125626
+  }
+  junction_position {
+    point_x: 500277.14592811925
+    point_y: 4397690.642043903
+  }
+  junction_position {
+    point_x: 500218.79600501544
+    point_y: 4397698.158870828
+  }
+  light_is_virtual: false
+  related_lane_id: 571
+  related_lane_id: 451
+  related_lane_id: 803
+  related_lane_id: 455
+  related_lane_id: 607
+  related_stop_line_id: 6
+}
+junction_lights {
+  junction_light_id: 58
+  junction_has_light: true
+  junction_position {
+    point_x: 500223.8792523025
+    point_y: 4397737.617952551
+  }
+  junction_position {
+    point_x: 500282.2291754064
+    point_y: 4397730.101125626
+  }
+  junction_position {
+    point_x: 500277.14592811925
+    point_y: 4397690.642043903
+  }
+  junction_position {
+    point_x: 500218.79600501544
+    point_y: 4397698.158870828
+  }
+  light_is_virtual: false
+  related_lane_id: 783
+  related_lane_id: 1140
+  related_lane_id: 415
+  related_lane_id: 1130
+  related_lane_id: 609
+  related_stop_line_id: 12
+}
+junction_lights {
+  junction_light_id: 58
+  junction_has_light: true
+  junction_position {
+    point_x: 500223.8792523025
+    point_y: 4397737.617952551
+  }
+  junction_position {
+    point_x: 500282.2291754064
+    point_y: 4397730.101125626
+  }
+  junction_position {
+    point_x: 500277.14592811925
+    point_y: 4397690.642043903
+  }
+  junction_position {
+    point_x: 500218.79600501544
+    point_y: 4397698.158870828
+  }
+  light_is_virtual: false
+  related_lane_id: 783
+  related_lane_id: 1140
+  related_lane_id: 415
+  related_lane_id: 1130
+  related_lane_id: 609
+  related_stop_line_id: 12
+}
+junction_lights {
+  junction_light_id: 59
+  junction_has_light: true
+  junction_position {
+    point_x: 500223.8792523025
+    point_y: 4397737.617952551
+  }
+  junction_position {
+    point_x: 500282.2291754064
+    point_y: 4397730.101125626
+  }
+  junction_position {
+    point_x: 500277.14592811925
+    point_y: 4397690.642043903
+  }
+  junction_position {
+    point_x: 500218.79600501544
+    point_y: 4397698.158870828
+  }
+  light_is_virtual: false
+  related_lane_id: 890
+  related_lane_id: 71
+  related_stop_line_id: 9
+}
+junction_lights {
+  junction_light_id: 60
+  junction_has_light: true
+  junction_position {
+    point_x: 500360.58890849684
+    point_y: 4398220.376469679
+  }
+  junction_position {
+    point_x: 500296.98537943617
+    point_y: 4398224.95464794
+  }
+  junction_position {
+    point_x: 500299.94247273606
+    point_y: 4398266.0368336905
+  }
+  junction_position {
+    point_x: 500363.5460017967
+    point_y: 4398261.458655429
+  }
+  light_is_virtual: false
+  related_lane_id: 62
+  related_lane_id: 888
+  related_lane_id: 1182
+  related_lane_id: 63
+  related_stop_line_id: 4
+}
+junction_lights {
+  junction_light_id: 61
+  junction_has_light: true
+  junction_position {
+    point_x: 500360.58890849684
+    point_y: 4398220.376469679
+  }
+  junction_position {
+    point_x: 500296.98537943617
+    point_y: 4398224.95464794
+  }
+  junction_position {
+    point_x: 500299.94247273606
+    point_y: 4398266.0368336905
+  }
+  junction_position {
+    point_x: 500363.5460017967
+    point_y: 4398261.458655429
+  }
+  light_is_virtual: false
+  related_lane_id: 480
+  related_lane_id: 819
+  related_lane_id: 484
+  related_lane_id: 864
+  related_lane_id: 55
+  related_stop_line_id: 110
+}
+junction_lights {
+  junction_light_id: 61
+  junction_has_light: true
+  junction_position {
+    point_x: 500360.58890849684
+    point_y: 4398220.376469679
+  }
+  junction_position {
+    point_x: 500296.98537943617
+    point_y: 4398224.95464794
+  }
+  junction_position {
+    point_x: 500299.94247273606
+    point_y: 4398266.0368336905
+  }
+  junction_position {
+    point_x: 500363.5460017967
+    point_y: 4398261.458655429
+  }
+  light_is_virtual: false
+  related_lane_id: 480
+  related_lane_id: 819
+  related_lane_id: 484
+  related_lane_id: 864
+  related_lane_id: 55
+  related_stop_line_id: 110
+}
+junction_lights {
+  junction_light_id: 62
+  junction_has_light: true
+  junction_position {
+    point_x: 500360.58890849684
+    point_y: 4398220.376469679
+  }
+  junction_position {
+    point_x: 500296.98537943617
+    point_y: 4398224.95464794
+  }
+  junction_position {
+    point_x: 500299.94247273606
+    point_y: 4398266.0368336905
+  }
+  junction_position {
+    point_x: 500363.5460017967
+    point_y: 4398261.458655429
+  }
+  light_is_virtual: false
+  related_lane_id: 547
+  related_lane_id: 1012
+  related_lane_id: 852
+  related_lane_id: 872
+  related_lane_id: 606
+  related_stop_line_id: 7
+}
+junction_lights {
+  junction_light_id: 62
+  junction_has_light: true
+  junction_position {
+    point_x: 500360.58890849684
+    point_y: 4398220.376469679
+  }
+  junction_position {
+    point_x: 500296.98537943617
+    point_y: 4398224.95464794
+  }
+  junction_position {
+    point_x: 500299.94247273606
+    point_y: 4398266.0368336905
+  }
+  junction_position {
+    point_x: 500363.5460017967
+    point_y: 4398261.458655429
+  }
+  light_is_virtual: false
+  related_lane_id: 547
+  related_lane_id: 1012
+  related_lane_id: 852
+  related_lane_id: 872
+  related_lane_id: 606
+  related_stop_line_id: 7
+}
+junction_lights {
+  junction_light_id: 63
+  junction_has_light: true
+  junction_position {
+    point_x: 500360.58890849684
+    point_y: 4398220.376469679
+  }
+  junction_position {
+    point_x: 500296.98537943617
+    point_y: 4398224.95464794
+  }
+  junction_position {
+    point_x: 500299.94247273606
+    point_y: 4398266.0368336905
+  }
+  junction_position {
+    point_x: 500363.5460017967
+    point_y: 4398261.458655429
+  }
+  light_is_virtual: false
+  related_lane_id: 605
+  related_lane_id: 66
+  related_stop_line_id: 1
+}
+junction_lights {
+  junction_light_id: 64
+  junction_has_light: true
+  junction_position {
+    point_x: 500326.59779956396
+    point_y: 4398788.969429537
+  }
+  junction_position {
+    point_x: 500331.7381639869
+    point_y: 4398726.696853239
+  }
+  junction_position {
+    point_x: 500266.974947218
+    point_y: 4398721.350895937
+  }
+  junction_position {
+    point_x: 500261.8345827951
+    point_y: 4398783.623472234
+  }
+  light_is_virtual: false
+  related_lane_id: 47
+  related_lane_id: 587
+  related_stop_line_id: 109
+}
+junction_lights {
+  junction_light_id: 65
+  junction_has_light: true
+  junction_position {
+    point_x: 500326.59779956396
+    point_y: 4398788.969429537
+  }
+  junction_position {
+    point_x: 500331.7381639869
+    point_y: 4398726.696853239
+  }
+  junction_position {
+    point_x: 500266.974947218
+    point_y: 4398721.350895937
+  }
+  junction_position {
+    point_x: 500261.8345827951
+    point_y: 4398783.623472234
+  }
+  light_is_virtual: false
+  related_lane_id: 1089
+  related_lane_id: 1142
+  related_lane_id: 496
+  related_lane_id: 827
+  related_lane_id: 583
+  related_stop_line_id: 83
+}
+junction_lights {
+  junction_light_id: 65
+  junction_has_light: true
+  junction_position {
+    point_x: 500326.59779956396
+    point_y: 4398788.969429537
+  }
+  junction_position {
+    point_x: 500331.7381639869
+    point_y: 4398726.696853239
+  }
+  junction_position {
+    point_x: 500266.974947218
+    point_y: 4398721.350895937
+  }
+  junction_position {
+    point_x: 500261.8345827951
+    point_y: 4398783.623472234
+  }
+  light_is_virtual: false
+  related_lane_id: 1089
+  related_lane_id: 1142
+  related_lane_id: 496
+  related_lane_id: 827
+  related_lane_id: 583
+  related_stop_line_id: 83
+}
+junction_lights {
+  junction_light_id: 66
+  junction_has_light: true
+  junction_position {
+    point_x: 500326.59779956396
+    point_y: 4398788.969429537
+  }
+  junction_position {
+    point_x: 500331.7381639869
+    point_y: 4398726.696853239
+  }
+  junction_position {
+    point_x: 500266.974947218
+    point_y: 4398721.350895937
+  }
+  junction_position {
+    point_x: 500261.8345827951
+    point_y: 4398783.623472234
+  }
+  light_is_virtual: false
+  related_lane_id: 992
+  related_lane_id: 1141
+  related_lane_id: 459
+  related_lane_id: 807
+  related_lane_id: 602
+  related_stop_line_id: 112
+}
+junction_lights {
+  junction_light_id: 66
+  junction_has_light: true
+  junction_position {
+    point_x: 500326.59779956396
+    point_y: 4398788.969429537
+  }
+  junction_position {
+    point_x: 500331.7381639869
+    point_y: 4398726.696853239
+  }
+  junction_position {
+    point_x: 500266.974947218
+    point_y: 4398721.350895937
+  }
+  junction_position {
+    point_x: 500261.8345827951
+    point_y: 4398783.623472234
+  }
+  light_is_virtual: false
+  related_lane_id: 992
+  related_lane_id: 1141
+  related_lane_id: 459
+  related_lane_id: 807
+  related_lane_id: 602
+  related_stop_line_id: 112
+}
+junction_lights {
+  junction_light_id: 67
+  junction_has_light: true
+  junction_position {
+    point_x: 500135.2134122074
+    point_y: 4399622.447502077
+  }
+  junction_position {
+    point_x: 500187.71664511226
+    point_y: 4399625.07107347
+  }
+  junction_position {
+    point_x: 500189.2338155791
+    point_y: 4399594.709271767
+  }
+  junction_position {
+    point_x: 500136.7305826742
+    point_y: 4399592.085700375
+  }
+  light_is_virtual: false
+  related_lane_id: 18
+  related_stop_line_id: 53
+}
+junction_lights {
+  junction_light_id: 68
+  junction_has_light: true
+  junction_position {
+    point_x: 500135.2134122074
+    point_y: 4399622.447502077
+  }
+  junction_position {
+    point_x: 500187.71664511226
+    point_y: 4399625.07107347
+  }
+  junction_position {
+    point_x: 500189.2338155791
+    point_y: 4399594.709271767
+  }
+  junction_position {
+    point_x: 500136.7305826742
+    point_y: 4399592.085700375
+  }
+  light_is_virtual: false
+  related_lane_id: 504
+  related_lane_id: 831
+  related_lane_id: 508
+  related_lane_id: 84
+  related_stop_line_id: 30
+}
+junction_lights {
+  junction_light_id: 68
+  junction_has_light: true
+  junction_position {
+    point_x: 500135.2134122074
+    point_y: 4399622.447502077
+  }
+  junction_position {
+    point_x: 500187.71664511226
+    point_y: 4399625.07107347
+  }
+  junction_position {
+    point_x: 500189.2338155791
+    point_y: 4399594.709271767
+  }
+  junction_position {
+    point_x: 500136.7305826742
+    point_y: 4399592.085700375
+  }
+  light_is_virtual: false
+  related_lane_id: 504
+  related_lane_id: 831
+  related_lane_id: 508
+  related_lane_id: 84
+  related_stop_line_id: 30
+}
+junction_lights {
+  junction_light_id: 69
+  junction_has_light: true
+  junction_position {
+    point_x: 500135.2134122074
+    point_y: 4399622.447502077
+  }
+  junction_position {
+    point_x: 500187.71664511226
+    point_y: 4399625.07107347
+  }
+  junction_position {
+    point_x: 500189.2338155791
+    point_y: 4399594.709271767
+  }
+  junction_position {
+    point_x: 500136.7305826742
+    point_y: 4399592.085700375
+  }
+  light_is_virtual: false
+  related_lane_id: 996
+  related_lane_id: 472
+  related_lane_id: 815
+  related_lane_id: 589
+  related_stop_line_id: 90
+}
+junction_lights {
+  junction_light_id: 69
+  junction_has_light: true
+  junction_position {
+    point_x: 500135.2134122074
+    point_y: 4399622.447502077
+  }
+  junction_position {
+    point_x: 500187.71664511226
+    point_y: 4399625.07107347
+  }
+  junction_position {
+    point_x: 500189.2338155791
+    point_y: 4399594.709271767
+  }
+  junction_position {
+    point_x: 500136.7305826742
+    point_y: 4399592.085700375
+  }
+  light_is_virtual: false
+  related_lane_id: 996
+  related_lane_id: 472
+  related_lane_id: 815
+  related_lane_id: 589
+  related_stop_line_id: 90
+}
+junction_lights {
+  junction_light_id: 70
+  junction_has_light: true
+  junction_position {
+    point_x: 500135.2134122074
+    point_y: 4399622.447502077
+  }
+  junction_position {
+    point_x: 500187.71664511226
+    point_y: 4399625.07107347
+  }
+  junction_position {
+    point_x: 500189.2338155791
+    point_y: 4399594.709271767
+  }
+  junction_position {
+    point_x: 500136.7305826742
+    point_y: 4399592.085700375
+  }
+  light_is_virtual: false
+  related_lane_id: 14
+  related_stop_line_id: 48
+}
+junction_lights {
+  junction_light_id: 71
+  junction_has_light: true
+  junction_position {
+    point_x: 500179.0994949982
+    point_y: 4400011.86746868
+  }
+  junction_position {
+    point_x: 500125.34287305607
+    point_y: 4400014.945690362
+  }
+  junction_position {
+    point_x: 500127.9892665614
+    point_y: 4400061.161066893
+  }
+  junction_position {
+    point_x: 500181.74588850356
+    point_y: 4400058.082845211
+  }
+  light_is_virtual: false
+  related_lane_id: 61
+  related_lane_id: 604
+  related_stop_line_id: 111
+}
+junction_lights {
+  junction_light_id: 72
+  junction_has_light: true
+  junction_position {
+    point_x: 500179.0994949982
+    point_y: 4400011.86746868
+  }
+  junction_position {
+    point_x: 500125.34287305607
+    point_y: 4400014.945690362
+  }
+  junction_position {
+    point_x: 500127.9892665614
+    point_y: 4400061.161066893
+  }
+  junction_position {
+    point_x: 500181.74588850356
+    point_y: 4400058.082845211
+  }
+  light_is_virtual: false
+  related_lane_id: 67
+  related_lane_id: 860
+  related_lane_id: 68
+  related_stop_line_id: 17
+}
+junction_lights {
+  junction_light_id: 72
+  junction_has_light: true
+  junction_position {
+    point_x: 500179.0994949982
+    point_y: 4400011.86746868
+  }
+  junction_position {
+    point_x: 500125.34287305607
+    point_y: 4400014.945690362
+  }
+  junction_position {
+    point_x: 500127.9892665614
+    point_y: 4400061.161066893
+  }
+  junction_position {
+    point_x: 500181.74588850356
+    point_y: 4400058.082845211
+  }
+  light_is_virtual: false
+  related_lane_id: 67
+  related_lane_id: 860
+  related_lane_id: 68
+  related_stop_line_id: 17
+}
+junction_lights {
+  junction_light_id: 73
+  junction_has_light: true
+  junction_position {
+    point_x: 500179.0994949982
+    point_y: 4400011.86746868
+  }
+  junction_position {
+    point_x: 500125.34287305607
+    point_y: 4400014.945690362
+  }
+  junction_position {
+    point_x: 500127.9892665614
+    point_y: 4400061.161066893
+  }
+  junction_position {
+    point_x: 500181.74588850356
+    point_y: 4400058.082845211
+  }
+  light_is_virtual: false
+  related_lane_id: 823
+  related_lane_id: 1021
+  related_lane_id: 492
+  related_lane_id: 488
+  related_lane_id: 89
+  related_stop_line_id: 28
+}
+junction_lights {
+  junction_light_id: 73
+  junction_has_light: true
+  junction_position {
+    point_x: 500179.0994949982
+    point_y: 4400011.86746868
+  }
+  junction_position {
+    point_x: 500125.34287305607
+    point_y: 4400014.945690362
+  }
+  junction_position {
+    point_x: 500127.9892665614
+    point_y: 4400061.161066893
+  }
+  junction_position {
+    point_x: 500181.74588850356
+    point_y: 4400058.082845211
+  }
+  light_is_virtual: false
+  related_lane_id: 823
+  related_lane_id: 1021
+  related_lane_id: 492
+  related_lane_id: 488
+  related_lane_id: 89
+  related_stop_line_id: 28
+}
+junction_lights {
+  junction_light_id: 74
+  junction_has_light: true
+  junction_position {
+    point_x: 500179.0994949982
+    point_y: 4400011.86746868
+  }
+  junction_position {
+    point_x: 500125.34287305607
+    point_y: 4400014.945690362
+  }
+  junction_position {
+    point_x: 500127.9892665614
+    point_y: 4400061.161066893
+  }
+  junction_position {
+    point_x: 500181.74588850356
+    point_y: 4400058.082845211
+  }
+  light_is_virtual: false
+  related_lane_id: 874
+  related_lane_id: 576
+  related_lane_id: 8
+  related_stop_line_id: 41
+}

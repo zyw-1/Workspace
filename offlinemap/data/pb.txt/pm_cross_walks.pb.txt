@@ -1,0 +1,2815 @@
+cross_walks {
+  cross_walk_id: 7
+  polygon_points {
+    point_x: 500511.6395751422
+    point_y: 4392935.848365732
+  }
+  polygon_points {
+    point_x: 500488.7955135168
+    point_y: 4392933.007435006
+  }
+  polygon_points {
+    point_x: 500488.13445120526
+    point_y: 4392938.320838966
+  }
+  polygon_points {
+    point_x: 500510.97895565035
+    point_y: 4392941.16211896
+  }
+  related_lane_id: 1164
+  related_lane_id: 1171
+  related_lane_id: 39
+  related_lane_id: 925
+  related_lane_id: 205
+  related_lane_id: 882
+}
+cross_walks {
+  cross_walk_id: 50
+  polygon_points {
+    point_x: 500172.31709012407
+    point_y: 4400056.594576782
+  }
+  polygon_points {
+    point_x: 500175.4041543719
+    point_y: 4400058.838073338
+  }
+  polygon_points {
+    point_x: 500177.26106462715
+    point_y: 4400056.282581978
+  }
+  polygon_points {
+    point_x: 500174.17400037975
+    point_y: 4400054.039085421
+  }
+  related_lane_id: 866
+}
+cross_walks {
+  cross_walk_id: 11
+  polygon_points {
+    point_x: 500131.68885291135
+    point_y: 4400061.85812936
+  }
+  polygon_points {
+    point_x: 500134.46478619066
+    point_y: 4400058.7335843025
+  }
+  polygon_points {
+    point_x: 500132.1696119781
+    point_y: 4400056.693792679
+  }
+  polygon_points {
+    point_x: 500129.39267117204
+    point_y: 4400059.817628518
+  }
+  related_lane_id: 1033
+}
+cross_walks {
+  cross_walk_id: 41
+  polygon_points {
+    point_x: 500055.1806813256
+    point_y: 4396395.162127512
+  }
+  polygon_points {
+    point_x: 500060.04553354596
+    point_y: 4396426.10509217
+  }
+  polygon_points {
+    point_x: 500065.23991970345
+    point_y: 4396425.288430544
+  }
+  polygon_points {
+    point_x: 500060.37506772275
+    point_y: 4396394.345480639
+  }
+  related_lane_id: 1074
+  related_lane_id: 401
+  related_lane_id: 776
+  related_lane_id: 393
+  related_lane_id: 773
+  related_lane_id: 396
+  related_lane_id: 392
+  related_lane_id: 772
+  related_lane_id: 398
+  related_lane_id: 381
+  related_lane_id: 1155
+  related_lane_id: 386
+  related_lane_id: 769
+  related_lane_id: 390
+  related_lane_id: 975
+  related_lane_id: 394
+  related_lane_id: 774
+  related_lane_id: 397
+}
+cross_walks {
+  cross_walk_id: 37
+  polygon_points {
+    point_x: 500003.595109005
+    point_y: 4396430.170743829
+  }
+  polygon_points {
+    point_x: 500001.1916640594
+    point_y: 4396398.723463386
+  }
+  polygon_points {
+    point_x: 499995.95581747254
+    point_y: 4396399.123627425
+  }
+  polygon_points {
+    point_x: 499998.35927713144
+    point_y: 4396430.57109588
+  }
+  related_lane_id: 1074
+  related_lane_id: 401
+  related_lane_id: 776
+  related_lane_id: 393
+  related_lane_id: 773
+  related_lane_id: 396
+  related_lane_id: 768
+  related_lane_id: 389
+  related_lane_id: 974
+  related_lane_id: 1075
+  related_lane_id: 400
+  related_lane_id: 777
+  related_lane_id: 1076
+  related_lane_id: 402
+  related_lane_id: 778
+  related_lane_id: 380
+  related_lane_id: 1153
+  related_lane_id: 385
+}
+cross_walks {
+  cross_walk_id: 14
+  polygon_points {
+    point_x: 500176.12346040364
+    point_y: 4399617.258346971
+  }
+  polygon_points {
+    point_x: 500138.2355914129
+    point_y: 4399615.343362942
+  }
+  polygon_points {
+    point_x: 500137.9693147638
+    point_y: 4399620.611633928
+  }
+  polygon_points {
+    point_x: 500175.8571837546
+    point_y: 4399622.526617956
+  }
+  related_lane_id: 1087
+  related_lane_id: 494
+  related_lane_id: 826
+  related_lane_id: 821
+  related_lane_id: 489
+  related_lane_id: 487
+  related_lane_id: 1000
+  related_lane_id: 822
+  related_lane_id: 490
+  related_lane_id: 485
+  related_lane_id: 499
+  related_lane_id: 820
+  related_lane_id: 491
+  related_lane_id: 486
+}
+cross_walks {
+  cross_walk_id: 17
+  polygon_points {
+    point_x: 500140.1151130133
+    point_y: 4399600.059230976
+  }
+  polygon_points {
+    point_x: 500178.28945806716
+    point_y: 4399601.397709743
+  }
+  polygon_points {
+    point_x: 500178.4756167721
+    point_y: 4399596.088644624
+  }
+  polygon_points {
+    point_x: 500140.30145081057
+    point_y: 4399594.750093841
+  }
+  related_lane_id: 1087
+  related_lane_id: 494
+  related_lane_id: 826
+  related_lane_id: 821
+  related_lane_id: 489
+  related_lane_id: 487
+  related_lane_id: 1086
+  related_lane_id: 495
+  related_lane_id: 825
+  related_lane_id: 498
+  related_lane_id: 1088
+  related_lane_id: 493
+  related_lane_id: 824
+  related_lane_id: 998
+}
+cross_walks {
+  cross_walk_id: 45
+  polygon_points {
+    point_x: 499929.31920882134
+    point_y: 4395854.692583737
+  }
+  polygon_points {
+    point_x: 499969.0937771252
+    point_y: 4395852.395498783
+  }
+  polygon_points {
+    point_x: 499968.78587173764
+    point_y: 4395847.064044265
+  }
+  polygon_points {
+    point_x: 499929.0113034338
+    point_y: 4395849.361129218
+  }
+  related_lane_id: 1092
+  related_lane_id: 524
+  related_lane_id: 839
+  related_lane_id: 528
+  related_lane_id: 1006
+  related_lane_id: 532
+  related_lane_id: 1090
+  related_lane_id: 523
+  related_lane_id: 840
+  related_lane_id: 845
+  related_lane_id: 536
+  related_lane_id: 1091
+  related_lane_id: 522
+  related_lane_id: 841
+  related_lane_id: 1136
+  related_lane_id: 539
+}
+cross_walks {
+  cross_walk_id: 46
+  polygon_points {
+    point_x: 499968.7046314778
+    point_y: 4395847.859677466
+  }
+  polygon_points {
+    point_x: 499972.104733656
+    point_y: 4395872.813971898
+  }
+  polygon_points {
+    point_x: 499977.1951964819
+    point_y: 4395872.120348565
+  }
+  polygon_points {
+    point_x: 499973.79509430367
+    point_y: 4395847.166054133
+  }
+  related_lane_id: 1135
+  related_lane_id: 538
+  related_lane_id: 844
+  related_lane_id: 535
+  related_lane_id: 1137
+  related_lane_id: 540
+  related_lane_id: 1090
+  related_lane_id: 523
+  related_lane_id: 840
+  related_lane_id: 527
+  related_lane_id: 1007
+  related_lane_id: 531
+  related_lane_id: 1136
+  related_lane_id: 539
+}
+cross_walks {
+  cross_walk_id: 38
+  polygon_points {
+    point_x: 499932.32404534117
+    point_y: 4395875.909642411
+  }
+  polygon_points {
+    point_x: 499928.5420950198
+    point_y: 4395848.864544714
+  }
+  polygon_points {
+    point_x: 499923.427935685
+    point_y: 4395849.579701922
+  }
+  polygon_points {
+    point_x: 499927.20988600637
+    point_y: 4395876.62479962
+  }
+  related_lane_id: 1135
+  related_lane_id: 538
+  related_lane_id: 844
+  related_lane_id: 535
+  related_lane_id: 526
+  related_lane_id: 1005
+  related_lane_id: 530
+  related_lane_id: 845
+  related_lane_id: 536
+  related_lane_id: 843
+  related_lane_id: 534
+  related_lane_id: 1091
+  related_lane_id: 522
+  related_lane_id: 841
+}
+cross_walks {
+  cross_walk_id: 5
+  polygon_points {
+    point_x: 499932.6067016604
+    point_y: 4395875.518845222
+  }
+  polygon_points {
+    point_x: 499972.0843377628
+    point_y: 4395872.813971966
+  }
+  polygon_points {
+    point_x: 499971.730658444
+    point_y: 4395867.651613415
+  }
+  polygon_points {
+    point_x: 499932.2529916092
+    point_y: 4395870.356536312
+  }
+  related_lane_id: 1092
+  related_lane_id: 524
+  related_lane_id: 839
+  related_lane_id: 528
+  related_lane_id: 1006
+  related_lane_id: 532
+  related_lane_id: 1137
+  related_lane_id: 540
+  related_lane_id: 526
+  related_lane_id: 1005
+  related_lane_id: 530
+  related_lane_id: 843
+  related_lane_id: 534
+  related_lane_id: 527
+  related_lane_id: 1007
+  related_lane_id: 531
+}
+cross_walks {
+  cross_walk_id: 9
+  polygon_points {
+    point_x: 499286.78329155006
+    point_y: 4390689.255573557
+  }
+  polygon_points {
+    point_x: 499281.7265136599
+    point_y: 4390688.254899241
+  }
+  polygon_points {
+    point_x: 499280.4472695638
+    point_y: 4390694.719393375
+  }
+  polygon_points {
+    point_x: 499285.50432800007
+    point_y: 4390695.7203181675
+  }
+  related_lane_id: 1098
+}
+cross_walks {
+  cross_walk_id: 78
+  polygon_points {
+    point_x: 499249.4101366007
+    point_y: 4390653.431326954
+  }
+  polygon_points {
+    point_x: 499256.0192490098
+    point_y: 4390654.985916902
+  }
+  polygon_points {
+    point_x: 499257.2031210983
+    point_y: 4390649.954432435
+  }
+  polygon_points {
+    point_x: 499250.59345982113
+    point_y: 4390648.399551097
+  }
+  related_lane_id: 1022
+}
+cross_walks {
+  cross_walk_id: 62
+  polygon_points {
+    point_x: 500516.54154658626
+    point_y: 4392905.745577153
+  }
+  polygon_points {
+    point_x: 500492.2913284105
+    point_y: 4392902.413110226
+  }
+  polygon_points {
+    point_x: 500491.57409151545
+    point_y: 4392907.632134398
+  }
+  polygon_points {
+    point_x: 500515.82476539514
+    point_y: 4392910.964841342
+  }
+  related_lane_id: 1164
+  related_lane_id: 1171
+  related_lane_id: 39
+  related_lane_id: 925
+  related_lane_id: 205
+  related_lane_id: 882
+}
+cross_walks {
+  cross_walk_id: 1
+  polygon_points {
+    point_x: 499324.8448747038
+    point_y: 4390671.457861358
+  }
+  polygon_points {
+    point_x: 499317.6939041481
+    point_y: 4390668.978479113
+  }
+  polygon_points {
+    point_x: 499315.952196759
+    point_y: 4390674.003082936
+  }
+  polygon_points {
+    point_x: 499323.10255358194
+    point_y: 4390676.48210392
+  }
+  related_lane_id: 1170
+}
+cross_walks {
+  cross_walk_id: 80
+  polygon_points {
+    point_x: 500441.8351097609
+    point_y: 4393241.322831156
+  }
+  polygon_points {
+    point_x: 500438.76923732297
+    point_y: 4393206.180204336
+  }
+  polygon_points {
+    point_x: 500433.38082819676
+    point_y: 4393206.650088953
+  }
+  polygon_points {
+    point_x: 500436.44668778894
+    point_y: 4393241.79291698
+  }
+  related_lane_id: 1180
+  related_lane_id: 211
+  related_lane_id: 683
+  related_lane_id: 214
+  related_lane_id: 927
+  related_lane_id: 220
+  related_lane_id: 677
+  related_lane_id: 207
+  related_lane_id: 216
+  related_lane_id: 928
+  related_lane_id: 218
+  related_lane_id: 922
+  related_lane_id: 203
+  related_lane_id: 215
+  related_lane_id: 926
+  related_lane_id: 219
+}
+cross_walks {
+  cross_walk_id: 82
+  polygon_points {
+    point_x: 500486.981847281
+    point_y: 4393202.232954816
+  }
+  polygon_points {
+    point_x: 500490.7229852142
+    point_y: 4393237.101431722
+  }
+  polygon_points {
+    point_x: 500496.1742377846
+    point_y: 4393236.51639952
+  }
+  polygon_points {
+    point_x: 500492.4331098438
+    point_y: 4393201.648073372
+  }
+  related_lane_id: 1180
+  related_lane_id: 211
+  related_lane_id: 683
+  related_lane_id: 214
+  related_lane_id: 927
+  related_lane_id: 220
+  related_lane_id: 924
+  related_lane_id: 202
+  related_lane_id: 1178
+  related_lane_id: 210
+  related_lane_id: 682
+  related_lane_id: 678
+  related_lane_id: 206
+  related_lane_id: 1179
+  related_lane_id: 212
+  related_lane_id: 681
+}
+cross_walks {
+  cross_walk_id: 43
+  polygon_points {
+    point_x: 499284.0801175748
+    point_y: 4390634.868672876
+  }
+  polygon_points {
+    point_x: 499263.1925347348
+    point_y: 4390646.7446442805
+  }
+  polygon_points {
+    point_x: 499265.9276884429
+    point_y: 4390651.55488112
+  }
+  polygon_points {
+    point_x: 499286.8151449144
+    point_y: 4390639.679126171
+  }
+  related_lane_id: 171
+  related_lane_id: 915
+  related_lane_id: 175
+  related_lane_id: 663
+  related_lane_id: 178
+  related_lane_id: 1113
+  related_lane_id: 163
+  related_lane_id: 657
+  related_lane_id: 165
+  related_lane_id: 172
+  related_lane_id: 914
+  related_lane_id: 174
+}
+cross_walks {
+  cross_walk_id: 88
+  polygon_points {
+    point_x: 499309.0321325878
+    point_y: 4390672.102835894
+  }
+  polygon_points {
+    point_x: 499287.9854875168
+    point_y: 4390683.854341369
+  }
+  polygon_points {
+    point_x: 499290.5561711517
+    point_y: 4390688.459244519
+  }
+  polygon_points {
+    point_x: 499311.6032046405
+    point_y: 4390676.707584434
+  }
+  related_lane_id: 171
+  related_lane_id: 915
+  related_lane_id: 175
+  related_lane_id: 663
+  related_lane_id: 178
+  related_lane_id: 1113
+  related_lane_id: 659
+  related_lane_id: 168
+  related_lane_id: 1048
+  related_lane_id: 662
+  related_lane_id: 177
+  related_lane_id: 1114
+}
+cross_walks {
+  cross_walk_id: 86
+  polygon_points {
+    point_x: 499519.8941082179
+    point_y: 4391033.355527162
+  }
+  polygon_points {
+    point_x: 499544.1228859602
+    point_y: 4391018.031407758
+  }
+  polygon_points {
+    point_x: 499541.2167830956
+    point_y: 4391013.435607582
+  }
+  polygon_points {
+    point_x: 499516.98800535133
+    point_y: 4391028.759726979
+  }
+  related_lane_id: 180
+  related_lane_id: 666
+  related_lane_id: 187
+  related_lane_id: 917
+  related_lane_id: 1050
+  related_lane_id: 198
+  related_lane_id: 675
+  related_lane_id: 182
+  related_lane_id: 667
+  related_lane_id: 191
+  related_lane_id: 670
+  related_lane_id: 193
+  related_lane_id: 181
+  related_lane_id: 665
+}
+cross_walks {
+  cross_walk_id: 84
+  polygon_points {
+    point_x: 499558.140888694
+    point_y: 4391047.960242705
+  }
+  polygon_points {
+    point_x: 499537.4529021171
+    point_y: 4391060.782782339
+  }
+  polygon_points {
+    point_x: 499540.2812842161
+    point_y: 4391065.345585965
+  }
+  polygon_points {
+    point_x: 499560.96927079145
+    point_y: 4391052.5230463315
+  }
+  related_lane_id: 180
+  related_lane_id: 666
+  related_lane_id: 187
+  related_lane_id: 917
+  related_lane_id: 190
+  related_lane_id: 669
+  related_lane_id: 194
+  related_lane_id: 185
+  related_lane_id: 920
+  related_lane_id: 186
+  related_lane_id: 919
+  related_lane_id: 1051
+  related_lane_id: 199
+  related_lane_id: 673
+  related_lane_id: 184
+  related_lane_id: 918
+}
+cross_walks {
+  cross_walk_id: 85
+  polygon_points {
+    point_x: 499528.9827509243
+    point_y: 4391064.1412295615
+  }
+  polygon_points {
+    point_x: 499512.3869538167
+    point_y: 4391035.512102366
+  }
+  polygon_points {
+    point_x: 499507.8836866158
+    point_y: 4391038.122413017
+  }
+  polygon_points {
+    point_x: 499524.47978880076
+    point_y: 4391066.751562747
+  }
+  related_lane_id: 189
+  related_lane_id: 671
+  related_lane_id: 195
+  related_lane_id: 1052
+  related_lane_id: 197
+  related_lane_id: 674
+  related_lane_id: 1050
+  related_lane_id: 198
+  related_lane_id: 675
+  related_lane_id: 185
+  related_lane_id: 920
+  related_lane_id: 186
+  related_lane_id: 919
+  related_lane_id: 1051
+  related_lane_id: 199
+  related_lane_id: 673
+  related_lane_id: 181
+  related_lane_id: 665
+}
+cross_walks {
+  cross_walk_id: 87
+  polygon_points {
+    point_x: 499548.9899365173
+    point_y: 4391017.186545375
+  }
+  polygon_points {
+    point_x: 499566.0905377936
+    point_y: 4391043.909745554
+  }
+  polygon_points {
+    point_x: 499570.61047093093
+    point_y: 4391041.017403216
+  }
+  polygon_points {
+    point_x: 499553.50986965536
+    point_y: 4391014.294203035
+  }
+  related_lane_id: 189
+  related_lane_id: 671
+  related_lane_id: 195
+  related_lane_id: 1052
+  related_lane_id: 197
+  related_lane_id: 674
+  related_lane_id: 190
+  related_lane_id: 669
+  related_lane_id: 194
+  related_lane_id: 182
+  related_lane_id: 667
+  related_lane_id: 191
+  related_lane_id: 670
+  related_lane_id: 193
+  related_lane_id: 184
+  related_lane_id: 918
+}
+cross_walks {
+  cross_walk_id: 58
+  polygon_points {
+    point_x: 500243.9974402469
+    point_y: 4393226.759057815
+  }
+  polygon_points {
+    point_x: 500238.78100966266
+    point_y: 4393227.145587684
+  }
+  polygon_points {
+    point_x: 500240.8304345068
+    point_y: 4393254.803689296
+  }
+  polygon_points {
+    point_x: 500246.0468650911
+    point_y: 4393254.417159428
+  }
+  related_lane_id: 226
+  related_lane_id: 930
+  related_lane_id: 229
+  related_lane_id: 1055
+  related_lane_id: 223
+  related_lane_id: 686
+  related_lane_id: 227
+  related_lane_id: 931
+  related_lane_id: 230
+  related_lane_id: 233
+  related_lane_id: 1117
+}
+cross_walks {
+  cross_walk_id: 3
+  polygon_points {
+    point_x: 500216.2270690996
+    point_y: 4393228.705336965
+  }
+  polygon_points {
+    point_x: 500217.94706229074
+    point_y: 4393256.436659759
+  }
+  polygon_points {
+    point_x: 500223.42861588125
+    point_y: 4393256.096674722
+  }
+  polygon_points {
+    point_x: 500221.7086226902
+    point_y: 4393228.365351928
+  }
+  related_lane_id: 226
+  related_lane_id: 930
+  related_lane_id: 229
+  related_lane_id: 1055
+  related_lane_id: 223
+  related_lane_id: 686
+  related_lane_id: 232
+  related_lane_id: 1116
+  related_lane_id: 1054
+  related_lane_id: 224
+  related_lane_id: 687
+}
+cross_walks {
+  cross_walk_id: 71
+  polygon_points {
+    point_x: 499639.7487069661
+    point_y: 4393305.730532854
+  }
+  polygon_points {
+    point_x: 499679.3306345345
+    point_y: 4393302.70691836
+  }
+  polygon_points {
+    point_x: 499678.9159087999
+    point_y: 4393297.277772561
+  }
+  polygon_points {
+    point_x: 499639.33398123155
+    point_y: 4393300.301387056
+  }
+  related_lane_id: 263
+  related_lane_id: 708
+  related_lane_id: 274
+  related_lane_id: 1059
+  related_lane_id: 941
+  related_lane_id: 265
+  related_lane_id: 270
+  related_lane_id: 711
+  related_lane_id: 275
+  related_lane_id: 1058
+  related_lane_id: 702
+  related_lane_id: 259
+  related_lane_id: 1151
+  related_lane_id: 710
+  related_lane_id: 273
+  related_lane_id: 1060
+}
+cross_walks {
+  cross_walk_id: 66
+  polygon_points {
+    point_x: 499741.2800802505
+    point_y: 4394056.688202606
+  }
+  polygon_points {
+    point_x: 499694.38666810066
+    point_y: 4394060.159413174
+  }
+  polygon_points {
+    point_x: 499694.78267581394
+    point_y: 4394065.509963682
+  }
+  polygon_points {
+    point_x: 499741.67619627074
+    point_y: 4394062.038937948
+  }
+  related_lane_id: 305
+  related_lane_id: 729
+  related_lane_id: 308
+  related_lane_id: 725
+  related_lane_id: 301
+  related_lane_id: 1062
+  related_lane_id: 306
+  related_lane_id: 730
+  related_lane_id: 310
+  related_lane_id: 954
+  related_lane_id: 313
+  related_lane_id: 734
+  related_lane_id: 318
+  related_lane_id: 304
+  related_lane_id: 728
+  related_lane_id: 309
+}
+cross_walks {
+  cross_walk_id: 63
+  polygon_points {
+    point_x: 499692.6738430652
+    point_y: 4394096.862481484
+  }
+  polygon_points {
+    point_x: 499744.96971585765
+    point_y: 4394092.810329071
+  }
+  polygon_points {
+    point_x: 499744.548645911
+    point_y: 4394087.376125692
+  }
+  polygon_points {
+    point_x: 499692.2527731185
+    point_y: 4394091.428278105
+  }
+  related_lane_id: 305
+  related_lane_id: 729
+  related_lane_id: 308
+  related_lane_id: 725
+  related_lane_id: 301
+  related_lane_id: 1062
+  related_lane_id: 732
+  related_lane_id: 317
+  related_lane_id: 724
+  related_lane_id: 300
+  related_lane_id: 1064
+  related_lane_id: 953
+  related_lane_id: 314
+  related_lane_id: 726
+  related_lane_id: 302
+  related_lane_id: 1063
+}
+cross_walks {
+  cross_walk_id: 6
+  polygon_points {
+    point_x: 499755.4113193915
+    point_y: 4394535.355775606
+  }
+  polygon_points {
+    point_x: 499804.28230449476
+    point_y: 4394529.256747606
+  }
+  polygon_points {
+    point_x: 499803.628669065
+    point_y: 4394524.0192233035
+  }
+  polygon_points {
+    point_x: 499754.75768396177
+    point_y: 4394530.118251303
+  }
+  related_lane_id: 322
+  related_lane_id: 736
+  related_lane_id: 324
+  related_lane_id: 957
+  related_lane_id: 328
+  related_lane_id: 742
+  related_lane_id: 321
+  related_lane_id: 738
+  related_lane_id: 326
+  related_lane_id: 334
+  related_lane_id: 1068
+  related_lane_id: 320
+  related_lane_id: 737
+  related_lane_id: 325
+  related_lane_id: 336
+  related_lane_id: 745
+}
+cross_walks {
+  cross_walk_id: 57
+  polygon_points {
+    point_x: 499759.8091475995
+    point_y: 4394556.493497378
+  }
+  polygon_points {
+    point_x: 499806.5040190547
+    point_y: 4394551.291757156
+  }
+  polygon_points {
+    point_x: 499805.92059538385
+    point_y: 4394546.054491887
+  }
+  polygon_points {
+    point_x: 499759.22572392866
+    point_y: 4394551.256232109
+  }
+  related_lane_id: 322
+  related_lane_id: 736
+  related_lane_id: 324
+  related_lane_id: 957
+  related_lane_id: 328
+  related_lane_id: 742
+  related_lane_id: 337
+  related_lane_id: 746
+  related_lane_id: 958
+  related_lane_id: 330
+  related_lane_id: 741
+  related_lane_id: 334
+  related_lane_id: 1068
+  related_lane_id: 332
+  related_lane_id: 1066
+  related_lane_id: 959
+  related_lane_id: 329
+  related_lane_id: 740
+}
+cross_walks {
+  cross_walk_id: 12
+  polygon_points {
+    point_x: 499799.3266097149
+    point_y: 4394530.170862387
+  }
+  polygon_points {
+    point_x: 499801.0779787263
+    point_y: 4394546.520732935
+  }
+  polygon_points {
+    point_x: 499806.26345890714
+    point_y: 4394545.965273532
+  }
+  polygon_points {
+    point_x: 499804.5120898957
+    point_y: 4394529.615402984
+  }
+  related_lane_id: 338
+  related_lane_id: 744
+  related_lane_id: 333
+  related_lane_id: 1067
+  related_lane_id: 337
+  related_lane_id: 746
+  related_lane_id: 321
+  related_lane_id: 738
+  related_lane_id: 326
+  related_lane_id: 959
+  related_lane_id: 329
+  related_lane_id: 740
+  related_lane_id: 336
+  related_lane_id: 745
+}
+cross_walks {
+  cross_walk_id: 60
+  polygon_points {
+    point_x: 499760.23450590787
+    point_y: 4394558.44655407
+  }
+  polygon_points {
+    point_x: 499753.81294926733
+    point_y: 4394528.510467343
+  }
+  polygon_points {
+    point_x: 499748.6792374787
+    point_y: 4394529.611709561
+  }
+  polygon_points {
+    point_x: 499755.10084813304
+    point_y: 4394559.5476290295
+  }
+  related_lane_id: 338
+  related_lane_id: 744
+  related_lane_id: 333
+  related_lane_id: 1067
+  related_lane_id: 958
+  related_lane_id: 330
+  related_lane_id: 741
+  related_lane_id: 334
+  related_lane_id: 1068
+  related_lane_id: 332
+  related_lane_id: 1066
+  related_lane_id: 320
+  related_lane_id: 737
+  related_lane_id: 325
+}
+cross_walks {
+  cross_walk_id: 4
+  polygon_points {
+    point_x: 499930.78876655136
+    point_y: 4395579.548968989
+  }
+  polygon_points {
+    point_x: 499891.40735392837
+    point_y: 4395582.83189214
+  }
+  polygon_points {
+    point_x: 499891.84488281293
+    point_y: 4395588.080417518
+  }
+  polygon_points {
+    point_x: 499931.2263013534
+    point_y: 4395584.797331609
+  }
+  related_lane_id: 364
+  related_lane_id: 368
+  related_lane_id: 1070
+  related_lane_id: 761
+  related_lane_id: 372
+  related_lane_id: 970
+  related_lane_id: 365
+  related_lane_id: 370
+  related_lane_id: 1072
+  related_lane_id: 378
+  related_lane_id: 366
+  related_lane_id: 369
+  related_lane_id: 1071
+  related_lane_id: 764
+}
+cross_walks {
+  cross_walk_id: 47
+  polygon_points {
+    point_x: 499933.68390299805
+    point_y: 4395600.82320165
+  }
+  polygon_points {
+    point_x: 499894.3402349867
+    point_y: 4395603.952535604
+  }
+  polygon_points {
+    point_x: 499894.7625315387
+    point_y: 4395609.261874751
+  }
+  polygon_points {
+    point_x: 499934.10619955003
+    point_y: 4395606.132540797
+  }
+  related_lane_id: 364
+  related_lane_id: 368
+  related_lane_id: 1070
+  related_lane_id: 761
+  related_lane_id: 372
+  related_lane_id: 970
+  related_lane_id: 766
+  related_lane_id: 760
+  related_lane_id: 374
+  related_lane_id: 969
+  related_lane_id: 376
+  related_lane_id: 762
+  related_lane_id: 373
+  related_lane_id: 971
+}
+cross_walks {
+  cross_walk_id: 39
+  polygon_points {
+    point_x: 500000.70882257837
+    point_y: 4396398.593648374
+  }
+  polygon_points {
+    point_x: 500054.7013293006
+    point_y: 4396394.962621808
+  }
+  polygon_points {
+    point_x: 500054.34763045475
+    point_y: 4396389.703203593
+  }
+  polygon_points {
+    point_x: 500000.35512373253
+    point_y: 4396393.334230159
+  }
+  related_lane_id: 382
+  related_lane_id: 1154
+  related_lane_id: 384
+  related_lane_id: 770
+  related_lane_id: 388
+  related_lane_id: 973
+  related_lane_id: 381
+  related_lane_id: 1155
+  related_lane_id: 386
+  related_lane_id: 1075
+  related_lane_id: 400
+  related_lane_id: 777
+  related_lane_id: 380
+  related_lane_id: 1153
+  related_lane_id: 385
+  related_lane_id: 394
+  related_lane_id: 774
+  related_lane_id: 397
+}
+cross_walks {
+  cross_walk_id: 40
+  polygon_points {
+    point_x: 500060.7537521152
+    point_y: 4396426.056242432
+  }
+  polygon_points {
+    point_x: 500006.2885662709
+    point_y: 4396429.825820472
+  }
+  polygon_points {
+    point_x: 500006.65086914256
+    point_y: 4396435.059579392
+  }
+  polygon_points {
+    point_x: 500061.115987532
+    point_y: 4396431.2899111165
+  }
+  related_lane_id: 382
+  related_lane_id: 1154
+  related_lane_id: 384
+  related_lane_id: 770
+  related_lane_id: 388
+  related_lane_id: 973
+  related_lane_id: 392
+  related_lane_id: 772
+  related_lane_id: 398
+  related_lane_id: 768
+  related_lane_id: 389
+  related_lane_id: 974
+  related_lane_id: 1076
+  related_lane_id: 402
+  related_lane_id: 778
+  related_lane_id: 769
+  related_lane_id: 390
+  related_lane_id: 975
+}
+cross_walks {
+  cross_walk_id: 35
+  polygon_points {
+    point_x: 500176.29877239047
+    point_y: 4397119.504073798
+  }
+  polygon_points {
+    point_x: 500128.53080266854
+    point_y: 4397130.2746821465
+  }
+  polygon_points {
+    point_x: 500129.7068308739
+    point_y: 4397135.490402363
+  }
+  polygon_points {
+    point_x: 500177.4748005958
+    point_y: 4397124.7197940145
+  }
+  related_lane_id: 405
+  related_lane_id: 978
+  related_lane_id: 408
+  related_lane_id: 782
+  related_lane_id: 412
+  related_lane_id: 1127
+  related_lane_id: 404
+  related_lane_id: 977
+  related_lane_id: 410
+  related_lane_id: 417
+  related_lane_id: 784
+  related_lane_id: 421
+  related_lane_id: 406
+  related_lane_id: 979
+  related_lane_id: 409
+  related_lane_id: 981
+  related_lane_id: 425
+  related_lane_id: 790
+}
+cross_walks {
+  cross_walk_id: 34
+  polygon_points {
+    point_x: 500184.66214516875
+    point_y: 4397146.847921843
+  }
+  polygon_points {
+    point_x: 500133.07203116594
+    point_y: 4397161.231626507
+  }
+  polygon_points {
+    point_x: 500134.5267616012
+    point_y: 4397166.449276648
+  }
+  polygon_points {
+    point_x: 500186.1167890814
+    point_y: 4397152.06548679
+  }
+  related_lane_id: 405
+  related_lane_id: 978
+  related_lane_id: 408
+  related_lane_id: 782
+  related_lane_id: 412
+  related_lane_id: 1127
+  related_lane_id: 983
+  related_lane_id: 426
+  related_lane_id: 789
+  related_lane_id: 781
+  related_lane_id: 414
+  related_lane_id: 1128
+  related_lane_id: 418
+  related_lane_id: 786
+  related_lane_id: 420
+  related_lane_id: 780
+  related_lane_id: 413
+  related_lane_id: 1129
+}
+cross_walks {
+  cross_walk_id: 33
+  polygon_points {
+    point_x: 500221.70737685944
+    point_y: 4397705.303909244
+  }
+  polygon_points {
+    point_x: 500225.4607592273
+    point_y: 4397727.2425623955
+  }
+  polygon_points {
+    point_x: 500230.59479350067
+    point_y: 4397726.364204296
+  }
+  polygon_points {
+    point_x: 500226.84141113283
+    point_y: 4397704.425551144
+  }
+  related_lane_id: 440
+  related_lane_id: 796
+  related_lane_id: 445
+  related_lane_id: 1173
+  related_lane_id: 429
+  related_lane_id: 1078
+  related_lane_id: 432
+  related_lane_id: 446
+  related_lane_id: 1175
+  related_lane_id: 444
+  related_lane_id: 1174
+  related_lane_id: 794
+  related_lane_id: 436
+  related_lane_id: 985
+}
+cross_walks {
+  cross_walk_id: 31
+  polygon_points {
+    point_x: 500278.3899277173
+    point_y: 4397724.667456173
+  }
+  polygon_points {
+    point_x: 500274.30231656804
+    point_y: 4397698.541290819
+  }
+  polygon_points {
+    point_x: 500269.0018067594
+    point_y: 4397699.370595128
+  }
+  polygon_points {
+    point_x: 500273.0894193257
+    point_y: 4397725.496626678
+  }
+  related_lane_id: 440
+  related_lane_id: 796
+  related_lane_id: 445
+  related_lane_id: 1173
+  related_lane_id: 442
+  related_lane_id: 798
+  related_lane_id: 793
+  related_lane_id: 437
+  related_lane_id: 987
+  related_lane_id: 430
+  related_lane_id: 1080
+  related_lane_id: 433
+  related_lane_id: 441
+  related_lane_id: 797
+}
+cross_walks {
+  cross_walk_id: 28
+  polygon_points {
+    point_x: 500305.2270741692
+    point_y: 4398231.46432456
+  }
+  polygon_points {
+    point_x: 500351.50314671936
+    point_y: 4398228.168926749
+  }
+  polygon_points {
+    point_x: 500351.1249404337
+    point_y: 4398222.857913443
+  }
+  polygon_points {
+    point_x: 500304.848845156
+    point_y: 4398226.153535687
+  }
+  related_lane_id: 448
+  related_lane_id: 800
+  related_lane_id: 454
+  related_lane_id: 991
+  related_lane_id: 457
+  related_lane_id: 804
+  related_lane_id: 450
+  related_lane_id: 801
+  related_lane_id: 453
+  related_lane_id: 464
+  related_lane_id: 808
+  related_lane_id: 449
+  related_lane_id: 802
+  related_lane_id: 452
+  related_lane_id: 462
+  related_lane_id: 1083
+}
+cross_walks {
+  cross_walk_id: 26
+  polygon_points {
+    point_x: 500304.4012557035
+    point_y: 4398261.865151915
+  }
+  polygon_points {
+    point_x: 500361.6816648798
+    point_y: 4398260.473170346
+  }
+  polygon_points {
+    point_x: 500361.55493512383
+    point_y: 4398255.25820732
+  }
+  polygon_points {
+    point_x: 500304.2745259475
+    point_y: 4398256.650188889
+  }
+  related_lane_id: 448
+  related_lane_id: 800
+  related_lane_id: 454
+  related_lane_id: 991
+  related_lane_id: 457
+  related_lane_id: 804
+  related_lane_id: 460
+  related_lane_id: 1084
+  related_lane_id: 990
+  related_lane_id: 456
+  related_lane_id: 806
+  related_lane_id: 465
+  related_lane_id: 809
+  related_lane_id: 989
+  related_lane_id: 458
+  related_lane_id: 805
+}
+cross_walks {
+  cross_walk_id: 27
+  polygon_points {
+    point_x: 500351.4766865682
+    point_y: 4398227.922108798
+  }
+  polygon_points {
+    point_x: 500356.1661721215
+    point_y: 4398255.990045153
+  }
+  polygon_points {
+    point_x: 500361.35631121375
+    point_y: 4398255.122903124
+  }
+  polygon_points {
+    point_x: 500356.66686388804
+    point_y: 4398227.0549706705
+  }
+  related_lane_id: 461
+  related_lane_id: 1082
+  related_lane_id: 466
+  related_lane_id: 810
+  related_lane_id: 460
+  related_lane_id: 1084
+  related_lane_id: 450
+  related_lane_id: 801
+  related_lane_id: 453
+  related_lane_id: 989
+  related_lane_id: 458
+  related_lane_id: 805
+  related_lane_id: 462
+  related_lane_id: 1083
+}
+cross_walks {
+  cross_walk_id: 29
+  polygon_points {
+    point_x: 500308.986413103
+    point_y: 4398256.201948251
+  }
+  polygon_points {
+    point_x: 500304.19002235006
+    point_y: 4398225.991598401
+  }
+  polygon_points {
+    point_x: 500298.9368790932
+    point_y: 4398226.8256222345
+  }
+  polygon_points {
+    point_x: 500303.7332606927
+    point_y: 4398257.035885652
+  }
+  related_lane_id: 461
+  related_lane_id: 1082
+  related_lane_id: 466
+  related_lane_id: 810
+  related_lane_id: 990
+  related_lane_id: 456
+  related_lane_id: 806
+  related_lane_id: 464
+  related_lane_id: 808
+  related_lane_id: 465
+  related_lane_id: 809
+  related_lane_id: 449
+  related_lane_id: 802
+  related_lane_id: 452
+}
+cross_walks {
+  cross_walk_id: 23
+  polygon_points {
+    point_x: 500312.9633493471
+    point_y: 4398775.769882181
+  }
+  polygon_points {
+    point_x: 500272.3298191696
+    point_y: 4398777.310503414
+  }
+  polygon_points {
+    point_x: 500272.5297271699
+    point_y: 4398782.583030919
+  }
+  polygon_points {
+    point_x: 500313.1632573474
+    point_y: 4398781.042409685
+  }
+  related_lane_id: 479
+  related_lane_id: 818
+  related_lane_id: 481
+  related_lane_id: 993
+  related_lane_id: 469
+  related_lane_id: 813
+  related_lane_id: 473
+  related_lane_id: 1131
+  related_lane_id: 995
+  related_lane_id: 470
+  related_lane_id: 814
+  related_lane_id: 857
+  related_lane_id: 558
+  related_lane_id: 994
+  related_lane_id: 471
+  related_lane_id: 812
+}
+cross_walks {
+  cross_walk_id: 24
+  polygon_points {
+    point_x: 500280.98571396177
+    point_y: 4398736.377055498
+  }
+  polygon_points {
+    point_x: 500322.63485097786
+    point_y: 4398734.028758631
+  }
+  polygon_points {
+    point_x: 500322.3399106757
+    point_y: 4398728.797325133
+  }
+  polygon_points {
+    point_x: 500280.69074157224
+    point_y: 4398731.145759392
+  }
+  related_lane_id: 479
+  related_lane_id: 818
+  related_lane_id: 481
+  related_lane_id: 993
+  related_lane_id: 469
+  related_lane_id: 813
+  related_lane_id: 478
+  related_lane_id: 816
+  related_lane_id: 483
+  related_lane_id: 855
+  related_lane_id: 559
+  related_lane_id: 475
+  related_lane_id: 1133
+  related_lane_id: 477
+  related_lane_id: 817
+  related_lane_id: 482
+}
+cross_walks {
+  cross_walk_id: 21
+  polygon_points {
+    point_x: 500165.9684664953
+    point_y: 4400053.707484609
+  }
+  polygon_points {
+    point_x: 500140.654346911
+    point_y: 4400055.084670077
+  }
+  polygon_points {
+    point_x: 500140.82811381994
+    point_y: 4400058.2786888825
+  }
+  polygon_points {
+    point_x: 500166.1422334042
+    point_y: 4400056.901503415
+  }
+  related_lane_id: 503
+  related_lane_id: 830
+  related_lane_id: 507
+  related_lane_id: 1158
+  related_lane_id: 509
+  related_lane_id: 833
+  related_lane_id: 1157
+  related_lane_id: 510
+  related_lane_id: 832
+  related_lane_id: 836
+  related_lane_id: 519
+}
+cross_walks {
+  cross_walk_id: 18
+  polygon_points {
+    point_x: 500128.41083324736
+    point_y: 4400022.098944456
+  }
+  polygon_points {
+    point_x: 500177.88657773356
+    point_y: 4400019.265246071
+  }
+  polygon_points {
+    point_x: 500177.5830638294
+    point_y: 4400013.965960693
+  }
+  polygon_points {
+    point_x: 500128.1073193432
+    point_y: 4400016.799659078
+  }
+  related_lane_id: 503
+  related_lane_id: 830
+  related_lane_id: 507
+  related_lane_id: 1158
+  related_lane_id: 509
+  related_lane_id: 833
+  related_lane_id: 502
+  related_lane_id: 828
+  related_lane_id: 505
+  related_lane_id: 501
+  related_lane_id: 829
+  related_lane_id: 506
+  related_lane_id: 835
+  related_lane_id: 518
+  related_lane_id: 513
+  related_lane_id: 1002
+  related_lane_id: 516
+}
+cross_walks {
+  cross_walk_id: 30
+  polygon_points {
+    point_x: 500315.8430957786
+    point_y: 4397995.616249869
+  }
+  polygon_points {
+    point_x: 500319.85417110205
+    point_y: 4398018.33362564
+  }
+  polygon_points {
+    point_x: 500324.95588226285
+    point_y: 4398017.432846081
+  }
+  polygon_points {
+    point_x: 500320.9448069394
+    point_y: 4397994.71547031
+  }
+  related_lane_id: 544
+  related_lane_id: 1011
+  related_lane_id: 850
+  related_lane_id: 546
+  related_lane_id: 1010
+  related_lane_id: 849
+  related_lane_id: 847
+  related_lane_id: 542
+}
+cross_walks {
+  cross_walk_id: 73
+  polygon_points {
+    point_x: 500533.6316547266
+    point_y: 4392576.181358834
+  }
+  polygon_points {
+    point_x: 500546.16908096033
+    point_y: 4392577.24439814
+  }
+  polygon_points {
+    point_x: 500546.6001814941
+    point_y: 4392572.160022512
+  }
+  polygon_points {
+    point_x: 500534.0627552603
+    point_y: 4392571.0969832055
+  }
+  related_lane_id: 551
+}
+cross_walks {
+  cross_walk_id: 48
+  polygon_points {
+    point_x: 499317.780371811
+    point_y: 4390651.189340607
+  }
+  polygon_points {
+    point_x: 499327.4362215805
+    point_y: 4390668.273581517
+  }
+  polygon_points {
+    point_x: 499331.97495407786
+    point_y: 4390665.708178276
+  }
+  polygon_points {
+    point_x: 499322.3193488357
+    point_y: 4390648.624008442
+  }
+  related_lane_id: 600
+  related_lane_id: 56
+  related_lane_id: 1106
+  related_lane_id: 1170
+}
+cross_walks {
+  cross_walk_id: 13
+  polygon_points {
+    point_x: 499694.95904838236
+    point_y: 4393505.143623852
+  }
+  polygon_points {
+    point_x: 499696.17350958707
+    point_y: 4393520.694235709
+  }
+  polygon_points {
+    point_x: 499701.34438718023
+    point_y: 4393520.290403997
+  }
+  polygon_points {
+    point_x: 499700.1299259755
+    point_y: 4393504.73979214
+  }
+  related_lane_id: 641
+  related_lane_id: 137
+  related_lane_id: 129
+  related_lane_id: 1109
+  related_lane_id: 134
+  related_lane_id: 130
+  related_lane_id: 1110
+  related_lane_id: 133
+}
+cross_walks {
+  cross_walk_id: 61
+  polygon_points {
+    point_x: 499719.8135737899
+    point_y: 4394315.996925776
+  }
+  polygon_points {
+    point_x: 499723.739918516
+    point_y: 4394335.621594341
+  }
+  polygon_points {
+    point_x: 499728.9045074771
+    point_y: 4394334.5883052135
+  }
+  polygon_points {
+    point_x: 499724.978162751
+    point_y: 4394314.963636649
+  }
+  related_lane_id: 645
+  related_lane_id: 141
+  related_lane_id: 1044
+  related_lane_id: 643
+  related_lane_id: 143
+  related_lane_id: 1045
+  related_lane_id: 908
+  related_lane_id: 139
+}
+cross_walks {
+  cross_walk_id: 79
+  polygon_points {
+    point_x: 499283.08731636556
+    point_y: 4390682.168793674
+  }
+  polygon_points {
+    point_x: 499265.4884918778
+    point_y: 4390655.5953029785
+  }
+  polygon_points {
+    point_x: 499261.0130790383
+    point_y: 4390658.55923444
+  }
+  polygon_points {
+    point_x: 499278.611903526
+    point_y: 4390685.132725135
+  }
+  related_lane_id: 660
+  related_lane_id: 169
+  related_lane_id: 1047
+  related_lane_id: 162
+  related_lane_id: 656
+  related_lane_id: 166
+  related_lane_id: 163
+  related_lane_id: 657
+  related_lane_id: 165
+  related_lane_id: 662
+  related_lane_id: 177
+  related_lane_id: 1114
+}
+cross_walks {
+  cross_walk_id: 8
+  polygon_points {
+    point_x: 499291.7833845402
+    point_y: 4390641.48792859
+  }
+  polygon_points {
+    point_x: 499309.6395556092
+    point_y: 4390667.802124207
+  }
+  polygon_points {
+    point_x: 499314.0350590027
+    point_y: 4390664.819528638
+  }
+  polygon_points {
+    point_x: 499296.17921243765
+    point_y: 4390638.505054428
+  }
+  related_lane_id: 660
+  related_lane_id: 169
+  related_lane_id: 1047
+  related_lane_id: 162
+  related_lane_id: 656
+  related_lane_id: 166
+  related_lane_id: 659
+  related_lane_id: 168
+  related_lane_id: 1048
+  related_lane_id: 172
+  related_lane_id: 914
+  related_lane_id: 174
+}
+cross_walks {
+  cross_walk_id: 44
+  polygon_points {
+    point_x: 499303.0972202487
+    point_y: 4390625.448096223
+  }
+  polygon_points {
+    point_x: 499312.3877480023
+    point_y: 4390641.687757718
+  }
+  polygon_points {
+    point_x: 499317.04138230067
+    point_y: 4390639.025481193
+  }
+  polygon_points {
+    point_x: 499307.7508815339
+    point_y: 4390622.785799903
+  }
+  related_lane_id: 661
+  related_lane_id: 170
+  related_lane_id: 1049
+  related_lane_id: 859
+}
+cross_walks {
+  cross_walk_id: 65
+  polygon_points {
+    point_x: 499957.7050523884
+    point_y: 4393277.3323304085
+  }
+  polygon_points {
+    point_x: 499955.7683597288
+    point_y: 4393240.195943728
+  }
+  polygon_points {
+    point_x: 499950.52686536324
+    point_y: 4393240.469291906
+  }
+  polygon_points {
+    point_x: 499952.4635580228
+    point_y: 4393277.605678585
+  }
+  related_lane_id: 691
+  related_lane_id: 236
+  related_lane_id: 933
+  related_lane_id: 241
+  related_lane_id: 696
+  related_lane_id: 245
+  related_lane_id: 692
+  related_lane_id: 237
+  related_lane_id: 935
+  related_lane_id: 937
+  related_lane_id: 254
+  related_lane_id: 690
+  related_lane_id: 238
+  related_lane_id: 934
+  related_lane_id: 698
+  related_lane_id: 249
+}
+cross_walks {
+  cross_walk_id: 75
+  polygon_points {
+    point_x: 499929.6466705714
+    point_y: 4393279.285445593
+  }
+  polygon_points {
+    point_x: 499927.0752063888
+    point_y: 4393242.949379913
+  }
+  polygon_points {
+    point_x: 499921.675001401
+    point_y: 4393243.331546596
+  }
+  polygon_points {
+    point_x: 499924.2464655836
+    point_y: 4393279.667612277
+  }
+  related_lane_id: 691
+  related_lane_id: 236
+  related_lane_id: 933
+  related_lane_id: 241
+  related_lane_id: 696
+  related_lane_id: 245
+  related_lane_id: 700
+  related_lane_id: 250
+  related_lane_id: 242
+  related_lane_id: 694
+  related_lane_id: 244
+  related_lane_id: 938
+  related_lane_id: 253
+  related_lane_id: 240
+  related_lane_id: 695
+  related_lane_id: 246
+}
+cross_walks {
+  cross_walk_id: 68
+  polygon_points {
+    point_x: 499670.78233924205
+    point_y: 4393724.663427042
+  }
+  polygon_points {
+    point_x: 499669.3669070808
+    point_y: 4393705.375641725
+  }
+  polygon_points {
+    point_x: 499664.18330790306
+    point_y: 4393705.756228768
+  }
+  polygon_points {
+    point_x: 499665.59874006436
+    point_y: 4393725.044014086
+  }
+  related_lane_id: 722
+  related_lane_id: 293
+  related_lane_id: 951
+  related_lane_id: 298
+  related_lane_id: 284
+  related_lane_id: 1121
+  related_lane_id: 288
+  related_lane_id: 950
+  related_lane_id: 297
+  related_lane_id: 949
+  related_lane_id: 296
+  related_lane_id: 946
+  related_lane_id: 281
+  related_lane_id: 718
+}
+cross_walks {
+  cross_walk_id: 70
+  polygon_points {
+    point_x: 499708.88801136473
+    point_y: 4393701.65719719
+  }
+  polygon_points {
+    point_x: 499710.4688467043
+    point_y: 4393721.801749242
+  }
+  polygon_points {
+    point_x: 499715.4678461493
+    point_y: 4393721.40944787
+  }
+  polygon_points {
+    point_x: 499713.886975206
+    point_y: 4393701.264800003
+  }
+  related_lane_id: 722
+  related_lane_id: 293
+  related_lane_id: 951
+  related_lane_id: 298
+  related_lane_id: 721
+  related_lane_id: 292
+  related_lane_id: 947
+  related_lane_id: 279
+  related_lane_id: 717
+  related_lane_id: 283
+  related_lane_id: 1120
+  related_lane_id: 289
+  related_lane_id: 720
+  related_lane_id: 294
+}
+cross_walks {
+  cross_walk_id: 55
+  polygon_points {
+    point_x: 499821.4960955382
+    point_y: 4395077.054731194
+  }
+  polygon_points {
+    point_x: 499861.3461383083
+    point_y: 4395074.090392481
+  }
+  polygon_points {
+    point_x: 499860.9555205347
+    point_y: 4395068.8392600855
+  }
+  polygon_points {
+    point_x: 499821.1054777646
+    point_y: 4395071.803598799
+  }
+  related_lane_id: 748
+  related_lane_id: 350
+  related_lane_id: 1124
+  related_lane_id: 341
+  related_lane_id: 962
+  related_lane_id: 346
+  related_lane_id: 750
+  related_lane_id: 348
+  related_lane_id: 1123
+  related_lane_id: 352
+  related_lane_id: 752
+  related_lane_id: 357
+  related_lane_id: 749
+  related_lane_id: 349
+  related_lane_id: 1125
+  related_lane_id: 967
+  related_lane_id: 362
+  related_lane_id: 757
+}
+cross_walks {
+  cross_walk_id: 53
+  polygon_points {
+    point_x: 499826.24661509244
+    point_y: 4395111.741314805
+  }
+  polygon_points {
+    point_x: 499865.7469373247
+    point_y: 4395108.941276519
+  }
+  polygon_points {
+    point_x: 499865.37409189995
+    point_y: 4395103.682238182
+  }
+  polygon_points {
+    point_x: 499825.87381872494
+    point_y: 4395106.482296671
+  }
+  related_lane_id: 748
+  related_lane_id: 350
+  related_lane_id: 1124
+  related_lane_id: 341
+  related_lane_id: 962
+  related_lane_id: 346
+  related_lane_id: 966
+  related_lane_id: 361
+  related_lane_id: 756
+  related_lane_id: 340
+  related_lane_id: 963
+  related_lane_id: 345
+  related_lane_id: 354
+  related_lane_id: 754
+  related_lane_id: 356
+  related_lane_id: 342
+  related_lane_id: 961
+  related_lane_id: 344
+}
+cross_walks {
+  cross_walk_id: 25
+  polygon_points {
+    point_x: 499886.32450065546
+    point_y: 4395583.119124156
+  }
+  polygon_points {
+    point_x: 499889.95412273234
+    point_y: 4395609.847267215
+  }
+  polygon_points {
+    point_x: 499895.08710315847
+    point_y: 4395609.15021995
+  }
+  polygon_points {
+    point_x: 499891.4574810816
+    point_y: 4395582.422076891
+  }
+  related_lane_id: 765
+  related_lane_id: 377
+  related_lane_id: 760
+  related_lane_id: 374
+  related_lane_id: 969
+  related_lane_id: 378
+  related_lane_id: 376
+  related_lane_id: 366
+  related_lane_id: 369
+  related_lane_id: 1071
+}
+cross_walks {
+  cross_walk_id: 49
+  polygon_points {
+    point_x: 499931.2191987054
+    point_y: 4395579.825289267
+  }
+  polygon_points {
+    point_x: 499934.8368520743
+    point_y: 4395606.191105299
+  }
+  polygon_points {
+    point_x: 499940.0595664979
+    point_y: 4395605.474491023
+  }
+  polygon_points {
+    point_x: 499936.4418785751
+    point_y: 4395579.108632069
+  }
+  related_lane_id: 765
+  related_lane_id: 377
+  related_lane_id: 766
+  related_lane_id: 365
+  related_lane_id: 370
+  related_lane_id: 1072
+  related_lane_id: 762
+  related_lane_id: 373
+  related_lane_id: 971
+  related_lane_id: 764
+}
+cross_walks {
+  cross_walk_id: 19
+  polygon_points {
+    point_x: 500227.95735434757
+    point_y: 4397731.787690901
+  }
+  polygon_points {
+    point_x: 500278.731519077
+    point_y: 4397730.28023294
+  }
+  polygon_points {
+    point_x: 500278.5758608278
+    point_y: 4397725.037355335
+  }
+  polygon_points {
+    point_x: 500227.80169609835
+    point_y: 4397726.544813297
+  }
+  related_lane_id: 792
+  related_lane_id: 438
+  related_lane_id: 986
+  related_lane_id: 428
+  related_lane_id: 1079
+  related_lane_id: 434
+  related_lane_id: 442
+  related_lane_id: 798
+  related_lane_id: 429
+  related_lane_id: 1078
+  related_lane_id: 432
+  related_lane_id: 444
+  related_lane_id: 1174
+  related_lane_id: 430
+  related_lane_id: 1080
+  related_lane_id: 433
+}
+cross_walks {
+  cross_walk_id: 32
+  polygon_points {
+    point_x: 500221.5288631422
+    point_y: 4397705.253198883
+  }
+  polygon_points {
+    point_x: 500273.7425618525
+    point_y: 4397698.475904591
+  }
+  polygon_points {
+    point_x: 500273.05165196036
+    point_y: 4397693.152989656
+  }
+  polygon_points {
+    point_x: 500220.83795325004
+    point_y: 4397699.930283946
+  }
+  related_lane_id: 792
+  related_lane_id: 438
+  related_lane_id: 986
+  related_lane_id: 428
+  related_lane_id: 1079
+  related_lane_id: 434
+  related_lane_id: 793
+  related_lane_id: 437
+  related_lane_id: 987
+  related_lane_id: 446
+  related_lane_id: 1175
+  related_lane_id: 794
+  related_lane_id: 436
+  related_lane_id: 985
+  related_lane_id: 441
+  related_lane_id: 797
+}
+cross_walks {
+  cross_walk_id: 20
+  polygon_points {
+    point_x: 500138.29254315794
+    point_y: 4400049.752844932
+  }
+  polygon_points {
+    point_x: 500133.94381982234
+    point_y: 4400021.709084377
+  }
+  polygon_points {
+    point_x: 500128.62405420514
+    point_y: 4400022.534016143
+  }
+  polygon_points {
+    point_x: 500132.97277754074
+    point_y: 4400050.577776697
+  }
+  related_lane_id: 837
+  related_lane_id: 520
+  related_lane_id: 1157
+  related_lane_id: 510
+  related_lane_id: 832
+  related_lane_id: 501
+  related_lane_id: 829
+  related_lane_id: 506
+  related_lane_id: 512
+  related_lane_id: 1003
+  related_lane_id: 515
+  related_lane_id: 513
+  related_lane_id: 1002
+  related_lane_id: 516
+}
+cross_walks {
+  cross_walk_id: 22
+  polygon_points {
+    point_x: 500171.5550021603
+    point_y: 4400018.9787886925
+  }
+  polygon_points {
+    point_x: 500168.73726884625
+    point_y: 4400048.267234801
+  }
+  polygon_points {
+    point_x: 500174.03190305235
+    point_y: 4400048.776831366
+  }
+  polygon_points {
+    point_x: 500176.84961242444
+    point_y: 4400019.488155281
+  }
+  related_lane_id: 837
+  related_lane_id: 520
+  related_lane_id: 502
+  related_lane_id: 828
+  related_lane_id: 505
+  related_lane_id: 836
+  related_lane_id: 519
+  related_lane_id: 835
+  related_lane_id: 518
+  related_lane_id: 512
+  related_lane_id: 1003
+  related_lane_id: 515
+}
+cross_walks {
+  cross_walk_id: 15
+  polygon_points {
+    point_x: 500326.80729134154
+    point_y: 4398765.180732185
+  }
+  polygon_points {
+    point_x: 500328.32405842637
+    point_y: 4398733.152022029
+  }
+  polygon_points {
+    point_x: 500323.0214600409
+    point_y: 4398732.900825486
+  }
+  polygon_points {
+    point_x: 500321.5045972304
+    point_y: 4398764.929599894
+  }
+  related_lane_id: 856
+  related_lane_id: 557
+  related_lane_id: 474
+  related_lane_id: 1132
+  related_lane_id: 473
+  related_lane_id: 1131
+  related_lane_id: 478
+  related_lane_id: 816
+  related_lane_id: 483
+  related_lane_id: 994
+  related_lane_id: 471
+  related_lane_id: 812
+  related_lane_id: 475
+  related_lane_id: 1133
+}
+cross_walks {
+  cross_walk_id: 10
+  polygon_points {
+    point_x: 500272.34633533657
+    point_y: 4398766.216598513
+  }
+  polygon_points {
+    point_x: 500273.2792308523
+    point_y: 4398742.66968785
+  }
+  polygon_points {
+    point_x: 500268.273526036
+    point_y: 4398742.471181757
+  }
+  polygon_points {
+    point_x: 500267.34063052083
+    point_y: 4398766.01809242
+  }
+  related_lane_id: 856
+  related_lane_id: 557
+  related_lane_id: 474
+  related_lane_id: 1132
+  related_lane_id: 855
+  related_lane_id: 559
+  related_lane_id: 995
+  related_lane_id: 470
+  related_lane_id: 814
+  related_lane_id: 857
+  related_lane_id: 558
+  related_lane_id: 477
+  related_lane_id: 817
+  related_lane_id: 482
+}
+cross_walks {
+  cross_walk_id: 52
+  polygon_points {
+    point_x: 499288.46872736997
+    point_y: 4390627.92691542
+  }
+  polygon_points {
+    point_x: 499287.42601214704
+    point_y: 4390634.567628351
+  }
+  polygon_points {
+    point_x: 499292.5535395754
+    point_y: 4390635.372472675
+  }
+  polygon_points {
+    point_x: 499293.5958683377
+    point_y: 4390628.731971735
+  }
+  related_lane_id: 859
+}
+cross_walks {
+  cross_walk_id: 42
+  polygon_points {
+    point_x: 500014.6554085472
+    point_y: 4396139.496911243
+  }
+  polygon_points {
+    point_x: 500012.2078767707
+    point_y: 4396123.247964999
+  }
+  polygon_points {
+    point_x: 500007.1226605997
+    point_y: 4396124.013936401
+  }
+  polygon_points {
+    point_x: 500009.5701923762
+    point_y: 4396140.262882645
+  }
+  related_lane_id: 912
+  related_lane_id: 157
+  related_lane_id: 654
+  related_lane_id: 159
+}
+cross_walks {
+  cross_walk_id: 59
+  polygon_points {
+    point_x: 500495.876500825
+    point_y: 4393237.178805829
+  }
+  polygon_points {
+    point_x: 500467.2473578563
+    point_y: 4393239.318965511
+  }
+  polygon_points {
+    point_x: 500467.5906741133
+    point_y: 4393243.91098194
+  }
+  polygon_points {
+    point_x: 500496.21978882275
+    point_y: 4393241.770666039
+  }
+  related_lane_id: 923
+  related_lane_id: 204
+  related_lane_id: 679
+  related_lane_id: 208
+  related_lane_id: 677
+  related_lane_id: 207
+  related_lane_id: 1178
+  related_lane_id: 210
+  related_lane_id: 682
+  related_lane_id: 678
+  related_lane_id: 206
+  related_lane_id: 215
+  related_lane_id: 926
+  related_lane_id: 219
+}
+cross_walks {
+  cross_walk_id: 81
+  polygon_points {
+    point_x: 500486.7918439679
+    point_y: 4393198.369046917
+  }
+  polygon_points {
+    point_x: 500439.5071907045
+    point_y: 4393202.8028219575
+  }
+  polygon_points {
+    point_x: 500439.81073635817
+    point_y: 4393206.039901752
+  }
+  polygon_points {
+    point_x: 500487.095377671
+    point_y: 4393201.6059525395
+  }
+  related_lane_id: 923
+  related_lane_id: 204
+  related_lane_id: 679
+  related_lane_id: 208
+  related_lane_id: 924
+  related_lane_id: 202
+  related_lane_id: 216
+  related_lane_id: 928
+  related_lane_id: 218
+  related_lane_id: 922
+  related_lane_id: 203
+  related_lane_id: 1179
+  related_lane_id: 212
+  related_lane_id: 681
+}
+cross_walks {
+  cross_walk_id: 83
+  polygon_points {
+    point_x: 500492.233845396
+    point_y: 4393087.232099392
+  }
+  polygon_points {
+    point_x: 500468.9876363539
+    point_y: 4393084.735504997
+  }
+  polygon_points {
+    point_x: 500468.5241919003
+    point_y: 4393089.050416773
+  }
+  polygon_points {
+    point_x: 500491.7704070032
+    point_y: 4393091.547183811
+  }
+  related_lane_id: 925
+  related_lane_id: 205
+  related_lane_id: 882
+  related_lane_id: 1164
+  related_lane_id: 1171
+  related_lane_id: 39
+}
+cross_walks {
+  cross_walk_id: 76
+  polygon_points {
+    point_x: 499921.7948216484
+    point_y: 4393242.8221352
+  }
+  polygon_points {
+    point_x: 499953.9916322614
+    point_y: 4393240.446653547
+  }
+  polygon_points {
+    point_x: 499953.60815341386
+    point_y: 4393235.2490567705
+  }
+  polygon_points {
+    point_x: 499921.4113428009
+    point_y: 4393237.624538424
+  }
+  related_lane_id: 939
+  related_lane_id: 255
+  related_lane_id: 699
+  related_lane_id: 251
+  related_lane_id: 242
+  related_lane_id: 694
+  related_lane_id: 244
+  related_lane_id: 937
+  related_lane_id: 254
+  related_lane_id: 938
+  related_lane_id: 253
+  related_lane_id: 690
+  related_lane_id: 238
+  related_lane_id: 934
+}
+cross_walks {
+  cross_walk_id: 77
+  polygon_points {
+    point_x: 499952.8262871178
+    point_y: 4393277.598575217
+  }
+  polygon_points {
+    point_x: 499929.36280173523
+    point_y: 4393278.938715549
+  }
+  polygon_points {
+    point_x: 499929.6662774899
+    point_y: 4393284.251977789
+  }
+  polygon_points {
+    point_x: 499953.1297695887
+    point_y: 4393282.911821657
+  }
+  related_lane_id: 939
+  related_lane_id: 255
+  related_lane_id: 699
+  related_lane_id: 251
+  related_lane_id: 700
+  related_lane_id: 250
+  related_lane_id: 692
+  related_lane_id: 237
+  related_lane_id: 935
+  related_lane_id: 240
+  related_lane_id: 695
+  related_lane_id: 246
+  related_lane_id: 698
+  related_lane_id: 249
+}
+cross_walks {
+  cross_walk_id: 72
+  polygon_points {
+    point_x: 499634.58021055046
+    point_y: 4393266.633634349
+  }
+  polygon_points {
+    point_x: 499637.01114517875
+    point_y: 4393300.020506169
+  }
+  polygon_points {
+    point_x: 499642.2922967454
+    point_y: 4393299.63597975
+  }
+  polygon_points {
+    point_x: 499639.8613621171
+    point_y: 4393266.24910793
+  }
+  related_lane_id: 942
+  related_lane_id: 267
+  related_lane_id: 271
+  related_lane_id: 703
+  related_lane_id: 258
+  related_lane_id: 1149
+  related_lane_id: 704
+  related_lane_id: 257
+  related_lane_id: 1150
+  related_lane_id: 711
+  related_lane_id: 275
+  related_lane_id: 1058
+  related_lane_id: 702
+  related_lane_id: 259
+  related_lane_id: 1151
+  related_lane_id: 261
+  related_lane_id: 707
+}
+cross_walks {
+  cross_walk_id: 74
+  polygon_points {
+    point_x: 499677.4022766709
+    point_y: 4393263.501904996
+  }
+  polygon_points {
+    point_x: 499679.5368800571
+    point_y: 4393296.716058005
+  }
+  polygon_points {
+    point_x: 499684.79413575993
+    point_y: 4393296.3781852955
+  }
+  polygon_points {
+    point_x: 499682.6595323738
+    point_y: 4393263.164032286
+  }
+  related_lane_id: 942
+  related_lane_id: 267
+  related_lane_id: 271
+  related_lane_id: 703
+  related_lane_id: 258
+  related_lane_id: 1149
+  related_lane_id: 941
+  related_lane_id: 265
+  related_lane_id: 270
+  related_lane_id: 262
+  related_lane_id: 706
+  related_lane_id: 943
+  related_lane_id: 266
+  related_lane_id: 269
+  related_lane_id: 710
+  related_lane_id: 273
+  related_lane_id: 1060
+}
+cross_walks {
+  cross_walk_id: 67
+  polygon_points {
+    point_x: 499710.5919895808
+    point_y: 4393721.507509499
+  }
+  polygon_points {
+    point_x: 499671.3139038177
+    point_y: 4393724.342951134
+  }
+  polygon_points {
+    point_x: 499671.6922914932
+    point_y: 4393729.584603524
+  }
+  polygon_points {
+    point_x: 499710.97038408107
+    point_y: 4393726.749072634
+  }
+  related_lane_id: 945
+  related_lane_id: 280
+  related_lane_id: 716
+  related_lane_id: 285
+  related_lane_id: 1119
+  related_lane_id: 287
+  related_lane_id: 721
+  related_lane_id: 292
+  related_lane_id: 284
+  related_lane_id: 1121
+  related_lane_id: 288
+  related_lane_id: 949
+  related_lane_id: 296
+  related_lane_id: 283
+  related_lane_id: 1120
+  related_lane_id: 289
+}
+cross_walks {
+  cross_walk_id: 69
+  polygon_points {
+    point_x: 499708.2498823434
+    point_y: 4393696.756913966
+  }
+  polygon_points {
+    point_x: 499668.8097869826
+    point_y: 4393699.536749046
+  }
+  polygon_points {
+    point_x: 499669.18048840546
+    point_y: 4393704.79632393
+  }
+  polygon_points {
+    point_x: 499708.62055077776
+    point_y: 4393702.016538958
+  }
+  related_lane_id: 945
+  related_lane_id: 280
+  related_lane_id: 716
+  related_lane_id: 285
+  related_lane_id: 1119
+  related_lane_id: 287
+  related_lane_id: 947
+  related_lane_id: 279
+  related_lane_id: 717
+  related_lane_id: 950
+  related_lane_id: 297
+  related_lane_id: 946
+  related_lane_id: 281
+  related_lane_id: 718
+  related_lane_id: 720
+  related_lane_id: 294
+}
+cross_walks {
+  cross_walk_id: 56
+  polygon_points {
+    point_x: 499744.3812485611
+    point_y: 4394086.876449171
+  }
+  polygon_points {
+    point_x: 499741.71788002487
+    point_y: 4394061.922070585
+  }
+  polygon_points {
+    point_x: 499736.3665989177
+    point_y: 4394062.493210705
+  }
+  polygon_points {
+    point_x: 499739.0299763625
+    point_y: 4394087.4476498775
+  }
+  related_lane_id: 955
+  related_lane_id: 312
+  related_lane_id: 733
+  related_lane_id: 316
+  related_lane_id: 306
+  related_lane_id: 730
+  related_lane_id: 310
+  related_lane_id: 732
+  related_lane_id: 317
+  related_lane_id: 734
+  related_lane_id: 318
+  related_lane_id: 726
+  related_lane_id: 302
+  related_lane_id: 1063
+}
+cross_walks {
+  cross_walk_id: 64
+  polygon_points {
+    point_x: 499697.43484770786
+    point_y: 4394090.691331397
+  }
+  polygon_points {
+    point_x: 499694.1944938092
+    point_y: 4394060.478375568
+  }
+  polygon_points {
+    point_x: 499688.8377300009
+    point_y: 4394061.052942754
+  }
+  polygon_points {
+    point_x: 499692.0780855101
+    point_y: 4394091.265846694
+  }
+  related_lane_id: 955
+  related_lane_id: 312
+  related_lane_id: 733
+  related_lane_id: 316
+  related_lane_id: 954
+  related_lane_id: 313
+  related_lane_id: 724
+  related_lane_id: 300
+  related_lane_id: 1064
+  related_lane_id: 953
+  related_lane_id: 314
+  related_lane_id: 304
+  related_lane_id: 728
+  related_lane_id: 309
+}
+cross_walks {
+  cross_walk_id: 51
+  polygon_points {
+    point_x: 499826.04034228413
+    point_y: 4395111.661815577
+  }
+  polygon_points {
+    point_x: 499821.096444405
+    point_y: 4395071.744314589
+  }
+  polygon_points {
+    point_x: 499815.9493866847
+    point_y: 4395072.381792548
+  }
+  polygon_points {
+    point_x: 499820.89325868955
+    point_y: 4395112.299085829
+  }
+  related_lane_id: 965
+  related_lane_id: 360
+  related_lane_id: 758
+  related_lane_id: 353
+  related_lane_id: 753
+  related_lane_id: 358
+  related_lane_id: 340
+  related_lane_id: 963
+  related_lane_id: 345
+  related_lane_id: 352
+  related_lane_id: 752
+  related_lane_id: 357
+  related_lane_id: 354
+  related_lane_id: 754
+  related_lane_id: 356
+  related_lane_id: 749
+  related_lane_id: 349
+  related_lane_id: 1125
+}
+cross_walks {
+  cross_walk_id: 54
+  polygon_points {
+    point_x: 499871.00796304457
+    point_y: 4395108.477136817
+  }
+  polygon_points {
+    point_x: 499866.2623640342
+    point_y: 4395072.92281986
+  }
+  polygon_points {
+    point_x: 499861.07182386523
+    point_y: 4395073.615625247
+  }
+  polygon_points {
+    point_x: 499865.81742287555
+    point_y: 4395109.169942204
+  }
+  related_lane_id: 965
+  related_lane_id: 360
+  related_lane_id: 758
+  related_lane_id: 353
+  related_lane_id: 753
+  related_lane_id: 358
+  related_lane_id: 966
+  related_lane_id: 361
+  related_lane_id: 756
+  related_lane_id: 750
+  related_lane_id: 348
+  related_lane_id: 1123
+  related_lane_id: 342
+  related_lane_id: 961
+  related_lane_id: 344
+  related_lane_id: 967
+  related_lane_id: 362
+  related_lane_id: 757
+}
+cross_walks {
+  cross_walk_id: 36
+  polygon_points {
+    point_x: 500123.2635968002
+    point_y: 4397132.315813484
+  }
+  polygon_points {
+    point_x: 500129.13381465804
+    point_y: 4397167.51209903
+  }
+  polygon_points {
+    point_x: 500134.391220842
+    point_y: 4397166.635241738
+  }
+  polygon_points {
+    point_x: 500128.5210029842
+    point_y: 4397131.438956192
+  }
+  related_lane_id: 982
+  related_lane_id: 424
+  related_lane_id: 788
+  related_lane_id: 416
+  related_lane_id: 785
+  related_lane_id: 422
+  related_lane_id: 781
+  related_lane_id: 414
+  related_lane_id: 1128
+  related_lane_id: 417
+  related_lane_id: 784
+  related_lane_id: 421
+  related_lane_id: 418
+  related_lane_id: 786
+  related_lane_id: 420
+  related_lane_id: 406
+  related_lane_id: 979
+  related_lane_id: 409
+}
+cross_walks {
+  cross_walk_id: 2
+  polygon_points {
+    point_x: 500178.5604495753
+    point_y: 4397125.992554657
+  }
+  polygon_points {
+    point_x: 500182.66778432555
+    point_y: 4397146.159448537
+  }
+  polygon_points {
+    point_x: 500187.72608510597
+    point_y: 4397145.129318159
+  }
+  polygon_points {
+    point_x: 500183.61879385257
+    point_y: 4397124.962350534
+  }
+  related_lane_id: 982
+  related_lane_id: 424
+  related_lane_id: 788
+  related_lane_id: 416
+  related_lane_id: 785
+  related_lane_id: 422
+  related_lane_id: 983
+  related_lane_id: 426
+  related_lane_id: 789
+  related_lane_id: 404
+  related_lane_id: 977
+  related_lane_id: 410
+  related_lane_id: 780
+  related_lane_id: 413
+  related_lane_id: 1129
+  related_lane_id: 981
+  related_lane_id: 425
+  related_lane_id: 790
+}
+cross_walks {
+  cross_walk_id: 16
+  polygon_points {
+    point_x: 500183.1843717404
+    point_y: 4399599.486893696
+  }
+  polygon_points {
+    point_x: 500179.89243522356
+    point_y: 4399617.5882632835
+  }
+  polygon_points {
+    point_x: 500183.96194282704
+    point_y: 4399618.328414644
+  }
+  polygon_points {
+    point_x: 500187.2540716503
+    point_y: 4399600.227057904
+  }
+  related_lane_id: 999
+  related_lane_id: 497
+  related_lane_id: 1000
+  related_lane_id: 1086
+  related_lane_id: 495
+  related_lane_id: 825
+  related_lane_id: 820
+  related_lane_id: 491
+  related_lane_id: 486
+  related_lane_id: 998
+}

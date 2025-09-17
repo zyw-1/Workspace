@@ -1,0 +1,1574 @@
+traffic_lights {
+  id: 1
+  light_panels {
+    id: 814
+    point {
+      x: 499281.1198915475
+      y: 4390677.559602106
+    }
+    type: CIRCULAR
+    lane_ids: 2395
+    lane_ids: 2394
+    lane_ids: 2393
+    heading: 2.6290684
+  }
+  junction_id: 1
+  stop_line_ids: 10012
+  stop_line_ids: 10013
+  stop_line_ids: 10014
+  stop_line_ids: 108
+}
+traffic_lights {
+  id: 2
+  light_panels {
+    id: 856
+    point {
+      x: 499275.4307385437
+      y: 4390648.349899064
+    }
+    type: LEFT
+    lane_ids: 2061
+    heading: -2.1640956
+  }
+  light_panels {
+    id: 824
+    point {
+      x: 499271.6058158296
+      y: 4390650.926659472
+    }
+    type: CIRCULAR
+    lane_ids: 2062
+    lane_ids: 2063
+    heading: -2.1642206
+  }
+  junction_id: 1
+  stop_line_ids: 93
+}
+traffic_lights {
+  id: 3
+  light_panels {
+    id: 866
+    point {
+      x: 499299.1579366031
+      y: 4390675.013384177
+    }
+    type: LEFT
+    lane_ids: 2166
+    heading: 0.9784243
+  }
+  light_panels {
+    id: 830
+    point {
+      x: 499302.8727653788
+      y: 4390672.52150632
+    }
+    type: CIRCULAR
+    lane_ids: 2167
+    lane_ids: 2168
+    heading: 0.97993815
+  }
+  junction_id: 1
+  stop_line_ids: 98
+}
+traffic_lights {
+  id: 4
+  light_panels {
+    id: 784
+    point {
+      x: 499293.48839043354
+      y: 4390645.972022153
+    }
+    type: CIRCULAR
+    lane_ids: 2315
+    lane_ids: 2314
+    lane_ids: 2313
+    heading: -0.5120419
+  }
+  junction_id: 1
+  stop_line_ids: 107
+}
+traffic_lights {
+  id: 5
+  light_panels {
+    id: 863
+    point {
+      x: 499523.5184511573
+      y: 4391051.3690136345
+    }
+    type: LEFT
+    lane_ids: 2286
+    heading: 2.6330733
+  }
+  light_panels {
+    id: 836
+    point {
+      x: 499525.75799485727
+      y: 4391055.306542742
+    }
+    type: CIRCULAR
+    lane_ids: 2287
+    lane_ids: 2288
+    heading: 2.6328216
+  }
+  junction_id: 2
+  stop_line_ids: 106
+}
+traffic_lights {
+  id: 6
+  light_panels {
+    id: 834
+    point {
+      x: 499527.84943181043
+      y: 4391030.802243618
+    }
+    type: CIRCULAR
+    lane_ids: 2044
+    lane_ids: 2043
+    heading: -2.1227124
+  }
+  junction_id: 2
+  stop_line_ids: 92
+}
+traffic_lights {
+  id: 7
+  light_panels {
+    id: 852
+    point {
+      x: 499551.4661069546
+      y: 4391050.1635076385
+    }
+    type: CIRCULAR
+    lane_ids: 2110
+    lane_ids: 2109
+    heading: 0.99698967
+  }
+  junction_id: 2
+  stop_line_ids: 94
+}
+traffic_lights {
+  id: 8
+  light_panels {
+    id: 843
+    point {
+      x: 499554.2690833918
+      y: 4391028.603743481
+    }
+    type: LEFT
+    lane_ids: 2236
+    lane_ids: 2237
+    heading: -0.50919753
+  }
+  light_panels {
+    id: 808
+    point {
+      x: 499551.90733313875
+      y: 4391024.819532421
+    }
+    type: CIRCULAR
+    lane_ids: 2238
+    heading: -0.50878817
+  }
+  junction_id: 2
+  stop_line_ids: 104
+}
+traffic_lights {
+  id: 9
+  light_panels {
+    id: 841
+    point {
+      x: 500442.2238584799
+      y: 4393230.5535995355
+    }
+    type: CIRCULAR
+    lane_ids: 1838
+    lane_ids: 1837
+    lane_ids: 1836
+    heading: 3.0668607
+  }
+  junction_id: 3
+  stop_line_ids: 82
+}
+traffic_lights {
+  id: 10
+  light_panels {
+    id: 809
+    point {
+      x: 500472.10847763304
+      y: 4393207.526501812
+    }
+    type: CIRCULAR
+    lane_ids: 1854
+    lane_ids: 1853
+    heading: -1.6844584
+  }
+  junction_id: 3
+  stop_line_ids: 84
+}
+traffic_lights {
+  id: 11
+  light_panels {
+    id: 778
+    point {
+      x: 500466.5080098046
+      y: 4393234.7718100855
+    }
+    type: CIRCULAR
+    lane_ids: 1938
+    lane_ids: 1937
+    heading: 1.695104
+  }
+  junction_id: 3
+  stop_line_ids: 87
+}
+traffic_lights {
+  id: 12
+  light_panels {
+    id: 804
+    point {
+      x: 500486.9303373681
+      y: 4393215.188117743
+    }
+    type: CIRCULAR
+    lane_ids: 1818
+    lane_ids: 1817
+    lane_ids: 1816
+    heading: -0.07266332
+  }
+  junction_id: 3
+  stop_line_ids: 79
+}
+traffic_lights {
+  id: 13
+  light_panels {
+    id: 793
+    point {
+      x: 500226.51713177166
+      y: 4393245.802943332
+    }
+    type: CIRCULAR
+    lane_ids: 1819
+    lane_ids: 1820
+    lane_ids: 1821
+    heading: 3.0706482
+  }
+  junction_id: 4
+  stop_line_ids: 80
+}
+traffic_lights {
+  id: 14
+  light_panels {
+    id: 772
+    point {
+      x: 500228.39221901895
+      y: 4393232.926672704
+    }
+    type: CIRCULAR
+    lane_ids: 1875
+    heading: -1.6451088
+  }
+  junction_id: 4
+  stop_line_ids: 85
+}
+traffic_lights {
+  id: 15
+  light_panels {
+    id: 825
+    point {
+      x: 500235.4465287813
+      y: 4393233.338673265
+    }
+    type: CIRCULAR
+    lane_ids: 1795
+    lane_ids: 1794
+    lane_ids: 1793
+    heading: -0.073100954
+  }
+  junction_id: 4
+  stop_line_ids: 75
+}
+traffic_lights {
+  id: 16
+  light_panels {
+    id: 811
+    point {
+      x: 499930.51237814984
+      y: 4393267.428009623
+    }
+    type: CIRCULAR
+    lane_ids: 1800
+    lane_ids: 1799
+    lane_ids: 1801
+    heading: 3.0697172
+  }
+  junction_id: 5
+  stop_line_ids: 76
+}
+traffic_lights {
+  id: 17
+  light_panels {
+    id: 770
+    point {
+      x: 499934.47875740996
+      y: 4393243.642016421
+    }
+    type: CIRCULAR
+    lane_ids: 1753
+    lane_ids: 1752
+    heading: -1.6437341
+  }
+  junction_id: 5
+  stop_line_ids: 71
+}
+traffic_lights {
+  id: 18
+  light_panels {
+    id: 848
+    point {
+      x: 499944.7311925903
+      y: 4393277.15043731
+    }
+    type: CIRCULAR
+    lane_ids: 1781
+    lane_ids: 1780
+    heading: 1.4970174
+  }
+  junction_id: 5
+  stop_line_ids: 72
+}
+traffic_lights {
+  id: 19
+  light_panels {
+    id: 870
+    point {
+      x: 499950.06844103866
+      y: 4393254.099007398
+    }
+    type: CIRCULAR
+    lane_ids: 1709
+    lane_ids: 1708
+    lane_ids: 1707
+    heading: -0.07385144
+  }
+  junction_id: 5
+  stop_line_ids: 67
+}
+traffic_lights {
+  id: 20
+  light_panels {
+    id: 768
+    point {
+      x: 499645.3002235886
+      y: 4393288.169286374
+    }
+    type: CIRCULAR
+    lane_ids: 1715
+    lane_ids: 1714
+    lane_ids: 1713
+    heading: 3.0686514
+  }
+  junction_id: 6
+  stop_line_ids: 68
+}
+traffic_lights {
+  id: 21
+  light_panels {
+    id: 822
+    point {
+      x: 499649.83685836906
+      y: 4393267.105298293
+    }
+    type: CIRCULAR
+    lane_ids: 1612
+    lane_ids: 1611
+    lane_ids: 1610
+    heading: -1.6441453
+  }
+  junction_id: 6
+  stop_line_ids: 56
+}
+traffic_lights {
+  id: 22
+  light_panels {
+    id: 815
+    point {
+      x: 499664.1598232179
+      y: 4393295.785467989
+    }
+    type: CIRCULAR
+    lane_ids: 1653
+    lane_ids: 1652
+    heading: 1.4897044
+  }
+  junction_id: 6
+  stop_line_ids: 59
+}
+traffic_lights {
+  id: 23
+  light_panels {
+    id: 792
+    point {
+      x: 499674.37038796494
+      y: 4393274.320375944
+    }
+    type: CIRCULAR
+    lane_ids: 1689
+    lane_ids: 1688
+    lane_ids: 1687
+    heading: -0.073961675
+  }
+  junction_id: 6
+  stop_line_ids: 64
+}
+traffic_lights {
+  id: 24
+  light_panels {
+    id: 829
+    point {
+      x: 499671.95856464974
+      y: 4393717.756405501
+    }
+    type: CIRCULAR
+    lane_ids: 1585
+    lane_ids: 1584
+    heading: 3.0692098
+  }
+  junction_id: 7
+  stop_line_ids: 55
+}
+traffic_lights {
+  id: 25
+  light_panels {
+    id: 797
+    point {
+      x: 499684.852108155
+      y: 4393706.088326853
+    }
+    type: LEFT
+    lane_ids: 1482
+    heading: -1.6432886
+  }
+  light_panels {
+    id: 796
+    point {
+      x: 499680.0435167453
+      y: 4393706.429040109
+    }
+    type: CIRCULAR
+    lane_ids: 1483
+    lane_ids: 1484
+    heading: -1.6424221
+  }
+  junction_id: 7
+  stop_line_ids: 45
+}
+traffic_lights {
+  id: 26
+  light_panels {
+    id: 812
+    point {
+      x: 499699.9516336223
+      y: 4393719.759614602
+    }
+    type: CIRCULAR
+    lane_ids: 1648
+    lane_ids: 1649
+    heading: 1.498666
+  }
+  light_panels {
+    id: 806
+    point {
+      x: 499695.46893311245
+      y: 4393720.084060851
+    }
+    type: LEFT
+    lane_ids: 1647
+    heading: 1.4984676
+  }
+  junction_id: 7
+  stop_line_ids: 58
+}
+traffic_lights {
+  id: 27
+  light_panels {
+    id: 857
+    point {
+      x: 499706.5181808692
+      y: 4393708.432296128
+    }
+    type: CIRCULAR
+    lane_ids: 1569
+    lane_ids: 1570
+    heading: -0.073321216
+  }
+  junction_id: 7
+  stop_line_ids: 54
+}
+traffic_lights {
+  id: 28
+  light_panels {
+    id: 813
+    point {
+      x: 499698.8546003175
+      y: 4394078.8082462875
+    }
+    type: LEFT
+    lane_ids: 1408
+    heading: 3.0666978
+  }
+  light_panels {
+    id: 810
+    point {
+      x: 499699.4333089545
+      y: 4394084.0248645125
+    }
+    type: CIRCULAR
+    lane_ids: 1409
+    lane_ids: 1410
+    heading: 3.067363
+  }
+  junction_id: 8
+  stop_line_ids: 42
+}
+traffic_lights {
+  id: 29
+  light_panels {
+    id: 869
+    point {
+      x: 499705.6716632556
+      y: 4394067.048421151
+    }
+    type: CIRCULAR
+    lane_ids: 1455
+    lane_ids: 1456
+    heading: -1.7040362
+  }
+  light_panels {
+    id: 782
+    point {
+      x: 499711.22274419805
+      y: 4394066.81190198
+    }
+    type: LEFT
+    lane_ids: 1454
+    heading: -1.7037102
+  }
+  junction_id: 8
+  stop_line_ids: 44
+}
+traffic_lights {
+  id: 30
+  light_panels {
+    id: 871
+    point {
+      x: 499722.19688800373
+      y: 4394086.505387107
+    }
+    type: LEFT
+    lane_ids: 1510
+    heading: 1.4986115
+  }
+  light_panels {
+    id: 832
+    point {
+      x: 499726.6942166116
+      y: 4394085.886001327
+    }
+    type: CIRCULAR
+    lane_ids: 1511
+    lane_ids: 1512
+    heading: 1.4994804
+  }
+  junction_id: 8
+  stop_line_ids: 46
+}
+traffic_lights {
+  id: 31
+  light_panels {
+    id: 850
+    point {
+      x: 499735.8732799645
+      y: 4394073.294143579
+    }
+    type: LEFT
+    lane_ids: 1559
+    heading: -0.08037184
+  }
+  light_panels {
+    id: 816
+    point {
+      x: 499735.6634142399
+      y: 4394068.829992219
+    }
+    type: CIRCULAR
+    lane_ids: 1560
+    lane_ids: 1561
+    heading: -0.07453789
+  }
+  junction_id: 8
+  stop_line_ids: 51
+}
+traffic_lights {
+  id: 32
+  light_panels {
+    id: 837
+    point {
+      x: 499758.9918097751
+      y: 4394546.656554379
+    }
+    type: CIRCULAR
+    lane_ids: 1352
+    lane_ids: 1351
+    heading: 3.0261443
+  }
+  junction_id: 9
+  stop_line_ids: 39
+}
+traffic_lights {
+  id: 33
+  light_panels {
+    id: 820
+    point {
+      x: 499774.95686674066
+      y: 4394535.6777698565
+    }
+    type: LEFT
+    lane_ids: 1220
+    heading: -1.6837622
+  }
+  light_panels {
+    id: 817
+    point {
+      x: 499770.061526931
+      y: 4394536.318278519
+    }
+    type: CIRCULAR
+    lane_ids: 1221
+    lane_ids: 1222
+    heading: -1.6837709
+  }
+  junction_id: 9
+  stop_line_ids: 36
+}
+traffic_lights {
+  id: 34
+  light_panels {
+    id: 827
+    point {
+      x: 499784.62575059535
+      y: 4394545.752137274
+    }
+    type: LEFT
+    lane_ids: 1542
+    heading: 1.4369137
+  }
+  light_panels {
+    id: 823
+    point {
+      x: 499789.75426422217
+      y: 4394545.16801354
+    }
+    type: CIRCULAR
+    lane_ids: 1543
+    lane_ids: 1544
+    heading: 1.4346617
+  }
+  junction_id: 9
+  stop_line_ids: 49
+}
+traffic_lights {
+  id: 35
+  light_panels {
+    id: 783
+    point {
+      x: 499797.5612344733
+      y: 4394538.930146253
+    }
+    type: CIRCULAR
+    lane_ids: 1325
+    lane_ids: 1324
+    heading: -0.054211657
+  }
+  junction_id: 9
+  stop_line_ids: 38
+}
+traffic_lights {
+  id: 36
+  light_panels {
+    id: 794
+    point {
+      x: 499827.0770176092
+      y: 4395097.2043463355
+    }
+    type: CIRCULAR
+    lane_ids: 1158
+    lane_ids: 1159
+    heading: 3.0735464
+  }
+  light_panels {
+    id: 771
+    point {
+      x: 499826.3446099849
+      y: 4395091.88235629
+    }
+    type: LEFT
+    lane_ids: 1157
+    heading: 3.0732613
+  }
+  junction_id: 10
+  stop_line_ids: 34
+}
+traffic_lights {
+  id: 37
+  light_panels {
+    id: 849
+    point {
+      x: 499837.1290622775
+      y: 4395078.493218082
+    }
+    type: LEFT
+    lane_ids: 1056
+    heading: -1.7085437
+  }
+  light_panels {
+    id: 800
+    point {
+      x: 499832.27338812675
+      y: 4395078.957360948
+    }
+    type: CIRCULAR
+    lane_ids: 1057
+    lane_ids: 1058
+    heading: -1.7072468
+  }
+  junction_id: 10
+  stop_line_ids: 31
+}
+traffic_lights {
+  id: 38
+  light_panels {
+    id: 875
+    point {
+      x: 499853.3554648583
+      y: 4395101.731664125
+    }
+    type: CIRCULAR
+    lane_ids: 1261
+    lane_ids: 1262
+    heading: 1.4601755
+  }
+  light_panels {
+    id: 773
+    point {
+      x: 499849.30073018663
+      y: 4395102.24014892
+    }
+    type: LEFT
+    lane_ids: 1260
+    heading: 1.4584197
+  }
+  junction_id: 10
+  stop_line_ids: 37
+}
+traffic_lights {
+  id: 39
+  light_panels {
+    id: 851
+    point {
+      x: 499860.41446002625
+      y: 4395088.008969759
+    }
+    type: LEFT
+    lane_ids: 1116
+    heading: -0.07075633
+  }
+  light_panels {
+    id: 788
+    point {
+      x: 499859.8590434828
+      y: 4395083.5800500065
+    }
+    type: CIRCULAR
+    lane_ids: 1117
+    lane_ids: 1118
+    heading: -0.06931069
+  }
+  junction_id: 10
+  stop_line_ids: 33
+}
+traffic_lights {
+  id: 40
+  light_panels {
+    id: 795
+    point {
+      x: 499896.70710053435
+      y: 4395600.009985247
+    }
+    type: CIRCULAR
+    lane_ids: 1003
+    heading: 3.0664642
+  }
+  junction_id: 11
+  stop_line_ids: 29
+}
+traffic_lights {
+  id: 41
+  light_panels {
+    id: 844
+    point {
+      x: 499907.49031093327
+      y: 4395589.34044055
+    }
+    type: LEFT
+    lane_ids: 945
+    heading: -1.7126055
+  }
+  light_panels {
+    id: 789
+    point {
+      x: 499902.9728865821
+      y: 4395589.896556734
+    }
+    type: CIRCULAR
+    lane_ids: 946
+    lane_ids: 947
+    heading: -1.7113464
+  }
+  junction_id: 11
+  stop_line_ids: 25
+}
+traffic_lights {
+  id: 42
+  light_panels {
+    id: 821
+    point {
+      x: 499919.375466461
+      y: 4395600.09418573
+    }
+    type: LEFT
+    lane_ids: 1084
+    heading: 1.4332087
+  }
+  light_panels {
+    id: 769
+    point {
+      x: 499923.7281309153
+      y: 4395599.522259575
+    }
+    type: CIRCULAR
+    lane_ids: 1085
+    lane_ids: 1086
+    heading: 1.4336683
+  }
+  junction_id: 11
+  stop_line_ids: 32
+}
+traffic_lights {
+  id: 43
+  light_panels {
+    id: 781
+    point {
+      x: 499929.9691884916
+      y: 4395589.320987442
+    }
+    type: CIRCULAR
+    lane_ids: 997
+    heading: -0.06924647
+  }
+  junction_id: 11
+  stop_line_ids: 27
+}
+traffic_lights {
+  id: 44
+  light_panels {
+    id: 873
+    point {
+      x: 499933.86202666303
+      y: 4395866.413577679
+    }
+    type: CIRCULAR
+    lane_ids: 920
+    lane_ids: 921
+    heading: 3.0738456
+  }
+  junction_id: 12
+  stop_line_ids: 24
+}
+traffic_lights {
+  id: 45
+  light_panels {
+    id: 803
+    point {
+      x: 499945.2711232886
+      y: 4395856.617117553
+    }
+    type: LEFT
+    lane_ids: 766
+    heading: -1.7090676
+  }
+  light_panels {
+    id: 799
+    point {
+      x: 499940.44002239197
+      y: 4395856.9491409715
+    }
+    type: CIRCULAR
+    lane_ids: 767
+    lane_ids: 768
+    heading: -1.7093998
+  }
+  junction_id: 12
+  stop_line_ids: 18
+}
+traffic_lights {
+  id: 46
+  light_panels {
+    id: 833
+    point {
+      x: 499960.7221493721
+      y: 4395865.618675675
+    }
+    type: CIRCULAR
+    lane_ids: 974
+    lane_ids: 975
+    heading: 1.4346157
+  }
+  light_panels {
+    id: 826
+    point {
+      x: 499956.41382016503
+      y: 4395866.359511154
+    }
+    type: LEFT
+    lane_ids: 973
+    heading: 1.432149
+  }
+  junction_id: 12
+  stop_line_ids: 26
+}
+traffic_lights {
+  id: 47
+  light_panels {
+    id: 805
+    point {
+      x: 499966.9938278359
+      y: 4395856.284184016
+    }
+    type: CIRCULAR
+    lane_ids: 916
+    lane_ids: 917
+    heading: -0.067548186
+  }
+  junction_id: 12
+  stop_line_ids: 23
+}
+traffic_lights {
+  id: 48
+  light_panels {
+    id: 779
+    point {
+      x: 500003.23275639955
+      y: 4396414.27999402
+    }
+    type: LEFT
+    lane_ids: 851
+    heading: 3.0761433
+  }
+  light_panels {
+    id: 776
+    point {
+      x: 500003.6710270192
+      y: 4396418.815863335
+    }
+    type: CIRCULAR
+    lane_ids: 852
+    lane_ids: 853
+    heading: 3.0744174
+  }
+  junction_id: 13
+  stop_line_ids: 20
+}
+traffic_lights {
+  id: 49
+  light_panels {
+    id: 868
+    point {
+      x: 500020.9950497006
+      y: 4396399.576243454
+    }
+    type: CIRCULAR
+    lane_ids: 672
+    lane_ids: 673
+    heading: -1.7356073
+  }
+  light_panels {
+    id: 867
+    point {
+      x: 500025.7946976352
+      y: 4396398.90584867
+    }
+    type: LEFT
+    lane_ids: 671
+    heading: -1.7357482
+  }
+  junction_id: 13
+  stop_line_ids: 15
+}
+traffic_lights {
+  id: 50
+  light_panels {
+    id: 861
+    point {
+      x: 500043.1989693381
+      y: 4396423.749410044
+    }
+    type: CIRCULAR
+    lane_ids: 900
+    lane_ids: 901
+    heading: 1.420057
+  }
+  light_panels {
+    id: 798
+    point {
+      x: 500038.56985309656
+      y: 4396424.467182306
+    }
+    type: LEFT
+    lane_ids: 899
+    heading: 1.4161824
+  }
+  junction_id: 13
+  stop_line_ids: 22
+}
+traffic_lights {
+  id: 51
+  light_panels {
+    id: 853
+    point {
+      x: 500054.6319911525
+      y: 4396409.646009022
+    }
+    type: LEFT
+    lane_ids: 870
+    heading: -0.06771705
+  }
+  light_panels {
+    id: 790
+    point {
+      x: 500053.6848820968
+      y: 4396404.623666003
+    }
+    type: CIRCULAR
+    lane_ids: 871
+    lane_ids: 872
+    heading: -0.068265505
+  }
+  junction_id: 13
+  stop_line_ids: 21
+}
+traffic_lights {
+  id: 52
+  light_panels {
+    id: 777
+    point {
+      x: 500134.7403030092
+      y: 4397151.340638239
+    }
+    type: CIRCULAR
+    lane_ids: 633
+    lane_ids: 634
+    heading: 2.9366684
+  }
+  light_panels {
+    id: 775
+    point {
+      x: 500133.95855796454
+      y: 4397147.065797131
+    }
+    type: LEFT
+    lane_ids: 632
+    heading: 2.936673
+  }
+  junction_id: 14
+  stop_line_ids: 14
+}
+traffic_lights {
+  id: 53
+  light_panels {
+    id: 791
+    point {
+      x: 500151.36192822456
+      y: 4397132.863493009
+    }
+    type: LEFT
+    lane_ids: 492
+    heading: -1.7359042
+  }
+  light_panels {
+    id: 774
+    point {
+      x: 500146.54383846157
+      y: 4397133.698275923
+    }
+    type: CIRCULAR
+    lane_ids: 493
+    lane_ids: 494
+    heading: -1.7324898
+  }
+  junction_id: 14
+  stop_line_ids: 11
+}
+traffic_lights {
+  id: 54
+  light_panels {
+    id: 858
+    point {
+      x: 500168.81194900995
+      y: 4397149.527469742
+    }
+    type: CIRCULAR
+    lane_ids: 696
+    lane_ids: 697
+    heading: 1.3964621
+  }
+  light_panels {
+    id: 838
+    point {
+      x: 500164.42946276616
+      y: 4397150.270139523
+    }
+    type: LEFT
+    lane_ids: 695
+    heading: 1.3959697
+  }
+  junction_id: 14
+  stop_line_ids: 16
+}
+traffic_lights {
+  id: 55
+  light_panels {
+    id: 835
+    point {
+      x: 500177.9215724113
+      y: 4397132.158219726
+    }
+    type: LEFT
+    lane_ids: 563
+    heading: -0.30955112
+  }
+  light_panels {
+    id: 818
+    point {
+      x: 500176.9327892462
+      y: 4397127.286748573
+    }
+    type: CIRCULAR
+    lane_ids: 564
+    lane_ids: 565
+    heading: -0.3095707
+  }
+  junction_id: 14
+  stop_line_ids: 13
+}
+traffic_lights {
+  id: 56
+  light_panels {
+    id: 802
+    point {
+      x: 500231.4197161039
+      y: 4397715.372351719
+    }
+    type: CIRCULAR
+    lane_ids: 462
+    lane_ids: 463
+    lane_ids: 464
+    heading: 3.129885
+  }
+  junction_id: 15
+  stop_line_ids: 10
+}
+traffic_lights {
+  id: 57
+  light_panels {
+    id: 865
+    point {
+      x: 500239.049239681
+      y: 4397705.991491325
+    }
+    type: CIRCULAR
+    lane_ids: 385
+    lane_ids: 386
+    heading: -1.7291278
+  }
+  light_panels {
+    id: 807
+    point {
+      x: 500243.8555830505
+      y: 4397705.238487695
+    }
+    type: LEFT
+    lane_ids: 384
+    heading: -1.7290246
+  }
+  junction_id: 15
+  stop_line_ids: 6
+}
+traffic_lights {
+  id: 58
+  light_panels {
+    id: 864
+    point {
+      x: 500256.1494812763
+      y: 4397723.360759875
+    }
+    type: LEFT
+    lane_ids: 536
+    heading: 1.4136271
+  }
+  light_panels {
+    id: 785
+    point {
+      x: 500260.7283457287
+      y: 4397722.6190501265
+    }
+    type: CIRCULAR
+    lane_ids: 537
+    lane_ids: 538
+    heading: 1.4133168
+  }
+  junction_id: 15
+  stop_line_ids: 12
+}
+traffic_lights {
+  id: 59
+  light_panels {
+    id: 765
+    point {
+      x: 500268.39646312257
+      y: 4397705.218714505
+    }
+    type: CIRCULAR
+    lane_ids: 443
+    lane_ids: 444
+    heading: -0.13663901
+  }
+  junction_id: 15
+  stop_line_ids: 9
+}
+traffic_lights {
+  id: 60
+  light_panels {
+    id: 874
+    point {
+      x: 500310.68434541934
+      y: 4398248.8938327925
+    }
+    type: CIRCULAR
+    lane_ids: 347
+    lane_ids: 348
+    lane_ids: 349
+    heading: 3.1237032
+  }
+  junction_id: 16
+  stop_line_ids: 4
+}
+traffic_lights {
+  id: 61
+  light_panels {
+    id: 855
+    point {
+      x: 500326.4167964968
+      y: 4398232.829906445
+    }
+    type: LEFT
+    lane_ids: 261
+    heading: -1.7233053
+  }
+  light_panels {
+    id: 842
+    point {
+      x: 500321.50500989315
+      y: 4398233.182902282
+    }
+    type: CIRCULAR
+    lane_ids: 262
+    lane_ids: 263
+    heading: -1.7238883
+  }
+  junction_id: 16
+  stop_line_ids: 110
+}
+traffic_lights {
+  id: 62
+  light_panels {
+    id: 854
+    point {
+      x: 500343.54247392964
+      y: 4398252.493291078
+    }
+    type: CIRCULAR
+    lane_ids: 421
+    lane_ids: 422
+    heading: 1.4223826
+  }
+  light_panels {
+    id: 847
+    point {
+      x: 500339.04251555377
+      y: 4398253.182511322
+    }
+    type: LEFT
+    lane_ids: 420
+    heading: 1.4223772
+  }
+  junction_id: 16
+  stop_line_ids: 7
+}
+traffic_lights {
+  id: 63
+  light_panels {
+    id: 845
+    point {
+      x: 500351.1962254449
+      y: 4398239.119974084
+    }
+    type: CIRCULAR
+    lane_ids: 312
+    lane_ids: 313
+    heading: -0.017375706
+  }
+  junction_id: 16
+  stop_line_ids: 1
+}
+traffic_lights {
+  id: 64
+  light_panels {
+    id: 859
+    point {
+      x: 500274.3840420033
+      y: 4398757.354923261
+    }
+    type: CIRCULAR
+    lane_ids: 232
+    heading: 3.0398889
+  }
+  junction_id: 17
+  stop_line_ids: 109
+}
+traffic_lights {
+  id: 65
+  light_panels {
+    id: 872
+    point {
+      x: 500296.1269392588
+      y: 4398736.087595847
+    }
+    type: LEFT
+    lane_ids: 167
+    heading: -1.4055244
+  }
+  light_panels {
+    id: 786
+    point {
+      x: 500291.45719161944
+      y: 4398734.793265928
+    }
+    type: CIRCULAR
+    lane_ids: 168
+    lane_ids: 169
+    heading: -1.4057058
+  }
+  junction_id: 17
+  stop_line_ids: 83
+}
+traffic_lights {
+  id: 66
+  light_panels {
+    id: 767
+    point {
+      x: 500298.67350955994
+      y: 4398773.789407463
+    }
+    type: CIRCULAR
+    lane_ids: 298
+    lane_ids: 299
+    heading: 1.7700517
+  }
+  light_panels {
+    id: 876
+    point {
+      x: 500294.35970138287
+      y: 4398773.938913845
+    }
+    type: LEFT
+    lane_ids: 297
+    heading: 1.7672681
+  }
+  junction_id: 17
+  stop_line_ids: 112
+}
+traffic_lights {
+  id: 67
+  light_panels {
+    id: 862
+    point {
+      x: 500146.19232820865
+      y: 4399611.831649514
+    }
+    type: CIRCULAR
+    lane_ids: 138
+    heading: 3.1399233
+  }
+  junction_id: 18
+  stop_line_ids: 53
+}
+traffic_lights {
+  id: 68
+  light_panels {
+    id: 860
+    point {
+      x: 500146.07405743835
+      y: 4399602.946206332
+    }
+    type: CIRCULAR
+    lane_ids: 93
+    lane_ids: 94
+    heading: -1.5237848
+  }
+  light_panels {
+    id: 846
+    point {
+      x: 500151.7754910344
+      y: 4399603.165866859
+    }
+    type: LEFT
+    lane_ids: 92
+    heading: -1.5237345
+  }
+  junction_id: 18
+  stop_line_ids: 30
+}
+traffic_lights {
+  id: 69
+  light_panels {
+    id: 828
+    point {
+      x: 500169.2716235118
+      y: 4399614.170255845
+    }
+    type: CIRCULAR
+    lane_ids: 193
+    lane_ids: 194
+    heading: 1.7067308
+  }
+  light_panels {
+    id: 801
+    point {
+      x: 500163.56579518877
+      y: 4399613.885128725
+    }
+    type: LEFT
+    lane_ids: 192
+    heading: 1.706584
+  }
+  junction_id: 18
+  stop_line_ids: 90
+}
+traffic_lights {
+  id: 70
+  light_panels {
+    id: 780
+    point {
+      x: 500178.4390328758
+      y: 4399606.755165668
+    }
+    type: CIRCULAR
+    lane_ids: 137
+    heading: -0.086284906
+  }
+  junction_id: 18
+  stop_line_ids: 48
+}
+traffic_lights {
+  id: 71
+  light_panels {
+    id: 831
+    point {
+      x: 500138.7363706897
+      y: 4400042.516738538
+    }
+    type: CIRCULAR
+    lane_ids: 19
+    lane_ids: 20
+    heading: 3.0839808
+  }
+  junction_id: 19
+  stop_line_ids: 111
+}
+traffic_lights {
+  id: 72
+  light_panels {
+    id: 840
+    point {
+      x: 500149.5146004762
+      y: 4400023.555947848
+    }
+    type: LEFT
+    lane_ids: 58
+    heading: -1.5634001
+  }
+  light_panels {
+    id: 766
+    point {
+      x: 500144.5822958401
+      y: 4400023.835174972
+    }
+    type: CIRCULAR
+    lane_ids: 59
+    lane_ids: 60
+    heading: -1.5602257
+  }
+  junction_id: 19
+  stop_line_ids: 17
+}
+traffic_lights {
+  id: 73
+  light_panels {
+    id: 839
+    point {
+      x: 500157.9717250398
+      y: 4400049.440187669
+    }
+    type: LEFT
+    lane_ids: 87
+    heading: 1.5793121
+  }
+  light_panels {
+    id: 819
+    point {
+      x: 500162.54910094436
+      y: 4400049.1825469
+    }
+    type: CIRCULAR
+    lane_ids: 88
+    lane_ids: 89
+    heading: 1.5786283
+  }
+  junction_id: 19
+  stop_line_ids: 28
+}
+traffic_lights {
+  id: 74
+  light_panels {
+    id: 787
+    point {
+      x: 500168.8769647955
+      y: 4400028.686914157
+    }
+    type: CIRCULAR
+    lane_ids: 6
+    lane_ids: 7
+    heading: -0.05809641
+  }
+  junction_id: 19
+  stop_line_ids: 41
+}

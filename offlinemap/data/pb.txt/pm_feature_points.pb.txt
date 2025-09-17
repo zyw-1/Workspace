@@ -1,0 +1,56 @@
+feature_points {
+  feature_point_id: 4
+  feature_position {
+    point_x: 499764.54881822836
+    point_y: 4391386.3133043125
+  }
+  feature_type: SPLIT_START
+}
+feature_points {
+  feature_point_id: 2
+  feature_position {
+    point_x: 500488.4665121118
+    point_y: 4392479.658520575
+  }
+  feature_type: MERGE_END
+}
+feature_points {
+  feature_point_id: 3
+  feature_position {
+    point_x: 499738.0394688614
+    point_y: 4391378.99309333
+  }
+  feature_type: MERGE_END
+}
+feature_points {
+  feature_point_id: 1
+  feature_position {
+    point_x: 500515.5488060688
+    point_y: 4392882.978775817
+  }
+  feature_type: MERGE_END
+}
+feature_points {
+  feature_point_id: 7
+  feature_position {
+    point_x: 499655.90137614834
+    point_y: 4390967.099817187
+  }
+  feature_type: MERGE_END
+}
+feature_points {
+  feature_point_id: 6
+  feature_position {
+    point_x: 499418.40847780823
+    point_y: 4391116.778488054
+  }
+  feature_type: MERGE_END
+}
+feature_points {
+  feature_point_id: 10
+  feature_position {
+    point_x: 500482.74370653916
+    point_y: 4398248.385313751
+  }
+  feature_type: SPLIT_START
+}

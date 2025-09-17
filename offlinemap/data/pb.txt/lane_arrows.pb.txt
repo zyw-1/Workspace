@@ -1,0 +1,9750 @@
+lane_arrows {
+  id: 452
+  point {
+    x: 499811.40365797724
+    y: 4394530.877317641
+  }
+  type: STRAIGHT
+  heading: -0.1156421
+  lane_id: 1334
+}
+lane_arrows {
+  id: 21
+  point {
+    x: 499909.824445521
+    y: 4395650.733781125
+  }
+  type: STRAIGHT
+  heading: -1.7108915
+  lane_id: 942
+}
+lane_arrows {
+  id: 22
+  point {
+    x: 499912.94774352474
+    y: 4395650.288711684
+  }
+  type: STRAIGHT
+  heading: -1.7088584
+  lane_id: 941
+}
+lane_arrows {
+  id: 23
+  point {
+    x: 499904.9181595193
+    y: 4395615.624066859
+  }
+  type: STRAIGHT
+  heading: -1.7099128
+  lane_id: 947
+}
+lane_arrows {
+  id: 852
+  point {
+    x: 499273.1100330581
+    y: 4390631.0194721995
+  }
+  type: STRAIGHT
+  heading: 0.97993815
+  lane_id: 2167
+}
+lane_arrows {
+  id: 24
+  point {
+    x: 499907.9929783816
+    y: 4395615.22904879
+  }
+  type: STRAIGHT
+  heading: -1.7113464
+  lane_id: 946
+}
+lane_arrows {
+  id: 34
+  point {
+    x: 499954.1903329384
+    y: 4395805.361164557
+  }
+  type: STRAIGHT
+  heading: 1.4311478
+  lane_id: 970
+}
+lane_arrows {
+  id: 44
+  point {
+    x: 499937.64290664706
+    y: 4395841.810758136
+  }
+  type: STRAIGHT
+  heading: -1.7096329
+  lane_id: 937
+}
+lane_arrows {
+  id: 45
+  point {
+    x: 499933.7460603425
+    y: 4395842.0425726585
+  }
+  type: STRAIGHT
+  heading: -1.7095516
+  lane_id: 938
+}
+lane_arrows {
+  id: 46
+  point {
+    x: 499918.34899714997
+    y: 4395864.955418085
+  }
+  type: STRAIGHT
+  heading: 3.0740287
+  lane_id: 914
+}
+lane_arrows {
+  id: 47
+  point {
+    x: 499918.77404301486
+    y: 4395868.998304592
+  }
+  type: STRAIGHT
+  heading: 3.0744934
+  lane_id: 915
+}
+lane_arrows {
+  id: 56
+  point {
+    x: 499946.1751054131
+    y: 4395910.896889405
+  }
+  type: STRAIGHT
+  heading: -1.708902
+  lane_id: 758
+}
+lane_arrows {
+  id: 66
+  point {
+    x: 499954.6077414536
+    y: 4395946.471748616
+  }
+  type: STRAIGHT
+  heading: -1.6634651
+  lane_id: 747
+}
+lane_arrows {
+  id: 88
+  point {
+    x: 500021.88559481374
+    y: 4396384.748444827
+  }
+  type: STRAIGHT
+  heading: -1.7269804
+  lane_id: 904
+}
+lane_arrows {
+  id: 89
+  point {
+    x: 500018.1266177407
+    y: 4396385.0605904255
+  }
+  type: STRAIGHT
+  heading: -1.7277313
+  lane_id: 905
+}
+lane_arrows {
+  id: 123
+  point {
+    x: 500152.9119499553
+    y: 4397050.745568801
+  }
+  type: STRAIGHT
+  heading: 1.3961911
+  lane_id: 687
+}
+lane_arrows {
+  id: 124
+  point {
+    x: 500158.1256054236
+    y: 4397079.842679448
+  }
+  type: STRAIGHT
+  heading: 1.3968781
+  lane_id: 692
+}
+lane_arrows {
+  id: 125
+  point {
+    x: 500155.2378698534
+    y: 4397080.433419222
+  }
+  type: STRAIGHT
+  heading: 1.3967206
+  lane_id: 691
+}
+lane_arrows {
+  id: 135
+  point {
+    x: 500192.536273511
+    y: 4397131.700944976
+  }
+  type: STRAIGHT
+  heading: -0.20571451
+  lane_id: 716
+}
+lane_arrows {
+  id: 136
+  point {
+    x: 500191.8881761237
+    y: 4397127.806871421
+  }
+  type: STRAIGHT
+  heading: -0.20640507
+  lane_id: 717
+}
+lane_arrows {
+  id: 137
+  point {
+    x: 500193.8678976863
+    y: 4397138.000091068
+  }
+  type: STRAIGHT
+  heading: 2.9366684
+  lane_id: 633
+}
+lane_arrows {
+  id: 138
+  point {
+    x: 500225.8420581077
+    y: 4397131.228449192
+  }
+  type: STRAIGHT
+  heading: 2.9366684
+  lane_id: 633
+}
+lane_arrows {
+  id: 984
+  point {
+    x: 500258.7505416295
+    y: 4398757.9389378335
+  }
+  type: STRAIGHT
+  heading: 3.1222146
+  lane_id: 3198
+}
+lane_arrows {
+  id: 1
+  point {
+    x: 499922.48298206914
+    y: 4395614.218496332
+  }
+  type: STRAIGHT
+  heading: 1.4360051
+  lane_id: 950
+}
+lane_arrows {
+  id: 2
+  point {
+    x: 499926.20070401893
+    y: 4395613.89583331
+  }
+  type: STRAIGHT
+  heading: 1.4328257
+  lane_id: 951
+}
+lane_arrows {
+  id: 4
+  point {
+    x: 499916.7414527853
+    y: 4395537.87110289
+  }
+  type: STRAIGHT
+  heading: 1.4315728
+  lane_id: 1081
+}
+lane_arrows {
+  id: 10
+  point {
+    x: 499908.56445078936
+    y: 4395502.165886322
+  }
+  type: STRAIGHT
+  heading: 1.4311172
+  lane_id: 1075
+}
+lane_arrows {
+  id: 28
+  point {
+    x: 499949.25863992196
+    y: 4395770.56806091
+  }
+  type: STRAIGHT
+  heading: 1.4284929
+  lane_id: 965
+}
+lane_arrows {
+  id: 103
+  point {
+    x: 500051.1921154368
+    y: 4396439.03655907
+  }
+  type: STRAIGHT
+  heading: 1.410034
+  lane_id: 721
+}
+lane_arrows {
+  id: 38
+  point {
+    x: 499953.15676380566
+    y: 4395841.432024888
+  }
+  type: LEFT
+  heading: 1.432149
+  lane_id: 973
+}
+lane_arrows {
+  id: 39
+  point {
+    x: 499918.22687833605
+    y: 4395687.927133249
+  }
+  type: STRAIGHT
+  heading: -1.712861
+  lane_id: 983
+}
+lane_arrows {
+  id: 40
+  point {
+    x: 499915.2037863468
+    y: 4395688.451662095
+  }
+  type: STRAIGHT
+  heading: -1.7131624
+  lane_id: 984
+}
+lane_arrows {
+  id: 52
+  point {
+    x: 499967.05605559563
+    y: 4395880.306050725
+  }
+  type: STRAIGHT
+  heading: 1.4342984
+  lane_id: 773
+}
+lane_arrows {
+  id: 53
+  point {
+    x: 499963.32257632364
+    y: 4395880.519257383
+  }
+  type: STRAIGHT
+  heading: 1.4348791
+  lane_id: 772
+}
+lane_arrows {
+  id: 54
+  point {
+    x: 499959.51818108023
+    y: 4395880.816794207
+  }
+  type: STRAIGHT
+  heading: 1.435675
+  lane_id: 771
+}
+lane_arrows {
+  id: 55
+  point {
+    x: 499949.51392647665
+    y: 4395910.447903292
+  }
+  type: STRAIGHT
+  heading: -1.7092172
+  lane_id: 757
+}
+lane_arrows {
+  id: 65
+  point {
+    x: 499951.31876483734
+    y: 4395946.791794611
+  }
+  type: STRAIGHT
+  heading: -1.7716728
+  lane_id: 748
+}
+lane_arrows {
+  id: 76
+  point {
+    x: 500023.5268896656
+    y: 4396306.265991135
+  }
+  type: STRAIGHT
+  heading: 1.4123341
+  lane_id: 2403
+}
+lane_arrows {
+  id: 77
+  point {
+    x: 500026.7029514279
+    y: 4396305.793671921
+  }
+  type: STRAIGHT
+  heading: 1.4117606
+  lane_id: 2404
+}
+lane_arrows {
+  id: 132
+  point {
+    x: 500147.27745973505
+    y: 4397118.921730121
+  }
+  type: STRAIGHT
+  heading: -1.7445753
+  lane_id: 636
+}
+lane_arrows {
+  id: 133
+  point {
+    x: 500143.5509945976
+    y: 4397119.778656799
+  }
+  type: STRAIGHT
+  heading: -1.7445726
+  lane_id: 637
+}
+lane_arrows {
+  id: 134
+  point {
+    x: 500139.8629927656
+    y: 4397120.489556689
+  }
+  type: STRAIGHT
+  heading: -1.7445688
+  lane_id: 638
+}
+lane_arrows {
+  id: 160
+  point {
+    x: 500153.8280791132
+    y: 4397168.699235821
+  }
+  type: STRAIGHT
+  heading: -1.7324898
+  lane_id: 493
+}
+lane_arrows {
+  id: 161
+  point {
+    x: 500150.7921496384
+    y: 4397169.181297721
+  }
+  type: STRAIGHT
+  heading: -1.732574
+  lane_id: 494
+}
+lane_arrows {
+  id: 170
+  point {
+    x: 500166.82068853755
+    y: 4397248.0804150775
+  }
+  type: STRAIGHT
+  heading: -1.7319835
+  lane_id: 542
+}
+lane_arrows {
+  id: 179
+  point {
+    x: 500256.8192992307
+    y: 4397688.220883768
+  }
+  type: STRAIGHT
+  heading: 1.4125553
+  lane_id: 538
+}
+lane_arrows {
+  id: 965
+  point {
+    x: 499337.7908197817
+    y: 4391158.9191131685
+  }
+  type: STRAIGHT
+  heading: 2.6342547
+  lane_id: 2208
+}
+lane_arrows {
+  id: 967
+  point {
+    x: 499339.2278074194
+    y: 4391161.790248463
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.6318471
+  lane_id: 2209
+}
+lane_arrows {
+  id: 983
+  point {
+    x: 500258.8447953637
+    y: 4398754.828859972
+  }
+  type: STRAIGHT
+  heading: 3.1221695
+  lane_id: 3197
+}
+lane_arrows {
+  id: 18
+  point {
+    x: 499896.435355237
+    y: 4395575.294900004
+  }
+  type: STRAIGHT
+  heading: -1.7078446
+  lane_id: 1006
+}
+lane_arrows {
+  id: 7
+  point {
+    x: 499919.37780569785
+    y: 4395537.519094446
+  }
+  type: RIGHT
+  heading: 1.4312497
+  lane_id: 1082
+}
+lane_arrows {
+  id: 90
+  point {
+    x: 500014.3371403696
+    y: 4396385.227660669
+  }
+  type: STRAIGHT
+  heading: -1.7275876
+  lane_id: 906
+}
+lane_arrows {
+  id: 91
+  point {
+    x: 499987.7007466818
+    y: 4396411.560304283
+  }
+  type: STRAIGHT
+  heading: -0.068265505
+  lane_id: 871
+}
+lane_arrows {
+  id: 92
+  point {
+    x: 499988.4239615689
+    y: 4396419.077321561
+  }
+  type: STRAIGHT
+  heading: 3.0769005
+  lane_id: 875
+}
+lane_arrows {
+  id: 93
+  point {
+    x: 499988.7734174974
+    y: 4396422.456757341
+  }
+  type: STRAIGHT
+  heading: 3.0773845
+  lane_id: 876
+}
+lane_arrows {
+  id: 94
+  point {
+    x: 499989.114405703
+    y: 4396425.94518959
+  }
+  type: STRAIGHT
+  heading: 3.0775297
+  lane_id: 877
+}
+lane_arrows {
+  id: 113
+  point {
+    x: 500035.4554680528
+    y: 4396476.420928524
+  }
+  type: STRAIGHT
+  heading: -1.7353932
+  lane_id: 667
+}
+lane_arrows {
+  id: 8
+  point {
+    x: 499914.2481342006
+    y: 4395501.256552165
+  }
+  type: RIGHT
+  heading: 1.4310603
+  lane_id: 1077
+}
+lane_arrows {
+  id: 9
+  point {
+    x: 499911.5580467489
+    y: 4395501.657599251
+  }
+  type: STRAIGHT
+  heading: 1.4294292
+  lane_id: 1076
+}
+lane_arrows {
+  id: 977
+  point {
+    x: 500259.027550337
+    y: 4398751.422800068
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.01832231
+  lane_id: 3206
+}
+lane_arrows {
+  id: 978
+  point {
+    x: 500259.09250909
+    y: 4398748.314120796
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.018938407
+  lane_id: 3207
+}
+lane_arrows {
+  id: 5
+  point {
+    x: 499913.66715710773
+    y: 4395538.256599482
+  }
+  type: STRAIGHT
+  heading: 1.4311402
+  lane_id: 1080
+}
+lane_arrows {
+  id: 979
+  point {
+    x: 500229.2492770606
+    y: 4398748.916226256
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.018938407
+  lane_id: 3207
+}
+lane_arrows {
+  id: 980
+  point {
+    x: 500229.31299573556
+    y: 4398752.010593709
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.01832231
+  lane_id: 3206
+}
+lane_arrows {
+  id: 3
+  point {
+    x: 499929.9800000098
+    y: 4395613.579744032
+  }
+  type: STRAIGHT
+  heading: 1.4312962
+  lane_id: 952
+}
+lane_arrows {
+  id: 981
+  point {
+    x: 500199.2683139738
+    y: 4398752.589825036
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.02008448
+  lane_id: 3209
+}
+lane_arrows {
+  id: 982
+  point {
+    x: 500199.2171017207
+    y: 4398749.526876279
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.024078272
+  lane_id: 3210
+}
+lane_arrows {
+  id: 6
+  point {
+    x: 499910.9026736904
+    y: 4395538.708857272
+  }
+  type: LEFT
+  heading: 1.4307677
+  lane_id: 1079
+}
+lane_arrows {
+  id: 11
+  point {
+    x: 499905.84272887104
+    y: 4395502.843152031
+  }
+  type: LEFT
+  heading: 1.433188
+  lane_id: 1074
+}
+lane_arrows {
+  id: 12
+  point {
+    x: 499924.33024693583
+    y: 4395572.8940490335
+  }
+  type: RIGHT
+  heading: 1.434206
+  lane_id: 1087
+}
+lane_arrows {
+  id: 13
+  point {
+    x: 499921.62577496126
+    y: 4395573.076978514
+  }
+  type: STRAIGHT
+  heading: 1.434778
+  lane_id: 1086
+}
+lane_arrows {
+  id: 14
+  point {
+    x: 499918.63092659804
+    y: 4395573.341404783
+  }
+  type: STRAIGHT
+  heading: 1.4336683
+  lane_id: 1085
+}
+lane_arrows {
+  id: 15
+  point {
+    x: 499915.8253558659
+    y: 4395573.417825114
+  }
+  type: LEFT
+  heading: 1.4332087
+  lane_id: 1084
+}
+lane_arrows {
+  id: 16
+  point {
+    x: 499904.12924518785
+    y: 4395574.781788576
+  }
+  type: STRAIGHT
+  heading: -1.709253
+  lane_id: 1004
+}
+lane_arrows {
+  id: 17
+  point {
+    x: 499900.22437062545
+    y: 4395575.057497665
+  }
+  type: STRAIGHT
+  heading: -1.7097967
+  lane_id: 1005
+}
+lane_arrows {
+  id: 19
+  point {
+    x: 499915.75872075936
+    y: 4395649.819162285
+  }
+  type: LEFT
+  heading: -1.70883
+  lane_id: 940
+}
+lane_arrows {
+  id: 20
+  point {
+    x: 499907.05687862483
+    y: 4395651.174349809
+  }
+  type: RIGHT
+  heading: -1.7113537
+  lane_id: 943
+}
+lane_arrows {
+  id: 25
+  point {
+    x: 499902.1010588964
+    y: 4395615.715675483
+  }
+  type: RIGHT
+  heading: -1.7090584
+  lane_id: 948
+}
+lane_arrows {
+  id: 26
+  point {
+    x: 499910.773982664
+    y: 4395614.907002808
+  }
+  type: LEFT
+  heading: -1.7126055
+  lane_id: 945
+}
+lane_arrows {
+  id: 27
+  point {
+    x: 499946.2364739925
+    y: 4395771.102986406
+  }
+  type: STRAIGHT
+  heading: 1.4302695
+  lane_id: 964
+}
+lane_arrows {
+  id: 29
+  point {
+    x: 499943.48386386374
+    y: 4395771.567498026
+  }
+  type: LEFT
+  heading: 1.4330742
+  lane_id: 963
+}
+lane_arrows {
+  id: 30
+  point {
+    x: 499951.8830010814
+    y: 4395770.142236896
+  }
+  type: RIGHT
+  heading: 1.4304484
+  lane_id: 966
+}
+lane_arrows {
+  id: 31
+  point {
+    x: 499961.61310786684
+    y: 4395840.455745873
+  }
+  type: RIGHT
+  heading: 1.436488
+  lane_id: 976
+}
+lane_arrows {
+  id: 32
+  point {
+    x: 499956.7247240448
+    y: 4395805.047729272
+  }
+  type: RIGHT
+  heading: 1.4327245
+  lane_id: 971
+}
+lane_arrows {
+  id: 33
+  point {
+    x: 499951.16822330176
+    y: 4395805.895963868
+  }
+  type: STRAIGHT
+  heading: 1.4320444
+  lane_id: 969
+}
+lane_arrows {
+  id: 35
+  point {
+    x: 499948.41529734794
+    y: 4395806.359723181
+  }
+  type: LEFT
+  heading: 1.4336689
+  lane_id: 968
+}
+lane_arrows {
+  id: 36
+  point {
+    x: 499955.90946341876
+    y: 4395840.968219155
+  }
+  type: STRAIGHT
+  heading: 1.4346157
+  lane_id: 974
+}
+lane_arrows {
+  id: 37
+  point {
+    x: 499958.9314830423
+    y: 4395840.433288619
+  }
+  type: STRAIGHT
+  heading: 1.4374719
+  lane_id: 975
+}
+lane_arrows {
+  id: 41
+  point {
+    x: 499912.3757264243
+    y: 4395688.906452897
+  }
+  type: RIGHT
+  heading: -1.7103076
+  lane_id: 985
+}
+lane_arrows {
+  id: 42
+  point {
+    x: 499920.95574447355
+    y: 4395687.4582928885
+  }
+  type: LEFT
+  heading: -1.7106285
+  lane_id: 982
+}
+lane_arrows {
+  id: 43
+  point {
+    x: 499941.341252437
+    y: 4395841.498728883
+  }
+  type: STRAIGHT
+  heading: -1.7090603
+  lane_id: 936
+}
+lane_arrows {
+  id: 48
+  point {
+    x: 499917.93292664655
+    y: 4395861.702648602
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.067548186
+  lane_id: 916
+}
+lane_arrows {
+  id: 49
+  point {
+    x: 499917.5391493939
+    y: 4395858.522606157
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.067924134
+  lane_id: 917
+}
+lane_arrows {
+  id: 50
+  point {
+    x: 499983.2613142188
+    y: 4395863.900986536
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0727594
+  lane_id: 921
+}
+lane_arrows {
+  id: 51
+  point {
+    x: 499982.3960718331
+    y: 4395857.555285942
+  }
+  type: STRAIGHT
+  heading: -0.0663301
+  lane_id: 918
+}
+lane_arrows {
+  id: 57
+  point {
+    x: 499939.09225716454
+    y: 4395882.3188244505
+  }
+  type: RIGHT
+  heading: -1.7091548
+  lane_id: 769
+}
+lane_arrows {
+  id: 58
+  point {
+    x: 499942.2244180272
+    y: 4395882.095810361
+  }
+  type: STRAIGHT
+  heading: -1.7090293
+  lane_id: 768
+}
+lane_arrows {
+  id: 59
+  point {
+    x: 499945.5036614663
+    y: 4395881.85547567
+  }
+  type: STRAIGHT
+  heading: -1.7093998
+  lane_id: 767
+}
+lane_arrows {
+  id: 60
+  point {
+    x: 499948.75320571836
+    y: 4395881.667443796
+  }
+  type: LEFT
+  heading: -1.7090676
+  lane_id: 766
+}
+lane_arrows {
+  id: 82
+  point {
+    x: 500030.202919257
+    y: 4396348.108010547
+  }
+  type: STRAIGHT
+  heading: 1.410797
+  lane_id: 788
+}
+lane_arrows {
+  id: 61
+  point {
+    x: 499957.7815185608
+    y: 4395946.137234505
+  }
+  type: LEFT
+  heading: -1.6930163
+  lane_id: 746
+}
+lane_arrows {
+  id: 62
+  point {
+    x: 499952.68885443977
+    y: 4395910.02260749
+  }
+  type: LEFT
+  heading: -1.7121102
+  lane_id: 761
+}
+lane_arrows {
+  id: 63
+  point {
+    x: 499942.8709615063
+    y: 4395910.540107118
+  }
+  type: RIGHT
+  heading: -1.7091504
+  lane_id: 764
+}
+lane_arrows {
+  id: 64
+  point {
+    x: 499948.1428931113
+    y: 4395947.114823887
+  }
+  type: RIGHT
+  heading: -1.7439452
+  lane_id: 749
+}
+lane_arrows {
+  id: 67
+  point {
+    x: 499847.05008456967
+    y: 4395866.5056802565
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.067159355
+  lane_id: 912
+}
+lane_arrows {
+  id: 68
+  point {
+    x: 499882.8917834376
+    y: 4395864.068347624
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.067548186
+  lane_id: 916
+}
+lane_arrows {
+  id: 69
+  point {
+    x: 499882.7014098541
+    y: 4395860.850907921
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.067924134
+  lane_id: 917
+}
+lane_arrows {
+  id: 95
+  point {
+    x: 499986.9800058411
+    y: 4396405.126176029
+  }
+  type: RIGHT
+  heading: -0.0715179
+  lane_id: 873
+}
+lane_arrows {
+  id: 70
+  point {
+    x: 499846.8775741422
+    y: 4395863.294066338
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.067192346
+  lane_id: 913
+}
+lane_arrows {
+  id: 81
+  point {
+    x: 500036.4514253854
+    y: 4396347.210102176
+  }
+  type: RIGHT
+  heading: 1.4151574
+  lane_id: 790
+}
+lane_arrows {
+  id: 78
+  point {
+    x: 500029.78579331026
+    y: 4396305.394979786
+  }
+  type: RIGHT
+  heading: 1.4120705
+  lane_id: 2405
+}
+lane_arrows {
+  id: 71
+  point {
+    x: 500053.54737958725
+    y: 4395859.161317967
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.076169
+  lane_id: 935
+}
+lane_arrows {
+  id: 72
+  point {
+    x: 500053.4635962191
+    y: 4395856.052127103
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0764487
+  lane_id: 934
+}
+lane_arrows {
+  id: 73
+  point {
+    x: 500021.0593265171
+    y: 4395858.133492984
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0738456
+  lane_id: 920
+}
+lane_arrows {
+  id: 74
+  point {
+    x: 499982.8974176848
+    y: 4395860.783498428
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0738456
+  lane_id: 920
+}
+lane_arrows {
+  id: 75
+  point {
+    x: 500021.21054548246
+    y: 4395861.354012457
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0727594
+  lane_id: 921
+}
+lane_arrows {
+  id: 79
+  point {
+    x: 500020.3969533633
+    y: 4396306.811193804
+  }
+  type: LEFT
+  heading: 1.4158174
+  lane_id: 2402
+}
+lane_arrows {
+  id: 80
+  point {
+    x: 500026.97312951065
+    y: 4396348.405056089
+  }
+  type: LEFT
+  heading: 1.4115673
+  lane_id: 787
+}
+lane_arrows {
+  id: 808
+  point {
+    x: 499574.1662319918
+    y: 4391030.080794981
+  }
+  type: STRAIGHT
+  heading: 2.6328204
+  lane_id: 2288
+}
+lane_arrows {
+  id: 83
+  point {
+    x: 500033.35014478676
+    y: 4396347.572530607
+  }
+  type: STRAIGHT
+  heading: 1.4122266
+  lane_id: 789
+}
+lane_arrows {
+  id: 84
+  point {
+    x: 500039.0181748512
+    y: 4396383.56145826
+  }
+  type: STRAIGHT
+  heading: 1.4187248
+  lane_id: 901
+}
+lane_arrows {
+  id: 85
+  point {
+    x: 500035.79770326416
+    y: 4396383.767659588
+  }
+  type: STRAIGHT
+  heading: 1.420057
+  lane_id: 900
+}
+lane_arrows {
+  id: 86
+  point {
+    x: 500042.10663796926
+    y: 4396383.406793116
+  }
+  type: RIGHT
+  heading: 1.4164006
+  lane_id: 902
+}
+lane_arrows {
+  id: 87
+  point {
+    x: 500032.5097066068
+    y: 4396383.95673543
+  }
+  type: LEFT
+  heading: 1.4161824
+  lane_id: 899
+}
+lane_arrows {
+  id: 107
+  point {
+    x: 500069.00676607504
+    y: 4396403.29848658
+  }
+  type: STRAIGHT
+  heading: -0.067778096
+  lane_id: 797
+}
+lane_arrows {
+  id: 96
+  point {
+    x: 499988.12000798725
+    y: 4396414.65904239
+  }
+  type: LEFT
+  heading: -0.06771705
+  lane_id: 870
+}
+lane_arrows {
+  id: 97
+  point {
+    x: 499987.34482739563
+    y: 4396408.21172747
+  }
+  type: STRAIGHT
+  heading: -0.0684432
+  lane_id: 872
+}
+lane_arrows {
+  id: 98
+  point {
+    x: 500023.1658407644
+    y: 4396441.049998761
+  }
+  type: RIGHT
+  heading: -1.7340221
+  lane_id: 674
+}
+lane_arrows {
+  id: 99
+  point {
+    x: 500026.3076196297
+    y: 4396440.845465676
+  }
+  type: STRAIGHT
+  heading: -1.7346253
+  lane_id: 673
+}
+lane_arrows {
+  id: 100
+  point {
+    x: 500032.7740405117
+    y: 4396440.509902567
+  }
+  type: LEFT
+  heading: -1.7357482
+  lane_id: 671
+}
+lane_arrows {
+  id: 101
+  point {
+    x: 500043.5767852195
+    y: 4396439.560581632
+  }
+  type: STRAIGHT
+  heading: 1.4100258
+  lane_id: 719
+}
+lane_arrows {
+  id: 102
+  point {
+    x: 500047.316999817
+    y: 4396439.360588564
+  }
+  type: STRAIGHT
+  heading: 1.4100287
+  lane_id: 720
+}
+lane_arrows {
+  id: 104
+  point {
+    x: 500070.025451991
+    y: 4396410.212468764
+  }
+  type: LEFT
+  heading: 3.0761433
+  lane_id: 851
+}
+lane_arrows {
+  id: 105
+  point {
+    x: 500071.5524264235
+    y: 4396418.972159952
+  }
+  type: RIGHT
+  heading: 3.0739264
+  lane_id: 854
+}
+lane_arrows {
+  id: 106
+  point {
+    x: 500069.50138977444
+    y: 4396406.573144025
+  }
+  type: STRAIGHT
+  heading: -0.066228434
+  lane_id: 796
+}
+lane_arrows {
+  id: 108
+  point {
+    x: 500068.45439320547
+    y: 4396400.1303387955
+  }
+  type: STRAIGHT
+  heading: -0.06778306
+  lane_id: 798
+}
+lane_arrows {
+  id: 109
+  point {
+    x: 500071.06700102193
+    y: 4396416.143412626
+  }
+  type: STRAIGHT
+  heading: 3.0736496
+  lane_id: 853
+}
+lane_arrows {
+  id: 110
+  point {
+    x: 500070.5649382691
+    y: 4396413.182369108
+  }
+  type: STRAIGHT
+  heading: 3.0744174
+  lane_id: 852
+}
+lane_arrows {
+  id: 111
+  point {
+    x: 500029.205863223
+    y: 4396440.4021045845
+  }
+  type: STRAIGHT
+  heading: -1.7356073
+  lane_id: 672
+}
+lane_arrows {
+  id: 112
+  point {
+    x: 500032.28719036665
+    y: 4396476.940977458
+  }
+  type: STRAIGHT
+  heading: -1.7335541
+  lane_id: 668
+}
+lane_arrows {
+  id: 114
+  point {
+    x: 500029.0849966089
+    y: 4396477.315928308
+  }
+  type: RIGHT
+  heading: -1.7330704
+  lane_id: 669
+}
+lane_arrows {
+  id: 130
+  point {
+    x: 500164.21374291356
+    y: 4397114.950149743
+  }
+  type: STRAIGHT
+  heading: 1.3964975
+  lane_id: 697
+}
+lane_arrows {
+  id: 115
+  point {
+    x: 500038.7902828066
+    y: 4396475.919690247
+  }
+  type: LEFT
+  heading: -1.7363155
+  lane_id: 666
+}
+lane_arrows {
+  id: 116
+  point {
+    x: 500044.4231722267
+    y: 4396511.233380843
+  }
+  type: LEFT
+  heading: -1.7325219
+  lane_id: 661
+}
+lane_arrows {
+  id: 117
+  point {
+    x: 500041.17347046314
+    y: 4396511.638085749
+  }
+  type: STRAIGHT
+  heading: -1.734174
+  lane_id: 662
+}
+lane_arrows {
+  id: 118
+  point {
+    x: 500038.0478402474
+    y: 4396512.072471086
+  }
+  type: STRAIGHT
+  heading: -1.7349164
+  lane_id: 663
+}
+lane_arrows {
+  id: 119
+  point {
+    x: 500034.85928993725
+    y: 4396512.407587053
+  }
+  type: RIGHT
+  heading: -1.7342037
+  lane_id: 664
+}
+lane_arrows {
+  id: 120
+  point {
+    x: 500147.0007288292
+    y: 4397051.761657499
+  }
+  type: LEFT
+  heading: 1.3972586
+  lane_id: 685
+}
+lane_arrows {
+  id: 121
+  point {
+    x: 500155.9564924375
+    y: 4397050.252438547
+  }
+  type: RIGHT
+  heading: 1.3968025
+  lane_id: 688
+}
+lane_arrows {
+  id: 122
+  point {
+    x: 500150.04382734164
+    y: 4397051.266250263
+  }
+  type: STRAIGHT
+  heading: 1.396717
+  lane_id: 686
+}
+lane_arrows {
+  id: 126
+  point {
+    x: 500152.130984961
+    y: 4397080.771385352
+  }
+  type: LEFT
+  heading: 1.3970244
+  lane_id: 690
+}
+lane_arrows {
+  id: 127
+  point {
+    x: 500161.0191146869
+    y: 4397079.481165111
+  }
+  type: RIGHT
+  heading: 1.397002
+  lane_id: 693
+}
+lane_arrows {
+  id: 181
+  point {
+    x: 500253.85575109895
+    y: 4397688.647720582
+  }
+  type: STRAIGHT
+  heading: 1.4133168
+  lane_id: 537
+}
+lane_arrows {
+  id: 128
+  point {
+    x: 500167.1868673038
+    y: 4397114.306309605
+  }
+  type: RIGHT
+  heading: 1.3961768
+  lane_id: 698
+}
+lane_arrows {
+  id: 129
+  point {
+    x: 500161.34998306574
+    y: 4397115.269165467
+  }
+  type: STRAIGHT
+  heading: 1.3964621
+  lane_id: 696
+}
+lane_arrows {
+  id: 131
+  point {
+    x: 500158.7843381359
+    y: 4397116.526272705
+  }
+  type: LEFT
+  heading: 1.3959697
+  lane_id: 695
+}
+lane_arrows {
+  id: 150
+  point {
+    x: 500119.2588721176
+    y: 4397150.693299343
+  }
+  type: LEFT
+  heading: -0.30955112
+  lane_id: 563
+}
+lane_arrows {
+  id: 139
+  point {
+    x: 500226.3610336472
+    y: 4397134.208707269
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.93665
+  lane_id: 634
+}
+lane_arrows {
+  id: 140
+  point {
+    x: 500194.403750408
+    y: 4397140.928228658
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.93665
+  lane_id: 634
+}
+lane_arrows {
+  id: 141
+  point {
+    x: 500224.97345641174
+    y: 4397128.495823912
+  }
+  type: LEFT
+  heading: 2.936673
+  lane_id: 632
+}
+lane_arrows {
+  id: 142
+  point {
+    x: 500262.0354470147
+    y: 4397120.6343512
+  }
+  type: LEFT
+  heading: 2.9360054
+  lane_id: 628
+}
+lane_arrows {
+  id: 143
+  point {
+    x: 500262.54758327827
+    y: 4397123.554780448
+  }
+  type: STRAIGHT
+  heading: 2.9326587
+  lane_id: 629
+}
+lane_arrows {
+  id: 151
+  point {
+    x: 500094.13899992604
+    y: 4397158.562164482
+  }
+  type: LEFT
+  heading: -0.30955112
+  lane_id: 563
+}
+lane_arrows {
+  id: 226
+  point {
+    x: 500331.5920728183
+    y: 4398181.23969996
+  }
+  type: STRAIGHT
+  heading: 1.4229611
+  lane_id: 411
+}
+lane_arrows {
+  id: 144
+  point {
+    x: 500263.37607092946
+    y: 4397126.452439072
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.927784
+  lane_id: 630
+}
+lane_arrows {
+  id: 145
+  point {
+    x: 500119.7543978614
+    y: 4397154.41967899
+  }
+  type: STRAIGHT
+  heading: 2.8374727
+  lane_id: 567
+}
+lane_arrows {
+  id: 146
+  point {
+    x: 500120.41992434533
+    y: 4397157.787917644
+  }
+  type: STRAIGHT
+  heading: 2.8374288
+  lane_id: 568
+}
+lane_arrows {
+  id: 147
+  point {
+    x: 500121.11246871133
+    y: 4397161.143690884
+  }
+  type: STRAIGHT
+  heading: 2.8309348
+  lane_id: 569
+}
+lane_arrows {
+  id: 148
+  point {
+    x: 500118.34189434076
+    y: 4397147.270339606
+  }
+  type: STRAIGHT
+  heading: -0.3095707
+  lane_id: 564
+}
+lane_arrows {
+  id: 149
+  point {
+    x: 500118.0221848047
+    y: 4397143.737218849
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.30182716
+  lane_id: 565
+}
+lane_arrows {
+  id: 152
+  point {
+    x: 500093.3675659138
+    y: 4397155.193060444
+  }
+  type: STRAIGHT
+  heading: -0.3095707
+  lane_id: 564
+}
+lane_arrows {
+  id: 217
+  point {
+    x: 500248.3817164608
+    y: 4397774.490327557
+  }
+  type: STRAIGHT
+  heading: -1.727877
+  lane_id: 381
+}
+lane_arrows {
+  id: 153
+  point {
+    x: 500092.0721271909
+    y: 4397151.782551246
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.30182716
+  lane_id: 565
+}
+lane_arrows {
+  id: 154
+  point {
+    x: 500048.4113772027
+    y: 4397165.996491181
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.31506428
+  lane_id: 557
+}
+lane_arrows {
+  id: 155
+  point {
+    x: 500050.59122209257
+    y: 4397172.712064102
+  }
+  type: LEFT
+  heading: -0.31495047
+  lane_id: 555
+}
+lane_arrows {
+  id: 156
+  point {
+    x: 500049.46732030093
+    y: 4397169.4506177865
+  }
+  type: STRAIGHT
+  heading: -0.3149715
+  lane_id: 556
+}
+lane_arrows {
+  id: 157
+  point {
+    x: 500171.4055599383
+    y: 4397163.582297377
+  }
+  type: STRAIGHT
+  heading: 1.4084896
+  lane_id: 498
+}
+lane_arrows {
+  id: 158
+  point {
+    x: 500174.95428473444
+    y: 4397162.565993089
+  }
+  type: STRAIGHT
+  heading: 1.408438
+  lane_id: 499
+}
+lane_arrows {
+  id: 159
+  point {
+    x: 500167.6005929783
+    y: 4397164.62422931
+  }
+  type: STRAIGHT
+  heading: 1.4084982
+  lane_id: 497
+}
+lane_arrows {
+  id: 162
+  point {
+    x: 500147.9580541408
+    y: 4397169.929176491
+  }
+  type: RIGHT
+  heading: -1.7318254
+  lane_id: 495
+}
+lane_arrows {
+  id: 163
+  point {
+    x: 500153.54793013737
+    y: 4397204.710859666
+  }
+  type: RIGHT
+  heading: -1.7309159
+  lane_id: 490
+}
+lane_arrows {
+  id: 164
+  point {
+    x: 500156.4976794962
+    y: 4397203.921511438
+  }
+  type: STRAIGHT
+  heading: -1.73222
+  lane_id: 489
+}
+lane_arrows {
+  id: 165
+  point {
+    x: 500159.51224967616
+    y: 4397203.620609462
+  }
+  type: STRAIGHT
+  heading: -1.7319272
+  lane_id: 488
+}
+lane_arrows {
+  id: 166
+  point {
+    x: 500162.92271753564
+    y: 4397202.901904957
+  }
+  type: LEFT
+  heading: -1.732596
+  lane_id: 487
+}
+lane_arrows {
+  id: 167
+  point {
+    x: 500156.6815417901
+    y: 4397167.78624187
+  }
+  type: LEFT
+  heading: -1.7359042
+  lane_id: 492
+}
+lane_arrows {
+  id: 168
+  point {
+    x: 500160.69612709124
+    y: 4397249.023699564
+  }
+  type: RIGHT
+  heading: -1.7312254
+  lane_id: 544
+}
+lane_arrows {
+  id: 169
+  point {
+    x: 500163.7573733394
+    y: 4397248.544112498
+  }
+  type: STRAIGHT
+  heading: -1.7323254
+  lane_id: 543
+}
+lane_arrows {
+  id: 171
+  point {
+    x: 500238.3878358988
+    y: 4397609.383752329
+  }
+  type: LEFT
+  heading: 1.4142866
+  lane_id: 526
+}
+lane_arrows {
+  id: 172
+  point {
+    x: 500246.85781820957
+    y: 4397608.2532152925
+  }
+  type: RIGHT
+  heading: 1.4119859
+  lane_id: 529
+}
+lane_arrows {
+  id: 173
+  point {
+    x: 500241.1829315582
+    y: 4397608.969509203
+  }
+  type: STRAIGHT
+  heading: 1.4117801
+  lane_id: 527
+}
+lane_arrows {
+  id: 174
+  point {
+    x: 500244.1363536055
+    y: 4397608.565352212
+  }
+  type: STRAIGHT
+  heading: 1.410754
+  lane_id: 528
+}
+lane_arrows {
+  id: 175
+  point {
+    x: 500251.248980655
+    y: 4397652.889525749
+  }
+  type: STRAIGHT
+  heading: 1.410754
+  lane_id: 528
+}
+lane_arrows {
+  id: 176
+  point {
+    x: 500248.20692797494
+    y: 4397653.35180324
+  }
+  type: STRAIGHT
+  heading: 1.4117801
+  lane_id: 527
+}
+lane_arrows {
+  id: 177
+  point {
+    x: 500253.91373809666
+    y: 4397652.460147023
+  }
+  type: RIGHT
+  heading: 1.4140469
+  lane_id: 534
+}
+lane_arrows {
+  id: 178
+  point {
+    x: 500245.43861674634
+    y: 4397653.846850526
+  }
+  type: LEFT
+  heading: 1.4117236
+  lane_id: 531
+}
+lane_arrows {
+  id: 180
+  point {
+    x: 500259.5261032659
+    y: 4397687.847368605
+  }
+  type: RIGHT
+  heading: 1.4131653
+  lane_id: 539
+}
+lane_arrows {
+  id: 182
+  point {
+    x: 500251.0887905385
+    y: 4397689.0602088105
+  }
+  type: LEFT
+  heading: 1.4136271
+  lane_id: 536
+}
+lane_arrows {
+  id: 183
+  point {
+    x: 500239.3768742999
+    y: 4397690.4741708515
+  }
+  type: STRAIGHT
+  heading: -1.7290838
+  lane_id: 466
+}
+lane_arrows {
+  id: 184
+  point {
+    x: 500235.62403019
+    y: 4397691.00572514
+  }
+  type: STRAIGHT
+  heading: -1.7291049
+  lane_id: 467
+}
+lane_arrows {
+  id: 185
+  point {
+    x: 500231.9156590784
+    y: 4397691.542946427
+  }
+  type: STRAIGHT
+  heading: -1.7291172
+  lane_id: 468
+}
+lane_arrows {
+  id: 186
+  point {
+    x: 500283.09110985254
+    y: 4397708.644468008
+  }
+  type: STRAIGHT
+  heading: -0.011374602
+  lane_id: 445
+}
+lane_arrows {
+  id: 187
+  point {
+    x: 500282.5833042477
+    y: 4397705.034901073
+  }
+  type: STRAIGHT
+  heading: -0.011375861
+  lane_id: 446
+}
+lane_arrows {
+  id: 188
+  point {
+    x: 500284.0408613315
+    y: 4397714.742215004
+  }
+  type: STRAIGHT
+  heading: 3.1298845
+  lane_id: 463
+}
+lane_arrows {
+  id: 189
+  point {
+    x: 500284.4965832021
+    y: 4397717.76887385
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.1298969
+  lane_id: 464
+}
+lane_arrows {
+  id: 190
+  point {
+    x: 500283.6261146088
+    y: 4397711.93557002
+  }
+  type: LEFT
+  heading: 3.129885
+  lane_id: 462
+}
+lane_arrows {
+  id: 191
+  point {
+    x: 500267.2290958243
+    y: 4397736.262556315
+  }
+  type: STRAIGHT
+  heading: 1.4100266
+  lane_id: 391
+}
+lane_arrows {
+  id: 192
+  point {
+    x: 500263.461450069
+    y: 4397736.894611582
+  }
+  type: STRAIGHT
+  heading: 1.4100755
+  lane_id: 390
+}
+lane_arrows {
+  id: 193
+  point {
+    x: 500259.64898344915
+    y: 4397737.5523662055
+  }
+  type: STRAIGHT
+  heading: 1.4101074
+  lane_id: 389
+}
+lane_arrows {
+  id: 194
+  point {
+    x: 500245.78193500836
+    y: 4397738.413830383
+  }
+  type: STRAIGHT
+  heading: -1.7291278
+  lane_id: 385
+}
+lane_arrows {
+  id: 195
+  point {
+    x: 500242.67324169463
+    y: 4397738.448860047
+  }
+  type: STRAIGHT
+  heading: -1.7291406
+  lane_id: 386
+}
+lane_arrows {
+  id: 196
+  point {
+    x: 500248.8859899631
+    y: 4397738.33841381
+  }
+  type: LEFT
+  heading: -1.7290246
+  lane_id: 384
+}
+lane_arrows {
+  id: 197
+  point {
+    x: 500239.6128930921
+    y: 4397738.498380482
+  }
+  type: RIGHT
+  heading: -1.7266775
+  lane_id: 387
+}
+lane_arrows {
+  id: 198
+  point {
+    x: 500217.0144080472
+    y: 4397720.722502284
+  }
+  type: STRAIGHT
+  heading: 2.9870493
+  lane_id: 442
+}
+lane_arrows {
+  id: 199
+  point {
+    x: 500216.3600895017
+    y: 4397716.859584042
+  }
+  type: STRAIGHT
+  heading: 2.9871848
+  lane_id: 441
+}
+lane_arrows {
+  id: 209
+  point {
+    x: 500358.0429127235
+    y: 4397713.922897282
+  }
+  type: STRAIGHT
+  heading: 3.1309774
+  lane_id: 459
+}
+lane_arrows {
+  id: 200
+  point {
+    x: 500215.75017134973
+    y: 4397713.63787638
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.13663901
+  lane_id: 443
+}
+lane_arrows {
+  id: 201
+  point {
+    x: 500215.20269214385
+    y: 4397710.293270744
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.13647777
+  lane_id: 444
+}
+lane_arrows {
+  id: 210
+  point {
+    x: 500357.8789831248
+    y: 4397711.092147099
+  }
+  type: LEFT
+  heading: 3.1306357
+  lane_id: 458
+}
+lane_arrows {
+  id: 202
+  point {
+    x: 500180.06994552456
+    y: 4397715.170649744
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.13647777
+  lane_id: 444
+}
+lane_arrows {
+  id: 203
+  point {
+    x: 500144.40476972377
+    y: 4397720.87670861
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.15911548
+  lane_id: 440
+}
+lane_arrows {
+  id: 213
+  point {
+    x: 500261.6127621713
+    y: 4397818.416399928
+  }
+  type: LEFT
+  heading: -1.7296492
+  lane_id: 374
+}
+lane_arrows {
+  id: 204
+  point {
+    x: 500144.96695675433
+    y: 4397724.174673403
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.1591234
+  lane_id: 439
+}
+lane_arrows {
+  id: 205
+  point {
+    x: 500180.5675326531
+    y: 4397718.518566459
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.13663901
+  lane_id: 443
+}
+lane_arrows {
+  id: 206
+  point {
+    x: 500358.06648997334
+    y: 4397716.911919506
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.1305075
+  lane_id: 460
+}
+lane_arrows {
+  id: 227
+  point {
+    x: 500334.5334410912
+    y: 4398180.870187214
+  }
+  type: STRAIGHT
+  heading: 1.4205691
+  lane_id: 412
+}
+lane_arrows {
+  id: 207
+  point {
+    x: 500319.13186256203
+    y: 4397717.388399415
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.1298969
+  lane_id: 464
+}
+lane_arrows {
+  id: 208
+  point {
+    x: 500319.22005030804
+    y: 4397714.469760967
+  }
+  type: STRAIGHT
+  heading: 3.1309774
+  lane_id: 459
+}
+lane_arrows {
+  id: 211
+  point {
+    x: 500319.2112341136
+    y: 4397711.564401164
+  }
+  type: LEFT
+  heading: 3.129885
+  lane_id: 462
+}
+lane_arrows {
+  id: 212
+  point {
+    x: 500254.4202064812
+    y: 4397773.452814369
+  }
+  type: LEFT
+  heading: -1.7278948
+  lane_id: 379
+}
+lane_arrows {
+  id: 214
+  point {
+    x: 500258.7368286991
+    y: 4397818.837453384
+  }
+  type: STRAIGHT
+  heading: -1.7295126
+  lane_id: 375
+}
+lane_arrows {
+  id: 215
+  point {
+    x: 500255.46615813416
+    y: 4397819.269893212
+  }
+  type: STRAIGHT
+  heading: -1.7295071
+  lane_id: 376
+}
+lane_arrows {
+  id: 216
+  point {
+    x: 500251.6055656271
+    y: 4397773.960231369
+  }
+  type: STRAIGHT
+  heading: -1.7278768
+  lane_id: 380
+}
+lane_arrows {
+  id: 218
+  point {
+    x: 500245.3619518548
+    y: 4397774.97508605
+  }
+  type: RIGHT
+  heading: -1.7278771
+  lane_id: 382
+}
+lane_arrows {
+  id: 219
+  point {
+    x: 500252.4891408636
+    y: 4397819.747893393
+  }
+  type: RIGHT
+  heading: -1.7288209
+  lane_id: 377
+}
+lane_arrows {
+  id: 220
+  point {
+    x: 500327.50163177715
+    y: 4398154.692215471
+  }
+  type: STRAIGHT
+  heading: 1.4229611
+  lane_id: 411
+}
+lane_arrows {
+  id: 221
+  point {
+    x: 500330.5286562387
+    y: 4398154.283548066
+  }
+  type: STRAIGHT
+  heading: 1.4205691
+  lane_id: 412
+}
+lane_arrows {
+  id: 222
+  point {
+    x: 500324.7622735994
+    y: 4398155.10322329
+  }
+  type: LEFT
+  heading: 1.4220061
+  lane_id: 410
+}
+lane_arrows {
+  id: 223
+  point {
+    x: 500333.1762137534
+    y: 4398153.949353121
+  }
+  type: RIGHT
+  heading: 1.4153507
+  lane_id: 413
+}
+lane_arrows {
+  id: 224
+  point {
+    x: 500337.26512516144
+    y: 4398180.480777703
+  }
+  type: RIGHT
+  heading: 1.4198526
+  lane_id: 418
+}
+lane_arrows {
+  id: 225
+  point {
+    x: 500328.79708351404
+    y: 4398181.785225773
+  }
+  type: LEFT
+  heading: 1.419643
+  lane_id: 415
+}
+lane_arrows {
+  id: 228
+  point {
+    x: 500339.99533789034
+    y: 4398216.573264524
+  }
+  type: STRAIGHT
+  heading: 1.422155
+  lane_id: 422
+}
+lane_arrows {
+  id: 229
+  point {
+    x: 500337.0026802353
+    y: 4398216.812778691
+  }
+  type: STRAIGHT
+  heading: 1.4223826
+  lane_id: 421
+}
+lane_arrows {
+  id: 230
+  point {
+    x: 500334.16220365546
+    y: 4398217.000358896
+  }
+  type: LEFT
+  heading: 1.4223772
+  lane_id: 420
+}
+lane_arrows {
+  id: 231
+  point {
+    x: 500342.7629466851
+    y: 4398216.453358205
+  }
+  type: RIGHT
+  heading: 1.4221328
+  lane_id: 423
+}
+lane_arrows {
+  id: 232
+  point {
+    x: 500322.37627582223
+    y: 4398217.8359305505
+  }
+  type: STRAIGHT
+  heading: -1.7227956
+  lane_id: 431
+}
+lane_arrows {
+  id: 233
+  point {
+    x: 500318.6726774466
+    y: 4398218.1323185805
+  }
+  type: STRAIGHT
+  heading: -1.722791
+  lane_id: 432
+}
+lane_arrows {
+  id: 234
+  point {
+    x: 500314.89419623977
+    y: 4398218.509498813
+  }
+  type: STRAIGHT
+  heading: -1.7227906
+  lane_id: 433
+}
+lane_arrows {
+  id: 235
+  point {
+    x: 500366.0422612054
+    y: 4398241.331795186
+  }
+  type: STRAIGHT
+  heading: -0.01762738
+  lane_id: 322
+}
+lane_arrows {
+  id: 236
+  point {
+    x: 500365.4831236241
+    y: 4398237.7042756565
+  }
+  type: STRAIGHT
+  heading: -0.01762053
+  lane_id: 323
+}
+lane_arrows {
+  id: 237
+  point {
+    x: 500367.1346660702
+    y: 4398247.845402237
+  }
+  type: STRAIGHT
+  heading: 3.1242728
+  lane_id: 348
+}
+lane_arrows {
+  id: 255
+  point {
+    x: 500325.29031471023
+    y: 4398268.52535797
+  }
+  type: STRAIGHT
+  heading: -1.7238867
+  lane_id: 263
+}
+lane_arrows {
+  id: 259
+  point {
+    x: 500350.28010674997
+    y: 4398267.39592403
+  }
+  type: STRAIGHT
+  heading: 1.4218166
+  lane_id: 268
+}
+lane_arrows {
+  id: 238
+  point {
+    x: 500366.5026719779
+    y: 4398244.989749955
+  }
+  type: LEFT
+  heading: 3.1237032
+  lane_id: 347
+}
+lane_arrows {
+  id: 239
+  point {
+    x: 500367.46867501794
+    y: 4398250.7685562875
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.1242862
+  lane_id: 349
+}
+lane_arrows {
+  id: 240
+  point {
+    x: 500402.14817201195
+    y: 4398250.22995831
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.123092
+  lane_id: 345
+}
+lane_arrows {
+  id: 241
+  point {
+    x: 500402.0913433355
+    y: 4398244.329815101
+  }
+  type: LEFT
+  heading: 3.1237032
+  lane_id: 347
+}
+lane_arrows {
+  id: 242
+  point {
+    x: 500402.13803257083
+    y: 4398247.285201401
+  }
+  type: STRAIGHT
+  heading: 3.123082
+  lane_id: 344
+}
+lane_arrows {
+  id: 243
+  point {
+    x: 500437.94042279356
+    y: 4398246.690343346
+  }
+  type: STRAIGHT
+  heading: 3.1290834
+  lane_id: 336
+}
+lane_arrows {
+  id: 244
+  point {
+    x: 500437.7220585089
+    y: 4398243.7485752795
+  }
+  type: LEFT
+  heading: 3.128873
+  lane_id: 335
+}
+lane_arrows {
+  id: 260
+  point {
+    x: 500332.53716572037
+    y: 4398295.196644074
+  }
+  type: STRAIGHT
+  heading: -1.7072129
+  lane_id: 252
+}
+lane_arrows {
+  id: 245
+  point {
+    x: 500438.03616904
+    y: 4398249.677837489
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.1245697
+  lane_id: 337
+}
+lane_arrows {
+  id: 246
+  point {
+    x: 500294.3082786845
+    y: 4398242.126837067
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.017375706
+  lane_id: 312
+}
+lane_arrows {
+  id: 247
+  point {
+    x: 500258.64928086824
+    y: 4398242.761505993
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.017375706
+  lane_id: 312
+}
+lane_arrows {
+  id: 248
+  point {
+    x: 500222.7964331781
+    y: 4398243.432187935
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.016602866
+  lane_id: 310
+}
+lane_arrows {
+  id: 249
+  point {
+    x: 500293.7918791355
+    y: 4398238.631379964
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.017046299
+  lane_id: 313
+}
+lane_arrows {
+  id: 250
+  point {
+    x: 500295.0388420054
+    y: 4398246.245503435
+  }
+  type: STRAIGHT
+  heading: 3.1242268
+  lane_id: 318
+}
+lane_arrows {
+  id: 251
+  point {
+    x: 500295.61076682725
+    y: 4398250.028953506
+  }
+  type: STRAIGHT
+  heading: 3.1229572
+  lane_id: 319
+}
+lane_arrows {
+  id: 261
+  point {
+    x: 500329.3835301132
+    y: 4398295.563669547
+  }
+  type: STRAIGHT
+  heading: -1.7197089
+  lane_id: 258
+}
+lane_arrows {
+  id: 262
+  point {
+    x: 500326.4253707249
+    y: 4398295.933556186
+  }
+  type: RIGHT
+  heading: -1.7197064
+  lane_id: 259
+}
+lane_arrows {
+  id: 252
+  point {
+    x: 500258.57578198094
+    y: 4398239.227121374
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.017046299
+  lane_id: 313
+}
+lane_arrows {
+  id: 253
+  point {
+    x: 500222.7557606659
+    y: 4398239.8486091755
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.016506108
+  lane_id: 311
+}
+lane_arrows {
+  id: 254
+  point {
+    x: 500328.5167038435
+    y: 4398268.475424526
+  }
+  type: STRAIGHT
+  heading: -1.7238883
+  lane_id: 262
+}
+lane_arrows {
+  id: 256
+  point {
+    x: 500322.2528515023
+    y: 4398268.5712884925
+  }
+  type: RIGHT
+  heading: -1.7238733
+  lane_id: 264
+}
+lane_arrows {
+  id: 257
+  point {
+    x: 500342.7064938131
+    y: 4398268.003535248
+  }
+  type: STRAIGHT
+  heading: 1.4219915
+  lane_id: 266
+}
+lane_arrows {
+  id: 258
+  point {
+    x: 500346.3683799027
+    y: 4398267.712370803
+  }
+  type: STRAIGHT
+  heading: 1.4218969
+  lane_id: 267
+}
+lane_arrows {
+  id: 263
+  point {
+    x: 500335.5590857026
+    y: 4398294.699718614
+  }
+  type: LEFT
+  heading: -1.7191563
+  lane_id: 256
+}
+lane_arrows {
+  id: 264
+  point {
+    x: 500339.9808728157
+    y: 4398325.551512384
+  }
+  type: LEFT
+  heading: -1.708944
+  lane_id: 251
+}
+lane_arrows {
+  id: 265
+  point {
+    x: 500337.09288279706
+    y: 4398325.9485003855
+  }
+  type: STRAIGHT
+  heading: -1.7072129
+  lane_id: 252
+}
+lane_arrows {
+  id: 266
+  point {
+    x: 500333.76376692555
+    y: 4398326.369003333
+  }
+  type: STRAIGHT
+  heading: -1.7058209
+  lane_id: 253
+}
+lane_arrows {
+  id: 267
+  point {
+    x: 500330.73944877693
+    y: 4398326.701126791
+  }
+  type: RIGHT
+  heading: -1.7058152
+  lane_id: 254
+}
+lane_arrows {
+  id: 268
+  point {
+    x: 500320.95171698893
+    y: 4398641.606754206
+  }
+  type: LEFT
+  heading: 1.7674851
+  lane_id: 287
+}
+lane_arrows {
+  id: 269
+  point {
+    x: 500329.3302504645
+    y: 4398643.085396503
+  }
+  type: RIGHT
+  heading: 1.7694472
+  lane_id: 290
+}
+lane_arrows {
+  id: 270
+  point {
+    x: 500323.7184525719
+    y: 4398642.040406888
+  }
+  type: STRAIGHT
+  heading: 1.7685093
+  lane_id: 288
+}
+lane_arrows {
+  id: 271
+  point {
+    x: 500326.61274736875
+    y: 4398642.567454791
+  }
+  type: STRAIGHT
+  heading: 1.769253
+  lane_id: 289
+}
+lane_arrows {
+  id: 272
+  point {
+    x: 500307.69259894354
+    y: 4398722.692602711
+  }
+  type: STRAIGHT
+  heading: 1.7700517
+  lane_id: 298
+}
+lane_arrows {
+  id: 273
+  point {
+    x: 500310.60839555867
+    y: 4398722.598284036
+  }
+  type: STRAIGHT
+  heading: 1.7700535
+  lane_id: 299
+}
+lane_arrows {
+  id: 274
+  point {
+    x: 500314.97210699297
+    y: 4398686.078835024
+  }
+  type: STRAIGHT
+  heading: 1.7685093
+  lane_id: 288
+}
+lane_arrows {
+  id: 275
+  point {
+    x: 500317.8596732161
+    y: 4398686.631187085
+  }
+  type: STRAIGHT
+  heading: 1.769253
+  lane_id: 289
+}
+lane_arrows {
+  id: 276
+  point {
+    x: 500320.37926101114
+    y: 4398687.068564309
+  }
+  type: RIGHT
+  heading: 1.770846
+  lane_id: 295
+}
+lane_arrows {
+  id: 284
+  point {
+    x: 500302.01089582604
+    y: 4398788.472659812
+  }
+  type: STRAIGHT
+  heading: 1.7328537
+  lane_id: 173
+}
+lane_arrows {
+  id: 277
+  point {
+    x: 500313.27366840304
+    y: 4398722.320248611
+  }
+  type: RIGHT
+  heading: 1.7700541
+  lane_id: 300
+}
+lane_arrows {
+  id: 278
+  point {
+    x: 500312.2674350803
+    y: 4398685.656813646
+  }
+  type: LEFT
+  heading: 1.7673222
+  lane_id: 292
+}
+lane_arrows {
+  id: 279
+  point {
+    x: 500304.942889531
+    y: 4398722.947689058
+  }
+  type: LEFT
+  heading: 1.7672681
+  lane_id: 297
+}
+lane_arrows {
+  id: 280
+  point {
+    x: 500293.13919276366
+    y: 4398722.253189124
+  }
+  type: STRAIGHT
+  heading: -1.3783144
+  lane_id: 234
+}
+lane_arrows {
+  id: 281
+  point {
+    x: 500289.25059278164
+    y: 4398721.939432267
+  }
+  type: STRAIGHT
+  heading: -1.3789791
+  lane_id: 235
+}
+lane_arrows {
+  id: 282
+  point {
+    x: 500285.47012992133
+    y: 4398721.633057171
+  }
+  type: STRAIGHT
+  heading: -1.3789883
+  lane_id: 236
+}
+lane_arrows {
+  id: 283
+  point {
+    x: 500298.1865374809
+    y: 4398788.596616825
+  }
+  type: STRAIGHT
+  heading: 1.7328843
+  lane_id: 172
+}
+lane_arrows {
+  id: 285
+  point {
+    x: 500305.8917650166
+    y: 4398788.3545413315
+  }
+  type: STRAIGHT
+  heading: 1.7328581
+  lane_id: 174
+}
+lane_arrows {
+  id: 286
+  point {
+    x: 500284.08963549306
+    y: 4398789.002332859
+  }
+  type: STRAIGHT
+  heading: -1.4057058
+  lane_id: 168
+}
+lane_arrows {
+  id: 287
+  point {
+    x: 500280.84544918383
+    y: 4398789.22756927
+  }
+  type: STRAIGHT
+  heading: -1.4057108
+  lane_id: 169
+}
+lane_arrows {
+  id: 288
+  point {
+    x: 500272.31393337937
+    y: 4398822.234584393
+  }
+  type: RIGHT
+  heading: -1.4048462
+  lane_id: 165
+}
+lane_arrows {
+  id: 289
+  point {
+    x: 500277.8182214744
+    y: 4398789.395860033
+  }
+  type: RIGHT
+  heading: -1.4056911
+  lane_id: 170
+}
+lane_arrows {
+  id: 290
+  point {
+    x: 500278.48300691263
+    y: 4398823.384758091
+  }
+  type: STRAIGHT
+  heading: -1.4066964
+  lane_id: 163
+}
+lane_arrows {
+  id: 291
+  point {
+    x: 500275.21212512546
+    y: 4398822.768521195
+  }
+  type: STRAIGHT
+  heading: -1.4048473
+  lane_id: 164
+}
+lane_arrows {
+  id: 304
+  point {
+    x: 500271.12854452606
+    y: 4398867.262874241
+  }
+  type: STRAIGHT
+  heading: -1.4074321
+  lane_id: 158
+}
+lane_arrows {
+  id: 292
+  point {
+    x: 500281.37506908644
+    y: 4398823.877630002
+  }
+  type: LEFT
+  heading: -1.4086118
+  lane_id: 162
+}
+lane_arrows {
+  id: 293
+  point {
+    x: 500286.932616158
+    y: 4398788.8651618045
+  }
+  type: LEFT
+  heading: -1.4055244
+  lane_id: 167
+}
+lane_arrows {
+  id: 294
+  point {
+    x: 500334.76263251377
+    y: 4398747.202908388
+  }
+  type: STRAIGHT
+  heading: -0.10170962
+  lane_id: 196
+}
+lane_arrows {
+  id: 295
+  point {
+    x: 500335.04626230494
+    y: 4398743.574400356
+  }
+  type: STRAIGHT
+  heading: -0.10165738
+  lane_id: 197
+}
+lane_arrows {
+  id: 296
+  point {
+    x: 500380.0943460641
+    y: 4398746.444336871
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0405877
+  lane_id: 226
+}
+lane_arrows {
+  id: 317
+  point {
+    x: 500146.65908601665
+    y: 4399586.745223991
+  }
+  type: STRAIGHT
+  heading: -1.4399554
+  lane_id: 146
+}
+lane_arrows {
+  id: 308
+  point {
+    x: 500174.5719761491
+    y: 4399539.432459489
+  }
+  type: LEFT
+  heading: 1.7338462
+  lane_id: 184
+}
+lane_arrows {
+  id: 297
+  point {
+    x: 500380.4955063544
+    y: 4398749.829256089
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0405998
+  lane_id: 227
+}
+lane_arrows {
+  id: 305
+  point {
+    x: 500274.1258769949
+    y: 4398867.834429726
+  }
+  type: LEFT
+  heading: -1.4053538
+  lane_id: 157
+}
+lane_arrows {
+  id: 298
+  point {
+    x: 500334.427202141
+    y: 4398754.546572811
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.043472
+  lane_id: 233
+}
+lane_arrows {
+  id: 299
+  point {
+    x: 500334.5455933517
+    y: 4398751.203497796
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0398889
+  lane_id: 232
+}
+lane_arrows {
+  id: 300
+  point {
+    x: 500410.41715469275
+    y: 4398743.365325531
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0351996
+  lane_id: 222
+}
+lane_arrows {
+  id: 325
+  point {
+    x: 500159.281040113
+    y: 4399928.4112511445
+  }
+  type: LEFT
+  heading: 1.5804644
+  lane_id: 109
+}
+lane_arrows {
+  id: 315
+  point {
+    x: 500154.251582597
+    y: 4399587.821189577
+  }
+  type: STRAIGHT
+  heading: -1.4400511
+  lane_id: 144
+}
+lane_arrows {
+  id: 301
+  point {
+    x: 500410.6732319695
+    y: 4398746.700619018
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0380325
+  lane_id: 225
+}
+lane_arrows {
+  id: 302
+  point {
+    x: 500264.8925345725
+    y: 4398866.16225425
+  }
+  type: RIGHT
+  heading: -1.4049691
+  lane_id: 160
+}
+lane_arrows {
+  id: 303
+  point {
+    x: 500267.91952119325
+    y: 4398866.621461112
+  }
+  type: STRAIGHT
+  heading: -1.4064267
+  lane_id: 159
+}
+lane_arrows {
+  id: 306
+  point {
+    x: 500178.09980566974
+    y: 4399539.830642175
+  }
+  type: STRAIGHT
+  heading: 1.7338456
+  lane_id: 185
+}
+lane_arrows {
+  id: 307
+  point {
+    x: 500181.76752753434
+    y: 4399540.429658003
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.7338418
+  lane_id: 186
+}
+lane_arrows {
+  id: 309
+  point {
+    x: 500169.9110191828
+    y: 4399569.345787637
+  }
+  type: LEFT
+  heading: 1.7142829
+  lane_id: 188
+}
+lane_arrows {
+  id: 310
+  point {
+    x: 500173.4444465145
+    y: 4399569.702633856
+  }
+  type: STRAIGHT
+  heading: 1.7338456
+  lane_id: 185
+}
+lane_arrows {
+  id: 318
+  point {
+    x: 500146.75961618405
+    y: 4399628.182013718
+  }
+  type: STRAIGHT
+  heading: -1.5237848
+  lane_id: 93
+}
+lane_arrows {
+  id: 311
+  point {
+    x: 500177.05862113694
+    y: 4399570.302962275
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.7141767
+  lane_id: 190
+}
+lane_arrows {
+  id: 312
+  point {
+    x: 500174.4883049078
+    y: 4399588.977930691
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.7067513
+  lane_id: 194
+}
+lane_arrows {
+  id: 313
+  point {
+    x: 500170.81541233626
+    y: 4399588.777268914
+  }
+  type: STRAIGHT
+  heading: 1.7067308
+  lane_id: 193
+}
+lane_arrows {
+  id: 314
+  point {
+    x: 500167.1895558565
+    y: 4399588.652149618
+  }
+  type: LEFT
+  heading: 1.706584
+  lane_id: 192
+}
+lane_arrows {
+  id: 316
+  point {
+    x: 500150.4557728275
+    y: 4399587.308191167
+  }
+  type: STRAIGHT
+  heading: -1.440153
+  lane_id: 145
+}
+lane_arrows {
+  id: 326
+  point {
+    x: 500165.08457485633
+    y: 4399928.402880592
+  }
+  type: STRAIGHT
+  heading: 1.5484462
+  lane_id: 106
+}
+lane_arrows {
+  id: 319
+  point {
+    x: 500143.1034814784
+    y: 4399627.981150543
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.5242558
+  lane_id: 94
+}
+lane_arrows {
+  id: 320
+  point {
+    x: 500150.2501854242
+    y: 4399628.3418644685
+  }
+  type: LEFT
+  heading: -1.5237345
+  lane_id: 92
+}
+lane_arrows {
+  id: 321
+  point {
+    x: 500163.4891565598
+    y: 4399629.083470443
+  }
+  type: STRAIGHT
+  heading: 1.6300944
+  lane_id: 96
+}
+lane_arrows {
+  id: 322
+  point {
+    x: 500167.2613199598
+    y: 4399629.195189631
+  }
+  type: STRAIGHT
+  heading: 1.6305509
+  lane_id: 97
+}
+lane_arrows {
+  id: 323
+  point {
+    x: 500171.0758611795
+    y: 4399629.484109013
+  }
+  type: STRAIGHT
+  heading: 1.6306915
+  lane_id: 98
+}
+lane_arrows {
+  id: 324
+  point {
+    x: 500161.7186295631
+    y: 4399928.384342366
+  }
+  type: LEFT
+  heading: 1.5796939
+  lane_id: 110
+}
+lane_arrows {
+  id: 327
+  point {
+    x: 500167.8017452379
+    y: 4399928.428023975
+  }
+  type: RIGHT
+  heading: 1.5796951
+  lane_id: 112
+}
+lane_arrows {
+  id: 328
+  point {
+    x: 500167.3780723571
+    y: 4399972.09937701
+  }
+  type: RIGHT
+  heading: 1.5796195
+  lane_id: 117
+}
+lane_arrows {
+  id: 329
+  point {
+    x: 500167.0819394294
+    y: 4400007.765252704
+  }
+  type: RIGHT
+  heading: 1.5803584
+  lane_id: 90
+}
+lane_arrows {
+  id: 330
+  point {
+    x: 500158.862799478
+    y: 4399972.113067891
+  }
+  type: LEFT
+  heading: 1.5784512
+  lane_id: 114
+}
+lane_arrows {
+  id: 331
+  point {
+    x: 500161.73411598615
+    y: 4399972.130187215
+  }
+  type: STRAIGHT
+  heading: 1.5795813
+  lane_id: 115
+}
+lane_arrows {
+  id: 332
+  point {
+    x: 500164.72133049247
+    y: 4399972.040088999
+  }
+  type: STRAIGHT
+  heading: 1.5795844
+  lane_id: 116
+}
+lane_arrows {
+  id: 333
+  point {
+    x: 500164.4091848876
+    y: 4400007.852405184
+  }
+  type: STRAIGHT
+  heading: 1.5786183
+  lane_id: 89
+}
+lane_arrows {
+  id: 334
+  point {
+    x: 500161.28463074454
+    y: 4400008.011823526
+  }
+  type: STRAIGHT
+  heading: 1.5786283
+  lane_id: 88
+}
+lane_arrows {
+  id: 335
+  point {
+    x: 500158.5903220918
+    y: 4400008.238120652
+  }
+  type: LEFT
+  heading: 1.5793121
+  lane_id: 87
+}
+lane_arrows {
+  id: 336
+  point {
+    x: 500146.8213206953
+    y: 4400008.751862232
+  }
+  type: STRAIGHT
+  heading: -1.5655643
+  lane_id: 83
+}
+lane_arrows {
+  id: 337
+  point {
+    x: 500142.90322748915
+    y: 4400009.048606236
+  }
+  type: STRAIGHT
+  heading: -1.5669211
+  lane_id: 84
+}
+lane_arrows {
+  id: 338
+  point {
+    x: 500139.1554126768
+    y: 4400009.2151982505
+  }
+  type: STRAIGHT
+  heading: -1.5669514
+  lane_id: 85
+}
+lane_arrows {
+  id: 339
+  point {
+    x: 500183.9168955723
+    y: 4400029.355457727
+  }
+  type: STRAIGHT
+  heading: -0.057843614
+  lane_id: 22
+}
+lane_arrows {
+  id: 340
+  point {
+    x: 500183.7838730395
+    y: 4400025.455725477
+  }
+  type: STRAIGHT
+  heading: -0.058062557
+  lane_id: 23
+}
+lane_arrows {
+  id: 341
+  point {
+    x: 500184.09408029524
+    y: 4400038.125249108
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0839808
+  lane_id: 19
+}
+lane_arrows {
+  id: 342
+  point {
+    x: 500184.4263367492
+    y: 4400041.90094621
+  }
+  type: STRAIGHT
+  heading: 3.084051
+  lane_id: 20
+}
+lane_arrows {
+  id: 348
+  point {
+    x: 500123.5415047311
+    y: 4400041.709307361
+  }
+  type: STRAIGHT
+  heading: 3.0852838
+  lane_id: 2428
+}
+lane_arrows {
+  id: 355
+  point {
+    x: 500164.18911148
+    y: 4400064.997360809
+  }
+  type: STRAIGHT
+  heading: 1.5779638
+  lane_id: 64
+}
+lane_arrows {
+  id: 343
+  point {
+    x: 500214.242442941
+    y: 4400040.1122018425
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0800416
+  lane_id: 38
+}
+lane_arrows {
+  id: 362
+  point {
+    x: 500138.7892654481
+    y: 4400095.140523639
+  }
+  type: RIGHT
+  heading: -1.5635253
+  lane_id: 52
+}
+lane_arrows {
+  id: 344
+  point {
+    x: 500214.00728356134
+    y: 4400036.336348046
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0800352
+  lane_id: 37
+}
+lane_arrows {
+  id: 360
+  point {
+    x: 500148.9447648767
+    y: 4400065.096098058
+  }
+  type: LEFT
+  heading: -1.5634001
+  lane_id: 58
+}
+lane_arrows {
+  id: 345
+  point {
+    x: 500242.1314386225
+    y: 4400034.60749552
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.08176
+  lane_id: 28
+}
+lane_arrows {
+  id: 346
+  point {
+    x: 500242.31012688245
+    y: 4400038.411204433
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.081762
+  lane_id: 29
+}
+lane_arrows {
+  id: 347
+  point {
+    x: 500123.65730243135
+    y: 4400045.488314163
+  }
+  type: STRAIGHT
+  heading: 3.0852919
+  lane_id: 2429
+}
+lane_arrows {
+  id: 349
+  point {
+    x: 500120.9387155456
+    y: 4400033.13930879
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.05809641
+  lane_id: 6
+}
+lane_arrows {
+  id: 350
+  point {
+    x: 500120.730036914
+    y: 4400029.32033952
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.057997357
+  lane_id: 7
+}
+lane_arrows {
+  id: 351
+  point {
+    x: 500100.5981953513
+    y: 4400030.527093615
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.059537385
+  lane_id: 123
+}
+lane_arrows {
+  id: 352
+  point {
+    x: 500100.8432776617
+    y: 4400034.332622691
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.05954038
+  lane_id: 122
+}
+lane_arrows {
+  id: 359
+  point {
+    x: 500142.2431415842
+    y: 4400065.448668587
+  }
+  type: STRAIGHT
+  heading: -1.5628104
+  lane_id: 57
+}
+lane_arrows {
+  id: 353
+  point {
+    x: 500073.19660703116
+    y: 4400035.991530035
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.059831772
+  lane_id: 119
+}
+lane_arrows {
+  id: 354
+  point {
+    x: 500072.97975780535
+    y: 4400032.195765372
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.059825934
+  lane_id: 120
+}
+lane_arrows {
+  id: 356
+  point {
+    x: 500160.42146545544
+    y: 4400064.869377288
+  }
+  type: STRAIGHT
+  heading: 1.5785295
+  lane_id: 63
+}
+lane_arrows {
+  id: 357
+  point {
+    x: 500156.60537834885
+    y: 4400064.936290845
+  }
+  type: STRAIGHT
+  heading: 1.5771775
+  lane_id: 62
+}
+lane_arrows {
+  id: 358
+  point {
+    x: 500145.8596630961
+    y: 4400065.234474545
+  }
+  type: STRAIGHT
+  heading: -1.5627716
+  lane_id: 56
+}
+lane_arrows {
+  id: 361
+  point {
+    x: 500137.8842484928
+    y: 4400071.827461328
+  }
+  type: RIGHT
+  heading: -1.7506971
+  lane_id: 2
+}
+lane_arrows {
+  id: 363
+  point {
+    x: 500148.7539195217
+    y: 4400095.189902585
+  }
+  type: LEFT
+  heading: -1.5623825
+  lane_id: 49
+}
+lane_arrows {
+  id: 364
+  point {
+    x: 500145.6649996408
+    y: 4400095.1704336405
+  }
+  type: STRAIGHT
+  heading: -1.5630337
+  lane_id: 50
+}
+lane_arrows {
+  id: 365
+  point {
+    x: 500142.1400727577
+    y: 4400095.161146954
+  }
+  type: STRAIGHT
+  heading: -1.5630072
+  lane_id: 51
+}
+lane_arrows {
+  id: 366
+  point {
+    x: 500145.4091309154
+    y: 4400125.165890683
+  }
+  type: STRAIGHT
+  heading: -1.5630337
+  lane_id: 50
+}
+lane_arrows {
+  id: 367
+  point {
+    x: 500141.75682953896
+    y: 4400125.171042392
+  }
+  type: STRAIGHT
+  heading: -1.5630072
+  lane_id: 51
+}
+lane_arrows {
+  id: 368
+  point {
+    x: 500138.5334155712
+    y: 4400125.280480761
+  }
+  type: RIGHT
+  heading: -1.5635253
+  lane_id: 52
+}
+lane_arrows {
+  id: 369
+  point {
+    x: 500148.50116522284
+    y: 4400125.082440823
+  }
+  type: LEFT
+  heading: -1.5623825
+  lane_id: 49
+}
+lane_arrows {
+  id: 370
+  point {
+    x: 500138.21791276964
+    y: 4400166.075746367
+  }
+  type: RIGHT
+  heading: -1.5628493
+  lane_id: 42
+}
+lane_arrows {
+  id: 371
+  point {
+    x: 500145.41696498904
+    y: 4400166.386606449
+  }
+  type: STRAIGHT_LEFT
+  heading: -1.5578995
+  lane_id: 40
+}
+lane_arrows {
+  id: 372
+  point {
+    x: 500141.7944670797
+    y: 4400166.282602056
+  }
+  type: STRAIGHT
+  heading: -1.5632733
+  lane_id: 41
+}
+lane_arrows {
+  id: 392
+  point {
+    x: 499951.80890195316
+    y: 4396414.033848044
+  }
+  type: STRAIGHT
+  heading: -0.07118802
+  lane_id: 866
+}
+lane_arrows {
+  id: 373
+  point {
+    x: 500149.6650314535
+    y: 4399647.441121908
+  }
+  type: LEFT
+  heading: -1.5373027
+  lane_id: 129
+}
+lane_arrows {
+  id: 374
+  point {
+    x: 500146.1152899294
+    y: 4399647.334709261
+  }
+  type: STRAIGHT
+  heading: -1.5622879
+  lane_id: 126
+}
+lane_arrows {
+  id: 375
+  point {
+    x: 500142.49148031336
+    y: 4399647.189456009
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.5362228
+  lane_id: 131
+}
+lane_arrows {
+  id: 382
+  point {
+    x: 500106.4950969836
+    y: 4396407.795977702
+  }
+  type: LEFT
+  heading: 3.0761433
+  lane_id: 851
+}
+lane_arrows {
+  id: 376
+  point {
+    x: 500142.04331870447
+    y: 4399677.125271831
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.5622361
+  lane_id: 127
+}
+lane_arrows {
+  id: 377
+  point {
+    x: 500149.32230982266
+    y: 4399677.305372488
+  }
+  type: LEFT
+  heading: -1.5622867
+  lane_id: 125
+}
+lane_arrows {
+  id: 378
+  point {
+    x: 500145.672294335
+    y: 4399677.197595554
+  }
+  type: STRAIGHT
+  heading: -1.5622879
+  lane_id: 126
+}
+lane_arrows {
+  id: 379
+  point {
+    x: 500107.170363129
+    y: 4396416.525006641
+  }
+  type: RIGHT
+  heading: 3.0739264
+  lane_id: 854
+}
+lane_arrows {
+  id: 380
+  point {
+    x: 500106.9903492923
+    y: 4396413.559071552
+  }
+  type: STRAIGHT
+  heading: 3.0736496
+  lane_id: 853
+}
+lane_arrows {
+  id: 381
+  point {
+    x: 500106.6799678504
+    y: 4396410.598383643
+  }
+  type: STRAIGHT
+  heading: 3.0744174
+  lane_id: 852
+}
+lane_arrows {
+  id: 383
+  point {
+    x: 500159.1236386415
+    y: 4396405.954508508
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0690067
+  lane_id: 832
+}
+lane_arrows {
+  id: 384
+  point {
+    x: 500159.6859267398
+    y: 4396412.448582025
+  }
+  type: RIGHT
+  heading: 3.0710967
+  lane_id: 834
+}
+lane_arrows {
+  id: 385
+  point {
+    x: 500159.40521556046
+    y: 4396409.594597267
+  }
+  type: STRAIGHT
+  heading: 3.066981
+  lane_id: 833
+}
+lane_arrows {
+  id: 386
+  point {
+    x: 499915.92586473527
+    y: 4396416.416212546
+  }
+  type: STRAIGHT
+  heading: -0.07118802
+  lane_id: 866
+}
+lane_arrows {
+  id: 387
+  point {
+    x: 499915.6653418465
+    y: 4396413.02568438
+  }
+  type: STRAIGHT
+  heading: -0.0739249
+  lane_id: 867
+}
+lane_arrows {
+  id: 388
+  point {
+    x: 499916.0749715442
+    y: 4396419.483087607
+  }
+  type: LEFT
+  heading: -0.06393093
+  lane_id: 865
+}
+lane_arrows {
+  id: 389
+  point {
+    x: 499915.4405602346
+    y: 4396409.954033941
+  }
+  type: RIGHT
+  heading: -0.07081923
+  lane_id: 868
+}
+lane_arrows {
+  id: 390
+  point {
+    x: 499951.3174185533
+    y: 4396407.521113781
+  }
+  type: RIGHT
+  heading: -0.0715179
+  lane_id: 873
+}
+lane_arrows {
+  id: 400
+  point {
+    x: 499844.0168874382
+    y: 4395152.632296856
+  }
+  type: STRAIGHT
+  heading: -1.7093863
+  lane_id: 1052
+}
+lane_arrows {
+  id: 391
+  point {
+    x: 499952.1191461575
+    y: 4396416.998545646
+  }
+  type: LEFT
+  heading: -0.06771705
+  lane_id: 870
+}
+lane_arrows {
+  id: 393
+  point {
+    x: 499951.5850631803
+    y: 4396410.599194221
+  }
+  type: STRAIGHT
+  heading: -0.0739249
+  lane_id: 867
+}
+lane_arrows {
+  id: 394
+  point {
+    x: 500525.87589901546
+    y: 4392833.562857548
+  }
+  type: LEFT_MERGE
+  heading: 1.7541903
+  lane_id: 4
+}
+lane_arrows {
+  id: 408
+  point {
+    x: 499811.85584610625
+    y: 4395098.538509101
+  }
+  type: STRAIGHT
+  heading: 3.070211
+  lane_id: 1122
+}
+lane_arrows {
+  id: 395
+  point {
+    x: 500193.31870257156
+    y: 4397135.071133755
+  }
+  type: LEFT
+  heading: 2.936673
+  lane_id: 632
+}
+lane_arrows {
+  id: 396
+  point {
+    x: 499840.85944203776
+    y: 4395153.232428189
+  }
+  type: STRAIGHT
+  heading: -1.7095188
+  lane_id: 1053
+}
+lane_arrows {
+  id: 397
+  point {
+    x: 499847.06315701513
+    y: 4395152.273219209
+  }
+  type: LEFT
+  heading: -1.711156
+  lane_id: 1051
+}
+lane_arrows {
+  id: 407
+  point {
+    x: 499812.33715757926
+    y: 4395102.21173089
+  }
+  type: STRAIGHT
+  heading: 3.0702183
+  lane_id: 1123
+}
+lane_arrows {
+  id: 398
+  point {
+    x: 499837.8850596687
+    y: 4395153.608831465
+  }
+  type: RIGHT
+  heading: -1.7111564
+  lane_id: 1054
+}
+lane_arrows {
+  id: 399
+  point {
+    x: 499832.94968558714
+    y: 4395118.410362087
+  }
+  type: RIGHT
+  heading: -1.7073963
+  lane_id: 1059
+}
+lane_arrows {
+  id: 401
+  point {
+    x: 499842.1327813467
+    y: 4395117.062030742
+  }
+  type: LEFT
+  heading: -1.7085437
+  lane_id: 1056
+}
+lane_arrows {
+  id: 402
+  point {
+    x: 499835.9739574702
+    y: 4395118.222689021
+  }
+  type: STRAIGHT
+  heading: -1.7088512
+  lane_id: 1058
+}
+lane_arrows {
+  id: 403
+  point {
+    x: 499839.1594144559
+    y: 4395118.057548599
+  }
+  type: STRAIGHT
+  heading: -1.7072468
+  lane_id: 1057
+}
+lane_arrows {
+  id: 404
+  point {
+    x: 499856.7896054139
+    y: 4395116.830544356
+  }
+  type: STRAIGHT
+  heading: 1.4319026
+  lane_id: 1062
+}
+lane_arrows {
+  id: 405
+  point {
+    x: 499860.72158477944
+    y: 4395116.527985679
+  }
+  type: STRAIGHT
+  heading: 1.4347087
+  lane_id: 1063
+}
+lane_arrows {
+  id: 406
+  point {
+    x: 499853.04345743574
+    y: 4395117.142648598
+  }
+  type: STRAIGHT
+  heading: 1.4314117
+  lane_id: 1061
+}
+lane_arrows {
+  id: 464
+  point {
+    x: 499787.7616051496
+    y: 4394518.62197728
+  }
+  type: STRAIGHT
+  heading: 1.4327002
+  lane_id: 1544
+}
+lane_arrows {
+  id: 409
+  point {
+    x: 499811.43914041104
+    y: 4395094.919647239
+  }
+  type: STRAIGHT
+  heading: 3.0709429
+  lane_id: 1121
+}
+lane_arrows {
+  id: 410
+  point {
+    x: 499810.3006611229
+    y: 4395085.352556562
+  }
+  type: STRAIGHT
+  heading: -0.07040498
+  lane_id: 1118
+}
+lane_arrows {
+  id: 411
+  point {
+    x: 499810.6788323019
+    y: 4395088.315133305
+  }
+  type: STRAIGHT
+  heading: -0.06931069
+  lane_id: 1117
+}
+lane_arrows {
+  id: 412
+  point {
+    x: 499811.2165414043
+    y: 4395091.275149631
+  }
+  type: LEFT
+  heading: -0.07075633
+  lane_id: 1116
+}
+lane_arrows {
+  id: 413
+  point {
+    x: 499809.9810175366
+    y: 4395082.300404418
+  }
+  type: RIGHT
+  heading: -0.071244486
+  lane_id: 1119
+}
+lane_arrows {
+  id: 414
+  point {
+    x: 499829.8925420161
+    y: 4395063.921570476
+  }
+  type: STRAIGHT
+  heading: -1.6624753
+  lane_id: 1176
+}
+lane_arrows {
+  id: 415
+  point {
+    x: 499826.0728687769
+    y: 4395064.168925909
+  }
+  type: STRAIGHT
+  heading: -1.6718512
+  lane_id: 1177
+}
+lane_arrows {
+  id: 416
+  point {
+    x: 499833.58108769346
+    y: 4395063.635932914
+  }
+  type: STRAIGHT
+  heading: -1.6686375
+  lane_id: 1175
+}
+lane_arrows {
+  id: 417
+  point {
+    x: 499874.2328492309
+    y: 4395078.451676395
+  }
+  type: STRAIGHT
+  heading: -0.06249076
+  lane_id: 1147
+}
+lane_arrows {
+  id: 418
+  point {
+    x: 499874.71913847246
+    y: 4395082.100956997
+  }
+  type: STRAIGHT
+  heading: -0.062380616
+  lane_id: 1146
+}
+lane_arrows {
+  id: 419
+  point {
+    x: 499875.21720493457
+    y: 4395085.823162394
+  }
+  type: STRAIGHT
+  heading: -0.062280316
+  lane_id: 1145
+}
+lane_arrows {
+  id: 420
+  point {
+    x: 499876.07106377615
+    y: 4395092.405474434
+  }
+  type: STRAIGHT
+  heading: 3.0735464
+  lane_id: 1158
+}
+lane_arrows {
+  id: 421
+  point {
+    x: 499876.5556930256
+    y: 4395095.434011782
+  }
+  type: STRAIGHT
+  heading: 3.0729578
+  lane_id: 1159
+}
+lane_arrows {
+  id: 422
+  point {
+    x: 499876.93580236845
+    y: 4395098.459352629
+  }
+  type: RIGHT
+  heading: 3.0728717
+  lane_id: 1160
+}
+lane_arrows {
+  id: 433
+  point {
+    x: 499846.42023931
+    y: 4395193.154630557
+  }
+  type: STRAIGHT
+  heading: -1.7107452
+  lane_id: 1043
+}
+lane_arrows {
+  id: 423
+  point {
+    x: 499875.2327816925
+    y: 4395089.516284582
+  }
+  type: LEFT
+  heading: 3.0732613
+  lane_id: 1157
+}
+lane_arrows {
+  id: 424
+  point {
+    x: 499841.30332966644
+    y: 4395027.602046405
+  }
+  type: LEFT
+  heading: 1.4543937
+  lane_id: 1255
+}
+lane_arrows {
+  id: 425
+  point {
+    x: 499843.99574575573
+    y: 4395027.156729132
+  }
+  type: STRAIGHT
+  heading: 1.4552889
+  lane_id: 1256
+}
+lane_arrows {
+  id: 426
+  point {
+    x: 499847.0042726372
+    y: 4395026.785584193
+  }
+  type: STRAIGHT
+  heading: 1.4570857
+  lane_id: 1257
+}
+lane_arrows {
+  id: 427
+  point {
+    x: 499849.7063332265
+    y: 4395026.448989837
+  }
+  type: RIGHT
+  heading: 1.4597068
+  lane_id: 1258
+}
+lane_arrows {
+  id: 428
+  point {
+    x: 499851.0988299581
+    y: 4395062.358203508
+  }
+  type: STRAIGHT
+  heading: 1.459514
+  lane_id: 1262
+}
+lane_arrows {
+  id: 429
+  point {
+    x: 499848.14255799254
+    y: 4395062.713777806
+  }
+  type: STRAIGHT
+  heading: 1.4601755
+  lane_id: 1261
+}
+lane_arrows {
+  id: 430
+  point {
+    x: 499853.7972194257
+    y: 4395062.315564529
+  }
+  type: RIGHT
+  heading: 1.4564265
+  lane_id: 1263
+}
+lane_arrows {
+  id: 431
+  point {
+    x: 499845.55105429766
+    y: 4395063.291466754
+  }
+  type: LEFT
+  heading: 1.4584197
+  lane_id: 1260
+}
+lane_arrows {
+  id: 432
+  point {
+    x: 499849.6839318725
+    y: 4395192.594635414
+  }
+  type: STRAIGHT
+  heading: -1.7099354
+  lane_id: 1042
+}
+lane_arrows {
+  id: 442
+  point {
+    x: 499778.6450770346
+    y: 4394597.164272631
+  }
+  type: STRAIGHT
+  heading: -1.6872189
+  lane_id: 1299
+}
+lane_arrows {
+  id: 434
+  point {
+    x: 499852.664052938
+    y: 4395192.134993192
+  }
+  type: LEFT
+  heading: -1.709815
+  lane_id: 1041
+}
+lane_arrows {
+  id: 435
+  point {
+    x: 499843.44322965795
+    y: 4395193.574703186
+  }
+  type: RIGHT
+  heading: -1.7102889
+  lane_id: 1044
+}
+lane_arrows {
+  id: 436
+  point {
+    x: 499785.76015570905
+    y: 4394632.712538293
+  }
+  type: LEFT
+  heading: -1.686844
+  lane_id: 1293
+}
+lane_arrows {
+  id: 437
+  point {
+    x: 499782.79230887775
+    y: 4394632.901033437
+  }
+  type: STRAIGHT
+  heading: -1.6868182
+  lane_id: 1294
+}
+lane_arrows {
+  id: 438
+  point {
+    x: 499779.47900506214
+    y: 4394633.183960951
+  }
+  type: STRAIGHT
+  heading: -1.6867647
+  lane_id: 1295
+}
+lane_arrows {
+  id: 439
+  point {
+    x: 499776.1074065374
+    y: 4394633.50760101
+  }
+  type: RIGHT
+  heading: -1.6867107
+  lane_id: 1296
+}
+lane_arrows {
+  id: 440
+  point {
+    x: 499771.8888276728
+    y: 4394598.190843603
+  }
+  type: RIGHT
+  heading: -1.6867107
+  lane_id: 1296
+}
+lane_arrows {
+  id: 441
+  point {
+    x: 499781.633223705
+    y: 4394596.764486156
+  }
+  type: LEFT
+  heading: -1.6872456
+  lane_id: 1298
+}
+lane_arrows {
+  id: 443
+  point {
+    x: 499775.44135826733
+    y: 4394597.579204364
+  }
+  type: STRAIGHT
+  heading: -1.6867647
+  lane_id: 1295
+}
+lane_arrows {
+  id: 444
+  point {
+    x: 499774.6448382831
+    y: 4394562.227003167
+  }
+  type: STRAIGHT
+  heading: -1.6837709
+  lane_id: 1221
+}
+lane_arrows {
+  id: 445
+  point {
+    x: 499771.3950674659
+    y: 4394562.517367993
+  }
+  type: STRAIGHT
+  heading: -1.6837845
+  lane_id: 1222
+}
+lane_arrows {
+  id: 446
+  point {
+    x: 499767.8258917682
+    y: 4394562.949564617
+  }
+  type: RIGHT
+  heading: -1.68381
+  lane_id: 1223
+}
+lane_arrows {
+  id: 447
+  point {
+    x: 499777.590767544
+    y: 4394561.925760625
+  }
+  type: LEFT
+  heading: -1.6837622
+  lane_id: 1220
+}
+lane_arrows {
+  id: 448
+  point {
+    x: 499788.5667024094
+    y: 4394560.711718763
+  }
+  type: STRAIGHT
+  heading: 1.4560039
+  lane_id: 1225
+}
+lane_arrows {
+  id: 449
+  point {
+    x: 499792.28325369366
+    y: 4394560.248263117
+  }
+  type: STRAIGHT
+  heading: 1.4560294
+  lane_id: 1226
+}
+lane_arrows {
+  id: 450
+  point {
+    x: 499795.9618945035
+    y: 4394559.778499796
+  }
+  type: STRAIGHT
+  heading: 1.4560463
+  lane_id: 1227
+}
+lane_arrows {
+  id: 451
+  point {
+    x: 499811.96027010644
+    y: 4394534.780982651
+  }
+  type: STRAIGHT
+  heading: -0.11485292
+  lane_id: 1333
+}
+lane_arrows {
+  id: 453
+  point {
+    x: 499812.39642188954
+    y: 4394538.703858061
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0261145
+  lane_id: 1351
+}
+lane_arrows {
+  id: 459
+  point {
+    x: 499790.6771721662
+    y: 4394518.48273428
+  }
+  type: RIGHT
+  heading: 1.4357715
+  lane_id: 1545
+}
+lane_arrows {
+  id: 454
+  point {
+    x: 499812.7642392648
+    y: 4394542.257015872
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0261443
+  lane_id: 1352
+}
+lane_arrows {
+  id: 465
+  point {
+    x: 499784.40423007443
+    y: 4394519.096854157
+  }
+  type: STRAIGHT
+  heading: 1.4346617
+  lane_id: 1543
+}
+lane_arrows {
+  id: 455
+  point {
+    x: 499849.5095061994
+    y: 4394538.105005909
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0261443
+  lane_id: 1352
+}
+lane_arrows {
+  id: 461
+  point {
+    x: 499782.33464828786
+    y: 4394478.882699103
+  }
+  type: STRAIGHT
+  heading: 1.4363699
+  lane_id: 1539
+}
+lane_arrows {
+  id: 456
+  point {
+    x: 499849.1010900254
+    y: 4394534.43132936
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0261145
+  lane_id: 1351
+}
+lane_arrows {
+  id: 457
+  point {
+    x: 499884.4528785503
+    y: 4394530.359764041
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0269215
+  lane_id: 1345
+}
+lane_arrows {
+  id: 458
+  point {
+    x: 499884.92998090485
+    y: 4394533.970809424
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0271099
+  lane_id: 1346
+}
+lane_arrows {
+  id: 525
+  point {
+    x: 499750.73739621515
+    y: 4394079.278395021
+  }
+  type: STRAIGHT
+  heading: 3.067363
+  lane_id: 1409
+}
+lane_arrows {
+  id: 460
+  point {
+    x: 499785.23252455384
+    y: 4394478.410414575
+  }
+  type: RIGHT
+  heading: 1.4354037
+  lane_id: 1540
+}
+lane_arrows {
+  id: 462
+  point {
+    x: 499779.0735703382
+    y: 4394479.34440933
+  }
+  type: STRAIGHT
+  heading: 1.4357066
+  lane_id: 1538
+}
+lane_arrows {
+  id: 463
+  point {
+    x: 499775.82372890087
+    y: 4394479.966803572
+  }
+  type: LEFT
+  heading: 1.4344499
+  lane_id: 1537
+}
+lane_arrows {
+  id: 466
+  point {
+    x: 499780.95671339915
+    y: 4394519.705359889
+  }
+  type: LEFT
+  heading: 1.4369137
+  lane_id: 1542
+}
+lane_arrows {
+  id: 467
+  point {
+    x: 499770.7955762202
+    y: 4394521.14962049
+  }
+  type: STRAIGHT
+  heading: -1.7057188
+  lane_id: 1427
+}
+lane_arrows {
+  id: 468
+  point {
+    x: 499766.9137265631
+    y: 4394521.765757468
+  }
+  type: STRAIGHT
+  heading: -1.7057246
+  lane_id: 1428
+}
+lane_arrows {
+  id: 469
+  point {
+    x: 499763.28415086237
+    y: 4394522.398120111
+  }
+  type: STRAIGHT
+  heading: -1.7056928
+  lane_id: 1429
+}
+lane_arrows {
+  id: 470
+  point {
+    x: 499744.13054577314
+    y: 4394551.70287771
+  }
+  type: STRAIGHT
+  heading: 3.0865433
+  lane_id: 1328
+}
+lane_arrows {
+  id: 471
+  point {
+    x: 499743.29317836417
+    y: 4394547.8916847175
+  }
+  type: STRAIGHT
+  heading: 3.0865364
+  lane_id: 1327
+}
+lane_arrows {
+  id: 472
+  point {
+    x: 499741.79069180985
+    y: 4394540.228631867
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.054211657
+  lane_id: 1325
+}
+lane_arrows {
+  id: 473
+  point {
+    x: 499742.41861675394
+    y: 4394543.771592353
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.054227628
+  lane_id: 1324
+}
+lane_arrows {
+  id: 516
+  point {
+    x: 499715.5936237386
+    y: 4394101.93693523
+  }
+  type: LEFT
+  heading: -1.7037102
+  lane_id: 1454
+}
+lane_arrows {
+  id: 474
+  point {
+    x: 499770.69174531
+    y: 4394444.50612241
+  }
+  type: LEFT
+  heading: 1.4381125
+  lane_id: 1532
+}
+lane_arrows {
+  id: 475
+  point {
+    x: 499780.2905849747
+    y: 4394443.204415733
+  }
+  type: RIGHT
+  heading: 1.4336703
+  lane_id: 1535
+}
+lane_arrows {
+  id: 476
+  point {
+    x: 499774.2831307215
+    y: 4394443.938359131
+  }
+  type: STRAIGHT
+  heading: 1.4344654
+  lane_id: 1533
+}
+lane_arrows {
+  id: 477
+  point {
+    x: 499777.4543765193
+    y: 4394443.669610379
+  }
+  type: STRAIGHT
+  heading: 1.4332861
+  lane_id: 1534
+}
+lane_arrows {
+  id: 478
+  point {
+    x: 499713.77759025985
+    y: 4394330.987857544
+  }
+  type: STRAIGHT
+  heading: 3.06875
+  lane_id: 1362
+}
+lane_arrows {
+  id: 479
+  point {
+    x: 499713.13169270905
+    y: 4394327.021121677
+  }
+  type: STRAIGHT
+  heading: 3.068739
+  lane_id: 1361
+}
+lane_arrows {
+  id: 480
+  point {
+    x: 499712.40333429736
+    y: 4394323.99498046
+  }
+  type: RIGHT
+  heading: -0.073670864
+  lane_id: 1359
+}
+lane_arrows {
+  id: 526
+  point {
+    x: 499785.74780922
+    y: 4394076.706700632
+  }
+  type: STRAIGHT
+  heading: 3.069014
+  lane_id: 1413
+}
+lane_arrows {
+  id: 481
+  point {
+    x: 499711.74838118243
+    y: 4394320.721039055
+  }
+  type: RIGHT
+  heading: -0.07365428
+  lane_id: 1360
+}
+lane_arrows {
+  id: 482
+  point {
+    x: 499682.1763958573
+    y: 4394326.154107256
+  }
+  type: RIGHT
+  heading: -0.073670864
+  lane_id: 1359
+}
+lane_arrows {
+  id: 483
+  point {
+    x: 499681.8251361463
+    y: 4394322.91375466
+  }
+  type: RIGHT
+  heading: -0.07365428
+  lane_id: 1360
+}
+lane_arrows {
+  id: 484
+  point {
+    x: 499652.012751015
+    y: 4394325.106149834
+  }
+  type: RIGHT
+  heading: -0.072702855
+  lane_id: 1358
+}
+lane_arrows {
+  id: 485
+  point {
+    x: 499652.2627947099
+    y: 4394328.3737915065
+  }
+  type: RIGHT
+  heading: -0.0722312
+  lane_id: 1357
+}
+lane_arrows {
+  id: 486
+  point {
+    x: 499501.6596288311
+    y: 4394560.938671978
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0893066
+  lane_id: 1550
+}
+lane_arrows {
+  id: 487
+  point {
+    x: 499532.2149894426
+    y: 4394559.279120302
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0893066
+  lane_id: 1550
+}
+lane_arrows {
+  id: 498
+  point {
+    x: 499490.85088217934
+    y: 4394335.982229133
+  }
+  type: STRAIGHT
+  heading: -0.07217381
+  lane_id: 1354
+}
+lane_arrows {
+  id: 527
+  point {
+    x: 499822.16801551054
+    y: 4394073.937520234
+  }
+  type: STRAIGHT
+  heading: 3.0686085
+  lane_id: 1417
+}
+lane_arrows {
+  id: 488
+  point {
+    x: 499561.96588417434
+    y: 4394557.716534022
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0879092
+  lane_id: 1547
+}
+lane_arrows {
+  id: 489
+  point {
+    x: 499562.1352437383
+    y: 4394561.407490127
+  }
+  type: STRAIGHT
+  heading: 3.0879042
+  lane_id: 1548
+}
+lane_arrows {
+  id: 490
+  point {
+    x: 499532.29093792196
+    y: 4394562.9162861295
+  }
+  type: STRAIGHT
+  heading: 3.0893273
+  lane_id: 1551
+}
+lane_arrows {
+  id: 491
+  point {
+    x: 499502.13717357925
+    y: 4394564.628341849
+  }
+  type: STRAIGHT
+  heading: 3.0893273
+  lane_id: 1551
+}
+lane_arrows {
+  id: 492
+  point {
+    x: 499501.2700701775
+    y: 4394556.699004179
+  }
+  type: STRAIGHT
+  heading: -0.053503618
+  lane_id: 1315
+}
+lane_arrows {
+  id: 493
+  point {
+    x: 499500.8162890428
+    y: 4394552.986948533
+  }
+  type: STRAIGHT
+  heading: -0.05350743
+  lane_id: 1316
+}
+lane_arrows {
+  id: 499
+  point {
+    x: 499491.0543397295
+    y: 4394339.956822803
+  }
+  type: STRAIGHT
+  heading: -0.07217837
+  lane_id: 1353
+}
+lane_arrows {
+  id: 494
+  point {
+    x: 499678.64111325104
+    y: 4394543.587746317
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.05416998
+  lane_id: 1322
+}
+lane_arrows {
+  id: 495
+  point {
+    x: 499711.5373687831
+    y: 4394541.860125072
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.054211657
+  lane_id: 1325
+}
+lane_arrows {
+  id: 496
+  point {
+    x: 499711.67496821785
+    y: 4394545.406001112
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.054227628
+  lane_id: 1324
+}
+lane_arrows {
+  id: 512
+  point {
+    x: 499714.4555918863
+    y: 4394143.728090243
+  }
+  type: STRAIGHT
+  heading: -1.7067343
+  lane_id: 1451
+}
+lane_arrows {
+  id: 497
+  point {
+    x: 499678.9198075486
+    y: 4394547.173106389
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.05419215
+  lane_id: 1321
+}
+lane_arrows {
+  id: 500
+  point {
+    x: 499491.2111067957
+    y: 4394346.472840559
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0700095
+  lane_id: 1364
+}
+lane_arrows {
+  id: 509
+  point {
+    x: 499708.9598948511
+    y: 4394102.720697183
+  }
+  type: STRAIGHT
+  heading: -1.7047917
+  lane_id: 1456
+}
+lane_arrows {
+  id: 501
+  point {
+    x: 499491.196880059
+    y: 4394343.297240923
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.070004
+  lane_id: 1363
+}
+lane_arrows {
+  id: 502
+  point {
+    x: 499522.6427097034
+    y: 4394341.014778241
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.070004
+  lane_id: 1363
+}
+lane_arrows {
+  id: 542
+  point {
+    x: 499704.5760050135
+    y: 4394052.33794336
+  }
+  type: STRAIGHT
+  heading: -1.647264
+  lane_id: 1460
+}
+lane_arrows {
+  id: 503
+  point {
+    x: 499552.91827350686
+    y: 4394338.7930013705
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.068739
+  lane_id: 1361
+}
+lane_arrows {
+  id: 510
+  point {
+    x: 499705.9292149218
+    y: 4394102.917725502
+  }
+  type: RIGHT
+  heading: -1.7060795
+  lane_id: 1457
+}
+lane_arrows {
+  id: 504
+  point {
+    x: 499553.18894062535
+    y: 4394341.9389618635
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.06875
+  lane_id: 1362
+}
+lane_arrows {
+  id: 517
+  point {
+    x: 499725.9997873063
+    y: 4394101.3806499485
+  }
+  type: STRAIGHT
+  heading: 1.4299116
+  lane_id: 1515
+}
+lane_arrows {
+  id: 505
+  point {
+    x: 499522.9129279352
+    y: 4394344.128939271
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0700095
+  lane_id: 1364
+}
+lane_arrows {
+  id: 506
+  point {
+    x: 499725.6209876865
+    y: 4394178.698628101
+  }
+  type: LEFT
+  heading: -1.7048277
+  lane_id: 1444
+}
+lane_arrows {
+  id: 507
+  point {
+    x: 499720.719786158
+    y: 4394142.892104799
+  }
+  type: LEFT
+  heading: -1.7090434
+  lane_id: 1449
+}
+lane_arrows {
+  id: 508
+  point {
+    x: 499712.1591558777
+    y: 4394102.44556234
+  }
+  type: STRAIGHT
+  heading: -1.7040362
+  lane_id: 1455
+}
+lane_arrows {
+  id: 511
+  point {
+    x: 499711.5529742886
+    y: 4394144.125109514
+  }
+  type: RIGHT
+  heading: -1.7065822
+  lane_id: 1452
+}
+lane_arrows {
+  id: 513
+  point {
+    x: 499717.69452817645
+    y: 4394143.300506443
+  }
+  type: STRAIGHT
+  heading: -1.7083207
+  lane_id: 1450
+}
+lane_arrows {
+  id: 514
+  point {
+    x: 499722.6703717464
+    y: 4394178.986848641
+  }
+  type: STRAIGHT
+  heading: -1.7065079
+  lane_id: 1445
+}
+lane_arrows {
+  id: 515
+  point {
+    x: 499719.417206615
+    y: 4394179.40255912
+  }
+  type: STRAIGHT
+  heading: -1.7072204
+  lane_id: 1446
+}
+lane_arrows {
+  id: 518
+  point {
+    x: 499729.9211604729
+    y: 4394100.968894841
+  }
+  type: STRAIGHT
+  heading: 1.430054
+  lane_id: 1516
+}
+lane_arrows {
+  id: 519
+  point {
+    x: 499733.59108033817
+    y: 4394100.581154542
+  }
+  type: STRAIGHT
+  heading: 1.4302152
+  lane_id: 1517
+}
+lane_arrows {
+  id: 520
+  point {
+    x: 499683.8995515262
+    y: 4394081.384435586
+  }
+  type: STRAIGHT
+  heading: 3.0686269
+  lane_id: 1384
+}
+lane_arrows {
+  id: 521
+  point {
+    x: 499684.2643939374
+    y: 4394084.815285704
+  }
+  type: STRAIGHT
+  heading: 3.068533
+  lane_id: 1385
+}
+lane_arrows {
+  id: 522
+  point {
+    x: 499683.10391935485
+    y: 4394074.392729474
+  }
+  type: STRAIGHT
+  heading: -0.07453789
+  lane_id: 1560
+}
+lane_arrows {
+  id: 523
+  point {
+    x: 499749.5887872018
+    y: 4394068.882636087
+  }
+  type: STRAIGHT
+  heading: -0.072561406
+  lane_id: 1400
+}
+lane_arrows {
+  id: 524
+  point {
+    x: 499750.08449329785
+    y: 4394072.374711549
+  }
+  type: STRAIGHT
+  heading: -0.07257499
+  lane_id: 1399
+}
+lane_arrows {
+  id: 528
+  point {
+    x: 499822.0170047408
+    y: 4394071.248157598
+  }
+  type: LEFT
+  heading: 3.0685468
+  lane_id: 1416
+}
+lane_arrows {
+  id: 529
+  point {
+    x: 499785.5974225813
+    y: 4394073.920840497
+  }
+  type: LEFT
+  heading: 3.0689473
+  lane_id: 1412
+}
+lane_arrows {
+  id: 530
+  point {
+    x: 499750.3498026861
+    y: 4394076.493719105
+  }
+  type: LEFT
+  heading: 3.0666978
+  lane_id: 1408
+}
+lane_arrows {
+  id: 537
+  point {
+    x: 499653.3363507762
+    y: 4394076.52479239
+  }
+  type: STRAIGHT
+  heading: -0.07378736
+  lane_id: 1381
+}
+lane_arrows {
+  id: 531
+  point {
+    x: 499785.89887891104
+    y: 4394079.613649091
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.069076
+  lane_id: 1414
+}
+lane_arrows {
+  id: 565
+  point {
+    x: 499701.59851105674
+    y: 4393734.652365134
+  }
+  type: STRAIGHT
+  heading: 1.493693
+  lane_id: 1488
+}
+lane_arrows {
+  id: 548
+  point {
+    x: 499717.41852623055
+    y: 4394016.106430808
+  }
+  type: LEFT
+  heading: 1.495416
+  lane_id: 1505
+}
+lane_arrows {
+  id: 532
+  point {
+    x: 499822.2798691036
+    y: 4394076.96023217
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0686588
+  lane_id: 1418
+}
+lane_arrows {
+  id: 533
+  point {
+    x: 499683.4686490259
+    y: 4394077.33648205
+  }
+  type: LEFT
+  heading: -0.08037184
+  lane_id: 1559
+}
+lane_arrows {
+  id: 534
+  point {
+    x: 499682.85145099333
+    y: 4394071.495659236
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.074419826
+  lane_id: 1561
+}
+lane_arrows {
+  id: 535
+  point {
+    x: 499653.059835191
+    y: 4394073.640333964
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07068373
+  lane_id: 1557
+}
+lane_arrows {
+  id: 536
+  point {
+    x: 499653.5555625593
+    y: 4394079.483698662
+  }
+  type: LEFT
+  heading: -0.06804078
+  lane_id: 1555
+}
+lane_arrows {
+  id: 538
+  point {
+    x: 499623.5155334709
+    y: 4394078.8741801325
+  }
+  type: STRAIGHT
+  heading: -0.07378736
+  lane_id: 1381
+}
+lane_arrows {
+  id: 545
+  point {
+    x: 499725.72465954
+    y: 4394050.635925242
+  }
+  type: STRAIGHT
+  heading: 1.4989456
+  lane_id: 1512
+}
+lane_arrows {
+  id: 539
+  point {
+    x: 499623.26909503655
+    y: 4394075.832543149
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07373896
+  lane_id: 1382
+}
+lane_arrows {
+  id: 540
+  point {
+    x: 499623.78112357284
+    y: 4394081.661662966
+  }
+  type: LEFT
+  heading: -0.07380606
+  lane_id: 1380
+}
+lane_arrows {
+  id: 541
+  point {
+    x: 499700.7617005829
+    y: 4394052.58961626
+  }
+  type: STRAIGHT
+  heading: -1.6469382
+  lane_id: 1461
+}
+lane_arrows {
+  id: 543
+  point {
+    x: 499708.3097527444
+    y: 4394051.9665781
+  }
+  type: STRAIGHT
+  heading: -1.6476829
+  lane_id: 1459
+}
+lane_arrows {
+  id: 544
+  point {
+    x: 499722.7693134796
+    y: 4394050.896757543
+  }
+  type: STRAIGHT
+  heading: 1.4994804
+  lane_id: 1511
+}
+lane_arrows {
+  id: 546
+  point {
+    x: 499728.41577538854
+    y: 4394050.429904219
+  }
+  type: RIGHT
+  heading: 1.5015525
+  lane_id: 1513
+}
+lane_arrows {
+  id: 547
+  point {
+    x: 499719.96956764377
+    y: 4394051.153411407
+  }
+  type: LEFT
+  heading: 1.4986115
+  lane_id: 1510
+}
+lane_arrows {
+  id: 549
+  point {
+    x: 499714.8222345428
+    y: 4393980.561005996
+  }
+  type: LEFT
+  heading: 1.5000627
+  lane_id: 1500
+}
+lane_arrows {
+  id: 550
+  point {
+    x: 499723.3264441562
+    y: 4393979.771705519
+  }
+  type: RIGHT
+  heading: 1.4990786
+  lane_id: 1503
+}
+lane_arrows {
+  id: 557
+  point {
+    x: 499683.1756341086
+    y: 4393771.7262304295
+  }
+  type: STRAIGHT
+  heading: -1.642197
+  lane_id: 1474
+}
+lane_arrows {
+  id: 551
+  point {
+    x: 499725.89493277087
+    y: 4394015.308181258
+  }
+  type: RIGHT
+  heading: 1.4953932
+  lane_id: 1508
+}
+lane_arrows {
+  id: 552
+  point {
+    x: 499723.172483772
+    y: 4394015.490324322
+  }
+  type: STRAIGHT
+  heading: 1.4974961
+  lane_id: 1507
+}
+lane_arrows {
+  id: 553
+  point {
+    x: 499720.19379769044
+    y: 4394015.8340593185
+  }
+  type: STRAIGHT
+  heading: 1.4971112
+  lane_id: 1506
+}
+lane_arrows {
+  id: 554
+  point {
+    x: 499720.61304220126
+    y: 4393980.030126219
+  }
+  type: STRAIGHT
+  heading: 1.4991431
+  lane_id: 1502
+}
+lane_arrows {
+  id: 555
+  point {
+    x: 499717.63840317307
+    y: 4393980.290805699
+  }
+  type: STRAIGHT
+  heading: 1.4981687
+  lane_id: 1501
+}
+lane_arrows {
+  id: 556
+  point {
+    x: 499686.4650234501
+    y: 4393771.450977012
+  }
+  type: STRAIGHT
+  heading: -1.6422014
+  lane_id: 1473
+}
+lane_arrows {
+  id: 566
+  point {
+    x: 499705.34258541325
+    y: 4393734.3676168695
+  }
+  type: STRAIGHT
+  heading: 1.4957435
+  lane_id: 1489
+}
+lane_arrows {
+  id: 558
+  point {
+    x: 499680.1354843894
+    y: 4393771.9346459545
+  }
+  type: RIGHT
+  heading: -1.6435766
+  lane_id: 1480
+}
+lane_arrows {
+  id: 559
+  point {
+    x: 499689.372452355
+    y: 4393771.1766383145
+  }
+  type: LEFT
+  heading: -1.6437991
+  lane_id: 1477
+}
+lane_arrows {
+  id: 560
+  point {
+    x: 499686.8057439981
+    y: 4393735.587564709
+  }
+  type: LEFT_UTURN
+  heading: -1.6432886
+  lane_id: 1482
+}
+lane_arrows {
+  id: 561
+  point {
+    x: 499683.8978478486
+    y: 4393735.91834882
+  }
+  type: STRAIGHT
+  heading: -1.6424221
+  lane_id: 1483
+}
+lane_arrows {
+  id: 562
+  point {
+    x: 499677.5209917172
+    y: 4393736.291823203
+  }
+  type: RIGHT
+  heading: -1.6423032
+  lane_id: 1485
+}
+lane_arrows {
+  id: 563
+  point {
+    x: 499680.5543172061
+    y: 4393736.238527365
+  }
+  type: STRAIGHT
+  heading: -1.6423638
+  lane_id: 1484
+}
+lane_arrows {
+  id: 564
+  point {
+    x: 499697.87340531975
+    y: 4393734.919252174
+  }
+  type: STRAIGHT
+  heading: 1.4966584
+  lane_id: 1487
+}
+lane_arrows {
+  id: 567
+  point {
+    x: 499688.95796288364
+    y: 4393807.213071107
+  }
+  type: STRAIGHT
+  heading: -1.6422014
+  lane_id: 1473
+}
+lane_arrows {
+  id: 568
+  point {
+    x: 499685.74317016953
+    y: 4393807.36276002
+  }
+  type: STRAIGHT
+  heading: -1.642197
+  lane_id: 1474
+}
+lane_arrows {
+  id: 569
+  point {
+    x: 499691.9176136977
+    y: 4393806.834176659
+  }
+  type: LEFT
+  heading: -1.6372881
+  lane_id: 1472
+}
+lane_arrows {
+  id: 570
+  point {
+    x: 499682.7188550108
+    y: 4393807.551835021
+  }
+  type: RIGHT
+  heading: -1.642189
+  lane_id: 1475
+}
+lane_arrows {
+  id: 571
+  point {
+    x: 499657.1039395046
+    y: 4393721.144814481
+  }
+  type: STRAIGHT
+  heading: 3.0688426
+  lane_id: 1572
+}
+lane_arrows {
+  id: 572
+  point {
+    x: 499656.39828832634
+    y: 4393710.71177531
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.0733479
+  lane_id: 1570
+}
+lane_arrows {
+  id: 602
+  point {
+    x: 499721.2041453741
+    y: 4393705.957837626
+  }
+  type: STRAIGHT
+  heading: -0.07258793
+  lane_id: 1576
+}
+lane_arrows {
+  id: 578
+  point {
+    x: 499674.33880779066
+    y: 4393691.869162008
+  }
+  type: STRAIGHT
+  heading: -1.6434036
+  lane_id: 1589
+}
+lane_arrows {
+  id: 580
+  point {
+    x: 499681.9378540858
+    y: 4393691.415201604
+  }
+  type: STRAIGHT
+  heading: -1.6418688
+  lane_id: 1587
+}
+lane_arrows {
+  id: 573
+  point {
+    x: 499656.3792396321
+    y: 4393713.872813764
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.073321216
+  lane_id: 1569
+}
+lane_arrows {
+  id: 574
+  point {
+    x: 499620.61537723977
+    y: 4393716.454577435
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.073321216
+  lane_id: 1569
+}
+lane_arrows {
+  id: 575
+  point {
+    x: 499620.34158391354
+    y: 4393713.318897225
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.0733479
+  lane_id: 1570
+}
+lane_arrows {
+  id: 576
+  point {
+    x: 499583.08174604934
+    y: 4393716.049343418
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07239256
+  lane_id: 1568
+}
+lane_arrows {
+  id: 584
+  point {
+    x: 499702.1196235646
+    y: 4393689.927907649
+  }
+  type: RIGHT
+  heading: 1.4990833
+  lane_id: 1650
+}
+lane_arrows {
+  id: 577
+  point {
+    x: 499583.2882451967
+    y: 4393719.1781782005
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.07239133
+  lane_id: 1567
+}
+lane_arrows {
+  id: 579
+  point {
+    x: 499678.228248824
+    y: 4393691.661556714
+  }
+  type: STRAIGHT
+  heading: -1.6415288
+  lane_id: 1588
+}
+lane_arrows {
+  id: 581
+  point {
+    x: 499696.4968234008
+    y: 4393690.374522259
+  }
+  type: STRAIGHT
+  heading: 1.498666
+  lane_id: 1648
+}
+lane_arrows {
+  id: 582
+  point {
+    x: 499699.4686860536
+    y: 4393690.1842697505
+  }
+  type: STRAIGHT
+  heading: 1.4988507
+  lane_id: 1649
+}
+lane_arrows {
+  id: 583
+  point {
+    x: 499693.7056287315
+    y: 4393690.608674148
+  }
+  type: LEFT_UTURN
+  heading: 1.4984676
+  lane_id: 1647
+}
+lane_arrows {
+  id: 585
+  point {
+    x: 499699.5381086528
+    y: 4393654.426770585
+  }
+  type: RIGHT
+  heading: 1.4976705
+  lane_id: 1645
+}
+lane_arrows {
+  id: 586
+  point {
+    x: 499696.6483670682
+    y: 4393614.291795792
+  }
+  type: RIGHT
+  heading: 1.497397
+  lane_id: 1635
+}
+lane_arrows {
+  id: 587
+  point {
+    x: 499690.9848607104
+    y: 4393614.715760514
+  }
+  type: STRAIGHT
+  heading: 1.4994231
+  lane_id: 1633
+}
+lane_arrows {
+  id: 588
+  point {
+    x: 499693.9108923959
+    y: 4393614.478051131
+  }
+  type: STRAIGHT
+  heading: 1.4972795
+  lane_id: 1634
+}
+lane_arrows {
+  id: 589
+  point {
+    x: 499696.836201669
+    y: 4393654.7678449815
+  }
+  type: STRAIGHT
+  heading: 1.4977053
+  lane_id: 1644
+}
+lane_arrows {
+  id: 590
+  point {
+    x: 499693.85688618326
+    y: 4393655.051824408
+  }
+  type: STRAIGHT
+  heading: 1.4977318
+  lane_id: 1643
+}
+lane_arrows {
+  id: 591
+  point {
+    x: 499691.1185368957
+    y: 4393655.350401623
+  }
+  type: LEFT
+  heading: 1.4977602
+  lane_id: 1642
+}
+lane_arrows {
+  id: 592
+  point {
+    x: 499688.277771905
+    y: 4393614.989756016
+  }
+  type: LEFT
+  heading: 1.500955
+  lane_id: 1632
+}
+lane_arrows {
+  id: 593
+  point {
+    x: 499721.85154585075
+    y: 4393712.546770982
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.069562
+  lane_id: 1584
+}
+lane_arrows {
+  id: 606
+  point {
+    x: 499707.7190661972
+    y: 4393509.992589815
+  }
+  type: STRAIGHT
+  heading: -0.0746973
+  lane_id: 1734
+}
+lane_arrows {
+  id: 594
+  point {
+    x: 499759.4541928387
+    y: 4393709.933643365
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.069562
+  lane_id: 1584
+}
+lane_arrows {
+  id: 605
+  point {
+    x: 499708.05546324386
+    y: 4393513.7685543345
+  }
+  type: RIGHT
+  heading: 3.068304
+  lane_id: 1662
+}
+lane_arrows {
+  id: 595
+  point {
+    x: 499793.5720347944
+    y: 4393707.414753344
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0686452
+  lane_id: 1581
+}
+lane_arrows {
+  id: 596
+  point {
+    x: 499793.73684355087
+    y: 4393710.570352493
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0688994
+  lane_id: 1582
+}
+lane_arrows {
+  id: 604
+  point {
+    x: 499708.33282557805
+    y: 4393517.777581289
+  }
+  type: RIGHT
+  heading: 3.068293
+  lane_id: 1663
+}
+lane_arrows {
+  id: 597
+  point {
+    x: 499759.54970737896
+    y: 4393713.018209515
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0692098
+  lane_id: 1585
+}
+lane_arrows {
+  id: 607
+  point {
+    x: 499707.3068375034
+    y: 4393506.005522115
+  }
+  type: STRAIGHT
+  heading: -0.07472433
+  lane_id: 1735
+}
+lane_arrows {
+  id: 598
+  point {
+    x: 499722.076288035
+    y: 4393715.70692804
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0692098
+  lane_id: 1585
+}
+lane_arrows {
+  id: 599
+  point {
+    x: 499743.92607622064
+    y: 4393711.243069833
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.069562
+  lane_id: 1584
+}
+lane_arrows {
+  id: 600
+  point {
+    x: 499744.206931375
+    y: 4393714.378204931
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0692098
+  lane_id: 1585
+}
+lane_arrows {
+  id: 601
+  point {
+    x: 499721.5447535103
+    y: 4393709.286579931
+  }
+  type: STRAIGHT
+  heading: -0.07258411
+  lane_id: 1575
+}
+lane_arrows {
+  id: 603
+  point {
+    x: 499656.6688048339
+    y: 4393717.256596087
+  }
+  type: STRAIGHT
+  heading: 3.0688415
+  lane_id: 1571
+}
+lane_arrows {
+  id: 612
+  point {
+    x: 499649.8861574782
+    y: 4393312.1222038325
+  }
+  type: STRAIGHT
+  heading: -1.6441453
+  lane_id: 1612
+}
+lane_arrows {
+  id: 608
+  point {
+    x: 499667.01214595063
+    y: 4393310.870814078
+  }
+  type: STRAIGHT
+  heading: 1.5008094
+  lane_id: 1615
+}
+lane_arrows {
+  id: 609
+  point {
+    x: 499670.8133011216
+    y: 4393310.411026882
+  }
+  type: STRAIGHT
+  heading: 1.5007554
+  lane_id: 1616
+}
+lane_arrows {
+  id: 610
+  point {
+    x: 499674.6597574437
+    y: 4393310.215751883
+  }
+  type: STRAIGHT
+  heading: 1.5007446
+  lane_id: 1617
+}
+lane_arrows {
+  id: 611
+  point {
+    x: 499653.16508721444
+    y: 4393311.826619755
+  }
+  type: STRAIGHT
+  heading: -1.6432321
+  lane_id: 1611
+}
+lane_arrows {
+  id: 613
+  point {
+    x: 499646.76496910607
+    y: 4393312.301495553
+  }
+  type: RIGHT
+  heading: -1.6439482
+  lane_id: 1613
+}
+lane_arrows {
+  id: 614
+  point {
+    x: 499656.1512278188
+    y: 4393311.584430071
+  }
+  type: LEFT
+  heading: -1.6428617
+  lane_id: 1610
+}
+lane_arrows {
+  id: 615
+  point {
+    x: 499661.1370970673
+    y: 4393380.882681575
+  }
+  type: LEFT
+  heading: -1.6421628
+  lane_id: 1600
+}
+lane_arrows {
+  id: 616
+  point {
+    x: 499658.65171412507
+    y: 4393346.894528862
+  }
+  type: LEFT
+  heading: -1.6427593
+  lane_id: 1605
+}
+lane_arrows {
+  id: 617
+  point {
+    x: 499651.853548837
+    y: 4393381.36967149
+  }
+  type: RIGHT
+  heading: -1.6439568
+  lane_id: 1603
+}
+lane_arrows {
+  id: 636
+  point {
+    x: 499628.11263764586
+    y: 4393277.641474354
+  }
+  type: STRAIGHT
+  heading: -0.073278755
+  lane_id: 1688
+}
+lane_arrows {
+  id: 646
+  point {
+    x: 499690.2553117693
+    y: 4393276.944827363
+  }
+  type: STRAIGHT
+  heading: -0.07328132
+  lane_id: 1690
+}
+lane_arrows {
+  id: 618
+  point {
+    x: 499649.35253198654
+    y: 4393347.701679408
+  }
+  type: RIGHT
+  heading: -1.6452163
+  lane_id: 1608
+}
+lane_arrows {
+  id: 619
+  point {
+    x: 499655.73662387487
+    y: 4393347.188384464
+  }
+  type: STRAIGHT
+  heading: -1.6440043
+  lane_id: 1606
+}
+lane_arrows {
+  id: 620
+  point {
+    x: 499652.4110216746
+    y: 4393347.45668954
+  }
+  type: STRAIGHT
+  heading: -1.6440299
+  lane_id: 1607
+}
+lane_arrows {
+  id: 621
+  point {
+    x: 499658.109311272
+    y: 4393381.108579801
+  }
+  type: STRAIGHT
+  heading: -1.6423208
+  lane_id: 1601
+}
+lane_arrows {
+  id: 622
+  point {
+    x: 499654.8954272202
+    y: 4393381.2627583705
+  }
+  type: STRAIGHT
+  heading: -1.6438286
+  lane_id: 1602
+}
+lane_arrows {
+  id: 647
+  point {
+    x: 499689.6233309284
+    y: 4393269.239331452
+  }
+  type: STRAIGHT
+  heading: -0.07326043
+  lane_id: 1692
+}
+lane_arrows {
+  id: 623
+  point {
+    x: 499745.5106019416
+    y: 4393511.036674045
+  }
+  type: RIGHT
+  heading: 3.068304
+  lane_id: 1662
+}
+lane_arrows {
+  id: 624
+  point {
+    x: 499746.00750739616
+    y: 4393514.717950614
+  }
+  type: RIGHT
+  heading: 3.068293
+  lane_id: 1663
+}
+lane_arrows {
+  id: 625
+  point {
+    x: 499780.1219684016
+    y: 4393512.580145948
+  }
+  type: RIGHT
+  heading: 3.0694323
+  lane_id: 1675
+}
+lane_arrows {
+  id: 626
+  point {
+    x: 499779.6678581149
+    y: 4393508.608212325
+  }
+  type: RIGHT
+  heading: 3.0694253
+  lane_id: 1674
+}
+lane_arrows {
+  id: 627
+  point {
+    x: 499935.4944726393
+    y: 4393501.562998891
+  }
+  type: STRAIGHT
+  heading: 3.0683403
+  lane_id: 1725
+}
+lane_arrows {
+  id: 628
+  point {
+    x: 499935.256377668
+    y: 4393497.538692271
+  }
+  type: STRAIGHT
+  heading: 3.0682096
+  lane_id: 1724
+}
+lane_arrows {
+  id: 629
+  point {
+    x: 499908.8682060557
+    y: 4393495.178038122
+  }
+  type: LEFT
+  heading: -0.07331631
+  lane_id: 1722
+}
+lane_arrows {
+  id: 656
+  point {
+    x: 499759.9828752668
+    y: 4393279.534946922
+  }
+  type: STRAIGHT
+  heading: 3.069567
+  lane_id: 1697
+}
+lane_arrows {
+  id: 630
+  point {
+    x: 499910.7297056935
+    y: 4393491.561275357
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07335151
+  lane_id: 1723
+}
+lane_arrows {
+  id: 631
+  point {
+    x: 499880.67719049955
+    y: 4393493.666653803
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.072399475
+  lane_id: 1721
+}
+lane_arrows {
+  id: 632
+  point {
+    x: 499879.80253985187
+    y: 4393497.308532752
+  }
+  type: LEFT
+  heading: -0.072398394
+  lane_id: 1720
+}
+lane_arrows {
+  id: 633
+  point {
+    x: 499628.5692448704
+    y: 4393285.488087377
+  }
+  type: STRAIGHT
+  heading: 3.0696294
+  lane_id: 1683
+}
+lane_arrows {
+  id: 634
+  point {
+    x: 499628.91805513226
+    y: 4393289.20861416
+  }
+  type: STRAIGHT
+  heading: 3.0690856
+  lane_id: 1684
+}
+lane_arrows {
+  id: 635
+  point {
+    x: 499629.115025574
+    y: 4393293.0088315625
+  }
+  type: STRAIGHT
+  heading: 3.068545
+  lane_id: 1685
+}
+lane_arrows {
+  id: 664
+  point {
+    x: 499881.18404671474
+    y: 4393259.247555143
+  }
+  type: STRAIGHT
+  heading: -0.07236577
+  lane_id: 1700
+}
+lane_arrows {
+  id: 637
+  point {
+    x: 499627.907434766
+    y: 4393273.841141427
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.073961675
+  lane_id: 1689
+}
+lane_arrows {
+  id: 638
+  point {
+    x: 499594.4263803785
+    y: 4393276.3173293285
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.073961675
+  lane_id: 1689
+}
+lane_arrows {
+  id: 667
+  point {
+    x: 499914.9766309347
+    y: 4393268.477259686
+  }
+  type: STRAIGHT
+  heading: 3.0688128
+  lane_id: 1705
+}
+lane_arrows {
+  id: 639
+  point {
+    x: 499559.33521232056
+    y: 4393278.854412712
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.072801016
+  lane_id: 1682
+}
+lane_arrows {
+  id: 640
+  point {
+    x: 499559.50157046004
+    y: 4393282.56401547
+  }
+  type: STRAIGHT
+  heading: -0.072890624
+  lane_id: 1681
+}
+lane_arrows {
+  id: 666
+  point {
+    x: 499914.6449062908
+    y: 4393264.622027114
+  }
+  type: STRAIGHT
+  heading: 3.0688105
+  lane_id: 1704
+}
+lane_arrows {
+  id: 641
+  point {
+    x: 499559.80758063734
+    y: 4393286.350093891
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.07304548
+  lane_id: 1680
+}
+lane_arrows {
+  id: 642
+  point {
+    x: 499594.7405474627
+    y: 4393283.802526966
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.07031065
+  lane_id: 1687
+}
+lane_arrows {
+  id: 643
+  point {
+    x: 499628.42852084455
+    y: 4393281.376179058
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.07031065
+  lane_id: 1687
+}
+lane_arrows {
+  id: 644
+  point {
+    x: 499594.60715514247
+    y: 4393280.002079135
+  }
+  type: STRAIGHT
+  heading: -0.073278755
+  lane_id: 1688
+}
+lane_arrows {
+  id: 645
+  point {
+    x: 499689.89090053964
+    y: 4393273.055666516
+  }
+  type: STRAIGHT
+  heading: -0.0732735
+  lane_id: 1691
+}
+lane_arrows {
+  id: 648
+  point {
+    x: 499690.75546337257
+    y: 4393284.622258724
+  }
+  type: STRAIGHT
+  heading: 3.0686514
+  lane_id: 1714
+}
+lane_arrows {
+  id: 649
+  point {
+    x: 499690.5254224172
+    y: 4393281.162066717
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0686538
+  lane_id: 1713
+}
+lane_arrows {
+  id: 657
+  point {
+    x: 499851.46040995076
+    y: 4393261.271968912
+  }
+  type: STRAIGHT
+  heading: -0.07236577
+  lane_id: 1700
+}
+lane_arrows {
+  id: 650
+  point {
+    x: 499691.1426410981
+    y: 4393288.558448758
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0686514
+  lane_id: 1715
+}
+lane_arrows {
+  id: 651
+  point {
+    x: 499726.003522663
+    y: 4393286.018554539
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0686514
+  lane_id: 1715
+}
+lane_arrows {
+  id: 652
+  point {
+    x: 499760.34179303405
+    y: 4393283.516265234
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0695696
+  lane_id: 1698
+}
+lane_arrows {
+  id: 653
+  point {
+    x: 499759.6566823233
+    y: 4393276.215918727
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.069583
+  lane_id: 1696
+}
+lane_arrows {
+  id: 654
+  point {
+    x: 499725.34442206915
+    y: 4393278.739284223
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0686538
+  lane_id: 1713
+}
+lane_arrows {
+  id: 655
+  point {
+    x: 499725.5571976524
+    y: 4393282.049027637
+  }
+  type: STRAIGHT
+  heading: 3.0686514
+  lane_id: 1714
+}
+lane_arrows {
+  id: 682
+  point {
+    x: 499931.73177191184
+    y: 4393227.632263562
+  }
+  type: STRAIGHT
+  heading: -1.644164
+  lane_id: 1761
+}
+lane_arrows {
+  id: 695
+  point {
+    x: 500130.8258003937
+    y: 4393237.165698592
+  }
+  type: STRAIGHT
+  heading: -0.07306153
+  lane_id: 1790
+}
+lane_arrows {
+  id: 658
+  point {
+    x: 499851.12170197815
+    y: 4393257.589752841
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.072354406
+  lane_id: 1701
+}
+lane_arrows {
+  id: 659
+  point {
+    x: 499851.6719112877
+    y: 4393265.134454553
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.072376885
+  lane_id: 1699
+}
+lane_arrows {
+  id: 660
+  point {
+    x: 499913.8187297556
+    y: 4393260.60160858
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.07382925
+  lane_id: 1707
+}
+lane_arrows {
+  id: 661
+  point {
+    x: 499913.57296868047
+    y: 4393256.771533554
+  }
+  type: STRAIGHT
+  heading: -0.07384132
+  lane_id: 1708
+}
+lane_arrows {
+  id: 662
+  point {
+    x: 499913.3245403505
+    y: 4393253.136925461
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07385144
+  lane_id: 1709
+}
+lane_arrows {
+  id: 663
+  point {
+    x: 499880.78715603694
+    y: 4393255.3978730375
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07385144
+  lane_id: 1709
+}
+lane_arrows {
+  id: 665
+  point {
+    x: 499881.3581136542
+    y: 4393262.96625011
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.07382925
+  lane_id: 1707
+}
+lane_arrows {
+  id: 668
+  point {
+    x: 499915.22246527945
+    y: 4393272.33544896
+  }
+  type: STRAIGHT
+  heading: 3.0688133
+  lane_id: 1706
+}
+lane_arrows {
+  id: 669
+  point {
+    x: 499967.01164550625
+    y: 4393264.695805401
+  }
+  type: STRAIGHT
+  heading: 3.0697172
+  lane_id: 1800
+}
+lane_arrows {
+  id: 680
+  point {
+    x: 499965.74369408505
+    y: 4393249.059518638
+  }
+  type: STRAIGHT
+  heading: -0.07284694
+  lane_id: 1784
+}
+lane_arrows {
+  id: 670
+  point {
+    x: 499967.3362942287
+    y: 4393268.47311461
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0696712
+  lane_id: 1801
+}
+lane_arrows {
+  id: 671
+  point {
+    x: 499966.7141080705
+    y: 4393261.12827426
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.06972
+  lane_id: 1799
+}
+lane_arrows {
+  id: 672
+  point {
+    x: 499989.2632261253
+    y: 4393259.4925445365
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.06972
+  lane_id: 1799
+}
+lane_arrows {
+  id: 673
+  point {
+    x: 500019.2312434191
+    y: 4393257.30186763
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0688457
+  lane_id: 1796
+}
+lane_arrows {
+  id: 681
+  point {
+    x: 499935.65888027527
+    y: 4393227.393440395
+  }
+  type: STRAIGHT
+  heading: -1.6441644
+  lane_id: 1760
+}
+lane_arrows {
+  id: 674
+  point {
+    x: 500019.89051248395
+    y: 4393264.722798172
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0685432
+  lane_id: 1798
+}
+lane_arrows {
+  id: 675
+  point {
+    x: 499989.7871057211
+    y: 4393266.828741614
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0696712
+  lane_id: 1801
+}
+lane_arrows {
+  id: 676
+  point {
+    x: 499989.5558456696
+    y: 4393263.128628962
+  }
+  type: STRAIGHT
+  heading: 3.0697172
+  lane_id: 1800
+}
+lane_arrows {
+  id: 677
+  point {
+    x: 500019.574401323
+    y: 4393260.997696171
+  }
+  type: STRAIGHT
+  heading: 3.0688858
+  lane_id: 1797
+}
+lane_arrows {
+  id: 678
+  point {
+    x: 499966.3312911792
+    y: 4393256.944780992
+  }
+  type: STRAIGHT
+  heading: -0.0728446
+  lane_id: 1782
+}
+lane_arrows {
+  id: 679
+  point {
+    x: 499966.09231093357
+    y: 4393252.911431201
+  }
+  type: STRAIGHT
+  heading: -0.07291312
+  lane_id: 1783
+}
+lane_arrows {
+  id: 683
+  point {
+    x: 499944.1113014269
+    y: 4393293.873789966
+  }
+  type: STRAIGHT
+  heading: 1.4983922
+  lane_id: 1754
+}
+lane_arrows {
+  id: 684
+  point {
+    x: 499948.04677584337
+    y: 4393293.5416335
+  }
+  type: STRAIGHT
+  heading: 1.498404
+  lane_id: 1755
+}
+lane_arrows {
+  id: 685
+  point {
+    x: 499940.39356175176
+    y: 4393292.706604963
+  }
+  type: STRAIGHT_LEFT
+  heading: -1.6436697
+  lane_id: 1752
+}
+lane_arrows {
+  id: 686
+  point {
+    x: 499941.97300487035
+    y: 4393314.346983954
+  }
+  type: STRAIGHT_LEFT
+  heading: -1.6436697
+  lane_id: 1752
+}
+lane_arrows {
+  id: 735
+  point {
+    x: 500460.70997746004
+    y: 4393192.01472542
+  }
+  type: STRAIGHT
+  heading: -1.4465346
+  lane_id: 1884
+}
+lane_arrows {
+  id: 711
+  point {
+    x: 500251.11115158134
+    y: 4393228.410716688
+  }
+  type: STRAIGHT
+  heading: -0.065831676
+  lane_id: 1804
+}
+lane_arrows {
+  id: 687
+  point {
+    x: 499943.2823730098
+    y: 4393331.970011546
+  }
+  type: STRAIGHT_LEFT
+  heading: -1.6423794
+  lane_id: 1750
+}
+lane_arrows {
+  id: 688
+  point {
+    x: 499939.01407676697
+    y: 4393332.131852668
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.6423796
+  lane_id: 1751
+}
+lane_arrows {
+  id: 689
+  point {
+    x: 499937.7823757059
+    y: 4393314.6128928205
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.6437341
+  lane_id: 1753
+}
+lane_arrows {
+  id: 690
+  point {
+    x: 499936.21489362046
+    y: 4393292.795998884
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.6437341
+  lane_id: 1753
+}
+lane_arrows {
+  id: 712
+  point {
+    x: 500251.3397264192
+    y: 4393232.139688978
+  }
+  type: STRAIGHT
+  heading: -0.065831676
+  lane_id: 1803
+}
+lane_arrows {
+  id: 691
+  point {
+    x: 499938.97362322966
+    y: 4393227.189162528
+  }
+  type: STRAIGHT_LEFT
+  heading: 1.497017
+  lane_id: 1780
+}
+lane_arrows {
+  id: 709
+  point {
+    x: 500229.6664587746
+    y: 4393295.872827868
+  }
+  type: RIGHT
+  heading: -1.643305
+  lane_id: 1874
+}
+lane_arrows {
+  id: 692
+  point {
+    x: 499936.8363477803
+    y: 4393197.963089598
+  }
+  type: STRAIGHT_LEFT
+  heading: 1.497017
+  lane_id: 1780
+}
+lane_arrows {
+  id: 693
+  point {
+    x: 499940.20676746836
+    y: 4393197.652474586
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.4970174
+  lane_id: 1781
+}
+lane_arrows {
+  id: 713
+  point {
+    x: 500251.63387715945
+    y: 4393235.992157217
+  }
+  type: STRAIGHT
+  heading: -0.06583167
+  lane_id: 1802
+}
+lane_arrows {
+  id: 699
+  point {
+    x: 500169.6002923683
+    y: 4393238.0704205725
+  }
+  type: STRAIGHT
+  heading: -0.07336672
+  lane_id: 1794
+}
+lane_arrows {
+  id: 694
+  point {
+    x: 499942.32826096955
+    y: 4393226.962455828
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.4970174
+  lane_id: 1781
+}
+lane_arrows {
+  id: 696
+  point {
+    x: 500131.0961539154
+    y: 4393241.02511115
+  }
+  type: STRAIGHT
+  heading: -0.07231206
+  lane_id: 1786
+}
+lane_arrows {
+  id: 734
+  point {
+    x: 500464.57346242445
+    y: 4393192.212716289
+  }
+  type: STRAIGHT
+  heading: -1.4469769
+  lane_id: 1883
+}
+lane_arrows {
+  id: 697
+  point {
+    x: 500131.3914557181
+    y: 4393244.726359907
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.07133016
+  lane_id: 1785
+}
+lane_arrows {
+  id: 714
+  point {
+    x: 500252.1532945479
+    y: 4393243.873061137
+  }
+  type: STRAIGHT
+  heading: 3.0702217
+  lane_id: 1820
+}
+lane_arrows {
+  id: 698
+  point {
+    x: 500169.87942057016
+    y: 4393241.875621352
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.07380704
+  lane_id: 1793
+}
+lane_arrows {
+  id: 700
+  point {
+    x: 500169.2705086494
+    y: 4393234.415324571
+  }
+  type: STRAIGHT
+  heading: -0.073100954
+  lane_id: 1795
+}
+lane_arrows {
+  id: 701
+  point {
+    x: 500209.7001795003
+    y: 4393235.141647663
+  }
+  type: STRAIGHT
+  heading: -0.07336672
+  lane_id: 1794
+}
+lane_arrows {
+  id: 702
+  point {
+    x: 500209.26665088604
+    y: 4393231.524600703
+  }
+  type: STRAIGHT
+  heading: -0.073100954
+  lane_id: 1795
+}
+lane_arrows {
+  id: 710
+  point {
+    x: 500231.1599829756
+    y: 4393269.293034695
+  }
+  type: LEFT
+  heading: -1.6451088
+  lane_id: 1875
+}
+lane_arrows {
+  id: 715
+  point {
+    x: 500251.83769060264
+    y: 4393240.300154163
+  }
+  type: STRAIGHT
+  heading: 3.0706482
+  lane_id: 1819
+}
+lane_arrows {
+  id: 703
+  point {
+    x: 500209.9639759683
+    y: 4393238.949931189
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.07380704
+  lane_id: 1793
+}
+lane_arrows {
+  id: 704
+  point {
+    x: 500210.9316993997
+    y: 4393243.357569402
+  }
+  type: STRAIGHT
+  heading: 3.0688457
+  lane_id: 1796
+}
+lane_arrows {
+  id: 705
+  point {
+    x: 500211.12288071366
+    y: 4393246.882414479
+  }
+  type: STRAIGHT
+  heading: 3.0688858
+  lane_id: 1797
+}
+lane_arrows {
+  id: 706
+  point {
+    x: 500211.4698403075
+    y: 4393250.706343127
+  }
+  type: STRAIGHT
+  heading: 3.0685432
+  lane_id: 1798
+}
+lane_arrows {
+  id: 707
+  point {
+    x: 500233.1326762617
+    y: 4393295.684753519
+  }
+  type: LEFT
+  heading: -1.6432954
+  lane_id: 1873
+}
+lane_arrows {
+  id: 708
+  point {
+    x: 500227.6757824064
+    y: 4393269.473499889
+  }
+  type: RIGHT
+  heading: -1.6452832
+  lane_id: 1876
+}
+lane_arrows {
+  id: 716
+  point {
+    x: 500252.40829794394
+    y: 4393247.688696357
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0703912
+  lane_id: 1821
+}
+lane_arrows {
+  id: 732
+  point {
+    x: 500426.11052935914
+    y: 4393231.358503012
+  }
+  type: STRAIGHT
+  heading: 3.0683768
+  lane_id: 1812
+}
+lane_arrows {
+  id: 717
+  point {
+    x: 500286.83577457507
+    y: 4393245.312581129
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0703912
+  lane_id: 1821
+}
+lane_arrows {
+  id: 718
+  point {
+    x: 500286.3643339105
+    y: 4393237.729535954
+  }
+  type: STRAIGHT
+  heading: 3.0675602
+  lane_id: 1811
+}
+lane_arrows {
+  id: 719
+  point {
+    x: 500327.6575507701
+    y: 4393234.679370756
+  }
+  type: STRAIGHT
+  heading: 3.0675602
+  lane_id: 1811
+}
+lane_arrows {
+  id: 720
+  point {
+    x: 500328.2107166104
+    y: 4393238.402946714
+  }
+  type: STRAIGHT
+  heading: 3.0683768
+  lane_id: 1812
+}
+lane_arrows {
+  id: 729
+  point {
+    x: 500384.5777891344
+    y: 4393222.510448016
+  }
+  type: STRAIGHT
+  heading: -0.07247585
+  lane_id: 1817
+}
+lane_arrows {
+  id: 721
+  point {
+    x: 500328.5512655976
+    y: 4393242.142142188
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0688171
+  lane_id: 1813
+}
+lane_arrows {
+  id: 722
+  point {
+    x: 500345.10076836817
+    y: 4393221.659913201
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07255182
+  lane_id: 1810
+}
+lane_arrows {
+  id: 723
+  point {
+    x: 500384.20948562544
+    y: 4393218.832962096
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07266332
+  lane_id: 1818
+}
+lane_arrows {
+  id: 724
+  point {
+    x: 500424.91699898546
+    y: 4393215.787303479
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07266332
+  lane_id: 1818
+}
+lane_arrows {
+  id: 730
+  point {
+    x: 500425.1832576626
+    y: 4393219.6620482225
+  }
+  type: STRAIGHT
+  heading: -0.07247585
+  lane_id: 1817
+}
+lane_arrows {
+  id: 725
+  point {
+    x: 500425.72274170123
+    y: 4393223.33338567
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.073263966
+  lane_id: 1816
+}
+lane_arrows {
+  id: 726
+  point {
+    x: 500384.78622012644
+    y: 4393226.2946226485
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.073263966
+  lane_id: 1816
+}
+lane_arrows {
+  id: 765
+  point {
+    x: 499829.8906915081
+    y: 4391513.255994117
+  }
+  type: STRAIGHT
+  heading: -2.1681564
+  lane_id: 2036
+}
+lane_arrows {
+  id: 727
+  point {
+    x: 500345.7424568478
+    y: 4393229.161437798
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.072514676
+  lane_id: 1808
+}
+lane_arrows {
+  id: 728
+  point {
+    x: 500345.34039839276
+    y: 4393225.40195821
+  }
+  type: STRAIGHT
+  heading: -0.072323486
+  lane_id: 1809
+}
+lane_arrows {
+  id: 731
+  point {
+    x: 500425.75777858484
+    y: 4393227.512345165
+  }
+  type: STRAIGHT
+  heading: 3.0675602
+  lane_id: 1811
+}
+lane_arrows {
+  id: 733
+  point {
+    x: 500426.3280064053
+    y: 4393235.109243458
+  }
+  type: STRAIGHT
+  heading: 3.0688171
+  lane_id: 1813
+}
+lane_arrows {
+  id: 736
+  point {
+    x: 500477.2979020487
+    y: 4393267.102900917
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.6844584
+  lane_id: 1854
+}
+lane_arrows {
+  id: 766
+  point {
+    x: 499832.84190840955
+    y: 4391511.071007138
+  }
+  type: STRAIGHT
+  heading: -2.1644669
+  lane_id: 2035
+}
+lane_arrows {
+  id: 737
+  point {
+    x: 500480.72167694254
+    y: 4393266.690507308
+  }
+  type: STRAIGHT_LEFT
+  heading: -1.6858187
+  lane_id: 1853
+}
+lane_arrows {
+  id: 738
+  point {
+    x: 500478.72294499364
+    y: 4393249.54119196
+  }
+  type: STRAIGHT_LEFT
+  heading: -1.6858187
+  lane_id: 1853
+}
+lane_arrows {
+  id: 777
+  point {
+    x: 499599.14908889914
+    y: 4391140.4159446545
+  }
+  type: STRAIGHT
+  heading: -2.1234329
+  lane_id: 2043
+}
+lane_arrows {
+  id: 739
+  point {
+    x: 500475.33113594924
+    y: 4393249.765174098
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.6844584
+  lane_id: 1854
+}
+lane_arrows {
+  id: 740
+  point {
+    x: 500479.21711935446
+    y: 4393284.283913223
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.6844249
+  lane_id: 1852
+}
+lane_arrows {
+  id: 741
+  point {
+    x: 500482.6757374705
+    y: 4393283.818739314
+  }
+  type: STRAIGHT_LEFT
+  heading: -1.6844232
+  lane_id: 1851
+}
+lane_arrows {
+  id: 742
+  point {
+    x: 500505.1784642617
+    y: 4393225.66744153
+  }
+  type: STRAIGHT
+  heading: 3.066929
+  lane_id: 1837
+}
+lane_arrows {
+  id: 743
+  point {
+    x: 500504.6276433846
+    y: 4393217.593295731
+  }
+  type: STRAIGHT
+  heading: -0.07301573
+  lane_id: 1822
+}
+lane_arrows {
+  id: 744
+  point {
+    x: 500504.3263341798
+    y: 4393213.868081123
+  }
+  type: STRAIGHT
+  heading: -0.07301494
+  lane_id: 1823
+}
+lane_arrows {
+  id: 745
+  point {
+    x: 500504.0758356034
+    y: 4393210.19090467
+  }
+  type: STRAIGHT
+  heading: -0.073014826
+  lane_id: 1824
+}
+lane_arrows {
+  id: 746
+  point {
+    x: 500504.93327759666
+    y: 4393221.94910432
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.0669498
+  lane_id: 1836
+}
+lane_arrows {
+  id: 747
+  point {
+    x: 500505.37836536375
+    y: 4393229.379420305
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0668607
+  lane_id: 1838
+}
+lane_arrows {
+  id: 748
+  point {
+    x: 500535.1733577192
+    y: 4393227.138168944
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0686677
+  lane_id: 1835
+}
+lane_arrows {
+  id: 749
+  point {
+    x: 500565.64719608414
+    y: 4393224.907539511
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0686677
+  lane_id: 1835
+}
+lane_arrows {
+  id: 767
+  point {
+    x: 499816.0574784892
+    y: 4391486.331926128
+  }
+  type: STRAIGHT
+  heading: -2.1644669
+  lane_id: 2035
+}
+lane_arrows {
+  id: 750
+  point {
+    x: 500565.1151314053
+    y: 4393217.484236587
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.068668
+  lane_id: 1833
+}
+lane_arrows {
+  id: 751
+  point {
+    x: 500534.52518248407
+    y: 4393219.741408379
+  }
+  type: STRAIGHT_LEFT
+  heading: 3.068668
+  lane_id: 1833
+}
+lane_arrows {
+  id: 752
+  point {
+    x: 500534.9651489493
+    y: 4393223.349294933
+  }
+  type: STRAIGHT
+  heading: 3.068668
+  lane_id: 1834
+}
+lane_arrows {
+  id: 753
+  point {
+    x: 500565.42825297936
+    y: 4393221.14809618
+  }
+  type: STRAIGHT
+  heading: 3.068668
+  lane_id: 1834
+}
+lane_arrows {
+  id: 754
+  point {
+    x: 500469.9114752839
+    y: 4393192.421416635
+  }
+  type: STRAIGHT_LEFT
+  heading: 1.6963555
+  lane_id: 1937
+}
+lane_arrows {
+  id: 768
+  point {
+    x: 499812.94498377515
+    y: 4391488.432120267
+  }
+  type: STRAIGHT
+  heading: -2.1681564
+  lane_id: 2036
+}
+lane_arrows {
+  id: 755
+  point {
+    x: 500473.6927341044
+    y: 4393192.161395214
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.695104
+  lane_id: 1938
+}
+lane_arrows {
+  id: 760
+  point {
+    x: 500518.90821796306
+    y: 4392866.048808483
+  }
+  type: LEFT_MERGE
+  heading: 1.8788897
+  lane_id: 1988
+}
+lane_arrows {
+  id: 756
+  point {
+    x: 500476.24758097704
+    y: 4393171.796223489
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.695104
+  lane_id: 1938
+}
+lane_arrows {
+  id: 757
+  point {
+    x: 500472.57738984324
+    y: 4393171.3403626345
+  }
+  type: STRAIGHT_LEFT
+  heading: 1.6963555
+  lane_id: 1937
+}
+lane_arrows {
+  id: 758
+  point {
+    x: 500475.4391288268
+    y: 4393148.689698299
+  }
+  type: STRAIGHT_LEFT
+  heading: 1.696427
+  lane_id: 1931
+}
+lane_arrows {
+  id: 769
+  point {
+    x: 499810.16692141327
+    y: 4391490.201695373
+  }
+  type: LEFT_MERGE
+  heading: -2.1633973
+  lane_id: 2037
+}
+lane_arrows {
+  id: 759
+  point {
+    x: 500479.13542307215
+    y: 4393149.104889154
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.6985205
+  lane_id: 1932
+}
+lane_arrows {
+  id: 761
+  point {
+    x: 500512.0616533457
+    y: 4392823.7271692995
+  }
+  type: RIGHT_MERGE
+  heading: -1.4482025
+  lane_id: 1910
+}
+lane_arrows {
+  id: 762
+  point {
+    x: 500517.5884515649
+    y: 4392779.734592147
+  }
+  type: RIGHT_MERGE
+  heading: -1.4482025
+  lane_id: 1910
+}
+lane_arrows {
+  id: 763
+  point {
+    x: 500521.2001260563
+    y: 4392749.972004093
+  }
+  type: RIGHT_MERGE
+  heading: -1.4482025
+  lane_id: 1910
+}
+lane_arrows {
+  id: 764
+  point {
+    x: 499827.043269222
+    y: 4391514.938253846
+  }
+  type: LEFT_MERGE
+  heading: -2.1633973
+  lane_id: 2037
+}
+lane_arrows {
+  id: 770
+  point {
+    x: 499799.46035309846
+    y: 4391461.535772181
+  }
+  type: STRAIGHT
+  heading: -2.1644669
+  lane_id: 2035
+}
+lane_arrows {
+  id: 771
+  point {
+    x: 499796.38107209234
+    y: 4391463.676122039
+  }
+  type: STRAIGHT
+  heading: -2.1681564
+  lane_id: 2036
+}
+lane_arrows {
+  id: 772
+  point {
+    x: 499793.56956877257
+    y: 4391465.4716552235
+  }
+  type: LEFT_MERGE
+  heading: -2.1217966
+  lane_id: 2041
+}
+lane_arrows {
+  id: 773
+  point {
+    x: 499622.05511309125
+    y: 4391184.743484141
+  }
+  type: STRAIGHT
+  heading: -2.1227124
+  lane_id: 2044
+}
+lane_arrows {
+  id: 774
+  point {
+    x: 499625.22437038796
+    y: 4391182.572028184
+  }
+  type: STRAIGHT
+  heading: -2.1234329
+  lane_id: 2043
+}
+lane_arrows {
+  id: 775
+  point {
+    x: 499609.95702717855
+    y: 4391164.910323486
+  }
+  type: STRAIGHT
+  heading: -2.1227124
+  lane_id: 2044
+}
+lane_arrows {
+  id: 776
+  point {
+    x: 499613.1648664613
+    y: 4391162.986892696
+  }
+  type: STRAIGHT
+  heading: -2.1234329
+  lane_id: 2043
+}
+lane_arrows {
+  id: 778
+  point {
+    x: 499595.9185606051
+    y: 4391142.286916256
+  }
+  type: STRAIGHT
+  heading: -2.1227124
+  lane_id: 2044
+}
+lane_arrows {
+  id: 779
+  point {
+    x: 499561.8623967811
+    y: 4391087.960018015
+  }
+  type: STRAIGHT
+  heading: -2.1227124
+  lane_id: 2044
+}
+lane_arrows {
+  id: 780
+  point {
+    x: 499565.1124698253
+    y: 4391085.742774863
+  }
+  type: STRAIGHT
+  heading: -2.1234329
+  lane_id: 2043
+}
+lane_arrows {
+  id: 828
+  point {
+    x: 499351.2985094699
+    y: 4390767.796873004
+  }
+  type: STRAIGHT
+  heading: -2.026366
+  lane_id: 2050
+}
+lane_arrows {
+  id: 781
+  point {
+    x: 499550.44532834296
+    y: 4391069.7802852485
+  }
+  type: STRAIGHT_RIGHT
+  heading: -2.1227124
+  lane_id: 2044
+}
+lane_arrows {
+  id: 782
+  point {
+    x: 499553.5747682672
+    y: 4391067.828428598
+  }
+  type: STRAIGHT_LEFT
+  heading: -2.1234329
+  lane_id: 2043
+}
+lane_arrows {
+  id: 783
+  point {
+    x: 499511.42497123464
+    y: 4391062.597119241
+  }
+  type: STRAIGHT
+  heading: 2.632065
+  lane_id: 2241
+}
+lane_arrows {
+  id: 784
+  point {
+    x: 499509.56668363744
+    y: 4391059.430648539
+  }
+  type: STRAIGHT
+  heading: 2.6322877
+  lane_id: 2240
+}
+lane_arrows {
+  id: 807
+  point {
+    x: 499603.5328198365
+    y: 4391136.604574813
+  }
+  type: STRAIGHT
+  heading: 1.0123452
+  lane_id: 2181
+}
+lane_arrows {
+  id: 785
+  point {
+    x: 499513.03367901023
+    y: 4391065.381201996
+  }
+  type: LEFT_MERGE
+  heading: 2.6324546
+  lane_id: 2242
+}
+lane_arrows {
+  id: 790
+  point {
+    x: 499448.8268249835
+    y: 4391086.01467165
+  }
+  type: LEFT
+  heading: -0.5056648
+  lane_id: 2228
+}
+lane_arrows {
+  id: 786
+  point {
+    x: 499403.71166602627
+    y: 4391122.466430364
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.6307683
+  lane_id: 2248
+}
+lane_arrows {
+  id: 787
+  point {
+    x: 499402.16097051336
+    y: 4391119.525659308
+  }
+  type: LEFT
+  heading: 2.6326866
+  lane_id: 2247
+}
+lane_arrows {
+  id: 788
+  point {
+    x: 499411.16063899244
+    y: 4391109.805015257
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.5096064
+  lane_id: 2222
+}
+lane_arrows {
+  id: 795
+  point {
+    x: 499468.36517157784
+    y: 4391068.105235299
+  }
+  type: RIGHT
+  heading: -0.5088412
+  lane_id: 2239
+}
+lane_arrows {
+  id: 789
+  point {
+    x: 499409.5133116193
+    y: 4391106.858268233
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.50865346
+  lane_id: 2223
+}
+lane_arrows {
+  id: 791
+  point {
+    x: 499450.0772121287
+    y: 4391088.262395071
+  }
+  type: LEFT
+  heading: -0.5066482
+  lane_id: 2227
+}
+lane_arrows {
+  id: 792
+  point {
+    x: 499445.6901820743
+    y: 4391080.726312796
+  }
+  type: RIGHT
+  heading: -0.6768348
+  lane_id: 2230
+}
+lane_arrows {
+  id: 793
+  point {
+    x: 499447.1131331287
+    y: 4391083.153174641
+  }
+  type: STRAIGHT
+  heading: -0.50838804
+  lane_id: 2233
+}
+lane_arrows {
+  id: 794
+  point {
+    x: 499469.84837802267
+    y: 4391070.511460493
+  }
+  type: STRAIGHT
+  heading: -0.50838804
+  lane_id: 2233
+}
+lane_arrows {
+  id: 796
+  point {
+    x: 499471.5418724865
+    y: 4391073.33086467
+  }
+  type: LEFT
+  heading: -0.50872225
+  lane_id: 2237
+}
+lane_arrows {
+  id: 832
+  point {
+    x: 499329.8425612785
+    y: 4390734.363168005
+  }
+  type: STRAIGHT
+  heading: -2.1617556
+  lane_id: 2058
+}
+lane_arrows {
+  id: 797
+  point {
+    x: 499472.7838598044
+    y: 4391075.637230452
+  }
+  type: LEFT
+  heading: -0.50919753
+  lane_id: 2236
+}
+lane_arrows {
+  id: 798
+  point {
+    x: 499506.2969835937
+    y: 4391054.036132642
+  }
+  type: LEFT
+  heading: -0.50872225
+  lane_id: 2237
+}
+lane_arrows {
+  id: 799
+  point {
+    x: 499507.6855723779
+    y: 4391056.122917552
+  }
+  type: LEFT
+  heading: -0.50919753
+  lane_id: 2236
+}
+lane_arrows {
+  id: 800
+  point {
+    x: 499503.3201306233
+    y: 4391048.550504588
+  }
+  type: RIGHT
+  heading: -0.5088412
+  lane_id: 2239
+}
+lane_arrows {
+  id: 801
+  point {
+    x: 499504.81661534146
+    y: 4391051.103907794
+  }
+  type: STRAIGHT
+  heading: -0.50878817
+  lane_id: 2238
+}
+lane_arrows {
+  id: 814
+  point {
+    x: 499565.4132727706
+    y: 4391016.258230593
+  }
+  type: LEFT_MERGE
+  heading: -0.50961286
+  lane_id: 2255
+}
+lane_arrows {
+  id: 810
+  point {
+    x: 499575.7054367093
+    y: 4391032.416284492
+  }
+  type: RIGHT
+  heading: 2.633076
+  lane_id: 2289
+}
+lane_arrows {
+  id: 802
+  point {
+    x: 499382.1803018744
+    y: 4391122.178772553
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.50865346
+  lane_id: 2223
+}
+lane_arrows {
+  id: 803
+  point {
+    x: 499383.78225780674
+    y: 4391125.04409478
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.5096064
+  lane_id: 2222
+}
+lane_arrows {
+  id: 804
+  point {
+    x: 499387.34779032064
+    y: 4391131.606116444
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.6307683
+  lane_id: 2248
+}
+lane_arrows {
+  id: 805
+  point {
+    x: 499385.7364188364
+    y: 4391128.745139232
+  }
+  type: LEFT
+  heading: 2.6326866
+  lane_id: 2247
+}
+lane_arrows {
+  id: 806
+  point {
+    x: 499568.8517053309
+    y: 4391081.298173754
+  }
+  type: STRAIGHT_LEFT
+  heading: 1.0123452
+  lane_id: 2181
+}
+lane_arrows {
+  id: 809
+  point {
+    x: 499572.5788125096
+    y: 4391027.539085245
+  }
+  type: STRAIGHT
+  heading: 2.6328216
+  lane_id: 2287
+}
+lane_arrows {
+  id: 811
+  point {
+    x: 499571.00466654816
+    y: 4391025.0246701585
+  }
+  type: LEFT
+  heading: 2.6330733
+  lane_id: 2286
+}
+lane_arrows {
+  id: 812
+  point {
+    x: 499568.89737151994
+    y: 4391021.867579719
+  }
+  type: STRAIGHT
+  heading: -0.50862706
+  lane_id: 2253
+}
+lane_arrows {
+  id: 813
+  point {
+    x: 499567.140352629
+    y: 4391018.972590751
+  }
+  type: STRAIGHT
+  heading: -0.50915176
+  lane_id: 2254
+}
+lane_arrows {
+  id: 815
+  point {
+    x: 499603.7286213705
+    y: 4391010.147244613
+  }
+  type: STRAIGHT
+  heading: 2.6328216
+  lane_id: 2287
+}
+lane_arrows {
+  id: 816
+  point {
+    x: 499605.21710235614
+    y: 4391012.79246114
+  }
+  type: STRAIGHT
+  heading: 2.6328204
+  lane_id: 2288
+}
+lane_arrows {
+  id: 817
+  point {
+    x: 499606.56075383734
+    y: 4391015.263903295
+  }
+  type: RIGHT
+  heading: 2.633076
+  lane_id: 2289
+}
+lane_arrows {
+  id: 818
+  point {
+    x: 499629.8604195581
+    y: 4391002.23558829
+  }
+  type: RIGHT
+  heading: 2.6306982
+  lane_id: 2285
+}
+lane_arrows {
+  id: 819
+  point {
+    x: 499625.3075242223
+    y: 4390994.739201942
+  }
+  type: LEFT
+  heading: 2.633049
+  lane_id: 2282
+}
+lane_arrows {
+  id: 820
+  point {
+    x: 499602.27156246774
+    y: 4391007.608547214
+  }
+  type: LEFT
+  heading: 2.6330733
+  lane_id: 2286
+}
+lane_arrows {
+  id: 821
+  point {
+    x: 499626.83842925564
+    y: 4390997.264375535
+  }
+  type: STRAIGHT
+  heading: 2.6318367
+  lane_id: 2283
+}
+lane_arrows {
+  id: 822
+  point {
+    x: 499628.391988453
+    y: 4390999.82906129
+  }
+  type: STRAIGHT
+  heading: 2.6318583
+  lane_id: 2284
+}
+lane_arrows {
+  id: 823
+  point {
+    x: 499663.68674747227
+    y: 4390973.784153521
+  }
+  type: STRAIGHT_LEFT
+  heading: 2.632283
+  lane_id: 2280
+}
+lane_arrows {
+  id: 824
+  point {
+    x: 499665.1658459471
+    y: 4390976.378817715
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.6325073
+  lane_id: 2281
+}
+lane_arrows {
+  id: 834
+  point {
+    x: 499298.94616259704
+    y: 4390694.004953712
+  }
+  type: STRAIGHT
+  heading: -2.1643345
+  lane_id: 2063
+}
+lane_arrows {
+  id: 825
+  point {
+    x: 499682.5823537933
+    y: 4390966.667880076
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.6325073
+  lane_id: 2281
+}
+lane_arrows {
+  id: 826
+  point {
+    x: 499681.23916546034
+    y: 4390964.020215817
+  }
+  type: STRAIGHT_LEFT
+  heading: 2.632283
+  lane_id: 2280
+}
+lane_arrows {
+  id: 827
+  point {
+    x: 499354.6317144934
+    y: 4390765.69099014
+  }
+  type: LEFT
+  heading: -2.1246645
+  lane_id: 2049
+}
+lane_arrows {
+  id: 835
+  point {
+    x: 499294.64604846353
+    y: 4390695.324616486
+  }
+  type: RIGHT
+  heading: -2.5447698
+  lane_id: 2415
+}
+lane_arrows {
+  id: 829
+  point {
+    x: 499349.23461073224
+    y: 4390769.257976586
+  }
+  type: STRAIGHT_RIGHT
+  heading: -2.255748
+  lane_id: 2051
+}
+lane_arrows {
+  id: 830
+  point {
+    x: 499327.0456645065
+    y: 4390736.186988164
+  }
+  type: STRAIGHT_RIGHT
+  heading: -2.1617467
+  lane_id: 2059
+}
+lane_arrows {
+  id: 831
+  point {
+    x: 499332.42586041294
+    y: 4390732.552141827
+  }
+  type: LEFT
+  heading: -2.1617637
+  lane_id: 2057
+}
+lane_arrows {
+  id: 833
+  point {
+    x: 499301.66635406157
+    y: 4390692.411507061
+  }
+  type: STRAIGHT
+  heading: -2.1642206
+  lane_id: 2062
+}
+lane_arrows {
+  id: 836
+  point {
+    x: 499304.3950221508
+    y: 4390690.849821926
+  }
+  type: LEFT
+  heading: -2.1640956
+  lane_id: 2061
+}
+lane_arrows {
+  id: 837
+  point {
+    x: 499308.02302639635
+    y: 4390688.895401647
+  }
+  type: STRAIGHT
+  heading: 0.9779058
+  lane_id: 2094
+}
+lane_arrows {
+  id: 838
+  point {
+    x: 499310.92598943016
+    y: 4390687.240199337
+  }
+  type: STRAIGHT
+  heading: 0.9779191
+  lane_id: 2095
+}
+lane_arrows {
+  id: 839
+  point {
+    x: 499313.7986023825
+    y: 4390685.68359083
+  }
+  type: STRAIGHT
+  heading: 0.9781264
+  lane_id: 2096
+}
+lane_arrows {
+  id: 840
+  point {
+    x: 499303.77428173955
+    y: 4390636.683703747
+  }
+  type: STRAIGHT
+  heading: -0.51759964
+  lane_id: 2358
+}
+lane_arrows {
+  id: 841
+  point {
+    x: 499305.6062431613
+    y: 4390639.5574011225
+  }
+  type: STRAIGHT
+  heading: -0.5175996
+  lane_id: 2357
+}
+lane_arrows {
+  id: 842
+  point {
+    x: 499307.6384141983
+    y: 4390642.531453876
+  }
+  type: STRAIGHT
+  heading: -0.5175972
+  lane_id: 2356
+}
+lane_arrows {
+  id: 843
+  point {
+    x: 499317.3129639205
+    y: 4390657.042592008
+  }
+  type: STRAIGHT
+  heading: 2.6290803
+  lane_id: 2394
+}
+lane_arrows {
+  id: 844
+  point {
+    x: 499319.2518169743
+    y: 4390659.976622554
+  }
+  type: STRAIGHT
+  heading: 2.6290684
+  lane_id: 2395
+}
+lane_arrows {
+  id: 845
+  point {
+    x: 499261.18736177223
+    y: 4390637.791823095
+  }
+  type: STRAIGHT
+  heading: -2.1611476
+  lane_id: 2066
+}
+lane_arrows {
+  id: 846
+  point {
+    x: 499263.96044954134
+    y: 4390636.241384311
+  }
+  type: STRAIGHT
+  heading: -2.1628609
+  lane_id: 2065
+}
+lane_arrows {
+  id: 847
+  point {
+    x: 499266.6837374987
+    y: 4390634.607248173
+  }
+  type: STRAIGHT
+  heading: -2.163
+  lane_id: 2064
+}
+lane_arrows {
+  id: 848
+  point {
+    x: 499282.78458939976
+    y: 4390629.636823513
+  }
+  type: RIGHT
+  heading: 0.5300595
+  lane_id: 2414
+}
+lane_arrows {
+  id: 849
+  point {
+    x: 499246.71422055573
+    y: 4390585.767331151
+  }
+  type: STRAIGHT_RIGHT
+  heading: 0.9792265
+  lane_id: 2164
+}
+lane_arrows {
+  id: 850
+  point {
+    x: 499244.0946586585
+    y: 4390587.597078733
+  }
+  type: STRAIGHT
+  heading: 0.9789138
+  lane_id: 2163
+}
+lane_arrows {
+  id: 851
+  point {
+    x: 499241.3618601837
+    y: 4390589.397971869
+  }
+  type: LEFT
+  heading: 0.97908545
+  lane_id: 2162
+}
+lane_arrows {
+  id: 853
+  point {
+    x: 499270.5040465653
+    y: 4390632.749478349
+  }
+  type: LEFT
+  heading: 0.97842383
+  lane_id: 2169
+}
+lane_arrows {
+  id: 854
+  point {
+    x: 499275.98707321426
+    y: 4390629.639722212
+  }
+  type: STRAIGHT
+  heading: 0.98106337
+  lane_id: 2168
+}
+lane_arrows {
+  id: 861
+  point {
+    x: 499382.31831637083
+    y: 4390620.808196776
+  }
+  type: STRAIGHT
+  heading: 2.6329691
+  lane_id: 2385
+}
+lane_arrows {
+  id: 855
+  point {
+    x: 499401.71954628057
+    y: 4390606.193832892
+  }
+  type: LEFT
+  heading: 2.6329615
+  lane_id: 2384
+}
+lane_arrows {
+  id: 856
+  point {
+    x: 499406.6697639402
+    y: 4390615.128360925
+  }
+  type: RIGHT
+  heading: 2.6314802
+  lane_id: 2387
+}
+lane_arrows {
+  id: 857
+  point {
+    x: 499385.731735012
+    y: 4390626.825336177
+  }
+  type: RIGHT
+  heading: 2.632637
+  lane_id: 2392
+}
+lane_arrows {
+  id: 858
+  point {
+    x: 499324.94679503597
+    y: 4390666.323810843
+  }
+  type: RIGHT
+  heading: 2.025252
+  lane_id: 2396
+}
+lane_arrows {
+  id: 866
+  point {
+    x: 499380.6953418392
+    y: 4390617.963536758
+  }
+  type: LEFT
+  heading: 2.6326113
+  lane_id: 2389
+}
+lane_arrows {
+  id: 881
+  point {
+    x: 499126.96544046054
+    y: 4390759.227586428
+  }
+  type: STRAIGHT
+  heading: 2.6326914
+  lane_id: 2333
+}
+lane_arrows {
+  id: 859
+  point {
+    x: 499455.14047228626
+    y: 4390584.223974631
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.6331112
+  lane_id: 2374
+}
+lane_arrows {
+  id: 860
+  point {
+    x: 499384.09217631136
+    y: 4390623.949460734
+  }
+  type: STRAIGHT
+  heading: 2.6329665
+  lane_id: 2386
+}
+lane_arrows {
+  id: 862
+  point {
+    x: 499451.76979552413
+    y: 4390578.286932241
+  }
+  type: LEFT
+  heading: 2.6333585
+  lane_id: 2372
+}
+lane_arrows {
+  id: 863
+  point {
+    x: 499453.4036853842
+    y: 4390581.158607531
+  }
+  type: STRAIGHT
+  heading: 2.6331134
+  lane_id: 2373
+}
+lane_arrows {
+  id: 864
+  point {
+    x: 499403.36600466387
+    y: 4390609.189454975
+  }
+  type: STRAIGHT
+  heading: 2.6329691
+  lane_id: 2385
+}
+lane_arrows {
+  id: 865
+  point {
+    x: 499405.065862932
+    y: 4390612.166406006
+  }
+  type: STRAIGHT
+  heading: 2.6329665
+  lane_id: 2386
+}
+lane_arrows {
+  id: 867
+  point {
+    x: 499315.42655471095
+    y: 4390654.323924549
+  }
+  type: LEFT
+  heading: 2.6290698
+  lane_id: 2393
+}
+lane_arrows {
+  id: 868
+  point {
+    x: 499257.740750503
+    y: 4390670.24749735
+  }
+  type: LEFT
+  heading: -0.51174
+  lane_id: 2313
+}
+lane_arrows {
+  id: 869
+  point {
+    x: 499255.7760152277
+    y: 4390667.378708417
+  }
+  type: STRAIGHT
+  heading: -0.5118991
+  lane_id: 2314
+}
+lane_arrows {
+  id: 870
+  point {
+    x: 499253.87275456596
+    y: 4390664.443461122
+  }
+  type: STRAIGHT
+  heading: -0.5120419
+  lane_id: 2315
+}
+lane_arrows {
+  id: 871
+  point {
+    x: 499247.3103202755
+    y: 4390661.577611249
+  }
+  type: RIGHT
+  heading: -1.147045
+  lane_id: 2312
+}
+lane_arrows {
+  id: 872
+  point {
+    x: 499269.59681456786
+    y: 4390687.843641236
+  }
+  type: STRAIGHT
+  heading: 2.6357944
+  lane_id: 2318
+}
+lane_arrows {
+  id: 873
+  point {
+    x: 499267.6390149991
+    y: 4390684.941614797
+  }
+  type: STRAIGHT
+  heading: 2.6378586
+  lane_id: 2317
+}
+lane_arrows {
+  id: 874
+  point {
+    x: 499265.65456060204
+    y: 4390682.021567813
+  }
+  type: STRAIGHT
+  heading: 2.6381097
+  lane_id: 2316
+}
+lane_arrows {
+  id: 875
+  point {
+    x: 499222.05515961826
+    y: 4390690.242664844
+  }
+  type: LEFT
+  heading: -0.5097535
+  lane_id: 2307
+}
+lane_arrows {
+  id: 876
+  point {
+    x: 499220.4807751844
+    y: 4390687.2561408235
+  }
+  type: STRAIGHT
+  heading: -0.50890046
+  lane_id: 2304
+}
+lane_arrows {
+  id: 877
+  point {
+    x: 499218.7101922955
+    y: 4390684.142332835
+  }
+  type: STRAIGHT
+  heading: -0.50892043
+  lane_id: 2305
+}
+lane_arrows {
+  id: 878
+  point {
+    x: 499217.1211024965
+    y: 4390681.188732331
+  }
+  type: RIGHT
+  heading: -0.50994974
+  lane_id: 2310
+}
+lane_arrows {
+  id: 879
+  point {
+    x: 499130.5199998506
+    y: 4390765.435623463
+  }
+  type: STRAIGHT
+  heading: 2.6342392
+  lane_id: 2335
+}
+lane_arrows {
+  id: 880
+  point {
+    x: 499128.8041822874
+    y: 4390762.367151161
+  }
+  type: STRAIGHT
+  heading: 2.6326852
+  lane_id: 2334
+}
+lane_arrows {
+  id: 882
+  point {
+    x: 499118.5910541632
+    y: 4390772.033881564
+  }
+  type: STRAIGHT
+  heading: 2.6342392
+  lane_id: 2335
+}
+lane_arrows {
+  id: 883
+  point {
+    x: 499116.8416983528
+    y: 4390768.968721414
+  }
+  type: STRAIGHT
+  heading: 2.6326852
+  lane_id: 2334
+}
+lane_arrows {
+  id: 884
+  point {
+    x: 499115.0504587499
+    y: 4390765.910935162
+  }
+  type: STRAIGHT
+  heading: 2.6326914
+  lane_id: 2333
+}
+lane_arrows {
+  id: 889
+  point {
+    x: 499154.6618022545
+    y: 4390723.8365327995
+  }
+  type: STRAIGHT
+  heading: -0.50890046
+  lane_id: 2304
+}
+lane_arrows {
+  id: 892
+  point {
+    x: 499156.35621988436
+    y: 4390726.801872547
+  }
+  type: LEFT
+  heading: -0.5088764
+  lane_id: 2303
+}
+lane_arrows {
+  id: 885
+  point {
+    x: 499132.0992843047
+    y: 4390768.438904481
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.63424
+  lane_id: 2336
+}
+lane_arrows {
+  id: 886
+  point {
+    x: 499120.3055745536
+    y: 4390775.001655493
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.63424
+  lane_id: 2336
+}
+lane_arrows {
+  id: 887
+  point {
+    x: 499060.8023243315
+    y: 4390804.19691846
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.6327856
+  lane_id: 2351
+}
+lane_arrows {
+  id: 899
+  point {
+    x: 499018.42246945295
+    y: 4390823.952312423
+  }
+  type: STRAIGHT
+  heading: 2.6322577
+  lane_id: 2354
+}
+lane_arrows {
+  id: 888
+  point {
+    x: 499020.08084491687
+    y: 4390826.953396397
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.632263
+  lane_id: 2355
+}
+lane_arrows {
+  id: 890
+  point {
+    x: 499152.951502215
+    y: 4390720.864492896
+  }
+  type: STRAIGHT
+  heading: -0.50892043
+  lane_id: 2305
+}
+lane_arrows {
+  id: 891
+  point {
+    x: 499151.1531604092
+    y: 4390718.012503831
+  }
+  type: RIGHT
+  heading: -0.5088899
+  lane_id: 2306
+}
+lane_arrows {
+  id: 893
+  point {
+    x: 499113.82116445637
+    y: 4390750.465407033
+  }
+  type: LEFT
+  heading: -0.5090001
+  lane_id: 2296
+}
+lane_arrows {
+  id: 894
+  point {
+    x: 499110.5145407744
+    y: 4390744.504144818
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.5087127
+  lane_id: 2298
+}
+lane_arrows {
+  id: 895
+  point {
+    x: 499112.15171683533
+    y: 4390747.577069857
+  }
+  type: STRAIGHT
+  heading: -0.5087189
+  lane_id: 2297
+}
+lane_arrows {
+  id: 896
+  point {
+    x: 499059.1066252567
+    y: 4390801.234153516
+  }
+  type: STRAIGHT
+  heading: 2.632787
+  lane_id: 2350
+}
+lane_arrows {
+  id: 897
+  point {
+    x: 499057.39955205366
+    y: 4390798.293776623
+  }
+  type: LEFT
+  heading: 2.6327846
+  lane_id: 2349
+}
+lane_arrows {
+  id: 898
+  point {
+    x: 499016.73141057265
+    y: 4390821.004298094
+  }
+  type: LEFT
+  heading: 2.6322517
+  lane_id: 2353
+}
+lane_arrows {
+  id: 900
+  point {
+    x: 499219.038483987
+    y: 4390556.037613595
+  }
+  type: LEFT
+  heading: 1.0014375
+  lane_id: 2086
+}
+lane_arrows {
+  id: 906
+  point {
+    x: 500780.90113908506
+    y: 4393201.688271913
+  }
+  type: STRAIGHT
+  heading: 3.068668
+  lane_id: 1833
+}
+lane_arrows {
+  id: 901
+  point {
+    x: 499223.71809565177
+    y: 4390553.183798439
+  }
+  type: STRAIGHT_RIGHT
+  heading: 0.9096422
+  lane_id: 2088
+}
+lane_arrows {
+  id: 902
+  point {
+    x: 499221.13961314486
+    y: 4390554.743944606
+  }
+  type: STRAIGHT
+  heading: 0.8803238
+  lane_id: 2087
+}
+lane_arrows {
+  id: 903
+  point {
+    x: 499484.3045844516
+    y: 4390943.327289449
+  }
+  type: STRAIGHT_RIGHT
+  heading: 0.98186463
+  lane_id: 2107
+}
+lane_arrows {
+  id: 910
+  point {
+    x: 500780.02684448694
+    y: 4393190.141905085
+  }
+  type: STRAIGHT
+  heading: -0.074037515
+  lane_id: 1832
+}
+lane_arrows {
+  id: 904
+  point {
+    x: 499517.0799397819
+    y: 4390993.185484087
+  }
+  type: STRAIGHT_RIGHT
+  heading: 0.99698967
+  lane_id: 2110
+}
+lane_arrows {
+  id: 913
+  point {
+    x: 500750.07910438254
+    y: 4393192.12789113
+  }
+  type: STRAIGHT
+  heading: -0.07273217
+  lane_id: 1827
+}
+lane_arrows {
+  id: 926
+  point {
+    x: 499774.471582541
+    y: 4395090.809722024
+  }
+  type: STRAIGHT
+  heading: -0.06931069
+  lane_id: 1117
+}
+lane_arrows {
+  id: 905
+  point {
+    x: 499528.4560952962
+    y: 4391010.695203488
+  }
+  type: STRAIGHT_RIGHT
+  heading: 0.99698967
+  lane_id: 2110
+}
+lane_arrows {
+  id: 907
+  point {
+    x: 500780.9412509411
+    y: 4393205.622575376
+  }
+  type: STRAIGHT
+  heading: 3.068668
+  lane_id: 1834
+}
+lane_arrows {
+  id: 908
+  point {
+    x: 500781.0886834143
+    y: 4393209.383364182
+  }
+  type: STRAIGHT
+  heading: 3.0686677
+  lane_id: 1835
+}
+lane_arrows {
+  id: 909
+  point {
+    x: 500780.28758764546
+    y: 4393193.87457465
+  }
+  type: STRAIGHT
+  heading: -0.074042216
+  lane_id: 1831
+}
+lane_arrows {
+  id: 911
+  point {
+    x: 500780.6046973431
+    y: 4393197.4852346275
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.074043915
+  lane_id: 1830
+}
+lane_arrows {
+  id: 918
+  point {
+    x: 499836.586791112
+    y: 4394986.569793705
+  }
+  type: LEFT
+  heading: 1.4578768
+  lane_id: 1250
+}
+lane_arrows {
+  id: 912
+  point {
+    x: 500750.68699131836
+    y: 4393199.692244646
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.072729714
+  lane_id: 1825
+}
+lane_arrows {
+  id: 914
+  point {
+    x: 500720.38905738364
+    y: 4393194.317602218
+  }
+  type: STRAIGHT
+  heading: -0.073014826
+  lane_id: 1824
+}
+lane_arrows {
+  id: 915
+  point {
+    x: 500720.6263864946
+    y: 4393198.071721498
+  }
+  type: STRAIGHT
+  heading: -0.07301494
+  lane_id: 1823
+}
+lane_arrows {
+  id: 916
+  point {
+    x: 500720.95776949095
+    y: 4393201.83438858
+  }
+  type: STRAIGHT_LEFT
+  heading: -0.07301573
+  lane_id: 1822
+}
+lane_arrows {
+  id: 917
+  point {
+    x: 500750.4182645653
+    y: 4393195.908091063
+  }
+  type: STRAIGHT
+  heading: -0.0727298
+  lane_id: 1826
+}
+lane_arrows {
+  id: 919
+  point {
+    x: 499845.02173746587
+    y: 4394985.309522165
+  }
+  type: RIGHT
+  heading: 1.4561348
+  lane_id: 1253
+}
+lane_arrows {
+  id: 920
+  point {
+    x: 499839.1869276969
+    y: 4394986.187053932
+  }
+  type: STRAIGHT
+  heading: 1.4558874
+  lane_id: 1251
+}
+lane_arrows {
+  id: 921
+  point {
+    x: 499842.2791825203
+    y: 4394985.755702274
+  }
+  type: STRAIGHT
+  heading: 1.4490281
+  lane_id: 1247
+}
+lane_arrows {
+  id: 922
+  point {
+    x: 499738.2860354561
+    y: 4395088.849144831
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.057282172
+  lane_id: 1109
+}
+lane_arrows {
+  id: 923
+  point {
+    x: 499738.5588669195
+    y: 4395092.448340099
+  }
+  type: STRAIGHT
+  heading: -0.040080126
+  lane_id: 1108
+}
+lane_arrows {
+  id: 924
+  point {
+    x: 499738.89767819573
+    y: 4395095.846413297
+  }
+  type: LEFT
+  heading: -0.056151815
+  lane_id: 1107
+}
+lane_arrows {
+  id: 925
+  point {
+    x: 499774.8515042227
+    y: 4395093.833755881
+  }
+  type: LEFT
+  heading: -0.07075633
+  lane_id: 1116
+}
+lane_arrows {
+  id: 927
+  point {
+    x: 499774.291757932
+    y: 4395087.829512764
+  }
+  type: STRAIGHT
+  heading: -0.07040498
+  lane_id: 1118
+}
+lane_arrows {
+  id: 928
+  point {
+    x: 499773.88859700225
+    y: 4395084.872102901
+  }
+  type: RIGHT
+  heading: -0.071244486
+  lane_id: 1119
+}
+lane_arrows {
+  id: 929
+  point {
+    x: 499912.1319351631
+    y: 4395096.006807601
+  }
+  type: RIGHT
+  heading: 3.0728717
+  lane_id: 1160
+}
+lane_arrows {
+  id: 930
+  point {
+    x: 499911.313324685
+    y: 4395087.0433457075
+  }
+  type: LEFT
+  heading: 3.0732613
+  lane_id: 1157
+}
+lane_arrows {
+  id: 931
+  point {
+    x: 499911.59496204497
+    y: 4395090.04362231
+  }
+  type: STRAIGHT
+  heading: 3.0735464
+  lane_id: 1158
+}
+lane_arrows {
+  id: 932
+  point {
+    x: 499911.86565117585
+    y: 4395093.093335494
+  }
+  type: STRAIGHT
+  heading: 3.0729578
+  lane_id: 1159
+}
+lane_arrows {
+  id: 933
+  point {
+    x: 499952.9299686706
+    y: 4395085.232810987
+  }
+  type: LEFT
+  heading: 3.0737314
+  lane_id: 1273
+}
+lane_arrows {
+  id: 934
+  point {
+    x: 499953.62583289115
+    y: 4395092.099070244
+  }
+  type: RIGHT
+  heading: 3.0733886
+  lane_id: 1275
+}
+lane_arrows {
+  id: 935
+  point {
+    x: 499953.2098997462
+    y: 4395088.686592236
+  }
+  type: STRAIGHT
+  heading: 3.0735855
+  lane_id: 1274
+}
+lane_arrows {
+  id: 948
+  point {
+    x: 499928.266761497
+    y: 4393694.161838818
+  }
+  type: STRAIGHT
+  heading: -0.07258411
+  lane_id: 1575
+}
+lane_arrows {
+  id: 936
+  point {
+    x: 499525.1761834504
+    y: 4391012.479210382
+  }
+  type: STRAIGHT_LEFT
+  heading: 0.9974547
+  lane_id: 2109
+}
+lane_arrows {
+  id: 937
+  point {
+    x: 499364.62016724725
+    y: 4391144.063633835
+  }
+  type: STRAIGHT
+  heading: 2.6342547
+  lane_id: 2208
+}
+lane_arrows {
+  id: 966
+  point {
+    x: 499336.28840603307
+    y: 4391156.256816274
+  }
+  type: LEFT
+  heading: 2.6342201
+  lane_id: 2207
+}
+lane_arrows {
+  id: 938
+  point {
+    x: 499366.03920793894
+    y: 4391146.686414124
+  }
+  type: STRAIGHT_RIGHT
+  heading: 2.6318471
+  lane_id: 2209
+}
+lane_arrows {
+  id: 939
+  point {
+    x: 499363.0356078871
+    y: 4391141.344267298
+  }
+  type: LEFT
+  heading: 2.6342201
+  lane_id: 2207
+}
+lane_arrows {
+  id: 940
+  point {
+    x: 500286.63123194885
+    y: 4393241.486155753
+  }
+  type: STRAIGHT
+  heading: 3.0683768
+  lane_id: 1812
+}
+lane_arrows {
+  id: 941
+  point {
+    x: 500231.8373358468
+    y: 4393325.535058664
+  }
+  type: RIGHT
+  heading: -1.6447586
+  lane_id: 1860
+}
+lane_arrows {
+  id: 942
+  point {
+    x: 500235.3880920793
+    y: 4393325.305865476
+  }
+  type: LEFT
+  heading: -1.6447564
+  lane_id: 1859
+}
+lane_arrows {
+  id: 943
+  point {
+    x: 499903.7559938959
+    y: 4393696.005234437
+  }
+  type: STRAIGHT
+  heading: -0.07258411
+  lane_id: 1575
+}
+lane_arrows {
+  id: 944
+  point {
+    x: 499903.49699494545
+    y: 4393692.510787366
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07258793
+  lane_id: 1576
+}
+lane_arrows {
+  id: 945
+  point {
+    x: 499716.4444590808
+    y: 4394179.724397599
+  }
+  type: RIGHT
+  heading: -1.707386
+  lane_id: 1447
+}
+lane_arrows {
+  id: 946
+  point {
+    x: 499750.9877148797
+    y: 4394082.192909006
+  }
+  type: STRAIGHT_RIGHT
+  heading: 3.0675144
+  lane_id: 1410
+}
+lane_arrows {
+  id: 947
+  point {
+    x: 499928.02001894114
+    y: 4393690.680043716
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07258793
+  lane_id: 1576
+}
+lane_arrows {
+  id: 949
+  point {
+    x: 499957.41891418194
+    y: 4393424.88065233
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.4981612
+  lane_id: 1759
+}
+lane_arrows {
+  id: 950
+  point {
+    x: 499959.15990577237
+    y: 4393449.377356095
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.4981612
+  lane_id: 1759
+}
+lane_arrows {
+  id: 951
+  point {
+    x: 499960.75420291047
+    y: 4393471.645056252
+  }
+  type: STRAIGHT_RIGHT
+  heading: 1.4983181
+  lane_id: 1745
+}
+lane_arrows {
+  id: 952
+  point {
+    x: 499956.92640515626
+    y: 4393472.08869029
+  }
+  type: STRAIGHT_LEFT
+  heading: 1.49833
+  lane_id: 1744
+}
+lane_arrows {
+  id: 957
+  point {
+    x: 499921.0083783316
+    y: 4392925.849437093
+  }
+  type: STRAIGHT
+  heading: 1.4978629
+  lane_id: 1866
+}
+lane_arrows {
+  id: 953
+  point {
+    x: 499955.21988663205
+    y: 4393449.589880068
+  }
+  type: STRAIGHT_LEFT
+  heading: 1.49833
+  lane_id: 1744
+}
+lane_arrows {
+  id: 954
+  point {
+    x: 499953.44427263056
+    y: 4393425.145962438
+  }
+  type: STRAIGHT_LEFT
+  heading: 1.4981594
+  lane_id: 1758
+}
+lane_arrows {
+  id: 955
+  point {
+    x: 499934.91123729566
+    y: 4393489.7528142985
+  }
+  type: STRAIGHT_RIGHT
+  heading: -0.07354551
+  lane_id: 1671
+}
+lane_arrows {
+  id: 956
+  point {
+    x: 499927.6971137045
+    y: 4393071.552782742
+  }
+  type: STRAIGHT
+  heading: 1.4986641
+  lane_id: 1867
+}
+lane_arrows {
+  id: 958
+  point {
+    x: 499917.12706601
+    y: 4392926.114804553
+  }
+  type: STRAIGHT
+  heading: 1.4978627
+  lane_id: 1865
+}
+lane_arrows {
+  id: 959
+  point {
+    x: 499913.81336159795
+    y: 4392926.374438586
+  }
+  type: STRAIGHT_LEFT
+  heading: -1.643189
+  lane_id: 1776
+}
+lane_arrows {
+  id: 960
+  point {
+    x: 499915.87850954453
+    y: 4392955.175626837
+  }
+  type: STRAIGHT_LEFT
+  heading: -1.643189
+  lane_id: 1776
+}
+lane_arrows {
+  id: 961
+  point {
+    x: 499918.06349165697
+    y: 4392984.901835993
+  }
+  type: STRAIGHT_LEFT
+  heading: -1.64384
+  lane_id: 1774
+}
+lane_arrows {
+  id: 962
+  point {
+    x: 499914.6850659981
+    y: 4392985.203017684
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.6438421
+  lane_id: 1775
+}
+lane_arrows {
+  id: 963
+  point {
+    x: 499912.5311065249
+    y: 4392955.414517684
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.6429
+  lane_id: 1777
+}
+lane_arrows {
+  id: 964
+  point {
+    x: 499910.4505880855
+    y: 4392926.606429134
+  }
+  type: STRAIGHT_RIGHT
+  heading: -1.6429
+  lane_id: 1777
+}

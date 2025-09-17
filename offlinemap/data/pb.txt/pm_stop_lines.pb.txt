@@ -1,0 +1,2085 @@
+stop_lines {
+  stop_line_id: 8
+  line_points {
+    point_x: 500264.6869480515
+    point_y: 4398752.811985597
+  }
+  line_points {
+    point_x: 500265.0484770142
+    point_y: 4398744.690338672
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1032
+  related_lane_id: 1161
+  related_lane_id: 60
+}
+stop_lines {
+  stop_line_id: 73
+  line_points {
+    point_x: 500215.02171111037
+    point_y: 4393227.401230211
+  }
+  line_points {
+    point_x: 500214.7414793018
+    point_y: 4393223.879365887
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1057
+}
+stop_lines {
+  stop_line_id: 69
+  line_points {
+    point_x: 499974.52579320356
+    point_y: 4393492.552920727
+  }
+  line_points {
+    point_x: 499975.1088699853
+    point_y: 4393500.360663972
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1165
+  related_lane_id: 33
+}
+stop_lines {
+  stop_line_id: 5
+  line_points {
+    point_x: 500325.0625092463
+    point_y: 4398006.188721946
+  }
+  line_points {
+    point_x: 500326.4318545845
+    point_y: 4398013.822992428
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1172
+  related_lane_id: 65
+}
+stop_lines {
+  stop_line_id: 61
+  line_points {
+    point_x: 499702.8306124309
+    point_y: 4393512.5060699275
+  }
+  line_points {
+    point_x: 499703.44741150417
+    point_y: 4393520.31142962
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 124
+  related_lane_id: 907
+}
+stop_lines {
+  stop_line_id: 40
+  line_points {
+    point_x: 499718.662458522
+    point_y: 4394324.951744243
+  }
+  line_points {
+    point_x: 499716.9895618629
+    point_y: 4394317.116747142
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 15
+  related_lane_id: 580
+}
+stop_lines {
+  stop_line_id: 66
+  line_points {
+    point_x: 499685.7671840911
+    point_y: 4393292.786573928
+  }
+  line_points {
+    point_x: 499686.02431773115
+    point_y: 4393296.254023187
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 248
+}
+stop_lines {
+  stop_line_id: 52
+  line_points {
+    point_x: 499957.77430250664
+    point_y: 4393509.657894105
+  }
+  line_points {
+    point_x: 499950.0831871798
+    point_y: 4393510.127403748
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 24
+  related_lane_id: 1104
+}
+stop_lines {
+  stop_line_id: 65
+  line_points {
+    point_x: 499919.3138664403
+    point_y: 4393248.68124405
+  }
+  line_points {
+    point_x: 499919.09710025735
+    point_y: 4393245.235788786
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 278
+}
+stop_lines {
+  stop_line_id: 10006
+  line_points {
+    point_x: 500134.93136102223
+    point_y: 4400059.714879098
+  }
+  line_points {
+    point_x: 500132.2742377497
+    point_y: 4400062.7048115255
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 1033
+}
+stop_lines {
+  stop_line_id: 10005
+  line_points {
+    point_x: 499287.5761743791
+    point_y: 4390690.392825133
+  }
+  line_points {
+    point_x: 499286.8009058965
+    point_y: 4390694.316975843
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 1098
+}
+stop_lines {
+  stop_line_id: 100
+  line_points {
+    point_x: 500245.7003661264
+    point_y: 4392054.559785227
+  }
+  line_points {
+    point_x: 500248.12883180357
+    point_y: 4392057.905326985
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 1144
+}
+stop_lines {
+  stop_line_id: 10015
+  line_points {
+    point_x: 499330.70746165176
+    point_y: 4390661.439638004
+  }
+  line_points {
+    point_x: 499328.7282645495
+    point_y: 4390657.963608827
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 1170
+}
+stop_lines {
+  stop_line_id: 29
+  line_points {
+    point_x: 499940.3783297719
+    point_y: 4395591.860911863
+  }
+  line_points {
+    point_x: 499941.3287113621
+    point_y: 4395599.040317323
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1
+  related_junction_light_id: 40
+}
+stop_lines {
+  stop_line_id: 49
+  line_points {
+    point_x: 499780.2666620871
+    point_y: 4394524.899923067
+  }
+  line_points {
+    point_x: 499797.33516518876
+    point_y: 4394522.666714928
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1016
+  related_lane_id: 147
+  related_lane_id: 649
+  related_lane_id: 150
+  related_lane_id: 23
+  related_junction_light_id: 34
+}
+stop_lines {
+  stop_line_id: 15
+  line_points {
+    point_x: 500033.5265857589
+    point_y: 4396435.187877009
+  }
+  line_points {
+    point_x: 500016.36939340126
+    point_y: 4396436.461507935
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1017
+  related_lane_id: 407
+  related_lane_id: 980
+  related_lane_id: 411
+  related_lane_id: 76
+  related_junction_light_id: 49
+}
+stop_lines {
+  stop_line_id: 36
+  line_points {
+    point_x: 499778.92975570174
+    point_y: 4394556.461858322
+  }
+  line_points {
+    point_x: 499761.7777898187
+    point_y: 4394558.320623273
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1019
+  related_lane_id: 652
+  related_lane_id: 155
+  related_lane_id: 1148
+  related_lane_id: 1103
+  related_junction_light_id: 33
+}
+stop_lines {
+  stop_line_id: 26
+  line_points {
+    point_x: 499951.96724888706
+    point_y: 4395846.163810381
+  }
+  line_points {
+    point_x: 499968.3327951691
+    point_y: 4395845.047293203
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1020
+  related_lane_id: 763
+  related_lane_id: 375
+  related_lane_id: 972
+  related_lane_id: 88
+  related_junction_light_id: 46
+}
+stop_lines {
+  stop_line_id: 10024
+  line_points {
+    point_x: 499253.5449503156
+    point_y: 4390655.4312596
+  }
+  line_points {
+    point_x: 499249.6512272444
+    point_y: 4390654.515333479
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 1022
+}
+stop_lines {
+  stop_line_id: 37
+  line_points {
+    point_x: 499844.0928816198
+    point_y: 4395068.04495434
+  }
+  line_points {
+    point_x: 499860.32477753644
+    point_y: 4395066.918926096
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1024
+  related_lane_id: 960
+  related_lane_id: 331
+  related_lane_id: 743
+  related_lane_id: 9
+  related_junction_light_id: 38
+}
+stop_lines {
+  stop_line_id: 85
+  line_points {
+    point_x: 500233.1809108346
+    point_y: 4393264.325430795
+  }
+  line_points {
+    point_x: 500225.11103043053
+    point_y: 4393264.798517539
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 1029
+  related_lane_id: 37
+  related_junction_light_id: 14
+}
+stop_lines {
+  stop_line_id: 106
+  line_points {
+    point_x: 499564.81634091714
+    point_y: 4391026.637649552
+  }
+  line_points {
+    point_x: 499571.3060480457
+    point_y: 4391037.033686933
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1031
+  related_lane_id: 1101
+  related_lane_id: 53
+  related_lane_id: 563
+  related_junction_light_id: 5
+}
+stop_lines {
+  stop_line_id: 76
+  line_points {
+    point_x: 499960.45857946895
+    point_y: 4393259.553715877
+  }
+  line_points {
+    point_x: 499961.2211912074
+    point_y: 4393270.866882286
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1056
+  related_lane_id: 225
+  related_lane_id: 688
+  related_junction_light_id: 16
+}
+stop_lines {
+  stop_line_id: 83
+  line_points {
+    point_x: 500289.8408751107
+    point_y: 4398783.8394499635
+  }
+  line_points {
+    point_x: 500272.1883823198
+    point_y: 4398784.478300989
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1089
+  related_lane_id: 1142
+  related_lane_id: 496
+  related_lane_id: 827
+  related_lane_id: 583
+  related_junction_light_id: 65
+}
+stop_lines {
+  stop_line_id: 25
+  line_points {
+    point_x: 499911.98015778523
+    point_y: 4395610.045005685
+  }
+  line_points {
+    point_x: 499895.11770301755
+    point_y: 4395611.189056589
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1102
+  related_lane_id: 1093
+  related_lane_id: 525
+  related_lane_id: 842
+  related_lane_id: 616
+  related_junction_light_id: 41
+}
+stop_lines {
+  stop_line_id: 10014
+  line_points {
+    point_x: 499328.3435587639
+    point_y: 4390657.281019178
+  }
+  line_points {
+    point_x: 499326.37800448365
+    point_y: 4390653.797257365
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 1106
+  related_junction_light_id: 1
+}
+stop_lines {
+  stop_line_id: 27
+  line_points {
+    point_x: 499886.0518110449
+    point_y: 4395596.19334999
+  }
+  line_points {
+    point_x: 499885.06144788256
+    point_y: 4395589.4194523
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1108
+  related_junction_light_id: 43
+}
+stop_lines {
+  stop_line_id: 45
+  line_points {
+    point_x: 499688.4179875555
+    point_y: 4393730.404389347
+  }
+  line_points {
+    point_x: 499671.19467566785
+    point_y: 4393731.6803467395
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1139
+  related_lane_id: 307
+  related_lane_id: 731
+  related_lane_id: 311
+  related_lane_id: 21
+  related_junction_light_id: 25
+}
+stop_lines {
+  stop_line_id: 10028
+  line_points {
+    point_x: 500485.43625307415
+    point_y: 4393085.542599587
+  }
+  line_points {
+    point_x: 500481.45435437554
+    point_y: 4393085.1624906985
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 1164
+}
+stop_lines {
+  stop_line_id: 87
+  line_points {
+    point_x: 500467.1700922416
+    point_y: 4393197.929595833
+  }
+  line_points {
+    point_x: 500478.68095876684
+    point_y: 4393196.900787826
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1164
+  related_lane_id: 1171
+  related_lane_id: 39
+  related_junction_light_id: 11
+}
+stop_lines {
+  stop_line_id: 10019
+  line_points {
+    point_x: 500512.7468218427
+    point_y: 4392904.214679044
+  }
+  line_points {
+    point_x: 500508.7840676661
+    point_y: 4392903.670088059
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 1171
+}
+stop_lines {
+  stop_line_id: 10029
+  line_points {
+    point_x: 500489.16310090164
+    point_y: 4393085.912303616
+  }
+  line_points {
+    point_x: 500485.18392447423
+    point_y: 4393085.50468252
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 1171
+}
+stop_lines {
+  stop_line_id: 20
+  line_points {
+    point_x: 500064.606589498
+    point_y: 4396408.896525557
+  }
+  line_points {
+    point_x: 500067.41508677875
+    point_y: 4396423.826506763
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 1177
+  related_lane_id: 1145
+  related_lane_id: 81
+  related_lane_id: 78
+  related_lane_id: 613
+  related_junction_light_id: 48
+}
+stop_lines {
+  stop_line_id: 71
+  line_points {
+    point_x: 499941.61623399146
+    point_y: 4393287.373995067
+  }
+  line_points {
+    point_x: 499933.92346145574
+    point_y: 4393287.874846711
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 120
+  related_lane_id: 636
+  related_junction_light_id: 17
+}
+stop_lines {
+  stop_line_id: 48
+  line_points {
+    point_x: 500136.1214095872
+    point_y: 4399610.710071502
+  }
+  line_points {
+    point_x: 500135.9474468136
+    point_y: 4399607.753580634
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 14
+  related_junction_light_id: 70
+}
+stop_lines {
+  stop_line_id: 51
+  line_points {
+    point_x: 499688.7824097828
+    point_y: 4394078.515418757
+  }
+  line_points {
+    point_x: 499687.5178269717
+    point_y: 4394066.94963076
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 16
+  related_lane_id: 1162
+  related_lane_id: 1143
+  related_lane_id: 17
+  related_junction_light_id: 31
+}
+stop_lines {
+  stop_line_id: 53
+  line_points {
+    point_x: 500187.7809480986
+    point_y: 4399609.23255962
+  }
+  line_points {
+    point_x: 500186.8474178066
+    point_y: 4399613.689203232
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 18
+  related_junction_light_id: 67
+}
+stop_lines {
+  stop_line_id: 93
+  line_points {
+    point_x: 499302.18975431845
+    point_y: 4390685.418441028
+  }
+  line_points {
+    point_x: 499294.1462011073
+    point_y: 4390690.0033208225
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 183
+  related_lane_id: 868
+  related_lane_id: 668
+  related_junction_light_id: 2
+}
+stop_lines {
+  stop_line_id: 95
+  line_points {
+    point_x: 499833.0225684779
+    point_y: 4391504.525699533
+  }
+  line_points {
+    point_x: 499845.55717162136
+    point_y: 4391495.763511244
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 188
+  related_lane_id: 1023
+  related_lane_id: 921
+  related_lane_id: 48
+}
+stop_lines {
+  stop_line_id: 10003
+  line_points {
+    point_x: 500495.07920181635
+    point_y: 4392940.192250064
+  }
+  line_points {
+    point_x: 500491.1097824788
+    point_y: 4392939.698580011
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 205
+}
+stop_lines {
+  stop_line_id: 10022
+  line_points {
+    point_x: 500498.6964619303
+    point_y: 4392909.544851488
+  }
+  line_points {
+    point_x: 500494.7318907803
+    point_y: 4392909.013649462
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 205
+}
+stop_lines {
+  stop_line_id: 10026
+  line_points {
+    point_x: 500475.593276164
+    point_y: 4393090.83818838
+  }
+  line_points {
+    point_x: 500471.6232879671
+    point_y: 4393090.34911403
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 205
+}
+stop_lines {
+  stop_line_id: 86
+  line_points {
+    point_x: 500541.14763354824
+    point_y: 4392578.675649228
+  }
+  line_points {
+    point_x: 500533.5461390137
+    point_y: 4392577.876073097
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 205
+  related_lane_id: 882
+}
+stop_lines {
+  stop_line_id: 80
+  line_points {
+    point_x: 500245.9067443412
+    point_y: 4393238.7597502535
+  }
+  line_points {
+    point_x: 500246.79950425355
+    point_y: 4393250.038115128
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 217
+  related_lane_id: 929
+  related_lane_id: 221
+  related_junction_light_id: 13
+}
+stop_lines {
+  stop_line_id: 78
+  line_points {
+    point_x: 500246.95077988907
+    point_y: 4393251.949205383
+  }
+  line_points {
+    point_x: 500247.2243797733
+    point_y: 4393255.405640661
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 222
+}
+stop_lines {
+  stop_line_id: 79
+  line_points {
+    point_x: 500431.699377234
+    point_y: 4393224.692751535
+  }
+  line_points {
+    point_x: 500430.75923379144
+    point_y: 4393213.442624711
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 228
+  related_lane_id: 932
+  related_lane_id: 231
+  related_junction_light_id: 12
+}
+stop_lines {
+  stop_line_id: 77
+  line_points {
+    point_x: 500430.5907480487
+    point_y: 4393211.426461435
+  }
+  line_points {
+    point_x: 500430.31407220394
+    point_y: 4393208.11565737
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 235
+}
+stop_lines {
+  stop_line_id: 68
+  line_points {
+    point_x: 499684.7882322848
+    point_y: 4393279.585429558
+  }
+  line_points {
+    point_x: 499685.62999293715
+    point_y: 4393290.936551369
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 243
+  related_lane_id: 697
+  related_lane_id: 247
+  related_junction_light_id: 20
+}
+stop_lines {
+  stop_line_id: 54
+  line_points {
+    point_x: 499661.71877250134
+    point_y: 4393715.050483037
+  }
+  line_points {
+    point_x: 499661.1203257777
+    point_y: 4393707.337723532
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 25
+  related_lane_id: 585
+  related_junction_light_id: 27
+}
+stop_lines {
+  stop_line_id: 64
+  line_points {
+    point_x: 499634.81374086
+    point_y: 4393283.031351164
+  }
+  line_points {
+    point_x: 499633.7984642947
+    point_y: 4393271.421652503
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 30
+  related_lane_id: 880
+  related_lane_id: 31
+  related_junction_light_id: 23
+}
+stop_lines {
+  stop_line_id: 43
+  line_points {
+    point_x: 499748.12385313003
+    point_y: 4394341.751032192
+  }
+  line_points {
+    point_x: 499732.7287686588
+    point_y: 4394343.8425858775
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 323
+  related_lane_id: 739
+  related_lane_id: 327
+  related_lane_id: 20
+}
+stop_lines {
+  stop_line_id: 82
+  line_points {
+    point_x: 500497.3010718989
+    point_y: 4393220.602580957
+  }
+  line_points {
+    point_x: 500498.034430768
+    point_y: 4393231.946158105
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 34
+  related_lane_id: 881
+  related_lane_id: 590
+  related_junction_light_id: 9
+}
+stop_lines {
+  stop_line_id: 84
+  line_points {
+    point_x: 500479.4609396327
+    point_y: 4393244.750489136
+  }
+  line_points {
+    point_x: 500472.06892242585
+    point_y: 4393245.291045436
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 35
+  related_lane_id: 36
+  related_junction_light_id: 10
+}
+stop_lines {
+  stop_line_id: 18
+  line_points {
+    point_x: 499949.776383734
+    point_y: 4395876.5342804305
+  }
+  line_points {
+    point_x: 499932.4454918512
+    point_y: 4395877.493106766
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 383
+  related_lane_id: 1163
+  related_lane_id: 1156
+  related_lane_id: 387
+  related_lane_id: 611
+  related_junction_light_id: 45
+}
+stop_lines {
+  stop_line_id: 10020
+  line_points {
+    point_x: 500516.614945889
+    point_y: 4392904.746265255
+  }
+  line_points {
+    point_x: 500512.65219171403
+    point_y: 4392904.201674271
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 39
+}
+stop_lines {
+  stop_line_id: 10030
+  line_points {
+    point_x: 500492.82128617144
+    point_y: 4393086.287042843
+  }
+  line_points {
+    point_x: 500488.84210974514
+    point_y: 4393085.879421746
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 39
+}
+stop_lines {
+  stop_line_id: 109
+  line_points {
+    point_x: 500329.54646928306
+    point_y: 4398749.759791078
+  }
+  line_points {
+    point_x: 500329.1659967907
+    point_y: 4398757.191867204
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 47
+  related_lane_id: 587
+  related_junction_light_id: 64
+}
+stop_lines {
+  stop_line_id: 110
+  line_points {
+    point_x: 500332.77942007314
+    point_y: 4398263.256383888
+  }
+  line_points {
+    point_x: 500315.55036268034
+    point_y: 4398263.794983717
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 480
+  related_lane_id: 819
+  related_lane_id: 484
+  related_lane_id: 864
+  related_lane_id: 55
+  related_junction_light_id: 61
+}
+stop_lines {
+  stop_line_id: 101
+  line_points {
+    point_x: 499824.3776233317
+    point_y: 4391530.7364762975
+  }
+  line_points {
+    point_x: 499822.3031923199
+    point_y: 4391529.108758722
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 49
+}
+stop_lines {
+  stop_line_id: 30
+  line_points {
+    point_x: 500152.80541432404
+    point_y: 4399623.32656932
+  }
+  line_points {
+    point_x: 500137.4155965982
+    point_y: 4399622.557569199
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 504
+  related_lane_id: 831
+  related_lane_id: 508
+  related_lane_id: 84
+  related_junction_light_id: 68
+}
+stop_lines {
+  stop_line_id: 104
+  line_points {
+    point_x: 499513.87608586747
+    point_y: 4391054.64192389
+  }
+  line_points {
+    point_x: 499507.7698246331
+    point_y: 4391043.905802673
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 50
+  related_lane_id: 562
+  related_lane_id: 1015
+  related_lane_id: 51
+  related_junction_light_id: 8
+}
+stop_lines {
+  stop_line_id: 7
+  line_points {
+    point_x: 500333.09958964784
+    point_y: 4398222.355181659
+  }
+  line_points {
+    point_x: 500349.34130704106
+    point_y: 4398221.186158515
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 547
+  related_lane_id: 1012
+  related_lane_id: 852
+  related_lane_id: 872
+  related_lane_id: 606
+  related_junction_light_id: 62
+}
+stop_lines {
+  stop_line_id: 91
+  line_points {
+    point_x: 499842.1289275661
+    point_y: 4391521.43827203
+  }
+  line_points {
+    point_x: 499829.4197270528
+    point_y: 4391530.370557529
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 549
+  related_lane_id: 1095
+  related_lane_id: 552
+  related_lane_id: 594
+}
+stop_lines {
+  stop_line_id: 10013
+  line_points {
+    point_x: 499326.6384702813
+    point_y: 4390654.208999502
+  }
+  line_points {
+    point_x: 499324.60866224446
+    point_y: 4390650.762279416
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 56
+  related_junction_light_id: 1
+}
+stop_lines {
+  stop_line_id: 21
+  line_points {
+    point_x: 499993.36402821855
+    point_y: 4396416.059955551
+  }
+  line_points {
+    point_x: 499991.732794801
+    point_y: 4396399.162299439
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 565
+  related_lane_id: 82
+  related_lane_id: 893
+  related_lane_id: 83
+  related_lane_id: 614
+  related_junction_light_id: 51
+}
+stop_lines {
+  stop_line_id: 58
+  line_points {
+    point_x: 499692.27849476965
+    point_y: 4393695.84838857
+  }
+  line_points {
+    point_x: 499708.45969077444
+    point_y: 4393694.580369785
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 566
+  related_lane_id: 132
+  related_lane_id: 1112
+  related_lane_id: 136
+  related_lane_id: 29
+  related_junction_light_id: 26
+}
+stop_lines {
+  stop_line_id: 22
+  line_points {
+    point_x: 500031.588939876
+    point_y: 4396389.016501867
+  }
+  line_points {
+    point_x: 500049.2256811154
+    point_y: 4396388.012892675
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 567
+  related_lane_id: 158
+  related_lane_id: 655
+  related_lane_id: 161
+  related_lane_id: 79
+  related_junction_light_id: 50
+}
+stop_lines {
+  stop_line_id: 46
+  line_points {
+    point_x: 499718.57882523997
+    point_y: 4394056.363509989
+  }
+  line_points {
+    point_x: 499734.6791756176
+    point_y: 4394055.130006052
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 568
+  related_lane_id: 286
+  related_lane_id: 1122
+  related_lane_id: 291
+  related_lane_id: 22
+  related_junction_light_id: 30
+}
+stop_lines {
+  stop_line_id: 31
+  line_points {
+    point_x: 499843.31929319917
+    point_y: 4395112.609703432
+  }
+  line_points {
+    point_x: 499826.2020668462
+    point_y: 4395113.776644692
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 570
+  related_lane_id: 367
+  related_lane_id: 371
+  related_lane_id: 1073
+  related_lane_id: 573
+  related_junction_light_id: 37
+}
+stop_lines {
+  stop_line_id: 6
+  line_points {
+    point_x: 500249.9973936563
+    point_y: 4397733.097088272
+  }
+  line_points {
+    point_x: 500232.59254228167
+    point_y: 4397733.6857899865
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 571
+  related_lane_id: 451
+  related_lane_id: 803
+  related_lane_id: 455
+  related_lane_id: 607
+  related_junction_light_id: 57
+}
+stop_lines {
+  stop_line_id: 35
+  line_points {
+    point_x: 499779.3706263511
+    point_y: 4394777.215779831
+  }
+  line_points {
+    point_x: 499779.10700924095
+    point_y: 4394771.159447435
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 575
+}
+stop_lines {
+  stop_line_id: 34
+  line_points {
+    point_x: 499870.5131033677
+    point_y: 4395088.301502989
+  }
+  line_points {
+    point_x: 499872.47053015354
+    point_y: 4395103.87643763
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 577
+  related_lane_id: 10
+  related_lane_id: 1169
+  related_lane_id: 875
+  related_lane_id: 11
+  related_junction_light_id: 36
+}
+stop_lines {
+  stop_line_id: 38
+  line_points {
+    point_x: 499749.0538277674
+    point_y: 4394545.3322908385
+  }
+  line_points {
+    point_x: 499746.8545981522
+    point_y: 4394535.391427642
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 578
+  related_lane_id: 12
+  related_lane_id: 1026
+  related_junction_light_id: 35
+}
+stop_lines {
+  stop_line_id: 39
+  line_points {
+    point_x: 499807.43882807455
+    point_y: 4394537.23004651
+  }
+  line_points {
+    point_x: 499808.1592311576
+    point_y: 4394544.96817122
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 579
+  related_lane_id: 876
+  related_junction_light_id: 32
+}
+stop_lines {
+  stop_line_id: 50
+  line_points {
+    point_x: 499775.8803453022
+    point_y: 4394317.831691674
+  }
+  line_points {
+    point_x: 499776.28508665547
+    point_y: 4394320.279548162
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 584
+}
+stop_lines {
+  stop_line_id: 59
+  line_points {
+    point_x: 499656.9594247874
+    point_y: 4393256.4922869485
+  }
+  line_points {
+    point_x: 499664.77498171
+    point_y: 4393255.855572586
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 588
+  related_lane_id: 32
+  related_junction_light_id: 22
+}
+stop_lines {
+  stop_line_id: 72
+  line_points {
+    point_x: 499937.890726773
+    point_y: 4393233.37731345
+  }
+  line_points {
+    point_x: 499945.7133218904
+    point_y: 4393232.826739739
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 591
+  related_lane_id: 38
+  related_junction_light_id: 18
+}
+stop_lines {
+  stop_line_id: 88
+  line_points {
+    point_x: 500643.3433643012
+    point_y: 4392559.183880353
+  }
+  line_points {
+    point_x: 500644.34743295074
+    point_y: 4392573.812324145
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 592
+  related_lane_id: 40
+  related_lane_id: 1105
+  related_lane_id: 41
+}
+stop_lines {
+  stop_line_id: 99
+  line_points {
+    point_x: 500601.2057260375
+    point_y: 4392603.992436911
+  }
+  line_points {
+    point_x: 500591.59141101653
+    point_y: 4392613.1686550705
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 593
+  related_lane_id: 42
+  related_lane_id: 883
+  related_lane_id: 1099
+}
+stop_lines {
+  stop_line_id: 98
+  line_points {
+    point_x: 499272.6844396897
+    point_y: 4390638.164931921
+  }
+  line_points {
+    point_x: 499280.6612966943
+    point_y: 4390633.626607698
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 595
+  related_lane_id: 1018
+  related_lane_id: 46
+  related_junction_light_id: 3
+}
+stop_lines {
+  stop_line_id: 102
+  line_points {
+    point_x: 499857.29460924363
+    point_y: 4391502.02380498
+  }
+  line_points {
+    point_x: 499859.10857925384
+    point_y: 4391504.280453998
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 597
+}
+stop_lines {
+  stop_line_id: 103
+  line_points {
+    point_x: 499507.6134546048
+    point_y: 4391043.630870977
+  }
+  line_points {
+    point_x: 499506.37295304035
+    point_y: 4391041.449806745
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 598
+}
+stop_lines {
+  stop_line_id: 107
+  line_points {
+    point_x: 499264.16038083896
+    point_y: 4390668.72886248
+  }
+  line_points {
+    point_x: 499258.1458685913
+    point_y: 4390660.077137972
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 599
+  related_lane_id: 54
+  related_lane_id: 886
+  related_junction_light_id: 4
+}
+stop_lines {
+  stop_line_id: 10012
+  line_points {
+    point_x: 499324.85990417015
+    point_y: 4390651.188901334
+  }
+  line_points {
+    point_x: 499322.83009613433
+    point_y: 4390647.74218125
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 600
+  related_junction_light_id: 1
+}
+stop_lines {
+  stop_line_id: 108
+  line_points {
+    point_x: 499309.89619036176
+    point_y: 4390655.319618533
+  }
+  line_points {
+    point_x: 499315.7458765035
+    point_y: 4390664.089308857
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 600
+  related_lane_id: 56
+  related_lane_id: 1106
+  related_junction_light_id: 1
+}
+stop_lines {
+  stop_line_id: 13
+  line_points {
+    point_x: 500124.4744296477
+    point_y: 4397150.7860265495
+  }
+  line_points {
+    point_x: 500122.17632106045
+    point_y: 4397138.214098484
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 601
+  related_lane_id: 58
+  related_lane_id: 887
+  related_lane_id: 59
+  related_junction_light_id: 55
+}
+stop_lines {
+  stop_line_id: 1
+  line_points {
+    point_x: 500299.78431008407
+    point_y: 4398244.050823205
+  }
+  line_points {
+    point_x: 500298.4013320938
+    point_y: 4398236.330869793
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 605
+  related_lane_id: 66
+  related_junction_light_id: 63
+}
+stop_lines {
+  stop_line_id: 10
+  line_points {
+    point_x: 500278.2645322803
+    point_y: 4397710.46437205
+  }
+  line_points {
+    point_x: 500279.93619810196
+    point_y: 4397721.296322229
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 608
+  related_lane_id: 72
+  related_lane_id: 564
+  related_lane_id: 1107
+  related_junction_light_id: 56
+}
+stop_lines {
+  stop_line_id: 19
+  line_points {
+    point_x: 500015.28929106594
+    point_y: 4396129.757883584
+  }
+  line_points {
+    point_x: 500016.02582431055
+    point_y: 4396134.445784154
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 612
+}
+stop_lines {
+  stop_line_id: 23
+  line_points {
+    point_x: 499923.2728951508
+    point_y: 4395862.883664175
+  }
+  line_points {
+    point_x: 499922.1486315083
+    point_y: 4395855.087725253
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 615
+  related_lane_id: 86
+  related_junction_light_id: 47
+}
+stop_lines {
+  stop_line_id: 92
+  line_points {
+    point_x: 499551.9244420593
+    point_y: 4391061.543539519
+  }
+  line_points {
+    point_x: 499541.4103521265
+    point_y: 4391068.112051641
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 619
+  related_lane_id: 897
+  related_lane_id: 44
+  related_junction_light_id: 6
+}
+stop_lines {
+  stop_line_id: 111
+  line_points {
+    point_x: 500178.14160649554
+    point_y: 4400036.485283178
+  }
+  line_points {
+    point_x: 500177.4700552898
+    point_y: 4400044.247587205
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 61
+  related_lane_id: 604
+  related_junction_light_id: 71
+}
+stop_lines {
+  stop_line_id: 96
+  line_points {
+    point_x: 500221.85412725806
+    point_y: 4392069.4188851025
+  }
+  line_points {
+    point_x: 500234.717403968
+    point_y: 4392060.6912013935
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 622
+  related_lane_id: 97
+  related_lane_id: 1038
+  related_lane_id: 98
+}
+stop_lines {
+  stop_line_id: 4
+  line_points {
+    point_x: 500361.1696497026
+    point_y: 4398243.435807304
+  }
+  line_points {
+    point_x: 500363.0945561259
+    point_y: 4398255.18658463
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 62
+  related_lane_id: 888
+  related_lane_id: 1182
+  related_lane_id: 63
+  related_junction_light_id: 60
+}
+stop_lines {
+  stop_line_id: 62
+  line_points {
+    point_x: 499939.83780267654
+    point_y: 4393495.008421081
+  }
+  line_points {
+    point_x: 499939.3269276998
+    point_y: 4393487.312149837
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 642
+  related_lane_id: 138
+}
+stop_lines {
+  stop_line_id: 94
+  line_points {
+    point_x: 499526.9785428421
+    point_y: 4391018.933222326
+  }
+  line_points {
+    point_x: 499536.38473213126
+    point_y: 4391012.97755823
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 664
+  related_lane_id: 179
+  related_lane_id: 596
+  related_junction_light_id: 7
+}
+stop_lines {
+  stop_line_id: 17
+  line_points {
+    point_x: 500150.792361688
+    point_y: 4400059.838301824
+  }
+  line_points {
+    point_x: 500140.571490693
+    point_y: 4400060.412323285
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 67
+  related_lane_id: 860
+  related_lane_id: 68
+  related_junction_light_id: 72
+}
+stop_lines {
+  stop_line_id: 74
+  line_points {
+    point_x: 499961.347359189
+    point_y: 4393272.738557969
+  }
+  line_points {
+    point_x: 499961.57657755655
+    point_y: 4393276.138966938
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 689
+}
+stop_lines {
+  stop_line_id: 75
+  line_points {
+    point_x: 500216.0614167009
+    point_y: 4393240.467948067
+  }
+  line_points {
+    point_x: 500215.15631269244
+    point_y: 4393229.092861235
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 693
+  related_lane_id: 239
+  related_lane_id: 936
+  related_junction_light_id: 15
+}
+stop_lines {
+  stop_line_id: 70
+  line_points {
+    point_x: 499955.5188900907
+    point_y: 4393476.800579748
+  }
+  line_points {
+    point_x: 499963.1643866895
+    point_y: 4393476.603101022
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 701
+  related_lane_id: 252
+}
+stop_lines {
+  stop_line_id: 57
+  line_points {
+    point_x: 499679.01834423357
+    point_y: 4393503.295558983
+  }
+  line_points {
+    point_x: 499694.4520620685
+    point_y: 4393502.215860638
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 713
+  related_lane_id: 276
+  related_lane_id: 1061
+  related_lane_id: 1028
+}
+stop_lines {
+  stop_line_id: 47
+  line_points {
+    point_x: 499752.8753156214
+    point_y: 4394310.953100529
+  }
+  line_points {
+    point_x: 499768.2074066692
+    point_y: 4394308.838284147
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 727
+  related_lane_id: 303
+  related_lane_id: 1065
+  related_lane_id: 878
+}
+stop_lines {
+  stop_line_id: 16
+  line_points {
+    point_x: 500157.7651048763
+    point_y: 4397121.699603914
+  }
+  line_points {
+    point_x: 500173.6620730142
+    point_y: 4397118.209781128
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 771
+  related_lane_id: 870
+  related_lane_id: 391
+  related_lane_id: 976
+  related_lane_id: 77
+  related_junction_light_id: 54
+}
+stop_lines {
+  stop_line_id: 12
+  line_points {
+    point_x: 500250.02672835503
+    point_y: 4397694.275532958
+  }
+  line_points {
+    point_x: 500266.2041019782
+    point_y: 4397692.051526571
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 783
+  related_lane_id: 1140
+  related_lane_id: 415
+  related_lane_id: 1130
+  related_lane_id: 609
+  related_junction_light_id: 58
+}
+stop_lines {
+  stop_line_id: 28
+  line_points {
+    point_x: 500156.71498051187
+    point_y: 4400013.149043258
+  }
+  line_points {
+    point_x: 500172.73709484766
+    point_y: 4400012.231582818
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 823
+  related_lane_id: 1021
+  related_lane_id: 492
+  related_lane_id: 488
+  related_lane_id: 89
+  related_junction_light_id: 73
+}
+stop_lines {
+  stop_line_id: 10010
+  line_points {
+    point_x: 499306.50809320534
+    point_y: 4390633.403455283
+  }
+  line_points {
+    point_x: 499304.5672036369
+    point_y: 4390629.9058921775
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 859
+}
+stop_lines {
+  stop_line_id: 32
+  line_points {
+    point_x: 499914.6769389043
+    point_y: 4395578.776638935
+  }
+  line_points {
+    point_x: 499931.12380971224
+    point_y: 4395577.5794704985
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 863
+  related_lane_id: 343
+  related_lane_id: 964
+  related_lane_id: 347
+  related_lane_id: 2
+  related_junction_light_id: 42
+}
+stop_lines {
+  stop_line_id: 44
+  line_points {
+    point_x: 499716.4859848344
+    point_y: 4394097.057411909
+  }
+  line_points {
+    point_x: 499698.86472350254
+    point_y: 4394098.4032144025
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 867
+  related_lane_id: 646
+  related_lane_id: 144
+  related_lane_id: 1046
+  related_lane_id: 1027
+  related_junction_light_id: 29
+}
+stop_lines {
+  stop_line_id: 11
+  line_points {
+    point_x: 500157.91285474534
+    point_y: 4397162.2252020165
+  }
+  line_points {
+    point_x: 500141.32182874245
+    point_y: 4397166.5793616865
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 871
+  related_lane_id: 795
+  related_lane_id: 439
+  related_lane_id: 988
+  related_lane_id: 73
+  related_junction_light_id: 53
+}
+stop_lines {
+  stop_line_id: 33
+  line_points {
+    point_x: 499816.3728632783
+    point_y: 4395092.485926647
+  }
+  line_points {
+    point_x: 499814.3504756447
+    point_y: 4395077.51685169
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 873
+  related_lane_id: 3
+  related_lane_id: 865
+  related_lane_id: 574
+  related_lane_id: 4
+  related_junction_light_id: 39
+}
+stop_lines {
+  stop_line_id: 41
+  line_points {
+    point_x: 500127.5231013519
+    point_y: 4400034.77221781
+  }
+  line_points {
+    point_x: 500125.8192238714
+    point_y: 4400023.264926817
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 874
+  related_lane_id: 576
+  related_lane_id: 8
+  related_junction_light_id: 74
+}
+stop_lines {
+  stop_line_id: 42
+  line_points {
+    point_x: 499745.1335266558
+    point_y: 4394075.082036283
+  }
+  line_points {
+    point_x: 499746.39641713275
+    point_y: 4394086.61916588
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 877
+  related_lane_id: 19
+  related_lane_id: 561
+  related_lane_id: 582
+  related_junction_light_id: 28
+}
+stop_lines {
+  stop_line_id: 55
+  line_points {
+    point_x: 499716.78500594135
+    point_y: 4393711.379898414
+  }
+  line_points {
+    point_x: 499717.55239125196
+    point_y: 4393720.984733095
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 879
+  related_lane_id: 27
+  related_lane_id: 586
+  related_junction_light_id: 24
+}
+stop_lines {
+  stop_line_id: 10004
+  line_points {
+    point_x: 500491.4941524469
+    point_y: 4392939.746383461
+  }
+  line_points {
+    point_x: 500487.52473310794
+    point_y: 4392939.252713409
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 882
+}
+stop_lines {
+  stop_line_id: 10023
+  line_points {
+    point_x: 500495.10996596573
+    point_y: 4392909.06430672
+  }
+  line_points {
+    point_x: 500491.145394814
+    point_y: 4392908.533104695
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 882
+}
+stop_lines {
+  stop_line_id: 10027
+  line_points {
+    point_x: 500472.02345927974
+    point_y: 4393090.376282045
+  }
+  line_points {
+    point_x: 500468.0471933364
+    point_y: 4393089.941185343
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 882
+}
+stop_lines {
+  stop_line_id: 9
+  line_points {
+    point_x: 500221.2428158085
+    point_y: 4397714.455022047
+  }
+  line_points {
+    point_x: 500219.8968133526
+    point_y: 4397706.704052389
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 890
+  related_lane_id: 71
+  related_junction_light_id: 59
+}
+stop_lines {
+  stop_line_id: 14
+  line_points {
+    point_x: 500187.70041682624
+    point_y: 4397134.85861805
+  }
+  line_points {
+    point_x: 500189.9004924489
+    point_y: 4397145.333177293
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 891
+  related_lane_id: 75
+  related_lane_id: 1096
+  related_lane_id: 610
+  related_junction_light_id: 52
+}
+stop_lines {
+  stop_line_id: 24
+  line_points {
+    point_x: 499977.5503714638
+    point_y: 4395859.705262668
+  }
+  line_points {
+    point_x: 499978.6233606459
+    point_y: 4395867.312774969
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 894
+  related_lane_id: 87
+  related_junction_light_id: 44
+}
+stop_lines {
+  stop_line_id: 97
+  line_points {
+    point_x: 500556.02122714807
+    point_y: 4392548.352110304
+  }
+  line_points {
+    point_x: 500567.86889696063
+    point_y: 4392539.024665373
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: false
+  related_lane_id: 900
+  related_lane_id: 104
+  related_lane_id: 627
+  related_lane_id: 1160
+}
+stop_lines {
+  stop_line_id: 10002
+  line_points {
+    point_x: 500498.9753181329
+    point_y: 4392940.676803541
+  }
+  line_points {
+    point_x: 500495.00589879527
+    point_y: 4392940.18313349
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 925
+}
+stop_lines {
+  stop_line_id: 10021
+  line_points {
+    point_x: 500502.7488932774
+    point_y: 4392910.108491089
+  }
+  line_points {
+    point_x: 500498.7863388
+    point_y: 4392909.562448957
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 925
+}
+stop_lines {
+  stop_line_id: 10025
+  line_points {
+    point_x: 500479.5334680853
+    point_y: 4393091.17903872
+  }
+  line_points {
+    point_x: 500475.5519108627
+    point_y: 4393090.795369497
+  }
+  stop_line_type: SL_OTHER
+  is_virtual: true
+  related_lane_id: 925
+}
+stop_lines {
+  stop_line_id: 67
+  line_points {
+    point_x: 499920.15657409467
+    point_y: 4393262.0759438155
+  }
+  line_points {
+    point_x: 499919.4352867464
+    point_y: 4393250.611196967
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 944
+  related_lane_id: 268
+  related_lane_id: 272
+  related_junction_light_id: 19
+}
+stop_lines {
+  stop_line_id: 56
+  line_points {
+    point_x: 499657.6619217174
+    point_y: 4393306.400182169
+  }
+  line_points {
+    point_x: 499640.0487498596
+    point_y: 4393307.676777621
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 948
+  related_lane_id: 1100
+  related_lane_id: 282
+  related_lane_id: 719
+  related_lane_id: 28
+  related_junction_light_id: 21
+}
+stop_lines {
+  stop_line_id: 112
+  line_points {
+    point_x: 500302.1276032433
+    point_y: 4398727.594211528
+  }
+  line_points {
+    point_x: 500318.6345960894
+    point_y: 4398726.9750092905
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 992
+  related_lane_id: 1141
+  related_lane_id: 459
+  related_lane_id: 807
+  related_lane_id: 602
+  related_junction_light_id: 66
+}
+stop_lines {
+  stop_line_id: 90
+  line_points {
+    point_x: 500164.30929625465
+    point_y: 4399593.641564362
+  }
+  line_points {
+    point_x: 500179.8528916879
+    point_y: 4399594.240534301
+  }
+  stop_line_type: SL_JUNCTION
+  is_virtual: false
+  related_lane_id: 996
+  related_lane_id: 472
+  related_lane_id: 815
+  related_lane_id: 589
+  related_junction_light_id: 69
+}

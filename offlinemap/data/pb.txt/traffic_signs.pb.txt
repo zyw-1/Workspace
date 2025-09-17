@@ -1,0 +1,82 @@
+traffic_signs {
+  id: 78
+  point {
+    x: 500591.825804256
+    y: 4392542.16064259
+  }
+  sign_type: SIGN_YIELD
+  sign_value: 65535.0
+  is_virtual: false
+  lane_id: 3155
+  lane_id: 3156
+  lane_id: 3157
+  lane_id: 3158
+  road_id: 930
+}
+traffic_signs {
+  id: 139
+  point {
+    x: 499572.32127938163
+    y: 4391063.435165821
+  }
+  sign_type: SIGN_YIELD
+  sign_value: 65535.0
+  is_virtual: false
+  lane_id: 2181
+  lane_id: 2182
+  lane_id: 2183
+  road_id: 668
+}
+traffic_signs {
+  id: 141
+  point {
+    x: 499858.5815153192
+    y: 4391507.998568138
+  }
+  sign_type: SIGN_YIELD
+  sign_value: 65535.0
+  is_virtual: false
+  lane_id: 3167
+  lane_id: 3168
+  lane_id: 3169
+  road_id: 923
+}
+traffic_signs {
+  id: 153
+  point {
+    x: 500252.8400690774
+    y: 4392058.412688054
+  }
+  sign_type: SIGN_YIELD
+  sign_value: 65535.0
+  is_virtual: false
+  lane_id: 2195
+  road_id: 673
+}
+traffic_signs {
+  id: 340
+  point {
+    x: 499815.88264511083
+    y: 4391534.503505709
+  }
+  sign_type: SIGN_STOP
+  sign_value: 65535.0
+  is_virtual: false
+  lane_id: 3164
+  lane_id: 3165
+  lane_id: 3166
+  road_id: 919
+}
+traffic_signs {
+  id: 347
+  point {
+    x: 500224.5029387245
+    y: 4393265.728661959
+  }
+  sign_type: SIGN_STOP
+  sign_value: 65535.0
+  is_virtual: false
+  lane_id: 1875
+  lane_id: 1876
+  road_id: 575
+}

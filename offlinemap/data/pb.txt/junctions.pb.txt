@@ -1,0 +1,4175 @@
+junctions {
+  id: 999
+  junction_polygon {
+    x: 499695.93406100204
+    y: 4393522.573551846
+  }
+  junction_polygon {
+    x: 499691.7527913749
+    y: 4393522.877075504
+  }
+  junction_polygon {
+    x: 499688.02474893956
+    y: 4393523.147700771
+  }
+  junction_polygon {
+    x: 499684.29848333664
+    y: 4393523.418198868
+  }
+  junction_polygon {
+    x: 499680.49732891587
+    y: 4393523.694135209
+  }
+  junction_polygon {
+    x: 499679.0183442358
+    y: 4393503.295558985
+  }
+  junction_polygon {
+    x: 499682.81814771943
+    y: 4393503.029732798
+  }
+  junction_polygon {
+    x: 499686.54330826865
+    y: 4393502.769130319
+  }
+  junction_polygon {
+    x: 499690.2699610903
+    y: 4393502.508425261
+  }
+  junction_polygon {
+    x: 499694.4520620685
+    y: 4393502.215860639
+  }
+  junction_polygon {
+    x: 499702.20707475673
+    y: 4393504.615452048
+  }
+  junction_polygon {
+    x: 499702.50595638267
+    y: 4393508.397676497
+  }
+  junction_polygon {
+    x: 499702.8144709834
+    y: 4393512.301806195
+  }
+  junction_polygon {
+    x: 499702.8306124309
+    y: 4393512.50606993
+  }
+  junction_polygon {
+    x: 499703.1450133751
+    y: 4393516.484693294
+  }
+  junction_polygon {
+    x: 499703.44741150417
+    y: 4393520.31142962
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 15
+  stop_line_ids: 22
+  stop_line_ids: 20
+  stop_line_ids: 21
+  cross_walk_ids: 26
+  cross_walk_ids: 27
+  cross_walk_ids: 28
+  cross_walk_ids: 29
+  traffic_light_ids: 50
+  traffic_light_ids: 48
+  traffic_light_ids: 51
+  traffic_light_ids: 49
+}
+junctions {
+  id: 1000
+  junction_polygon {
+    x: 500561.3294664965
+    y: 4392597.665814683
+  }
+  junction_polygon {
+    x: 500558.2227244077
+    y: 4392597.290856844
+  }
+  junction_polygon {
+    x: 500554.23900835763
+    y: 4392596.810057458
+  }
+  junction_polygon {
+    x: 500554.58798870706
+    y: 4392589.109007904
+  }
+  junction_polygon {
+    x: 500567.48835359665
+    y: 4392582.89515758
+  }
+  junction_polygon {
+    x: 500570.1617292721
+    y: 4392580.515722968
+  }
+  junction_polygon {
+    x: 500572.7751184267
+    y: 4392578.18967697
+  }
+  junction_polygon {
+    x: 500575.5074602398
+    y: 4392575.757759686
+  }
+  junction_polygon {
+    x: 500601.2057260375
+    y: 4392603.992436911
+  }
+  junction_polygon {
+    x: 500598.53002953256
+    y: 4392606.494203424
+  }
+  junction_polygon {
+    x: 500595.96547668014
+    y: 4392608.892053431
+  }
+  junction_polygon {
+    x: 500593.36742252717
+    y: 4392611.321229468
+  }
+  junction_polygon {
+    x: 500591.5914110187
+    y: 4392613.1686550705
+  }
+  junction_polygon {
+    x: 500590.6974890903
+    y: 4392616.054240947
+  }
+  junction_polygon {
+    x: 500586.19184568885
+    y: 4392620.298526585
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 18
+  junction_polygon {
+    x: 500152.8054143284
+    y: 4399623.326569329
+  }
+  junction_polygon {
+    x: 500148.9767100162
+    y: 4399623.135253298
+  }
+  junction_polygon {
+    x: 500145.21675107355
+    y: 4399622.947374291
+  }
+  junction_polygon {
+    x: 500141.39952513174
+    y: 4399622.756635622
+  }
+  junction_polygon {
+    x: 500137.415596596
+    y: 4399622.557569194
+  }
+  junction_polygon {
+    x: 500136.3150929179
+    y: 4399614.00037317
+  }
+  junction_polygon {
+    x: 500136.1350130835
+    y: 4399610.941262491
+  }
+  junction_polygon {
+    x: 500136.12140958285
+    y: 4399610.710071508
+  }
+  junction_polygon {
+    x: 500135.94744682667
+    y: 4399607.7535806475
+  }
+  junction_polygon {
+    x: 500139.738924205
+    y: 4399592.694813427
+  }
+  junction_polygon {
+    x: 500143.8443391258
+    y: 4399592.85299868
+  }
+  junction_polygon {
+    x: 500147.67952902813
+    y: 4399593.000773928
+  }
+  junction_polygon {
+    x: 500151.5224868555
+    y: 4399593.148850387
+  }
+  junction_polygon {
+    x: 500155.347748288
+    y: 4399593.2962468965
+  }
+  junction_polygon {
+    x: 500164.30929626554
+    y: 4399593.641564372
+  }
+  junction_polygon {
+    x: 500168.1601507679
+    y: 4399593.789953485
+  }
+  junction_polygon {
+    x: 500171.9317805843
+    y: 4399593.935291629
+  }
+  junction_polygon {
+    x: 500175.7731198633
+    y: 4399594.08331789
+  }
+  junction_polygon {
+    x: 500179.85289170314
+    y: 4399594.24053431
+  }
+  junction_polygon {
+    x: 500186.30357180495
+    y: 4399600.855510016
+  }
+  junction_polygon {
+    x: 500188.7356134542
+    y: 4399604.675023392
+  }
+  junction_polygon {
+    x: 500187.8223578799
+    y: 4399609.034870752
+  }
+  junction_polygon {
+    x: 500187.7809480986
+    y: 4399609.232559619
+  }
+  junction_polygon {
+    x: 500186.847417811
+    y: 4399613.689203236
+  }
+  junction_polygon {
+    x: 500177.2578486118
+    y: 4399624.548475028
+  }
+  junction_polygon {
+    x: 500173.2950817745
+    y: 4399624.350447413
+  }
+  junction_polygon {
+    x: 500169.42650041776
+    y: 4399624.1571284225
+  }
+  junction_polygon {
+    x: 500165.6952195219
+    y: 4399623.9706724025
+  }
+  junction_polygon {
+    x: 500161.826865961
+    y: 4399623.777368619
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 7
+  junction_polygon {
+    x: 499688.4179875555
+    y: 4393730.404389348
+  }
+  junction_polygon {
+    x: 499685.2107149856
+    y: 4393730.641991284
+  }
+  junction_polygon {
+    x: 499681.9239656655
+    y: 4393730.88548244
+  }
+  junction_polygon {
+    x: 499678.6657524096
+    y: 4393731.126860971
+  }
+  junction_polygon {
+    x: 499675.36162692955
+    y: 4393731.371642248
+  }
+  junction_polygon {
+    x: 499671.19467566785
+    y: 4393731.680346742
+  }
+  junction_polygon {
+    x: 499662.33945922524
+    y: 4393723.049887307
+  }
+  junction_polygon {
+    x: 499661.9890436045
+    y: 4393718.533732259
+  }
+  junction_polygon {
+    x: 499661.7522134884
+    y: 4393715.481469704
+  }
+  junction_polygon {
+    x: 499661.71877250134
+    y: 4393715.050483037
+  }
+  junction_polygon {
+    x: 499661.4766430044
+    y: 4393711.929925066
+  }
+  junction_polygon {
+    x: 499661.1203257777
+    y: 4393707.337723533
+  }
+  junction_polygon {
+    x: 499668.6884493764
+    y: 4393697.208201486
+  }
+  junction_polygon {
+    x: 499672.80855544034
+    y: 4393696.916475724
+  }
+  junction_polygon {
+    x: 499676.62010276725
+    y: 4393696.646599584
+  }
+  junction_polygon {
+    x: 499680.3718386122
+    y: 4393696.38096025
+  }
+  junction_polygon {
+    x: 499684.18293391954
+    y: 4393696.111119729
+  }
+  junction_polygon {
+    x: 499692.27849476965
+    y: 4393695.848388573
+  }
+  junction_polygon {
+    x: 499695.299569062
+    y: 4393695.611643325
+  }
+  junction_polygon {
+    x: 499698.2691084104
+    y: 4393695.378937762
+  }
+  junction_polygon {
+    x: 499701.241972148
+    y: 4393695.145972844
+  }
+  junction_polygon {
+    x: 499704.2802051157
+    y: 4393694.907886545
+  }
+  junction_polygon {
+    x: 499708.45969077444
+    y: 4393694.580369785
+  }
+  junction_polygon {
+    x: 499715.9954691382
+    y: 4393701.497833989
+  }
+  junction_polygon {
+    x: 499716.2479110659
+    y: 4393704.6574652875
+  }
+  junction_polygon {
+    x: 499716.51132900617
+    y: 4393707.954478126
+  }
+  junction_polygon {
+    x: 499716.769217746
+    y: 4393711.182288682
+  }
+  junction_polygon {
+    x: 499716.78500594135
+    y: 4393711.379898414
+  }
+  junction_polygon {
+    x: 499717.03585051565
+    y: 4393714.519544952
+  }
+  junction_polygon {
+    x: 499717.2996714062
+    y: 4393717.821609739
+  }
+  junction_polygon {
+    x: 499717.55239125196
+    y: 4393720.984733096
+  }
+  junction_polygon {
+    x: 499711.00007749884
+    y: 4393728.986067243
+  }
+  junction_polygon {
+    x: 499706.95835308207
+    y: 4393729.278591294
+  }
+  junction_polygon {
+    x: 499703.0530597657
+    y: 4393729.561243042
+  }
+  junction_polygon {
+    x: 499699.3257966685
+    y: 4393729.83101144
+  }
+  junction_polygon {
+    x: 499695.5137958032
+    y: 4393730.106914797
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 11
+  stop_line_ids: 14
+  stop_line_ids: 13
+  stop_line_ids: 16
+  cross_walk_ids: 22
+  cross_walk_ids: 21
+  cross_walk_ids: 23
+  cross_walk_ids: 24
+  traffic_light_ids: 55
+  traffic_light_ids: 54
+  traffic_light_ids: 52
+  traffic_light_ids: 53
+}
+junctions {
+  id: 8
+  junction_polygon {
+    x: 499716.4859848496
+    y: 4394097.057411912
+  }
+  junction_polygon {
+    x: 499713.09738658555
+    y: 4394097.316208845
+  }
+  junction_polygon {
+    x: 499709.8430524885
+    y: 4394097.564753036
+  }
+  junction_polygon {
+    x: 499706.60406520223
+    y: 4394097.812126527
+  }
+  junction_polygon {
+    x: 499703.2637362691
+    y: 4394098.067241316
+  }
+  junction_polygon {
+    x: 499698.86472350254
+    y: 4394098.403214409
+  }
+  junction_polygon {
+    x: 499692.5857634261
+    y: 4394097.381064345
+  }
+  junction_polygon {
+    x: 499690.10745371366
+    y: 4394090.634217781
+  }
+  junction_polygon {
+    x: 499689.6208370468
+    y: 4394086.183636589
+  }
+  junction_polygon {
+    x: 499689.2371471448
+    y: 4394082.674424176
+  }
+  junction_polygon {
+    x: 499688.85255268996
+    y: 4394079.156941973
+  }
+  junction_polygon {
+    x: 499688.7824097828
+    y: 4394078.515418759
+  }
+  junction_polygon {
+    x: 499688.45770951716
+    y: 4394075.545728766
+  }
+  junction_polygon {
+    x: 499688.13643321116
+    y: 4394072.607356775
+  }
+  junction_polygon {
+    x: 499687.80672003777
+    y: 4394069.591823777
+  }
+  junction_polygon {
+    x: 499687.51782698266
+    y: 4394066.949630765
+  }
+  junction_polygon {
+    x: 499688.19813500944
+    y: 4394060.277573608
+  }
+  junction_polygon {
+    x: 499695.14959887613
+    y: 4394057.556767497
+  }
+  junction_polygon {
+    x: 499699.2336064677
+    y: 4394057.371404541
+  }
+  junction_polygon {
+    x: 499702.99089468084
+    y: 4394057.200872501
+  }
+  junction_polygon {
+    x: 499706.72883934015
+    y: 4394057.031220242
+  }
+  junction_polygon {
+    x: 499710.507857233
+    y: 4394056.8597056605
+  }
+  junction_polygon {
+    x: 499718.57882525306
+    y: 4394056.363509989
+  }
+  junction_polygon {
+    x: 499721.59163224633
+    y: 4394056.13268576
+  }
+  junction_polygon {
+    x: 499724.6136873593
+    y: 4394055.901154186
+  }
+  junction_polygon {
+    x: 499727.5581801688
+    y: 4394055.675566117
+  }
+  junction_polygon {
+    x: 499730.6177142975
+    y: 4394055.441165553
+  }
+  junction_polygon {
+    x: 499734.6791756307
+    y: 4394055.130006058
+  }
+  junction_polygon {
+    x: 499741.64775492233
+    y: 4394055.786180828
+  }
+  junction_polygon {
+    x: 499745.38562036137
+    y: 4394062.79448828
+  }
+  junction_polygon {
+    x: 499745.6033908828
+    y: 4394067.426808
+  }
+  junction_polygon {
+    x: 499745.76506574586
+    y: 4394070.86588894
+  }
+  junction_polygon {
+    x: 499745.9305541425
+    y: 4394074.386086395
+  }
+  junction_polygon {
+    x: 499745.1335266689
+    y: 4394075.082036273
+  }
+  junction_polygon {
+    x: 499745.47351356904
+    y: 4394078.187981589
+  }
+  junction_polygon {
+    x: 499745.7975702961
+    y: 4394081.14839925
+  }
+  junction_polygon {
+    x: 499746.12190097425
+    y: 4394084.111321793
+  }
+  junction_polygon {
+    x: 499746.3964171284
+    y: 4394086.619165893
+  }
+  junction_polygon {
+    x: 499745.5761322274
+    y: 4394093.41788307
+  }
+  junction_polygon {
+    x: 499738.7510619915
+    y: 4394094.224741786
+  }
+  junction_polygon {
+    x: 499734.6847056104
+    y: 4394094.810740444
+  }
+  junction_polygon {
+    x: 499730.89441266574
+    y: 4394095.356957878
+  }
+  junction_polygon {
+    x: 499727.2080808802
+    y: 4394095.888195391
+  }
+  junction_polygon {
+    x: 499723.426794769
+    y: 4394096.433118686
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 10
+  stop_line_ids: 6
+  stop_line_ids: 9
+  stop_line_ids: 12
+  cross_walk_ids: 17
+  cross_walk_ids: 18
+  cross_walk_ids: 19
+  cross_walk_ids: 20
+  traffic_light_ids: 58
+  traffic_light_ids: 56
+  traffic_light_ids: 57
+  traffic_light_ids: 59
+}
+junctions {
+  id: 17
+  junction_polygon {
+    x: 500304.7359976229
+    y: 4398783.300420956
+  }
+  junction_polygon {
+    x: 500300.90732309
+    y: 4398783.438971373
+  }
+  junction_polygon {
+    x: 500296.99842185597
+    y: 4398783.580426973
+  }
+  junction_polygon {
+    x: 500289.8408751107
+    y: 4398783.839449977
+  }
+  junction_polygon {
+    x: 500286.53855157987
+    y: 4398783.95895934
+  }
+  junction_polygon {
+    x: 500283.33755838923
+    y: 4398784.074802954
+  }
+  junction_polygon {
+    x: 500280.07389689394
+    y: 4398784.192915919
+  }
+  junction_polygon {
+    x: 500276.70342712896
+    y: 4398784.314895768
+  }
+  junction_polygon {
+    x: 500272.1883823198
+    y: 4398784.4783009915
+  }
+  junction_polygon {
+    x: 500264.32989583985
+    y: 4398760.8330645785
+  }
+  junction_polygon {
+    x: 500264.3985739168
+    y: 4398759.290230388
+  }
+  junction_polygon {
+    x: 500264.53345969174
+    y: 4398756.260058741
+  }
+  junction_polygon {
+    x: 500264.6634346205
+    y: 4398753.340207975
+  }
+  junction_polygon {
+    x: 500264.6869480515
+    y: 4398752.811985597
+  }
+  junction_polygon {
+    x: 500264.82182182005
+    y: 4398749.782084065
+  }
+  junction_polygon {
+    x: 500264.953801491
+    y: 4398746.817197853
+  }
+  junction_polygon {
+    x: 500265.0484770142
+    y: 4398744.690338672
+  }
+  junction_polygon {
+    x: 500279.61252846185
+    y: 4398722.394242194
+  }
+  junction_polygon {
+    x: 500283.2232069819
+    y: 4398723.072928132
+  }
+  junction_polygon {
+    x: 500287.0472574537
+    y: 4398723.791722786
+  }
+  junction_polygon {
+    x: 500290.6721809895
+    y: 4398724.473090062
+  }
+  junction_polygon {
+    x: 500294.470737494
+    y: 4398725.187096643
+  }
+  junction_polygon {
+    x: 500302.1276032433
+    y: 4398727.59421153
+  }
+  junction_polygon {
+    x: 500305.06107708893
+    y: 4398727.484169887
+  }
+  junction_polygon {
+    x: 500308.0281754378
+    y: 4398727.372868068
+  }
+  junction_polygon {
+    x: 500311.07886316977
+    y: 4398727.258431829
+  }
+  junction_polygon {
+    x: 500314.19546115905
+    y: 4398727.141524443
+  }
+  junction_polygon {
+    x: 500318.6345960938
+    y: 4398726.97500928
+  }
+  junction_polygon {
+    x: 500328.79834353155
+    y: 4398732.573679576
+  }
+  junction_polygon {
+    x: 500330.2757867412
+    y: 4398735.689542564
+  }
+  junction_polygon {
+    x: 500330.68007571634
+    y: 4398739.516345294
+  }
+  junction_polygon {
+    x: 500329.9358047115
+    y: 4398742.154603092
+  }
+  junction_polygon {
+    x: 500329.7468419818
+    y: 4398745.845755494
+  }
+  junction_polygon {
+    x: 500329.558860959
+    y: 4398749.517734757
+  }
+  junction_polygon {
+    x: 500329.5464693005
+    y: 4398749.759791092
+  }
+  junction_polygon {
+    x: 500329.3590197002
+    y: 4398753.421393116
+  }
+  junction_polygon {
+    x: 500329.16599679505
+    y: 4398757.191867206
+  }
+  junction_polygon {
+    x: 500329.0311850911
+    y: 4398759.129713882
+  }
+  junction_polygon {
+    x: 500328.74566664424
+    y: 4398762.950605331
+  }
+  junction_polygon {
+    x: 500312.18184890656
+    y: 4398783.030979193
+  }
+  junction_polygon {
+    x: 500308.6279080891
+    y: 4398783.159584149
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 5
+  junction_polygon {
+    x: 499937.91002439335
+    y: 4393287.615293468
+  }
+  junction_polygon {
+    x: 499933.9234614688
+    y: 4393287.874846711
+  }
+  junction_polygon {
+    x: 499921.2268899538
+    y: 4393279.088506404
+  }
+  junction_polygon {
+    x: 499921.00856063684
+    y: 4393275.618177586
+  }
+  junction_polygon {
+    x: 499920.89207014727
+    y: 4393273.766571215
+  }
+  junction_polygon {
+    x: 499920.65276072023
+    y: 4393269.962770827
+  }
+  junction_polygon {
+    x: 499920.4137337109
+    y: 4393266.163463012
+  }
+  junction_polygon {
+    x: 499920.17731715034
+    y: 4393262.405651819
+  }
+  junction_polygon {
+    x: 499920.1565740903
+    y: 4393262.075943824
+  }
+  junction_polygon {
+    x: 499919.9151629843
+    y: 4393258.238749027
+  }
+  junction_polygon {
+    x: 499919.67911966436
+    y: 4393254.48687811
+  }
+  junction_polygon {
+    x: 499919.4352867464
+    y: 4393250.611196969
+  }
+  junction_polygon {
+    x: 499919.3138664447
+    y: 4393248.681244061
+  }
+  junction_polygon {
+    x: 499919.09710027045
+    y: 4393245.235788796
+  }
+  junction_polygon {
+    x: 499922.6939860298
+    y: 4393239.797917254
+  }
+  junction_polygon {
+    x: 499929.8897036783
+    y: 4393233.9404536765
+  }
+  junction_polygon {
+    x: 499934.4869257453
+    y: 4393233.616883956
+  }
+  junction_polygon {
+    x: 499937.7198895497
+    y: 4393233.389337497
+  }
+  junction_polygon {
+    x: 499937.89072678174
+    y: 4393233.377313446
+  }
+  junction_polygon {
+    x: 499941.1213376878
+    y: 4393233.149934037
+  }
+  junction_polygon {
+    x: 499945.71332189254
+    y: 4393232.8267397545
+  }
+  junction_polygon {
+    x: 499959.30019553535
+    y: 4393242.369425863
+  }
+  junction_polygon {
+    x: 499959.53766376246
+    y: 4393245.89219175
+  }
+  junction_polygon {
+    x: 499959.66193889594
+    y: 4393247.735775307
+  }
+  junction_polygon {
+    x: 499959.923952646
+    y: 4393251.622672101
+  }
+  junction_polygon {
+    x: 499960.1763031743
+    y: 4393255.36622156
+  }
+  junction_polygon {
+    x: 499960.4326772777
+    y: 4393259.1694633365
+  }
+  junction_polygon {
+    x: 499960.45857947116
+    y: 4393259.553715883
+  }
+  junction_polygon {
+    x: 499960.70701051457
+    y: 4393263.239128624
+  }
+  junction_polygon {
+    x: 499960.96347592544
+    y: 4393267.0437328145
+  }
+  junction_polygon {
+    x: 499961.2211912074
+    y: 4393270.866882292
+  }
+  junction_polygon {
+    x: 499961.3473591868
+    y: 4393272.73855798
+  }
+  junction_polygon {
+    x: 499961.57657756965
+    y: 4393276.138966929
+  }
+  junction_polygon {
+    x: 499949.4097912669
+    y: 4393286.866589577
+  }
+  junction_polygon {
+    x: 499945.41199510416
+    y: 4393287.126868161
+  }
+  junction_polygon {
+    x: 499941.78549768863
+    y: 4393287.362974955
+  }
+  junction_polygon {
+    x: 499941.61623399146
+    y: 4393287.373995073
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 31
+  stop_line_ids: 37
+  stop_line_ids: 33
+  stop_line_ids: 34
+  cross_walk_ids: 40
+  cross_walk_ids: 41
+  cross_walk_ids: 42
+  cross_walk_ids: 43
+  traffic_light_ids: 36
+  traffic_light_ids: 38
+  traffic_light_ids: 39
+  traffic_light_ids: 37
+}
+junctions {
+  id: 1
+  junction_polygon {
+    x: 499274.85047207965
+    y: 4390686.852201894
+  }
+  junction_polygon {
+    x: 499273.15283833886
+    y: 4390683.805748731
+  }
+  junction_polygon {
+    x: 499271.47511205554
+    y: 4390680.795022916
+  }
+  junction_polygon {
+    x: 499269.7467627347
+    y: 4390677.693454616
+  }
+  junction_polygon {
+    x: 499264.1603808608
+    y: 4390668.728862488
+  }
+  junction_polygon {
+    x: 499262.1412707078
+    y: 4390665.824420672
+  }
+  junction_polygon {
+    x: 499260.15052486886
+    y: 4390662.96078289
+  }
+  junction_polygon {
+    x: 499258.1458685913
+    y: 4390660.077137982
+  }
+  junction_polygon {
+    x: 499263.54268976994
+    y: 4390644.301088324
+  }
+  junction_polygon {
+    x: 499266.26879247994
+    y: 4390642.464575131
+  }
+  junction_polygon {
+    x: 499268.9128754832
+    y: 4390640.683318536
+  }
+  junction_polygon {
+    x: 499271.27290800604
+    y: 4390639.093421525
+  }
+  junction_polygon {
+    x: 499272.68443968747
+    y: 4390638.164931921
+  }
+  junction_polygon {
+    x: 499275.106342328
+    y: 4390636.787021951
+  }
+  junction_polygon {
+    x: 499277.86864011025
+    y: 4390635.215450105
+  }
+  junction_polygon {
+    x: 499280.66129668994
+    y: 4390633.626607698
+  }
+  junction_polygon {
+    x: 499282.50860668876
+    y: 4390632.469143487
+  }
+  junction_polygon {
+    x: 499287.4568999429
+    y: 4390634.3720056
+  }
+  junction_polygon {
+    x: 499292.5535395885
+    y: 4390635.372472688
+  }
+  junction_polygon {
+    x: 499299.83199772175
+    y: 4390636.9356444115
+  }
+  junction_polygon {
+    x: 499301.58922435244
+    y: 4390639.997352218
+  }
+  junction_polygon {
+    x: 499303.3528490921
+    y: 4390643.07020639
+  }
+  junction_polygon {
+    x: 499305.0816608596
+    y: 4390646.081912378
+  }
+  junction_polygon {
+    x: 499309.89619037486
+    y: 4390655.319618533
+  }
+  junction_polygon {
+    x: 499311.8565338447
+    y: 4390658.258509415
+  }
+  junction_polygon {
+    x: 499313.7965201798
+    y: 4390661.166884159
+  }
+  junction_polygon {
+    x: 499315.7458765035
+    y: 4390664.089308868
+  }
+  junction_polygon {
+    x: 499311.12007828435
+    y: 4390679.030719759
+  }
+  junction_polygon {
+    x: 499308.47534231254
+    y: 4390680.804777086
+  }
+  junction_polygon {
+    x: 499305.8017489685
+    y: 4390682.598193333
+  }
+  junction_polygon {
+    x: 499303.535108105
+    y: 4390684.118631859
+  }
+  junction_polygon {
+    x: 499302.18975431845
+    y: 4390685.41844104
+  }
+  junction_polygon {
+    x: 499299.7439045719
+    y: 4390686.8125904845
+  }
+  junction_polygon {
+    x: 499296.9508228741
+    y: 4390688.404665837
+  }
+  junction_polygon {
+    x: 499294.14620111603
+    y: 4390690.003320816
+  }
+  junction_polygon {
+    x: 499292.500415911
+    y: 4390691.127190389
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 10005
+  stop_line_ids: 10010
+  stop_line_ids: 10011
+  stop_line_ids: 10015
+  stop_line_ids: 98
+  stop_line_ids: 10024
+  stop_line_ids: 93
+  stop_line_ids: 107
+  stop_line_ids: 108
+  stop_line_ids: 10012
+  stop_line_ids: 10013
+  stop_line_ids: 10014
+  cross_walk_ids: 80
+  cross_walk_ids: 81
+  cross_walk_ids: 86
+  cross_walk_ids: 83
+  cross_walk_ids: 87
+  cross_walk_ids: 88
+  cross_walk_ids: 82
+  cross_walk_ids: 84
+  cross_walk_ids: 85
+  cross_walk_ids: 79
+  traffic_light_ids: 1
+  traffic_light_ids: 4
+  traffic_light_ids: 3
+  traffic_light_ids: 2
+}
+junctions {
+  id: 2
+  junction_polygon {
+    x: 499521.6329630697
+    y: 4391068.280233582
+  }
+  junction_polygon {
+    x: 499519.86416941683
+    y: 4391065.170297264
+  }
+  junction_polygon {
+    x: 499519.44908277964
+    y: 4391064.440482195
+  }
+  junction_polygon {
+    x: 499517.55970255716
+    y: 4391061.11853159
+  }
+  junction_polygon {
+    x: 499515.80782951677
+    y: 4391058.038352184
+  }
+  junction_polygon {
+    x: 499514.04097128677
+    y: 4391054.9318284225
+  }
+  junction_polygon {
+    x: 499513.87608586747
+    y: 4391054.64192389
+  }
+  junction_polygon {
+    x: 499512.366604169
+    y: 4391051.9879269935
+  }
+  junction_polygon {
+    x: 499510.9011744221
+    y: 4391049.411385052
+  }
+  junction_polygon {
+    x: 499509.4039702975
+    y: 4391046.778978968
+  }
+  junction_polygon {
+    x: 499507.7698246331
+    y: 4391043.905802673
+  }
+  junction_polygon {
+    x: 499507.6134546048
+    y: 4391043.630870977
+  }
+  junction_polygon {
+    x: 499506.37295304035
+    y: 4391041.449806745
+  }
+  junction_polygon {
+    x: 499514.66719982214
+    y: 4391027.345069804
+  }
+  junction_polygon {
+    x: 499519.2264100181
+    y: 4391024.439540693
+  }
+  junction_polygon {
+    x: 499522.4479563421
+    y: 4391022.386491435
+  }
+  junction_polygon {
+    x: 499525.6836868252
+    y: 4391020.324401869
+  }
+  junction_polygon {
+    x: 499526.9785428421
+    y: 4391018.933222326
+  }
+  junction_polygon {
+    x: 499530.18371197215
+    y: 4391016.903821042
+  }
+  junction_polygon {
+    x: 499533.401795165
+    y: 4391014.866245441
+  }
+  junction_polygon {
+    x: 499536.38473213126
+    y: 4391012.97755823
+  }
+  junction_polygon {
+    x: 499556.5577891501
+    y: 4391013.408100844
+  }
+  junction_polygon {
+    x: 499558.4915484077
+    y: 4391016.505825792
+  }
+  junction_polygon {
+    x: 499558.95130501204
+    y: 4391017.242318897
+  }
+  junction_polygon {
+    x: 499560.9294138023
+    y: 4391020.411092015
+  }
+  junction_polygon {
+    x: 499562.7783466837
+    y: 4391023.372938422
+  }
+  junction_polygon {
+    x: 499564.6328596511
+    y: 4391026.343726438
+  }
+  junction_polygon {
+    x: 499564.81634091714
+    y: 4391026.637649552
+  }
+  junction_polygon {
+    x: 499566.40028705
+    y: 4391029.175012595
+  }
+  junction_polygon {
+    x: 499568.00101746817
+    y: 4391031.739264847
+  }
+  junction_polygon {
+    x: 499569.5879947898
+    y: 4391034.281487676
+  }
+  junction_polygon {
+    x: 499571.3060480457
+    y: 4391037.033686933
+  }
+  junction_polygon {
+    x: 499571.5078139756
+    y: 4391037.356901775
+  }
+  junction_polygon {
+    x: 499572.8789732767
+    y: 4391039.553403484
+  }
+  junction_polygon {
+    x: 499562.932303164
+    y: 4391054.765159493
+  }
+  junction_polygon {
+    x: 499559.9709039709
+    y: 4391056.627629371
+  }
+  junction_polygon {
+    x: 499556.7371206713
+    y: 4391058.661408178
+  }
+  junction_polygon {
+    x: 499553.4941838844
+    y: 4391060.700946208
+  }
+  junction_polygon {
+    x: 499551.9244420593
+    y: 4391061.543539519
+  }
+  junction_polygon {
+    x: 499548.6780198269
+    y: 4391063.571687949
+  }
+  junction_polygon {
+    x: 499545.394764349
+    y: 4391065.622849829
+  }
+  junction_polygon {
+    x: 499541.4103521265
+    y: 4391068.112051641
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 103
+  stop_line_ids: 105
+  stop_line_ids: 104
+  stop_line_ids: 92
+  stop_line_ids: 94
+  stop_line_ids: 106
+  cross_walk_ids: 75
+  cross_walk_ids: 76
+  cross_walk_ids: 77
+  cross_walk_ids: 78
+  traffic_light_ids: 8
+  traffic_light_ids: 6
+  traffic_light_ids: 7
+  traffic_light_ids: 5
+}
+junctions {
+  id: 9
+  junction_polygon {
+    x: 499775.59848902834
+    y: 4394556.822865873
+  }
+  junction_polygon {
+    x: 499772.3750271901
+    y: 4394557.172192079
+  }
+  junction_polygon {
+    x: 499769.07916612487
+    y: 4394557.529365623
+  }
+  junction_polygon {
+    x: 499765.86859608453
+    y: 4394557.877297512
+  }
+  junction_polygon {
+    x: 499761.77778984053
+    y: 4394558.32062328
+  }
+  junction_polygon {
+    x: 499757.1409025874
+    y: 4394558.698990685
+  }
+  junction_polygon {
+    x: 499749.4879792476
+    y: 4394555.6210711105
+  }
+  junction_polygon {
+    x: 499749.3539701652
+    y: 4394553.1858736
+  }
+  junction_polygon {
+    x: 499749.14779653883
+    y: 4394549.439313675
+  }
+  junction_polygon {
+    x: 499748.94146205124
+    y: 4394545.689822373
+  }
+  junction_polygon {
+    x: 499749.0538277652
+    y: 4394545.332290846
+  }
+  junction_polygon {
+    x: 499748.2322142644
+    y: 4394541.618465654
+  }
+  junction_polygon {
+    x: 499747.41344462096
+    y: 4394537.917498868
+  }
+  junction_polygon {
+    x: 499746.85459816095
+    y: 4394535.391427647
+  }
+  junction_polygon {
+    x: 499751.1463397422
+    y: 4394528.436065032
+  }
+  junction_polygon {
+    x: 499757.8561141601
+    y: 4394527.83213299
+  }
+  junction_polygon {
+    x: 499761.9993635579
+    y: 4394527.290022575
+  }
+  junction_polygon {
+    x: 499765.738556228
+    y: 4394526.800781706
+  }
+  junction_polygon {
+    x: 499769.4647776739
+    y: 4394526.313239855
+  }
+  junction_polygon {
+    x: 499773.26118433033
+    y: 4394525.816516831
+  }
+  junction_polygon {
+    x: 499780.2666620915
+    y: 4394524.899923061
+  }
+  junction_polygon {
+    x: 499783.57431115245
+    y: 4394524.467153947
+  }
+  junction_polygon {
+    x: 499786.8330172444
+    y: 4394524.04078991
+  }
+  junction_polygon {
+    x: 499790.06584956025
+    y: 4394523.617812583
+  }
+  junction_polygon {
+    x: 499793.2625621124
+    y: 4394523.199562453
+  }
+  junction_polygon {
+    x: 499797.3351651997
+    y: 4394522.666714925
+  }
+  junction_polygon {
+    x: 499803.57222339255
+    y: 4394523.230135978
+  }
+  junction_polygon {
+    x: 499806.699092434
+    y: 4394529.284279755
+  }
+  junction_polygon {
+    x: 499807.098578217
+    y: 4394533.575298306
+  }
+  junction_polygon {
+    x: 499807.4201705618
+    y: 4394537.029639114
+  }
+  junction_polygon {
+    x: 499807.4388280832
+    y: 4394537.23004652
+  }
+  junction_polygon {
+    x: 499807.7850873672
+    y: 4394540.949347748
+  }
+  junction_polygon {
+    x: 499808.1592311554
+    y: 4394544.968171214
+  }
+  junction_polygon {
+    x: 499807.49324886716
+    y: 4394551.947532769
+  }
+  junction_polygon {
+    x: 499801.40696523944
+    y: 4394553.898537048
+  }
+  junction_polygon {
+    x: 499797.3438751845
+    y: 4394554.362871063
+  }
+  junction_polygon {
+    x: 499793.53717232216
+    y: 4394554.7979069175
+  }
+  junction_polygon {
+    x: 499789.7999922653
+    y: 4394555.224999471
+  }
+  junction_polygon {
+    x: 499785.99241447746
+    y: 4394555.660139118
+  }
+  junction_polygon {
+    x: 499778.92975570826
+    y: 4394556.461858336
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 30
+  stop_line_ids: 48
+  stop_line_ids: 53
+  stop_line_ids: 90
+  cross_walk_ids: 2
+  cross_walk_ids: 1
+  cross_walk_ids: 3
+  traffic_light_ids: 69
+  traffic_light_ids: 67
+  traffic_light_ids: 68
+  traffic_light_ids: 70
+}
+junctions {
+  id: 3
+  junction_polygon {
+    x: 500433.13527190196
+    y: 4393241.875296837
+  }
+  junction_polygon {
+    x: 500432.846389388
+    y: 4393238.418395948
+  }
+  junction_polygon {
+    x: 500432.6866681208
+    y: 4393236.507099082
+  }
+  junction_polygon {
+    x: 500432.378091791
+    y: 4393232.814537781
+  }
+  junction_polygon {
+    x: 500432.04953931726
+    y: 4393228.882937332
+  }
+  junction_polygon {
+    x: 500431.73588628543
+    y: 4393225.129633784
+  }
+  junction_polygon {
+    x: 500431.6993772449
+    y: 4393224.692751543
+  }
+  junction_polygon {
+    x: 500431.3966242616
+    y: 4393221.06988654
+  }
+  junction_polygon {
+    x: 500431.07753393205
+    y: 4393217.251525798
+  }
+  junction_polygon {
+    x: 500430.75923380017
+    y: 4393213.442624724
+  }
+  junction_polygon {
+    x: 500430.59074805526
+    y: 4393211.426461447
+  }
+  junction_polygon {
+    x: 500430.3140722018
+    y: 4393208.115657378
+  }
+  junction_polygon {
+    x: 500439.9970263338
+    y: 4393203.043810245
+  }
+  junction_polygon {
+    x: 500454.78805467987
+    y: 4393196.793231122
+  }
+  junction_polygon {
+    x: 500458.1294005867
+    y: 4393197.201927272
+  }
+  junction_polygon {
+    x: 500461.9748559871
+    y: 4393197.672285349
+  }
+  junction_polygon {
+    x: 500465.9414401344
+    y: 4393198.157461106
+  }
+  junction_polygon {
+    x: 500467.1700922525
+    y: 4393197.92959583
+  }
+  junction_polygon {
+    x: 500471.2568089251
+    y: 4393197.564334896
+  }
+  junction_polygon {
+    x: 500475.0440811741
+    y: 4393197.225839545
+  }
+  junction_polygon {
+    x: 500478.68095877557
+    y: 4393196.900787831
+  }
+  junction_polygon {
+    x: 500486.92926164536
+    y: 4393197.507503427
+  }
+  junction_polygon {
+    x: 500496.1935277438
+    y: 4393203.471178607
+  }
+  junction_polygon {
+    x: 500496.41684192774
+    y: 4393206.925377988
+  }
+  junction_polygon {
+    x: 500496.53783039795
+    y: 4393208.796815809
+  }
+  junction_polygon {
+    x: 500496.7875950195
+    y: 4393212.660153108
+  }
+  junction_polygon {
+    x: 500497.02810529957
+    y: 4393216.380348797
+  }
+  junction_polygon {
+    x: 500497.2672889889
+    y: 4393220.0800281875
+  }
+  junction_polygon {
+    x: 500497.301071912
+    y: 4393220.602580957
+  }
+  junction_polygon {
+    x: 500497.5425223205
+    y: 4393224.337326366
+  }
+  junction_polygon {
+    x: 500497.78350076283
+    y: 4393228.0647751205
+  }
+  junction_polygon {
+    x: 500498.0344307745
+    y: 4393231.946158112
+  }
+  junction_polygon {
+    x: 500498.1429973299
+    y: 4393233.6254658485
+  }
+  junction_polygon {
+    x: 500498.3597241946
+    y: 4393236.977799449
+  }
+  junction_polygon {
+    x: 500498.67842638365
+    y: 4393242.904070444
+  }
+  junction_polygon {
+    x: 500487.6552632028
+    y: 4393244.151270955
+  }
+  junction_polygon {
+    x: 500483.2132608619
+    y: 4393244.476095763
+  }
+  junction_polygon {
+    x: 500480.02549353504
+    y: 4393244.709205297
+  }
+  junction_polygon {
+    x: 500479.46093963925
+    y: 4393244.750489135
+  }
+  junction_polygon {
+    x: 500476.48992422415
+    y: 4393244.9677498285
+  }
+  junction_polygon {
+    x: 500472.0689224215
+    y: 4393245.291045446
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 42
+  stop_line_ids: 44
+  stop_line_ids: 46
+  stop_line_ids: 51
+  cross_walk_ids: 49
+  cross_walk_ids: 50
+  cross_walk_ids: 51
+  cross_walk_ids: 52
+  traffic_light_ids: 31
+  traffic_light_ids: 30
+  traffic_light_ids: 29
+  traffic_light_ids: 28
+}
+junctions {
+  id: 12
+  junction_polygon {
+    x: 499949.77638374054
+    y: 4395876.5342804445
+  }
+  junction_polygon {
+    x: 499946.4559503791
+    y: 4395876.717979359
+  }
+  junction_polygon {
+    x: 499943.19422896
+    y: 4395876.8984315265
+  }
+  junction_polygon {
+    x: 499939.9866481217
+    y: 4395877.075889756
+  }
+  junction_polygon {
+    x: 499936.6687557875
+    y: 4395877.259452347
+  }
+  junction_polygon {
+    x: 499932.44549185986
+    y: 4395877.493106765
+  }
+  junction_polygon {
+    x: 499927.54844849877
+    y: 4395875.691156312
+  }
+  junction_polygon {
+    x: 499924.4427521542
+    y: 4395870.995776445
+  }
+  junction_polygon {
+    x: 499923.76707141544
+    y: 4395866.310417
+  }
+  junction_polygon {
+    x: 499923.2975415775
+    y: 4395863.054569139
+  }
+  junction_polygon {
+    x: 499923.2728951639
+    y: 4395862.883664187
+  }
+  junction_polygon {
+    x: 499922.8234787617
+    y: 4395859.767291157
+  }
+  junction_polygon {
+    x: 499922.14863151265
+    y: 4395855.087725261
+  }
+  junction_polygon {
+    x: 499923.57099200704
+    y: 4395849.150775488
+  }
+  junction_polygon {
+    x: 499928.36678502837
+    y: 4395847.773981913
+  }
+  junction_polygon {
+    x: 499932.6327414517
+    y: 4395847.482926211
+  }
+  junction_polygon {
+    x: 499936.36917368666
+    y: 4395847.228000616
+  }
+  junction_polygon {
+    x: 499940.1067874001
+    y: 4395846.972996243
+  }
+  junction_polygon {
+    x: 499943.93161874835
+    y: 4395846.712043222
+  }
+  junction_polygon {
+    x: 499951.9672488958
+    y: 4395846.163810391
+  }
+  junction_polygon {
+    x: 499955.04438789823
+    y: 4395845.953874065
+  }
+  junction_polygon {
+    x: 499958.03617324855
+    y: 4395845.749762154
+  }
+  junction_polygon {
+    x: 499961.02428056364
+    y: 4395845.545902353
+  }
+  junction_polygon {
+    x: 499964.09336217184
+    y: 4395845.336519396
+  }
+  junction_polygon {
+    x: 499968.3327951909
+    y: 4395845.047293217
+  }
+  junction_polygon {
+    x: 499976.40836033213
+    y: 4395851.608400351
+  }
+  junction_polygon {
+    x: 499977.06079074636
+    y: 4395856.234131753
+  }
+  junction_polygon {
+    x: 499977.5205700577
+    y: 4395859.493970416
+  }
+  junction_polygon {
+    x: 499977.5503714638
+    y: 4395859.705262664
+  }
+  junction_polygon {
+    x: 499977.96763939474
+    y: 4395862.663697833
+  }
+  junction_polygon {
+    x: 499978.6233606568
+    y: 4395867.312774984
+  }
+  junction_polygon {
+    x: 499977.42651313916
+    y: 4395872.36867405
+  }
+  junction_polygon {
+    x: 499972.32428966416
+    y: 4395873.757704325
+  }
+  junction_polygon {
+    x: 499968.1675437999
+    y: 4395874.474971975
+  }
+  junction_polygon {
+    x: 499964.4403598171
+    y: 4395875.118118547
+  }
+  junction_polygon {
+    x: 499960.7570902611
+    y: 4395875.753689344
+  }
+  junction_polygon {
+    x: 499956.98395252845
+    y: 4395876.404769394
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 4
+  junction_polygon {
+    x: 500229.142406867
+    y: 4393264.562182024
+  }
+  junction_polygon {
+    x: 500225.11103043053
+    y: 4393264.798517541
+  }
+  junction_polygon {
+    x: 500217.4265131988
+    y: 4393257.624152374
+  }
+  junction_polygon {
+    x: 500217.156176596
+    y: 4393254.226620852
+  }
+  junction_polygon {
+    x: 500216.9951498519
+    y: 4393252.202873277
+  }
+  junction_polygon {
+    x: 500216.6884712728
+    y: 4393248.348609446
+  }
+  junction_polygon {
+    x: 500216.40118718176
+    y: 4393244.738094496
+  }
+  junction_polygon {
+    x: 500216.0916096411
+    y: 4393240.847404817
+  }
+  junction_polygon {
+    x: 500216.0614167009
+    y: 4393240.467948067
+  }
+  junction_polygon {
+    x: 500215.7576972266
+    y: 4393236.650885293
+  }
+  junction_polygon {
+    x: 500215.46208673273
+    y: 4393232.935737632
+  }
+  junction_polygon {
+    x: 500215.15631269244
+    y: 4393229.092861235
+  }
+  junction_polygon {
+    x: 500215.02171111037
+    y: 4393227.401230211
+  }
+  junction_polygon {
+    x: 500214.7414793018
+    y: 4393223.879365886
+  }
+  junction_polygon {
+    x: 500244.5599306709
+    y: 4393221.745321856
+  }
+  junction_polygon {
+    x: 500244.8218963746
+    y: 4393225.054754181
+  }
+  junction_polygon {
+    x: 500244.96842974925
+    y: 4393226.905922508
+  }
+  junction_polygon {
+    x: 500245.272854371
+    y: 4393230.751746984
+  }
+  junction_polygon {
+    x: 500245.56657518033
+    y: 4393234.462352913
+  }
+  junction_polygon {
+    x: 500245.87205395993
+    y: 4393238.3215023205
+  }
+  junction_polygon {
+    x: 500245.9067443412
+    y: 4393238.7597502535
+  }
+  junction_polygon {
+    x: 500246.2069058988
+    y: 4393242.551730802
+  }
+  junction_polygon {
+    x: 500246.4997202498
+    y: 4393246.25089681
+  }
+  junction_polygon {
+    x: 500246.79950425355
+    y: 4393250.03811513
+  }
+  junction_polygon {
+    x: 500246.95077988907
+    y: 4393251.949205383
+  }
+  junction_polygon {
+    x: 500247.2243797733
+    y: 4393255.405640664
+  }
+  junction_polygon {
+    x: 500240.83305128926
+    y: 4393263.876841405
+  }
+  junction_polygon {
+    x: 500236.70598992857
+    y: 4393264.118780068
+  }
+  junction_polygon {
+    x: 500233.3743192503
+    y: 4393264.314092569
+  }
+  junction_polygon {
+    x: 500233.1809108346
+    y: 4393264.325430795
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 36
+  stop_line_ids: 38
+  stop_line_ids: 39
+  stop_line_ids: 49
+  cross_walk_ids: 46
+  cross_walk_ids: 45
+  cross_walk_ids: 44
+  cross_walk_ids: 47
+  traffic_light_ids: 34
+  traffic_light_ids: 35
+  traffic_light_ids: 32
+  traffic_light_ids: 33
+}
+junctions {
+  id: 6
+  junction_polygon {
+    x: 499657.6619217174
+    y: 4393306.400182169
+  }
+  junction_polygon {
+    x: 499654.3256599385
+    y: 4393306.641989922
+  }
+  junction_polygon {
+    x: 499651.0845141371
+    y: 4393306.8769052
+  }
+  junction_polygon {
+    x: 499647.8276342291
+    y: 4393307.112962257
+  }
+  junction_polygon {
+    x: 499644.3608541025
+    y: 4393307.3642343115
+  }
+  junction_polygon {
+    x: 499640.0487498596
+    y: 4393307.676777621
+  }
+  junction_polygon {
+    x: 499636.2682029587
+    y: 4393299.663202864
+  }
+  junction_polygon {
+    x: 499635.97559880035
+    y: 4393296.31725288
+  }
+  junction_polygon {
+    x: 499635.8171052507
+    y: 4393294.504868749
+  }
+  junction_polygon {
+    x: 499635.4835931799
+    y: 4393290.691139173
+  }
+  junction_polygon {
+    x: 499635.15779892256
+    y: 4393286.965666933
+  }
+  junction_polygon {
+    x: 499634.84675509203
+    y: 4393283.408869876
+  }
+  junction_polygon {
+    x: 499634.81374086
+    y: 4393283.031351164
+  }
+  junction_polygon {
+    x: 499634.4634228887
+    y: 4393279.025457345
+  }
+  junction_polygon {
+    x: 499634.1313934445
+    y: 4393275.2286971
+  }
+  junction_polygon {
+    x: 499633.7984642947
+    y: 4393271.421652503
+  }
+  junction_polygon {
+    x: 499633.62485802564
+    y: 4393269.436466445
+  }
+  junction_polygon {
+    x: 499633.3282788173
+    y: 4393266.045088356
+  }
+  junction_polygon {
+    x: 499642.49924981344
+    y: 4393257.670341797
+  }
+  junction_polygon {
+    x: 499647.22807763267
+    y: 4393257.285086269
+  }
+  junction_polygon {
+    x: 499648.9710168549
+    y: 4393257.143090515
+  }
+  junction_polygon {
+    x: 499652.76330513845
+    y: 4393256.83413745
+  }
+  junction_polygon {
+    x: 499656.73412036925
+    y: 4393256.510642045
+  }
+  junction_polygon {
+    x: 499656.9594247874
+    y: 4393256.4922869485
+  }
+  junction_polygon {
+    x: 499660.94712279283
+    y: 4393256.167418338
+  }
+  junction_polygon {
+    x: 499664.77498171
+    y: 4393255.855572587
+  }
+  junction_polygon {
+    x: 499666.4156467491
+    y: 4393255.721890156
+  }
+  junction_polygon {
+    x: 499671.0807904049
+    y: 4393255.341773216
+  }
+  junction_polygon {
+    x: 499683.5159107469
+    y: 4393262.428268801
+  }
+  junction_polygon {
+    x: 499683.7712294004
+    y: 4393265.871215566
+  }
+  junction_polygon {
+    x: 499683.9142511441
+    y: 4393267.799850964
+  }
+  junction_polygon {
+    x: 499684.2014540215
+    y: 4393271.672758981
+  }
+  junction_polygon {
+    x: 499684.47952408553
+    y: 4393275.422515497
+  }
+  junction_polygon {
+    x: 499684.76381281426
+    y: 4393279.2561341
+  }
+  junction_polygon {
+    x: 499684.7882322848
+    y: 4393279.585429558
+  }
+  junction_polygon {
+    x: 499685.06664115295
+    y: 4393283.339762621
+  }
+  junction_polygon {
+    x: 499685.34815675416
+    y: 4393287.135993591
+  }
+  junction_polygon {
+    x: 499685.62999293715
+    y: 4393290.9365513725
+  }
+  junction_polygon {
+    x: 499685.7671840911
+    y: 4393292.786573928
+  }
+  junction_polygon {
+    x: 499686.02431773115
+    y: 4393296.254023187
+  }
+  junction_polygon {
+    x: 499680.1881779264
+    y: 4393304.720881538
+  }
+  junction_polygon {
+    x: 499676.00583697774
+    y: 4393305.004388285
+  }
+  junction_polygon {
+    x: 499672.2797774563
+    y: 4393305.2569671925
+  }
+  junction_polygon {
+    x: 499668.5554753151
+    y: 4393305.50942879
+  }
+  junction_polygon {
+    x: 499664.7567312899
+    y: 4393305.766938486
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 18
+  stop_line_ids: 23
+  stop_line_ids: 24
+  stop_line_ids: 26
+  cross_walk_ids: 31
+  cross_walk_ids: 32
+  cross_walk_ids: 33
+  cross_walk_ids: 34
+  traffic_light_ids: 47
+  traffic_light_ids: 44
+  traffic_light_ids: 46
+  traffic_light_ids: 45
+}
+junctions {
+  id: 10
+  junction_polygon {
+    x: 499843.31929320353
+    y: 4395112.6097034365
+  }
+  junction_polygon {
+    x: 499840.17356750584
+    y: 4395112.824155684
+  }
+  junction_polygon {
+    x: 499836.8816327399
+    y: 4395113.04857678
+  }
+  junction_polygon {
+    x: 499833.6130675588
+    y: 4395113.271406101
+  }
+  junction_polygon {
+    x: 499830.32641830354
+    y: 4395113.495469703
+  }
+  junction_polygon {
+    x: 499826.20206684835
+    y: 4395113.776644702
+  }
+  junction_polygon {
+    x: 499819.3504488513
+    y: 4395114.068586107
+  }
+  junction_polygon {
+    x: 499818.346626679
+    y: 4395107.095157398
+  }
+  junction_polygon {
+    x: 499817.89063602086
+    y: 4395103.720040297
+  }
+  junction_polygon {
+    x: 499817.39751026663
+    y: 4395100.070062842
+  }
+  junction_polygon {
+    x: 499816.9040611684
+    y: 4395096.417695571
+  }
+  junction_polygon {
+    x: 499816.4167714951
+    y: 4395092.810921963
+  }
+  junction_polygon {
+    x: 499816.372863274
+    y: 4395092.48592665
+  }
+  junction_polygon {
+    x: 499815.9689083663
+    y: 4395089.495975166
+  }
+  junction_polygon {
+    x: 499815.5654222461
+    y: 4395086.5094958125
+  }
+  junction_polygon {
+    x: 499815.1434349623
+    y: 4395083.386079246
+  }
+  junction_polygon {
+    x: 499814.7423356697
+    y: 4395080.417271252
+  }
+  junction_polygon {
+    x: 499814.35047566216
+    y: 4395077.516851685
+  }
+  junction_polygon {
+    x: 499820.5743047042
+    y: 4395070.038160394
+  }
+  junction_polygon {
+    x: 499824.6558715082
+    y: 4395069.647868173
+  }
+  junction_polygon {
+    x: 499828.1815782975
+    y: 4395069.310730792
+  }
+  junction_polygon {
+    x: 499831.84727173316
+    y: 4395068.96020929
+  }
+  junction_polygon {
+    x: 499835.84089468286
+    y: 4395068.578332415
+  }
+  junction_polygon {
+    x: 499844.0928816242
+    y: 4395068.044954355
+  }
+  junction_polygon {
+    x: 499847.19205158425
+    y: 4395067.82995812
+  }
+  junction_polygon {
+    x: 499850.1066969697
+    y: 4395067.627763934
+  }
+  junction_polygon {
+    x: 499853.1261523672
+    y: 4395067.418300054
+  }
+  junction_polygon {
+    x: 499856.19919988996
+    y: 4395067.20511964
+  }
+  junction_polygon {
+    x: 499860.32477753423
+    y: 4395066.918926096
+  }
+  junction_polygon {
+    x: 499868.64556596027
+    y: 4395073.441863515
+  }
+  junction_polygon {
+    x: 499869.0881805106
+    y: 4395076.963657928
+  }
+  junction_polygon {
+    x: 499869.5250891957
+    y: 4395080.44005517
+  }
+  junction_polygon {
+    x: 499869.9969402961
+    y: 4395084.194485967
+  }
+  junction_polygon {
+    x: 499870.4691256899
+    y: 4395087.951580236
+  }
+  junction_polygon {
+    x: 499870.5131033699
+    y: 4395088.301502999
+  }
+  junction_polygon {
+    x: 499870.8778665188
+    y: 4395091.203860643
+  }
+  junction_polygon {
+    x: 499871.27527255076
+    y: 4395094.365954707
+  }
+  junction_polygon {
+    x: 499871.6522309442
+    y: 4395097.3653527945
+  }
+  junction_polygon {
+    x: 499872.0362843413
+    y: 4395100.421207027
+  }
+  junction_polygon {
+    x: 499872.47053016006
+    y: 4395103.87643763
+  }
+  junction_polygon {
+    x: 499872.97129270405
+    y: 4395108.983906455
+  }
+  junction_polygon {
+    x: 499865.84937945707
+    y: 4395110.203802914
+  }
+  junction_polygon {
+    x: 499861.89635928575
+    y: 4395110.711397369
+  }
+  junction_polygon {
+    x: 499858.04619031725
+    y: 4395111.205787048
+  }
+  junction_polygon {
+    x: 499854.3112094851
+    y: 4395111.685387636
+  }
+  junction_polygon {
+    x: 499850.4913579639
+    y: 4395112.175888108
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 1003
+  junction_polygon {
+    x: 499846.2619389806
+    y: 4391517.429669928
+  }
+  junction_polygon {
+    x: 499843.31031896744
+    y: 4391519.491656649
+  }
+  junction_polygon {
+    x: 499833.0225684779
+    y: 4391504.525699534
+  }
+  junction_polygon {
+    x: 499836.0620102331
+    y: 4391502.40100462
+  }
+  junction_polygon {
+    x: 499839.04450546886
+    y: 4391500.316119983
+  }
+  junction_polygon {
+    x: 499841.7185756705
+    y: 4391498.446838848
+  }
+  junction_polygon {
+    x: 499845.55717162136
+    y: 4391495.763511244
+  }
+  junction_polygon {
+    x: 499855.37782898475
+    y: 4391499.6388341235
+  }
+  junction_polygon {
+    x: 499857.1703502765
+    y: 4391501.86922043
+  }
+  junction_polygon {
+    x: 499857.29460924363
+    y: 4391502.02380498
+  }
+  junction_polygon {
+    x: 499859.10857925384
+    y: 4391504.280453998
+  }
+  junction_polygon {
+    x: 499856.03011813597
+    y: 4391510.605665957
+  }
+  junction_polygon {
+    x: 499852.02087307884
+    y: 4391513.4065143205
+  }
+  junction_polygon {
+    x: 499849.15027643385
+    y: 4391515.411894245
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 73
+  stop_line_ids: 78
+  stop_line_ids: 75
+  stop_line_ids: 80
+  stop_line_ids: 85
+  cross_walk_ids: 65
+  cross_walk_ids: 66
+  traffic_light_ids: 14
+  traffic_light_ids: 15
+  traffic_light_ids: 13
+}
+junctions {
+  id: 11
+  junction_polygon {
+    x: 499911.98015778523
+    y: 4395610.045005687
+  }
+  junction_polygon {
+    x: 499908.8585110778
+    y: 4395610.256794267
+  }
+  junction_polygon {
+    x: 499905.72915779805
+    y: 4395610.469106969
+  }
+  junction_polygon {
+    x: 499902.6534320677
+    y: 4395610.677782545
+  }
+  junction_polygon {
+    x: 499899.5777176431
+    y: 4395610.886458597
+  }
+  junction_polygon {
+    x: 499895.1177030197
+    y: 4395611.189056591
+  }
+  junction_polygon {
+    x: 499889.6695236341
+    y: 4395609.975843876
+  }
+  junction_polygon {
+    x: 499887.07224081137
+    y: 4395603.17291022
+  }
+  junction_polygon {
+    x: 499886.08501098515
+    y: 4395596.420431512
+  }
+  junction_polygon {
+    x: 499886.0518110515
+    y: 4395596.193350004
+  }
+  junction_polygon {
+    x: 499885.06144787825
+    y: 4395589.4194523
+  }
+  junction_polygon {
+    x: 499886.6912258116
+    y: 4395582.880903133
+  }
+  junction_polygon {
+    x: 499890.8660993652
+    y: 4395581.310034423
+  }
+  junction_polygon {
+    x: 499895.31827027997
+    y: 4395580.762810555
+  }
+  junction_polygon {
+    x: 499899.0677478592
+    y: 4395580.30195798
+  }
+  junction_polygon {
+    x: 499902.89799031476
+    y: 4395579.83118043
+  }
+  junction_polygon {
+    x: 499906.5908221199
+    y: 4395579.377293916
+  }
+  junction_polygon {
+    x: 499914.67693890864
+    y: 4395578.776638943
+  }
+  junction_polygon {
+    x: 499917.8829282989
+    y: 4395578.543272054
+  }
+  junction_polygon {
+    x: 499920.7238599864
+    y: 4395578.336479154
+  }
+  junction_polygon {
+    x: 499923.8166133205
+    y: 4395578.111357237
+  }
+  junction_polygon {
+    x: 499926.80225267314
+    y: 4395577.894033366
+  }
+  junction_polygon {
+    x: 499931.1238097188
+    y: 4395577.579470507
+  }
+  junction_polygon {
+    x: 499936.2958294259
+    y: 4395580.926112939
+  }
+  junction_polygon {
+    x: 499939.51620076917
+    y: 4395585.348198741
+  }
+  junction_polygon {
+    x: 499940.3538615724
+    y: 4395591.676073479
+  }
+  junction_polygon {
+    x: 499940.37832976977
+    y: 4395591.860911873
+  }
+  junction_polygon {
+    x: 499941.3287113621
+    y: 4395599.040317327
+  }
+  junction_polygon {
+    x: 499935.1662988643
+    y: 4395608.106323282
+  }
+  junction_polygon {
+    x: 499931.18344944395
+    y: 4395608.629135541
+  }
+  junction_polygon {
+    x: 499927.3711681199
+    y: 4395609.129560039
+  }
+  junction_polygon {
+    x: 499923.76581728563
+    y: 4395609.60282331
+  }
+  junction_polygon {
+    x: 499919.9087089394
+    y: 4395610.109135946
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 13
+  junction_polygon {
+    x: 500030.1772912031
+    y: 4396435.436502368
+  }
+  junction_polygon {
+    x: 500026.99125974526
+    y: 4396435.673009708
+  }
+  junction_polygon {
+    x: 500023.7918871144
+    y: 4396435.910508759
+  }
+  junction_polygon {
+    x: 500020.53133870586
+    y: 4396436.152550445
+  }
+  junction_polygon {
+    x: 500016.36939341214
+    y: 4396436.4615079295
+  }
+  junction_polygon {
+    x: 499994.7693468956
+    y: 4396430.617461378
+  }
+  junction_polygon {
+    x: 499994.431985895
+    y: 4396427.122779134
+  }
+  junction_polygon {
+    x: 499994.12680049374
+    y: 4396423.9614032
+  }
+  junction_polygon {
+    x: 499993.78507791896
+    y: 4396420.421546468
+  }
+  junction_polygon {
+    x: 499993.44989895064
+    y: 4396416.949477023
+  }
+  junction_polygon {
+    x: 499993.36402823165
+    y: 4396416.059955561
+  }
+  junction_polygon {
+    x: 499993.0462269212
+    y: 4396412.767902654
+  }
+  junction_polygon {
+    x: 499992.7281914595
+    y: 4396409.473427043
+  }
+  junction_polygon {
+    x: 499992.4153898814
+    y: 4396406.233170772
+  }
+  junction_polygon {
+    x: 499992.09548632224
+    y: 4396402.919349676
+  }
+  junction_polygon {
+    x: 499991.732794801
+    y: 4396399.162299453
+  }
+  junction_polygon {
+    x: 499999.9601467815
+    y: 4396393.340955869
+  }
+  junction_polygon {
+    x: 500009.52525902656
+    y: 4396391.084388553
+  }
+  junction_polygon {
+    x: 500013.216876643
+    y: 4396390.568823772
+  }
+  junction_polygon {
+    x: 500016.93295244436
+    y: 4396390.049845058
+  }
+  junction_polygon {
+    x: 500020.62228797545
+    y: 4396389.53460272
+  }
+  junction_polygon {
+    x: 500024.453869901
+    y: 4396388.999496554
+  }
+  junction_polygon {
+    x: 500031.58893988037
+    y: 4396389.016501872
+  }
+  junction_polygon {
+    x: 500034.8041845328
+    y: 4396388.84495001
+  }
+  junction_polygon {
+    x: 500038.01204184646
+    y: 4396388.673793676
+  }
+  junction_polygon {
+    x: 500041.4252931267
+    y: 4396388.491679921
+  }
+  junction_polygon {
+    x: 500044.635431272
+    y: 4396388.320404669
+  }
+  junction_polygon {
+    x: 500049.22568111325
+    y: 4396388.012892671
+  }
+  junction_polygon {
+    x: 500062.19333293266
+    y: 4396396.067692726
+  }
+  junction_polygon {
+    x: 500062.71439682064
+    y: 4396398.837656167
+  }
+  junction_polygon {
+    x: 500063.33476458275
+    y: 4396402.135519465
+  }
+  junction_polygon {
+    x: 500063.94585158007
+    y: 4396405.3840491185
+  }
+  junction_polygon {
+    x: 500064.54606407543
+    y: 4396408.57477276
+  }
+  junction_polygon {
+    x: 500064.60658950015
+    y: 4396408.896525573
+  }
+  junction_polygon {
+    x: 500065.1944961147
+    y: 4396412.021834169
+  }
+  junction_polygon {
+    x: 500065.73121364624
+    y: 4396414.875024253
+  }
+  junction_polygon {
+    x: 500066.2849290916
+    y: 4396417.818577444
+  }
+  junction_polygon {
+    x: 500066.86319361837
+    y: 4396420.892636143
+  }
+  junction_polygon {
+    x: 500067.41508678306
+    y: 4396423.826506777
+  }
+  junction_polygon {
+    x: 500061.27828469116
+    y: 4396431.479191316
+  }
+  junction_polygon {
+    x: 500056.08113795856
+    y: 4396431.813031165
+  }
+  junction_polygon {
+    x: 500051.9617938822
+    y: 4396432.472675161
+  }
+  junction_polygon {
+    x: 500048.2653672736
+    y: 4396433.064597968
+  }
+  junction_polygon {
+    x: 500044.5694545359
+    y: 4396433.656440364
+  }
+  junction_polygon {
+    x: 500040.76737092435
+    y: 4396434.26528633
+  }
+  junction_polygon {
+    x: 500033.5265857632
+    y: 4396435.187877015
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 14
+  junction_polygon {
+    x: 500154.66273100884
+    y: 4397163.078163405
+  }
+  junction_polygon {
+    x: 500151.51565363095
+    y: 4397163.904082823
+  }
+  junction_polygon {
+    x: 500148.4142499585
+    y: 4397164.718017048
+  }
+  junction_polygon {
+    x: 500145.22914520744
+    y: 4397165.553919339
+  }
+  junction_polygon {
+    x: 500141.3218287381
+    y: 4397166.5793617
+  }
+  junction_polygon {
+    x: 500129.58752752055
+    y: 4397169.593829981
+  }
+  junction_polygon {
+    x: 500127.79223064973
+    y: 4397162.338864659
+  }
+  junction_polygon {
+    x: 500127.3358925513
+    y: 4397160.896194534
+  }
+  junction_polygon {
+    x: 500126.3839791938
+    y: 4397157.886811441
+  }
+  junction_polygon {
+    x: 500125.3643665805
+    y: 4397154.663406366
+  }
+  junction_polygon {
+    x: 500124.2741187872
+    y: 4397151.216692693
+  }
+  junction_polygon {
+    x: 500124.4744296498
+    y: 4397150.786026557
+  }
+  junction_polygon {
+    x: 500123.84213323647
+    y: 4397147.327010363
+  }
+  junction_polygon {
+    x: 500123.22604603815
+    y: 4397143.95667089
+  }
+  junction_polygon {
+    x: 500122.643297192
+    y: 4397140.768713344
+  }
+  junction_polygon {
+    x: 500122.17632107355
+    y: 4397138.214098495
+  }
+  junction_polygon {
+    x: 500126.07046888233
+    y: 4397130.905420944
+  }
+  junction_polygon {
+    x: 500134.69002645503
+    y: 4397125.603482492
+  }
+  junction_polygon {
+    x: 500138.6605696757
+    y: 4397124.915516201
+  }
+  junction_polygon {
+    x: 500142.34420517203
+    y: 4397124.277263652
+  }
+  junction_polygon {
+    x: 500146.0584510824
+    y: 4397123.633709229
+  }
+  junction_polygon {
+    x: 500149.801818555
+    y: 4397122.985110937
+  }
+  junction_polygon {
+    x: 500157.7651048785
+    y: 4397121.699603918
+  }
+  junction_polygon {
+    x: 500160.786343575
+    y: 4397121.036355952
+  }
+  junction_polygon {
+    x: 500163.69766999973
+    y: 4397120.397238092
+  }
+  junction_polygon {
+    x: 500166.62993565353
+    y: 4397119.753524713
+  }
+  junction_polygon {
+    x: 500169.585195907
+    y: 4397119.104764616
+  }
+  junction_polygon {
+    x: 500173.66207302077
+    y: 4397118.209781135
+  }
+  junction_polygon {
+    x: 500186.37170334405
+    y: 4397123.775036926
+  }
+  junction_polygon {
+    x: 500186.96841292264
+    y: 4397126.7237175405
+  }
+  junction_polygon {
+    x: 500187.7567693737
+    y: 4397130.61892047
+  }
+  junction_polygon {
+    x: 500188.4580899357
+    y: 4397134.084089681
+  }
+  junction_polygon {
+    x: 500187.70041682187
+    y: 4397134.858618055
+  }
+  junction_polygon {
+    x: 500188.2718710702
+    y: 4397137.579308656
+  }
+  junction_polygon {
+    x: 500188.88293502433
+    y: 4397140.488583119
+  }
+  junction_polygon {
+    x: 500189.4799562655
+    y: 4397143.331002352
+  }
+  junction_polygon {
+    x: 500189.9004924576
+    y: 4397145.333177306
+  }
+  junction_polygon {
+    x: 500180.2908244701
+    y: 4397157.725101751
+  }
+  junction_polygon {
+    x: 500176.22785760113
+    y: 4397158.413426005
+  }
+  junction_polygon {
+    x: 500172.42232343135
+    y: 4397159.058139569
+  }
+  junction_polygon {
+    x: 500168.74794682034
+    y: 4397159.680634987
+  }
+  junction_polygon {
+    x: 500164.9591844182
+    y: 4397160.322511076
+  }
+  junction_polygon {
+    x: 500157.912854741
+    y: 4397162.225202031
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 1004
+  junction_polygon {
+    x: 500236.8882858513
+    y: 4392084.890714563
+  }
+  junction_polygon {
+    x: 500233.94860194647
+    y: 4392086.896800565
+  }
+  junction_polygon {
+    x: 500221.85412725806
+    y: 4392069.4188851025
+  }
+  junction_polygon {
+    x: 500224.81221033225
+    y: 4392067.4118367005
+  }
+  junction_polygon {
+    x: 500227.7112909189
+    y: 4392065.444823394
+  }
+  junction_polygon {
+    x: 500230.6438618488
+    y: 4392063.455089175
+  }
+  junction_polygon {
+    x: 500234.717403968
+    y: 4392060.6912013935
+  }
+  junction_polygon {
+    x: 500245.7003661264
+    y: 4392054.559785227
+  }
+  junction_polygon {
+    x: 500248.12883180357
+    y: 4392057.905326985
+  }
+  junction_polygon {
+    x: 500250.0578827013
+    y: 4392075.90349923
+  }
+  junction_polygon {
+    x: 500245.41381209367
+    y: 4392079.0727752
+  }
+  junction_polygon {
+    x: 500242.7152320459
+    y: 4392080.91432231
+  }
+  junction_polygon {
+    x: 500239.7571271653
+    y: 4392082.932974742
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 65
+  stop_line_ids: 74
+  stop_line_ids: 67
+  stop_line_ids: 71
+  stop_line_ids: 72
+  stop_line_ids: 76
+  cross_walk_ids: 63
+  cross_walk_ids: 61
+  cross_walk_ids: 62
+  cross_walk_ids: 64
+  traffic_light_ids: 18
+  traffic_light_ids: 16
+  traffic_light_ids: 19
+  traffic_light_ids: 17
+}
+junctions {
+  id: 15
+  junction_polygon {
+    x: 500249.9973936541
+    y: 4397733.097088279
+  }
+  junction_polygon {
+    x: 500246.66729822697
+    y: 4397733.209722362
+  }
+  junction_polygon {
+    x: 500243.44494311226
+    y: 4397733.318713724
+  }
+  junction_polygon {
+    x: 500240.17115274665
+    y: 4397733.429446211
+  }
+  junction_polygon {
+    x: 500236.9187580132
+    y: 4397733.539456373
+  }
+  junction_polygon {
+    x: 500232.5925422838
+    y: 4397733.685789987
+  }
+  junction_polygon {
+    x: 500226.3085854738
+    y: 4397729.357306612
+  }
+  junction_polygon {
+    x: 500222.61705942615
+    y: 4397722.368635149
+  }
+  junction_polygon {
+    x: 500221.8230063935
+    y: 4397717.79606068
+  }
+  junction_polygon {
+    x: 500221.2726794684
+    y: 4397714.6269923905
+  }
+  junction_polygon {
+    x: 500221.2428158085
+    y: 4397714.455022063
+  }
+  junction_polygon {
+    x: 500220.6933782146
+    y: 4397711.291077768
+  }
+  junction_polygon {
+    x: 500219.8968133657
+    y: 4397706.704052389
+  }
+  junction_polygon {
+    x: 500219.3764992129
+    y: 4397700.175764264
+  }
+  junction_polygon {
+    x: 500226.6973884823
+    y: 4397697.813814339
+  }
+  junction_polygon {
+    x: 500230.73983421206
+    y: 4397697.177075447
+  }
+  junction_polygon {
+    x: 500234.52507516346
+    y: 4397696.580851728
+  }
+  junction_polygon {
+    x: 500238.2459012766
+    y: 4397695.994776096
+  }
+  junction_polygon {
+    x: 500242.03464173985
+    y: 4397695.398005058
+  }
+  junction_polygon {
+    x: 500250.02672835067
+    y: 4397694.275532973
+  }
+  junction_polygon {
+    x: 500253.0992352007
+    y: 4397693.853133188
+  }
+  junction_polygon {
+    x: 500256.0805390121
+    y: 4397693.443272987
+  }
+  junction_polygon {
+    x: 500259.0514285519
+    y: 4397693.034845706
+  }
+  junction_polygon {
+    x: 500262.1235315329
+    y: 4397692.612505195
+  }
+  junction_polygon {
+    x: 500266.20410197385
+    y: 4397692.051526574
+  }
+  junction_polygon {
+    x: 500272.852183966
+    y: 4397693.377300899
+  }
+  junction_polygon {
+    x: 500278.2770606911
+    y: 4397699.422619468
+  }
+  junction_polygon {
+    x: 500278.3184037474
+    y: 4397703.34687688
+  }
+  junction_polygon {
+    x: 500278.3551150852
+    y: 4397706.831493465
+  }
+  junction_polygon {
+    x: 500278.3913513148
+    y: 4397710.270139989
+  }
+  junction_polygon {
+    x: 500278.2645322824
+    y: 4397710.464372056
+  }
+  junction_polygon {
+    x: 500278.711884926
+    y: 4397713.363095251
+  }
+  junction_polygon {
+    x: 500279.17187082075
+    y: 4397716.343680737
+  }
+  junction_polygon {
+    x: 500279.63987420005
+    y: 4397719.376219795
+  }
+  junction_polygon {
+    x: 500279.9361980998
+    y: 4397721.296322239
+  }
+  junction_polygon {
+    x: 500278.7642354457
+    y: 4397730.547411492
+  }
+  junction_polygon {
+    x: 500272.3520779957
+    y: 4397730.866733941
+  }
+  junction_polygon {
+    x: 500268.3442108842
+    y: 4397731.515850762
+  }
+  junction_polygon {
+    x: 500264.54643124354
+    y: 4397732.130943698
+  }
+  junction_polygon {
+    x: 500260.84862662974
+    y: 4397732.729846475
+  }
+  junction_polygon {
+    x: 500257.06111922435
+    y: 4397733.3432775345
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 16
+  junction_polygon {
+    x: 500329.3903030068
+    y: 4398263.3623284595
+  }
+  junction_polygon {
+    x: 500326.1411655797
+    y: 4398263.463898653
+  }
+  junction_polygon {
+    x: 500322.98227975087
+    y: 4398263.562648848
+  }
+  junction_polygon {
+    x: 500319.5142035701
+    y: 4398263.671066151
+  }
+  junction_polygon {
+    x: 500315.5503626978
+    y: 4398263.794983731
+  }
+  junction_polygon {
+    x: 500306.9382711095
+    y: 4398261.41494561
+  }
+  junction_polygon {
+    x: 500300.8165027526
+    y: 4398255.806532968
+  }
+  junction_polygon {
+    x: 500300.764575999
+    y: 4398253.305667767
+  }
+  junction_polygon {
+    x: 500301.2023788448
+    y: 4398251.966674112
+  }
+  junction_polygon {
+    x: 500300.5115944723
+    y: 4398248.110620547
+  }
+  junction_polygon {
+    x: 500299.842954731
+    y: 4398244.378185224
+  }
+  junction_polygon {
+    x: 500299.78431008407
+    y: 4398244.050823205
+  }
+  junction_polygon {
+    x: 500299.11262643826
+    y: 4398240.301400364
+  }
+  junction_polygon {
+    x: 500298.4013320938
+    y: 4398236.330869802
+  }
+  junction_polygon {
+    x: 500298.10593080724
+    y: 4398234.982448271
+  }
+  junction_polygon {
+    x: 500297.82047646906
+    y: 4398232.518127767
+  }
+  junction_polygon {
+    x: 500297.07453729294
+    y: 4398226.193051794
+  }
+  junction_polygon {
+    x: 500309.5411857838
+    y: 4398224.050896482
+  }
+  junction_polygon {
+    x: 500313.6811939563
+    y: 4398223.752896755
+  }
+  junction_polygon {
+    x: 500317.50375309313
+    y: 4398223.477749174
+  }
+  junction_polygon {
+    x: 500321.2842559936
+    y: 4398223.20563067
+  }
+  junction_polygon {
+    x: 500325.1401732549
+    y: 4398222.928085821
+  }
+  junction_polygon {
+    x: 500333.0995896457
+    y: 4398222.355181671
+  }
+  junction_polygon {
+    x: 500336.1878287263
+    y: 4398222.132898134
+  }
+  junction_polygon {
+    x: 500339.19459557993
+    y: 4398221.916479956
+  }
+  junction_polygon {
+    x: 500342.20536503044
+    y: 4398221.699774885
+  }
+  junction_polygon {
+    x: 500345.3397570887
+    y: 4398221.47417315
+  }
+  junction_polygon {
+    x: 500349.3413070454
+    y: 4398221.186158509
+  }
+  junction_polygon {
+    x: 500361.0255071651
+    y: 4398231.319220988
+  }
+  junction_polygon {
+    x: 500361.131047018
+    y: 4398236.073160015
+  }
+  junction_polygon {
+    x: 500361.20931563753
+    y: 4398239.598697336
+  }
+  junction_polygon {
+    x: 500361.2869070061
+    y: 4398243.093703533
+  }
+  junction_polygon {
+    x: 500361.16964969825
+    y: 4398243.4358073
+  }
+  junction_polygon {
+    x: 500361.65897592105
+    y: 4398246.422943019
+  }
+  junction_polygon {
+    x: 500362.14825090836
+    y: 4398249.409768352
+  }
+  junction_polygon {
+    x: 500362.6349747033
+    y: 4398252.381022093
+  }
+  junction_polygon {
+    x: 500363.09455613245
+    y: 4398255.186584631
+  }
+  junction_polygon {
+    x: 500360.52485055395
+    y: 4398260.139189197
+  }
+  junction_polygon {
+    x: 500355.0491492733
+    y: 4398260.846943015
+  }
+  junction_polygon {
+    x: 500351.26014161174
+    y: 4398261.427269372
+  }
+  junction_polygon {
+    x: 500347.4787834597
+    y: 4398262.006426089
+  }
+  junction_polygon {
+    x: 500343.8114613557
+    y: 4398262.568118792
+  }
+  junction_polygon {
+    x: 500339.9800691837
+    y: 4398263.154942422
+  }
+  junction_polygon {
+    x: 500332.77942007536
+    y: 4398263.256383895
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 19
+  junction_polygon {
+    x: 500150.79236169014
+    y: 4400059.838301824
+  }
+  junction_polygon {
+    x: 500147.59782773774
+    y: 4400060.017710805
+  }
+  junction_polygon {
+    x: 500144.09840916994
+    y: 4400060.214244015
+  }
+  junction_polygon {
+    x: 500140.571490693
+    y: 4400060.412323287
+  }
+  junction_polygon {
+    x: 500129.92639451916
+    y: 4400051.003135672
+  }
+  junction_polygon {
+    x: 500129.36192283727
+    y: 4400047.19090471
+  }
+  junction_polygon {
+    x: 500128.7879192846
+    y: 4400043.314303037
+  }
+  junction_polygon {
+    x: 500128.2236610051
+    y: 4400039.503521099
+  }
+  junction_polygon {
+    x: 500127.5231013519
+    y: 4400034.772217815
+  }
+  junction_polygon {
+    x: 500126.9552026129
+    y: 4400030.936858312
+  }
+  junction_polygon {
+    x: 500126.3863932304
+    y: 4400027.095352595
+  }
+  junction_polygon {
+    x: 500125.81922387355
+    y: 4400023.264926817
+  }
+  junction_polygon {
+    x: 500133.2516993032
+    y: 4400014.492661529
+  }
+  junction_polygon {
+    x: 500137.31287648174
+    y: 4400014.260094179
+  }
+  junction_polygon {
+    x: 500141.16842157877
+    y: 4400014.039304564
+  }
+  junction_polygon {
+    x: 500144.9592462441
+    y: 4400013.82222309
+  }
+  junction_polygon {
+    x: 500148.7136667404
+    y: 4400013.607228151
+  }
+  junction_polygon {
+    x: 500156.71498051187
+    y: 4400013.149043262
+  }
+  junction_polygon {
+    x: 500159.8410945973
+    y: 4400012.9700326575
+  }
+  junction_polygon {
+    x: 500162.81303016574
+    y: 4400012.7998519605
+  }
+  junction_polygon {
+    x: 500165.8238208907
+    y: 4400012.627447501
+  }
+  junction_polygon {
+    x: 500168.7815048005
+    y: 4400012.458085214
+  }
+  junction_polygon {
+    x: 500172.7370948498
+    y: 4400012.231582819
+  }
+  junction_polygon {
+    x: 500179.56621846673
+    y: 4400020.018577621
+  }
+  junction_polygon {
+    x: 500179.2343459942
+    y: 4400023.854595623
+  }
+  junction_polygon {
+    x: 500178.9002543967
+    y: 4400027.716267791
+  }
+  junction_polygon {
+    x: 500178.56168049865
+    y: 4400031.629753684
+  }
+  junction_polygon {
+    x: 500178.14160649554
+    y: 4400036.485283182
+  }
+  junction_polygon {
+    x: 500177.8079357794
+    y: 4400040.3421033155
+  }
+  junction_polygon {
+    x: 500177.4700552898
+    y: 4400044.247587202
+  }
+  junction_polygon {
+    x: 500177.1331682747
+    y: 4400048.1415916905
+  }
+  junction_polygon {
+    x: 500166.03038085543
+    y: 4400058.982534233
+  }
+  junction_polygon {
+    x: 500162.31724105816
+    y: 4400059.191061467
+  }
+  junction_polygon {
+    x: 500158.56346191245
+    y: 4400059.40187281
+  }
+  junction_polygon {
+    x: 500154.82466537354
+    y: 4400059.611844572
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 10006
+}
+junctions {
+  id: 1001
+  junction_polygon {
+    x: 500533.5461390159
+    y: 4392577.876073094
+  }
+  junction_polygon {
+    x: 500518.9070181328
+    y: 4392527.159789193
+  }
+  junction_polygon {
+    x: 500521.5116971359
+    y: 4392525.315189644
+  }
+  junction_polygon {
+    x: 500524.414418925
+    y: 4392523.218797236
+  }
+  junction_polygon {
+    x: 500527.25882067945
+    y: 4392521.183400251
+  }
+  junction_polygon {
+    x: 500530.20189186133
+    y: 4392519.077399599
+  }
+  junction_polygon {
+    x: 500547.5735932006
+    y: 4392542.362802306
+  }
+  junction_polygon {
+    x: 500544.6975328998
+    y: 4392544.579766188
+  }
+  junction_polygon {
+    x: 500541.9299569011
+    y: 4392546.713108954
+  }
+  junction_polygon {
+    x: 500539.08957518335
+    y: 4392548.902574386
+  }
+  junction_polygon {
+    x: 500547.68404894025
+    y: 4392563.214446207
+  }
+  junction_polygon {
+    x: 500546.1525664369
+    y: 4392579.191323949
+  }
+  junction_polygon {
+    x: 500541.14763356134
+    y: 4392578.675649242
+  }
+  junction_polygon {
+    x: 500537.3139296579
+    y: 4392578.272393602
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 1002
+  junction_polygon {
+    x: 499829.4197270528
+    y: 4391530.370557529
+  }
+  junction_polygon {
+    x: 499826.82891947863
+    y: 4391532.659905496
+  }
+  junction_polygon {
+    x: 499824.4980358434
+    y: 4391530.830958906
+  }
+  junction_polygon {
+    x: 499824.3776233317
+    y: 4391530.7364763
+  }
+  junction_polygon {
+    x: 499822.3031923199
+    y: 4391529.108758722
+  }
+  junction_polygon {
+    x: 499821.21792163426
+    y: 4391518.593980343
+  }
+  junction_polygon {
+    x: 499825.5372809
+    y: 4391515.850401388
+  }
+  junction_polygon {
+    x: 499828.39998274785
+    y: 4391514.032067321
+  }
+  junction_polygon {
+    x: 499831.42845246283
+    y: 4391512.108442742
+  }
+  junction_polygon {
+    x: 499834.54038309236
+    y: 4391510.13180767
+  }
+  junction_polygon {
+    x: 499842.1289275661
+    y: 4391521.43827203
+  }
+  junction_polygon {
+    x: 499839.23378099134
+    y: 4391523.473036444
+  }
+  junction_polygon {
+    x: 499836.36015603633
+    y: 4391525.492677204
+  }
+  junction_polygon {
+    x: 499833.472275883
+    y: 4391527.52233896
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 77
+  stop_line_ids: 81
+  stop_line_ids: 79
+  stop_line_ids: 82
+  stop_line_ids: 84
+  stop_line_ids: 87
+  cross_walk_ids: 70
+  cross_walk_ids: 67
+  cross_walk_ids: 68
+  cross_walk_ids: 69
+  traffic_light_ids: 9
+  traffic_light_ids: 10
+  traffic_light_ids: 12
+  traffic_light_ids: 11
+}
+junctions {
+  id: 1005
+  junction_polygon {
+    x: 500584.088528991
+    y: 4392583.78226966
+  }
+  junction_polygon {
+    x: 500556.02122714807
+    y: 4392548.35211031
+  }
+  junction_polygon {
+    x: 500558.79801654763
+    y: 4392546.165993185
+  }
+  junction_polygon {
+    x: 500561.46159709257
+    y: 4392544.069005509
+  }
+  junction_polygon {
+    x: 500564.2971943454
+    y: 4392541.836594538
+  }
+  junction_polygon {
+    x: 500567.86889696063
+    y: 4392539.024665373
+  }
+  junction_polygon {
+    x: 500642.30692573235
+    y: 4392544.064756496
+  }
+  junction_polygon {
+    x: 500642.581722178
+    y: 4392548.07361552
+  }
+  junction_polygon {
+    x: 500642.83538686857
+    y: 4392551.774198405
+  }
+  junction_polygon {
+    x: 500643.06522579887
+    y: 4392555.127202706
+  }
+  junction_polygon {
+    x: 500643.29963820457
+    y: 4392558.546828837
+  }
+  junction_polygon {
+    x: 500643.34336430335
+    y: 4392559.183880353
+  }
+  junction_polygon {
+    x: 500643.58894508
+    y: 4392562.761782554
+  }
+  junction_polygon {
+    x: 500643.828196794
+    y: 4392566.2474788865
+  }
+  junction_polygon {
+    x: 500644.0661438591
+    y: 4392569.714170729
+  }
+  junction_polygon {
+    x: 500644.34743295296
+    y: 4392573.8123241495
+  }
+  junction_polygon {
+    x: 500630.62856766075
+    y: 4392604.5804332215
+  }
+  junction_polygon {
+    x: 500626.83099935536
+    y: 4392608.303103832
+  }
+  junction_polygon {
+    x: 500624.7665928037
+    y: 4392610.326787291
+  }
+  junction_polygon {
+    x: 500622.17478918907
+    y: 4392612.863291443
+  }
+  junction_polygon {
+    x: 500619.6696657386
+    y: 4392615.31496729
+  }
+  junction_polygon {
+    x: 500617.103621135
+    y: 4392617.826266988
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 60
+  stop_line_ids: 63
+  stop_line_ids: 66
+  stop_line_ids: 56
+  stop_line_ids: 59
+  stop_line_ids: 64
+  stop_line_ids: 68
+  cross_walk_ids: 58
+  cross_walk_ids: 59
+  cross_walk_ids: 60
+  traffic_light_ids: 22
+  traffic_light_ids: 20
+  traffic_light_ids: 21
+  traffic_light_ids: 23
+}
+junctions {
+  id: 1006
+  junction_polygon {
+    x: 499954.06593270914
+    y: 4393509.842149289
+  }
+  junction_polygon {
+    x: 499950.0831871798
+    y: 4393510.127403745
+  }
+  junction_polygon {
+    x: 499940.37046552106
+    y: 4393503.032940494
+  }
+  junction_polygon {
+    x: 499940.1159450746
+    y: 4393499.198610017
+  }
+  junction_polygon {
+    x: 499939.8514103299
+    y: 4393495.213418978
+  }
+  junction_polygon {
+    x: 499939.83780267654
+    y: 4393495.008421084
+  }
+  junction_polygon {
+    x: 499939.57829945395
+    y: 4393491.099033742
+  }
+  junction_polygon {
+    x: 499939.3269276976
+    y: 4393487.312149839
+  }
+  junction_polygon {
+    x: 499947.6357360679
+    y: 4393477.004204995
+  }
+  junction_polygon {
+    x: 499951.6323893083
+    y: 4393476.900968718
+  }
+  junction_polygon {
+    x: 499955.34836823615
+    y: 4393476.804984314
+  }
+  junction_polygon {
+    x: 499955.51889008854
+    y: 4393476.800579748
+  }
+  junction_polygon {
+    x: 499959.1556144147
+    y: 4393476.706644327
+  }
+  junction_polygon {
+    x: 499963.1643866895
+    y: 4393476.603101022
+  }
+  junction_polygon {
+    x: 499973.9367129442
+    y: 4393484.6608295925
+  }
+  junction_polygon {
+    x: 499974.2196773851
+    y: 4393488.444283194
+  }
+  junction_polygon {
+    x: 499974.5112162416
+    y: 4393492.349819525
+  }
+  junction_polygon {
+    x: 499974.52579320135
+    y: 4393492.552920727
+  }
+  junction_polygon {
+    x: 499974.82333399134
+    y: 4393496.532816555
+  }
+  junction_polygon {
+    x: 499975.1088699853
+    y: 4393500.360663972
+  }
+  junction_polygon {
+    x: 499965.55887753924
+    y: 4393509.018585761
+  }
+  junction_polygon {
+    x: 499961.56326976063
+    y: 4393509.3049441725
+  }
+  junction_polygon {
+    x: 499957.93892794196
+    y: 4393509.564666391
+  }
+  junction_polygon {
+    x: 499957.76830007526
+    y: 4393509.576875598
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 25
+  stop_line_ids: 27
+  stop_line_ids: 29
+  stop_line_ids: 32
+  cross_walk_ids: 35
+  cross_walk_ids: 36
+  cross_walk_ids: 37
+  cross_walk_ids: 38
+  traffic_light_ids: 42
+  traffic_light_ids: 43
+  traffic_light_ids: 40
+  traffic_light_ids: 41
+}
+junctions {
+  id: 1007
+  junction_polygon {
+    x: 499720.3369902795
+    y: 4394332.794415762
+  }
+  junction_polygon {
+    x: 499719.377300698
+    y: 4394328.299706424
+  }
+  junction_polygon {
+    x: 499718.6904318024
+    y: 4394325.082756994
+  }
+  junction_polygon {
+    x: 499718.662458522
+    y: 4394324.951744243
+  }
+  junction_polygon {
+    x: 499717.9698102243
+    y: 4394321.707729909
+  }
+  junction_polygon {
+    x: 499716.9895618629
+    y: 4394317.116747142
+  }
+  junction_polygon {
+    x: 499727.3814467822
+    y: 4394305.187433684
+  }
+  junction_polygon {
+    x: 499731.52056672686
+    y: 4394304.599793195
+  }
+  junction_polygon {
+    x: 499735.25489414274
+    y: 4394304.069623582
+  }
+  junction_polygon {
+    x: 499738.9759141266
+    y: 4394303.541345119
+  }
+  junction_polygon {
+    x: 499742.76575172757
+    y: 4394303.003298458
+  }
+  junction_polygon {
+    x: 499748.12385313003
+    y: 4394341.751032196
+  }
+  junction_polygon {
+    x: 499744.3300120385
+    y: 4394342.266455068
+  }
+  junction_polygon {
+    x: 499740.6061257684
+    y: 4394342.772375917
+  }
+  junction_polygon {
+    x: 499736.86935427523
+    y: 4394343.280049221
+  }
+  junction_polygon {
+    x: 499732.7287686588
+    y: 4394343.8425858775
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 3
+  stop_line_ids: 110
+  stop_line_ids: 1
+  stop_line_ids: 4
+  stop_line_ids: 7
+  cross_walk_ids: 12
+  cross_walk_ids: 13
+  cross_walk_ids: 14
+  cross_walk_ids: 15
+  traffic_light_ids: 60
+  traffic_light_ids: 63
+  traffic_light_ids: 62
+  traffic_light_ids: 61
+}
+junctions {
+  id: 1008
+  junction_polygon {
+    x: 499762.836886253
+    y: 4394327.961887599
+  }
+  junction_polygon {
+    x: 499759.14729985344
+    y: 4394328.46077382
+  }
+  junction_polygon {
+    x: 499755.36422517267
+    y: 4394328.97230293
+  }
+  junction_polygon {
+    x: 499752.8753156214
+    y: 4394310.953100529
+  }
+  junction_polygon {
+    x: 499756.6577835646
+    y: 4394310.431366709
+  }
+  junction_polygon {
+    x: 499760.3465026898
+    y: 4394309.922565976
+  }
+  junction_polygon {
+    x: 499764.1376956563
+    y: 4394309.3996325005
+  }
+  junction_polygon {
+    x: 499768.2074066692
+    y: 4394308.838284147
+  }
+  junction_polygon {
+    x: 499775.37274462497
+    y: 4394314.761037932
+  }
+  junction_polygon {
+    x: 499775.8411422851
+    y: 4394317.594591006
+  }
+  junction_polygon {
+    x: 499775.8803453022
+    y: 4394317.831691674
+  }
+  junction_polygon {
+    x: 499776.28508665547
+    y: 4394320.279548162
+  }
+  junction_polygon {
+    x: 499770.69956085196
+    y: 4394326.898744718
+  }
+  junction_polygon {
+    x: 499766.6284262205
+    y: 4394327.449217675
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 2
+  stop_line_ids: 8
+  stop_line_ids: 109
+  stop_line_ids: 112
+  stop_line_ids: 83
+  cross_walk_ids: 97
+  cross_walk_ids: 10
+  cross_walk_ids: 9
+  cross_walk_ids: 11
+  traffic_light_ids: 66
+  traffic_light_ids: 65
+  traffic_light_ids: 64
+}
+junctions {
+  id: 1009
+  junction_polygon {
+    x: 499788.5619892448
+    y: 4394790.865530284
+  }
+  junction_polygon {
+    x: 499779.62220488413
+    y: 4394782.986944658
+  }
+  junction_polygon {
+    x: 499779.37739016075
+    y: 4394777.3709402615
+  }
+  junction_polygon {
+    x: 499779.3706263511
+    y: 4394777.215779831
+  }
+  junction_polygon {
+    x: 499779.10700924095
+    y: 4394771.159447435
+  }
+  junction_polygon {
+    x: 499784.98192694894
+    y: 4394759.861104256
+  }
+  junction_polygon {
+    x: 499789.0730912813
+    y: 4394759.400621152
+  }
+  junction_polygon {
+    x: 499792.86198182654
+    y: 4394758.974162622
+  }
+  junction_polygon {
+    x: 499796.5469608951
+    y: 4394758.559401682
+  }
+  junction_polygon {
+    x: 499800.32897538313
+    y: 4394758.1337208515
+  }
+  junction_polygon {
+    x: 499803.96841037116
+    y: 4394789.328553258
+  }
+  junction_polygon {
+    x: 499800.12977567606
+    y: 4394789.711500638
+  }
+  junction_polygon {
+    x: 499796.4400196659
+    y: 4394790.079597518
+  }
+  junction_polygon {
+    x: 499792.6510395206
+    y: 4394790.457595061
+  }
+  type: UNKNOWN_JUNCTION
+  stop_line_ids: 111
+  stop_line_ids: 28
+  stop_line_ids: 17
+  stop_line_ids: 41
+  cross_walk_ids: 6
+  cross_walk_ids: 4
+  cross_walk_ids: 5
+  cross_walk_ids: 7
+  cross_walk_ids: 8
+  cross_walk_ids: 39
+  traffic_light_ids: 74
+  traffic_light_ids: 71
+  traffic_light_ids: 73
+  traffic_light_ids: 72
+}
+junctions {
+  id: 1010
+  junction_polygon {
+    x: 500001.827318706
+    y: 4396141.9084126875
+  }
+  junction_polygon {
+    x: 499998.0642335459
+    y: 4396142.479395889
+  }
+  junction_polygon {
+    x: 499994.2489772185
+    y: 4396143.058297135
+  }
+  junction_polygon {
+    x: 499991.2033182762
+    y: 4396122.0046186
+  }
+  junction_polygon {
+    x: 499994.9868686183
+    y: 4396121.4968387745
+  }
+  junction_polygon {
+    x: 499998.69310830475
+    y: 4396120.999436465
+  }
+  junction_polygon {
+    x: 500002.4453783956
+    y: 4396120.4958584495
+  }
+  junction_polygon {
+    x: 500006.5133811522
+    y: 4396119.949909293
+  }
+  junction_polygon {
+    x: 500014.8991830384
+    y: 4396127.274919071
+  }
+  junction_polygon {
+    x: 500015.2664326293
+    y: 4396129.612393883
+  }
+  junction_polygon {
+    x: 500015.28929106594
+    y: 4396129.757883584
+  }
+  junction_polygon {
+    x: 500016.02582431055
+    y: 4396134.445784154
+  }
+  junction_polygon {
+    x: 500009.6718938666
+    y: 4396140.718132599
+  }
+  junction_polygon {
+    x: 500005.4789940676
+    y: 4396141.35433584
+  }
+  type: UNKNOWN_JUNCTION
+}
+junctions {
+  id: 1011
+  junction_polygon {
+    x: 500311.80679694284
+    y: 4398027.609420285
+  }
+  junction_polygon {
+    x: 500308.1016902548
+    y: 4398028.17352905
+  }
+  junction_polygon {
+    x: 500304.30868759635
+    y: 4398028.751022058
+  }
+  junction_polygon {
+    x: 500298.0860911896
+    y: 4397989.291632853
+  }
+  junction_polygon {
+    x: 500301.8768091188
+    y: 4397988.697142234
+  }
+  junction_polygon {
+    x: 500305.5785093726
+    y: 4397988.116613968
+  }
+  junction_polygon {
+    x: 500309.3799777391
+    y: 4397987.520441273
+  }
+  junction_polygon {
+    x: 500313.38911573665
+    y: 4397986.891701503
+  }
+  junction_polygon {
+    x: 500323.59105718
+    y: 4397997.985211055
+  }
+  junction_polygon {
+    x: 500324.42411753634
+    y: 4398002.629614105
+  }
+  junction_polygon {
+    x: 500324.9804249511
+    y: 4398005.731092287
+  }
+  junction_polygon {
+    x: 500325.0625092463
+    y: 4398006.188721946
+  }
+  junction_polygon {
+    x: 500325.60583219264
+    y: 4398009.217813052
+  }
+  junction_polygon {
+    x: 500326.4318545845
+    y: 4398013.822992428
+  }
+  junction_polygon {
+    x: 500319.621685646
+    y: 4398026.419596398
+  }
+  junction_polygon {
+    x: 500315.6114855823
+    y: 4398027.030151951
+  }
+  type: UNKNOWN_JUNCTION
+}
